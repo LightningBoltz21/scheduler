@@ -3,10 +3,6 @@ name: UIUC Crawler v3
 on:
   # Manual trigger for testing
   workflow_dispatch:
-  
-  # Scheduled runs (every 6 hours)
-  schedule:
-    - cron: '0 */6 * * *'
 
 permissions:
   contents: write

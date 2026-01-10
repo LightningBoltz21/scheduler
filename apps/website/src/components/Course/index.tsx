@@ -150,10 +150,9 @@ export default function Course({
   const pinnedSections = course.sections.filter((section) =>
     pinnedCrns.includes(section.crn)
   );
-  const totalCredits = pinnedSections.reduce(
-    (credits, section) => credits + section.credits,
-    0
-  );
+  // UIUC fix: Count credits once per course, not per section
+  // (e.g., MATH 103 has lecture+lab sections that share the same 4 credits)
+  const totalCredits = pinnedSections[0]?.credits ?? 0;
 
   return (
     <div
