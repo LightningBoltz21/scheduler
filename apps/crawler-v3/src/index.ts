@@ -254,6 +254,7 @@ async function main() {
         
         // Exit with error code
         process.exit(1);
+      }
 
       // Step 4: Generate and write output
       console.log('\n📦 Step 4: Building term data...');
