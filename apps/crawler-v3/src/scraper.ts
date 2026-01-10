@@ -196,7 +196,8 @@ export async function scrapeCourse(
     const sectionDataMatch = html.match(/var sectionDataObj = (\[.*?\]);/s);
     
     if (!sectionDataMatch) {
-      console.warn(`No section data found for ${subject} ${courseNumber}`);
+      console.warn(`⚠️  No section data found for ${subject} ${courseNumber}`);
+      console.log(`    Searched in ${html.length} bytes of HTML`);
       return {
         subject,
         number: courseNumber,
@@ -282,6 +283,31 @@ export async function scrapeCourse(
       // Get section title
       const sectionTitle = sectionObj.sectionTitle || courseTitle;
 
+      // Parse enrollment status and availability
+      let enrollmentStatus = 'Open';
+      let seatsAvailable = 0;
+      
+      if (sectionObj.availability) {
+        const availText = sectionObj.availability.toLowerCase();
+        if (availText.includes('closed')) {
+          enrollmentStatus = 'Closed';
+        } else if (availText.includes('restricted')) {
+          enrollmentStatus = 'Restricted';
+        } else {
+          enrollmentStatus = 'Open';
+        }
+      }
+      
+      // Try to parse seat count from status HTML
+      if (sectionObj.status) {
+        const $status = cheerio.load(sectionObj.status);
+        const statusText = $status.text();
+        const seatMatch = statusText.match(/(\d+)\s+seat/i);
+        if (seatMatch) {
+          seatsAvailable = parseInt(seatMatch[1], 10);
+        }
+      }
+
       // Create meetings array - one for each meeting time
       const numMeetings = Math.max(timeTexts.length, daysArray.length, locations.length);
       const meetings: ScrapedMeeting[] = [];
@@ -321,9 +347,11 @@ export async function scrapeCourse(
         scheduleType,
         campus: 'Urbana-Champaign',
         attributes: [],
+        restrictions,
+        enrollmentStatus,
+        seatsAvailable,
         gradeBase: 'Letter Grade',
-        meetings,
-        restrictions
+        meetings
       });
     }
 

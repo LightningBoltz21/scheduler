@@ -36,17 +36,18 @@ export type Course = [
 ];
 
 /**
- * Section tuple structure:
- * [crn, meetings, creditHours, scheduleTypeIndex, campusIndex, attributeIndices, gradeBaseIndex]
+ * Section tuple structure (matches v2 format):
+ * [crn, meetings, enrollmentStatus, seatInfo, restrictions, attributes, finalExamIndex, creditHours]
  */
 export type Section = [
   string,                           // 0: CRN (Course Reference Number)
   Meeting[],                        // 1: Array of meeting times
-  number,                           // 2: Credit hours
-  number,                           // 3: Index into caches.scheduleTypes
-  number,                           // 4: Index into caches.campuses
+  number,                           // 2: Enrollment status index (0=open, 1=restricted, 2=closed, etc.)
+  number,                           // 3: Seat info index (encoded seat availability)
+  number[],                         // 4: Indices into caches.restrictions
   number[],                         // 5: Indices into caches.attributes
-  number                            // 6: Index into caches.gradeBases (-1 if none)
+  number,                           // 6: Final exam index (-1 if none)
+  number                            // 7: Credit hours
 ];
 
 /**
@@ -72,6 +73,7 @@ export interface Caches {
   scheduleTypes: string[];        // ["Lecture", "Lab", "Discussion"]
   campuses: string[];             // ["Urbana-Champaign"]
   attributes: string[];           // ["Online", "Honors"]
+  restrictions: string[];         // ["CS Majors Only", "Instructor Approval Required"]
   gradeBases: string[];           // ["Letter Grade", "Pass/Fail"]
   locations: string[];            // ["THEAT Lincoln Hall", "Siebel Center 1404"]
   finalDates: string[];           // ["Dec 12, 2025"]
@@ -96,6 +98,9 @@ export interface ScrapedSection {
   scheduleType: string;           // e.g., "Lecture", "Lab"
   campus: string;
   attributes: string[];
+  restrictions: string[];         // e.g., ["CS Majors Only"]
+  enrollmentStatus: string;       // e.g., "Open", "Closed", "Restricted"
+  seatsAvailable: number;         // Number of seats available
   gradeBase: string;
   meetings: ScrapedMeeting[];
   restrictions: string[];
@@ -119,6 +124,7 @@ export interface CacheBuilder {
   scheduleTypes: Map<string, number>;
   campuses: Map<string, number>;
   attributes: Map<string, number>;
+  restrictions: Map<string, number>;
   gradeBases: Map<string, number>;
   locations: Map<string, number>;
   finalDates: Map<string, number>;

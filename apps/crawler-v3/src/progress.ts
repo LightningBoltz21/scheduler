@@ -447,6 +447,7 @@ export class ProgressManager {
       scheduleTypes: [],
       campuses: [],
       attributes: [],
+      restrictions: [],
       gradeBases: [],
       locations: [],
       finalDates: [],
@@ -460,6 +461,7 @@ export class ProgressManager {
       scheduleTypes: new Map<string, string>(),
       campuses: new Map<string, string>(),
       attributes: new Map<string, string>(),
+      restrictions: new Map<string, string>(),
       gradeBases: new Map<string, string>(),
       locations: new Map<string, any>(),
       finalDates: new Map<string, string>(),
@@ -513,6 +515,11 @@ export class ProgressManager {
               cacheMaps.attributes.set(item, item);
             }
           }
+          for (const item of subjectFile.caches.restrictions || []) {
+            if (!cacheMaps.restrictions.has(item)) {
+              cacheMaps.restrictions.set(item, item);
+            }
+          }
           for (const item of subjectFile.caches.gradeBases) {
             if (!cacheMaps.gradeBases.has(item)) {
               cacheMaps.gradeBases.set(item, item);
@@ -546,6 +553,7 @@ export class ProgressManager {
     mergedCaches.scheduleTypes = Array.from(cacheMaps.scheduleTypes.values());
     mergedCaches.campuses = Array.from(cacheMaps.campuses.values());
     mergedCaches.attributes = Array.from(cacheMaps.attributes.values());
+    mergedCaches.restrictions = Array.from(cacheMaps.restrictions.values());
     mergedCaches.gradeBases = Array.from(cacheMaps.gradeBases.values());
     mergedCaches.locations = Array.from(cacheMaps.locations.values());
     mergedCaches.finalDates = Array.from(cacheMaps.finalDates.values());

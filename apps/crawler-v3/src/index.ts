@@ -21,6 +21,7 @@ const SPECIFIED_TERMS = process.env.SPECIFIED_TERMS?.split(',').map(termStr => {
 const CONCURRENCY = getIntConfig('CONCURRENCY') ?? 2;
 const REQUEST_DELAY_MS = getIntConfig('REQUEST_DELAY_MS') ?? 500;
 const COURSES_PER_SUBJECT = getIntConfig('COURSES_PER_SUBJECT') ?? null; // null = all courses
+const MAX_SUBJECTS = getIntConfig('MAX_SUBJECTS') ?? null; // null = all subjects
 const SUBJECT_SAVE_INTERVAL = getIntConfig('SUBJECT_SAVE_INTERVAL') ?? 100; // Save every N courses
 const OUTPUT_DIR = path.join(__dirname, '..', 'data');
 
@@ -328,6 +329,12 @@ async function main() {
         
         // Cache subjects in progress file
         progressManager.cacheSubjects(subjects);
+      }
+      
+      // Apply MAX_SUBJECTS limit if set
+      if (MAX_SUBJECTS !== null && subjects.length > MAX_SUBJECTS) {
+        console.log(`  ⚠️  Limiting to first ${MAX_SUBJECTS} subjects (testing mode)`);
+        subjects = subjects.slice(0, MAX_SUBJECTS);
       }
       
       if (subjects.length === 0) {
