@@ -121,8 +121,11 @@ async function main() {
       // Step 2: Get all courses for each subject
       console.log('\n🔍 Step 2: Discovering courses...');
       const allCourses: CourseInfo[] = [];
+      let subjectIndex = 0;
+      const totalSubjects = subjects.length;
       
       for (const subject of subjects) {
+        subjectIndex++;
         const courses = await scrapeCourseList(year, term, subject);
         
         if (ONE_COURSE_PER_SUBJECT && courses.length > 0) {
@@ -132,6 +135,11 @@ async function main() {
         } else {
           allCourses.push(...courses);
           console.log(`    ✓ Found ${courses.length} courses in ${subject}`);
+        }
+        
+        // Show progress every 20 subjects
+        if (subjectIndex % 20 === 0 || subjectIndex === totalSubjects) {
+          console.log(`  📊 Progress: ${subjectIndex}/${totalSubjects} subjects (${allCourses.length} courses found)`);
         }
         
         // Conservative delay between subjects
