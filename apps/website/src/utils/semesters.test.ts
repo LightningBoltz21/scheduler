@@ -196,6 +196,11 @@ describe('getSemesterName', () => {
       '202102': 'Spring 2021',
       '202105': 'Summer 2021',
       '202108': 'Fall 2021',
+      '202112': 'Winter 2022',
+      '202212': 'Winter 2023',
+      '202312': 'Winter 2024',
+      '202412': 'Winter 2025',
+      '202512': 'Winter 2026',
     };
 
     Object.entries(expectedValues).forEach(([term, semesterName]) =>

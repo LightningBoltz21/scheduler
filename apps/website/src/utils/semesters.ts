@@ -22,8 +22,9 @@ export function getSemesterName(term: string): string {
   if (!isTerm(term)) return 'Unknown';
 
   const year = term.substring(0, 4);
+  const monthNum = Number.parseInt(term.substring(4), 10);
   const semester = ((): string => {
-    switch (Number.parseInt(term.substring(4), 10)) {
+    switch (monthNum) {
       case 1:
         return 'Winter';
       case 2:
@@ -35,9 +36,15 @@ export function getSemesterName(term: string): string {
       case 8:
       case 9:
         return 'Fall';
+      case 12:
+        return 'Winter';
       default:
         return 'Unknown';
     }
   })();
-  return `${semester} ${year}`;
+
+  // Winter terms in Dec belong to next year (202612 = Winter 2026/2027)
+  const displayYear =
+    monthNum === 12 ? (parseInt(year, 10) + 1).toString() : year;
+  return `${semester} ${displayYear}`;
 }

@@ -87,7 +87,8 @@ export interface Event {
 
 export interface Term {
   term: string;
-  finalized: boolean;
+  name: string;
+  finalized?: boolean;
 }
 
 // Note: if this type ever changes,

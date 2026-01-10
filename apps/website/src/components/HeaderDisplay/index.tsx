@@ -7,7 +7,6 @@ import {
   faCopy,
 } from '@fortawesome/free-solid-svg-icons';
 
-import { getSemesterName } from '../../utils/semesters';
 import { Button, Select, Tab } from '..';
 import { LoadingSelect, SelectAction } from '../Select';
 import Spinner from '../Spinner';
@@ -114,7 +113,8 @@ export default function HeaderDisplay({
           color="orange"
           message={`Note: The schedule for ${
             termsState.type === 'loaded'
-              ? getSemesterName(termsState.currentTerm)
+              ? termsState.terms.find((t) => t.term === termsState.currentTerm)
+                  ?.name || termsState.currentTerm
               : 'Loading'
           } may not be fully finalized.`}
           selfDisappearing={false}
@@ -140,7 +140,7 @@ export default function HeaderDisplay({
           current={termsState.currentTerm}
           options={termsState.terms.map((currentTerm) => ({
             id: currentTerm.term,
-            label: getSemesterName(currentTerm.term),
+            label: currentTerm.name,
           }))}
           className="semester"
         />
