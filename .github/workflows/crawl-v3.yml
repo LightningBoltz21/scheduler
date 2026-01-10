@@ -7,13 +7,6 @@ on:
   # Scheduled runs (every 6 hours)
   schedule:
     - cron: '0 */6 * * *'
-  
-  # Run on pushes to crawler-v3 code
-  push:
-    paths:
-      - 'apps/crawler-v3/**'
-    branches:
-      - main
 
 permissions:
   contents: write
@@ -46,6 +39,8 @@ jobs:
       
       - name: Run crawler
         working-directory: ./apps/crawler-v3
+        env:
+          COURSES_PER_SUBJECT: 1
         run: npm start
       
       - name: Deploy to GitHub Pages
