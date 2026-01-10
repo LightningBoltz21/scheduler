@@ -303,15 +303,11 @@ export async function scrapeCourse(
         // Parse time
         const { startTime, endTime } = parseTime(timeText);
 
-        // Extract building from location
-        const building = isOnlineOrArranged ? 'ONLINE' : extractBuilding(location);
-
         meetings.push({
           days,
           startTime,
           endTime,
           room: location,
-          building,
           instructors: instructors.length > 0 ? instructors : ['Staff'],
           dateRange,
           isOnline: isOnlineOrArranged
@@ -381,12 +377,6 @@ function parseTime(timeText: string): { startTime: number; endTime: number } {
   }
   
   return { startTime: 0, endTime: 0 };
-}
-
-function extractBuilding(room: string): string {
-  // Extract building name from room string like "Siebel Center 1404"
-  const match = room.match(/^(.+?)\s+\d+/);
-  return match ? match[1] : room;
 }
 
 function getTermStartDate(year: string, term: string): string {

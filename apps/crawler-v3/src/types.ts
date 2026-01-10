@@ -78,11 +78,6 @@ export interface Caches {
   finalTimes: string[];           // ["1:30 pm - 4:30 pm"]
 }
 
-export interface Location {
-  lat: number;
-  long: number;
-}
-
 // ===== Scraping Utilities =====
 
 export interface ScrapedCourse {
@@ -111,7 +106,6 @@ export interface ScrapedMeeting {
   startTime: number;              // e.g., 480 (8:00 AM in minutes from midnight)
   endTime: number;                // e.g., 530 (8:50 AM in minutes from midnight)
   room: string;                   // e.g., "Siebel Center 1404"
-  building: string;               // e.g., "Siebel Center"
   instructors: string[];          // e.g., ["John Smith (P)"]
   dateRange: string;              // e.g., "Aug 21, 2025 - Dec 10, 2025"
   isOnline: boolean;              // true for online/arranged classes
