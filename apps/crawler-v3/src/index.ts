@@ -114,6 +114,16 @@ async function main() {
   });
   console.log();
 
+  // Write index.json immediately with discovered terms
+  console.log('📝 Writing index.json with discovered terms...');
+  const writer = new DataWriter();
+  const terms = termsToScrape.map(({ year, term }) => ({
+    term: getTermCode(year, term),
+    name: getTermName(year, term)
+  }));
+  writer.writeIndex(terms, OUTPUT_DIR);
+  console.log('✅ index.json written\n');
+
   const allTermData: Array<{ termCode: string; termName: string; data: any }> = [];
 
   for (const { year, term } of termsToScrape) {
@@ -285,19 +295,6 @@ async function main() {
       console.error(`\n❌ Failed to process ${term} ${year}:`, error.message);
       console.error(error);
     }
-  }
-
-  // Write index.json with all terms
-  if (allTermData.length > 0) {
-    console.log('\n' + '='.repeat(60));
-    console.log('📝 Writing index.json with all terms...');
-    const writer = new DataWriter();
-    const terms = allTermData.map(t => ({
-      term: t.termCode,
-      name: t.termName
-    }));
-    writer.writeIndex(terms, OUTPUT_DIR);
-    console.log('='.repeat(60));
   }
 
   console.log('\n✨ All crawling complete!\n');
