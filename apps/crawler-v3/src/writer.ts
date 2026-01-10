@@ -207,33 +207,3 @@ export class DataWriter {
     return this.caches;
   }
 }
-
-/**
- * Convert UIUC term format to numeric code
- * @param year - e.g., "2025"
- * @param term - e.g., "fall", "spring"
- * @returns Numeric term code like "202508" (Fall 2025)
- */
-export function getTermCode(year: string, term: string): string {
-  const termCodes: Record<string, string> = {
-    spring: '02',
-    summer: '05',
-    fall: '08',
-    winter: '12'
-  };
-  
-  const code = termCodes[term.toLowerCase()];
-  if (!code) {
-    throw new Error(`Invalid term: ${term}`);
-  }
-  
-  return `${year}${code}`;
-}
-
-/**
- * Get human-readable term name
- */
-export function getTermName(year: string, term: string): string {
-  const termName = term.charAt(0).toUpperCase() + term.slice(1).toLowerCase();
-  return `${termName} ${year}`;
-}

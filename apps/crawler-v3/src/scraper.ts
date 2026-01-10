@@ -5,6 +5,105 @@ import { ScrapedCourse, ScrapedSection, ScrapedMeeting } from './types';
 const UIUC_BASE_URL = 'https://courses.illinois.edu';
 
 /**
+ * Interface for a course listing
+ */
+export interface CourseInfo {
+  subject: string;
+  number: string;
+}
+
+/**
+ * Scrapes all subject codes for a given term
+ * @param year - Year (e.g., "2026")
+ * @param term - Term (e.g., "spring", "winter")
+ * @returns Array of subject codes
+ */
+export async function scrapeSubjects(
+  year: string,
+  term: string
+): Promise<string[]> {
+  const url = `${UIUC_BASE_URL}/schedule/${year}/${term}`;
+  console.log(`Fetching subjects from: ${url}`);
+
+  try {
+    const response = await axios.get(url, {
+      headers: {
+        'User-Agent': 'uiuc-scheduler/crawler-v3 (educational project)'
+      }
+    });
+    const html = response.data;
+    const $ = cheerio.load(html);
+
+    const subjects: string[] = [];
+    
+    // Find all subject links in the table
+    $('table tbody tr td a').each((i, element) => {
+      const href = $(element).attr('href');
+      if (href) {
+        // Extract subject code from href like "/schedule/2026/spring/CS"
+        const match = href.match(/\/schedule\/\d{4}\/\w+\/([A-Z]+)/);
+        if (match && match[1]) {
+          subjects.push(match[1]);
+        }
+      }
+    });
+
+    console.log(`  ✓ Found ${subjects.length} subjects`);
+    return subjects;
+  } catch (error) {
+    console.error(`Error scraping subjects for ${term} ${year}:`, error);
+    throw error;
+  }
+}
+
+/**
+ * Scrapes all courses for a given subject and term
+ * @param year - Year (e.g., "2026")
+ * @param term - Term (e.g., "spring", "winter")
+ * @param subject - Subject code (e.g., "CS", "MATH")
+ * @returns Array of course info objects
+ */
+export async function scrapeCourseList(
+  year: string,
+  term: string,
+  subject: string
+): Promise<CourseInfo[]> {
+  const url = `${UIUC_BASE_URL}/schedule/${year}/${term}/${subject}`;
+
+  try {
+    const response = await axios.get(url, {
+      headers: {
+        'User-Agent': 'uiuc-scheduler/crawler-v3 (educational project)'
+      }
+    });
+    const html = response.data;
+    const $ = cheerio.load(html);
+
+    const courses: CourseInfo[] = [];
+    
+    // Find all course links in the table
+    $('table tbody tr td a').each((i, element) => {
+      const href = $(element).attr('href');
+      if (href) {
+        // Extract course number from href like "/schedule/2026/spring/CS/101"
+        const match = href.match(/\/schedule\/\d{4}\/\w+\/([A-Z]+)\/(\d+[A-Z]*)/);
+        if (match && match[1] && match[2]) {
+          courses.push({
+            subject: match[1],
+            number: match[2]
+          });
+        }
+      }
+    });
+
+    return courses;
+  } catch (error) {
+    console.error(`Error scraping courses for ${subject}:`, error);
+    return []; // Return empty array on error, don't fail entire scrape
+  }
+}
+
+/**
  * Scrapes a single course page from UIUC Course Explorer
  * @param year - Year (e.g., "2025")
  * @param term - Term (e.g., "fall", "spring")
@@ -22,7 +121,11 @@ export async function scrapeCourse(
   console.log(`Fetching: ${url}`);
 
   try {
-    const response = await axios.get(url);
+    const response = await axios.get(url, {
+      headers: {
+        'User-Agent': 'uiuc-scheduler/crawler-v3 (educational project)'
+      }
+    });
     const html = response.data;
     const $ = cheerio.load(html);
 
