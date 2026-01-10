@@ -49,17 +49,19 @@ export class DataWriter {
    * Add period (time range) to cache and return its index
    */
   private addPeriodToCache(startTime: number, endTime: number): number {
+    // Format as string "900 - 950" to match expected format
+    const periodString = `${startTime} - ${endTime}`;
+    
     // Check if this exact period already exists
     for (let i = 0; i < this.caches.periods.length; i++) {
-      const [start, end] = this.caches.periods[i];
-      if (start === startTime && end === endTime) {
+      if (this.caches.periods[i] === periodString) {
         return i;
       }
     }
 
     // Add new period
     const index = this.caches.periods.length;
-    this.caches.periods.push([startTime, endTime]);
+    this.caches.periods.push(periodString);
     return index;
   }
 

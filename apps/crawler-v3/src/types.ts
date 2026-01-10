@@ -101,7 +101,7 @@ export interface Restriction {
 // ===== Caches (Shared Data) =====
 
 export interface Caches {
-  periods: [number, number][];    // [[480, 530], [540, 590]] - start/end in minutes from midnight
+  periods: string[];              // ["900 - 950", "540 - 590"] - time ranges as strings
   dateRanges: string[];           // ["Aug 21, 2025 - Dec 10, 2025"]
   scheduleTypes: string[];        // ["Lecture", "Lab", "Discussion"]
   campuses: string[];             // ["Urbana-Champaign"]
