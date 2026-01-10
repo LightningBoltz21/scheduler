@@ -242,27 +242,8 @@ async function main() {
       if (abortRequested) {
         console.error(`\n❌ Scraping aborted due to 403 Forbidden error`);
         console.error(`   Successfully scraped this run: ${successCount} courses`);
-        console.error(`   Failed/Skipped: ${failureCount} courses\n`);
-        
-        // Write partial data if any was collected
-        if (successCount > 0) {
-          console.log('💾 Step 4: Writing partial data before exit...');
-          
-          const termData = writer.generateTermData(coursesMap);
-          const termName = getTermName(year, term);
-          
-          const totalCourses = Object.keys(coursesMap).length;
-          
-          console.log(`  ✓ Courses scraped: ${successCount}`);
-          console.log(`  ✓ Total courses: ${totalCourses}`);
-          
-          writer.writeTermData(termData, termCode, OUTPUT_DIR);
-          allTermData.push({ termCode, termName, data: termData });
-          
-          console.log(`\n✅ Data saved! Run scraper again to continue where you left off.\n`);
-        } else {
-          console.error(`   No courses scraped, no data written.\n`);
-        }
+        console.error(`   Failed/Skipped: ${failureCount} courses`);
+        console.error(`   No data written - term incomplete\n`);
         
         // Exit with error code so GitHub Actions knows it failed
         process.exit(1);
