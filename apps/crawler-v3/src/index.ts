@@ -4,61 +4,6 @@ import { getIntConfig, discoverLatestTerms, getTermCode, getTermName } from './u
 import asyncPool from 'tiny-async-pool';
 import { backOff } from 'exponential-backoff';
 import * as path from 'path';
-import * as fs from 'fs';
-
-/**
- * Progress file helpers for resume functionality
- */
-function getProgressFilePath(termCode: string, outputDir: string): string {
-  return path.join(outputDir, `progress-${termCode}.txt`);
-}
-
-function loadProgress(termCode: string, outputDir: string): Set<string> {
-  const progressFile = getProgressFilePath(termCode, outputDir);
-  const scraped = new Set<string>();
-  
-  if (fs.existsSync(progressFile)) {
-    const content = fs.readFileSync(progressFile, 'utf-8');
-    content.split('\n').forEach(line => {
-      const trimmed = line.trim();
-      if (trimmed) scraped.add(trimmed);
-    });
-  }
-  
-  return scraped;
-}
-
-function appendProgress(termCode: string, outputDir: string, courseKey: string): void {
-  const progressFile = getProgressFilePath(termCode, outputDir);
-  fs.appendFileSync(progressFile, courseKey + '\n', 'utf-8');
-}
-
-function clearProgress(termCode: string, outputDir: string): void {
-  const progressFile = getProgressFilePath(termCode, outputDir);
-  if (fs.existsSync(progressFile)) {
-    fs.unlinkSync(progressFile);
-  }
-}
-
-/**
- * Load existing term data JSON to merge with new scrapes
- */
-function loadExistingTermData(termCode: string, outputDir: string): { courses: Record<string, any> } | null {
-  const jsonFile = path.join(outputDir, `${termCode}.json`);
-  
-  if (fs.existsSync(jsonFile)) {
-    try {
-      const content = fs.readFileSync(jsonFile, 'utf-8');
-      const data = JSON.parse(content);
-      return { courses: data.courses || {} };
-    } catch (error) {
-      console.warn(`  ⚠️  Could not load existing ${termCode}.json, starting fresh`);
-      return null;
-    }
-  }
-  
-  return null;
-}
 
 /**
  * Configuration from environment variables
@@ -237,26 +182,9 @@ async function main() {
         continue;
       }
 
-      // Load progress to resume from where we left off
+      // Scrape all courses for this term
       const termCode = getTermCode(year, term);
-      const alreadyScraped = loadProgress(termCode, OUTPUT_DIR);
-      
-      if (alreadyScraped.size > 0) {
-        console.log(`\n  📂 Found existing progress: ${alreadyScraped.size} courses already scraped`);
-      }
-      
-      // Filter out already-scraped courses
-      const coursesToScrape = allCourses.filter(course => {
-        const courseKey = `${course.subject} ${course.number}`;
-        return !alreadyScraped.has(courseKey);
-      });
-      
-      if (coursesToScrape.length === 0) {
-        console.log(`  ✅ All ${allCourses.length} courses already scraped! Skipping term.`);
-        continue;
-      }
-      
-      console.log(`  📝 Remaining to scrape: ${coursesToScrape.length} courses\n`);
+      const coursesToScrape = allCourses;
 
       // Step 3: Scrape remaining courses in parallel
       console.log('🔍 Step 3: Scraping courses in parallel...');
@@ -291,9 +219,6 @@ async function main() {
           const courseKey = `${result.course.subject} ${result.course.number}`;
           coursesMap[courseKey] = convertedCourse;
           successCount++;
-          
-          // Append to progress file immediately so we don't lose progress
-          appendProgress(termCode, OUTPUT_DIR, courseKey);
         } else {
           failureCount++;
         }
@@ -323,30 +248,14 @@ async function main() {
         
         // Write partial data if any was collected
         if (successCount > 0) {
-          console.log('💾 Step 4: Merging and writing data before exit...');
+          console.log('💾 Step 4: Writing partial data before exit...');
           
-          // Load existing data and merge
-          const existingData = loadExistingTermData(termCode, OUTPUT_DIR);
-          const mergedCourses = existingData ? { ...existingData.courses, ...coursesMap } : coursesMap;
-          
-          // Regenerate term data with merged courses
-          const mergedWriter = new DataWriter();
-          for (const [key, course] of Object.entries(mergedCourses)) {
-            // Re-add to writer to rebuild caches (simplified - just use coursesMap for new)
-          }
-          
-          // For now, just merge the courses objects directly
           const termData = writer.generateTermData(coursesMap);
-          // Manually merge courses
-          termData.courses = mergedCourses;
-          
           const termName = getTermName(year, term);
           
-          const totalCourses = Object.keys(mergedCourses).length;
-          const previousCourses = existingData ? Object.keys(existingData.courses).length : 0;
+          const totalCourses = Object.keys(coursesMap).length;
           
-          console.log(`  ✓ Previously scraped: ${previousCourses} courses`);
-          console.log(`  ✓ New this run: ${successCount} courses`);
+          console.log(`  ✓ Courses scraped: ${successCount}`);
           console.log(`  ✓ Total courses: ${totalCourses}`);
           
           writer.writeTermData(termData, termCode, OUTPUT_DIR);
@@ -362,24 +271,13 @@ async function main() {
       }
 
       // Step 4: Generate and write output (merge with existing)
-      console.log('\n📦 Step 4: Merging and building term data...');
-      
-      // Load existing data and merge
-      const existingData = loadExistingTermData(termCode, OUTPUT_DIR);
-      const mergedCourses = existingData ? { ...existingData.courses, ...coursesMap } : coursesMap;
+      console.log('\n📦 Step 4: Building term data...');
       
       const termData = writer.generateTermData(coursesMap);
-      termData.courses = mergedCourses; // Use merged courses
-      
       const termName = getTermName(year, term);
       
-      const totalCourses = Object.keys(mergedCourses).length;
-      const previousCourses = existingData ? Object.keys(existingData.courses).length : 0;
+      const totalCourses = Object.keys(coursesMap).length;
       
-      if (previousCourses > 0) {
-        console.log(`  ✓ Previously scraped: ${previousCourses} courses`);
-        console.log(`  ✓ New this run: ${successCount} courses`);
-      }
       console.log(`  ✓ Total courses: ${totalCourses}`);
       console.log(`  ✓ Success: ${successCount}, Failed: ${failureCount}`);
       console.log(`  ✓ Cached periods: ${termData.caches.periods.length}`);
@@ -391,12 +289,6 @@ async function main() {
       writer.writeTermData(termData, termCode, OUTPUT_DIR);
 
       allTermData.push({ termCode, termName, data: termData });
-      
-      // Clear progress file since term is complete
-      if (coursesToScrape.length === allCourses.length - alreadyScraped.size) {
-        clearProgress(termCode, OUTPUT_DIR);
-        console.log('  ✓ Progress file cleared (term complete)');
-      }
 
       const totalTime = ((Date.now() - startTime) / 1000).toFixed(1);
       console.log(`\n✨ ${getTermName(year, term)} complete in ${totalTime}s!`);
