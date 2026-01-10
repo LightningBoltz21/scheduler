@@ -36,9 +36,9 @@ const MAX_403_ERRORS = 1; // Abort on first 403 and save progress
 let abortRequested = false;
 
 /**
- * Scrape a single course with retry logic AND rate limiting delay
+ * Scrape a single course with rate limiting delay
  */
-async function scrapeWithRetry(
+async function scrapeWithDelay(
   year: string,
   term: string,
   course: CourseInfo,
@@ -195,7 +195,7 @@ async function main() {
         if (abortRequested) {
           return { course, data: null, success: false };
         }
-        return await scrapeWithRetry(year, term, course, REQUEST_DELAY_MS);
+        return await scrapeWithDelay(year, term, course, REQUEST_DELAY_MS);
       });
 
       // Process all results (asyncPool returns AsyncIterableIterator)
