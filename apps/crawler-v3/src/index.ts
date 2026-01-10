@@ -2,7 +2,6 @@ import { scrapeCourse, scrapeSubjects, scrapeCourseList, CourseInfo } from './sc
 import { DataWriter } from './writer';
 import { getIntConfig, discoverLatestTerms, getTermCode, getTermName } from './utils';
 import asyncPool from 'tiny-async-pool';
-import { backOff } from 'exponential-backoff';
 import * as path from 'path';
 
 /**
@@ -55,40 +54,29 @@ async function scrapeWithRetry(
   totalRequests++;
   
   try {
-    const scraped = await backOff(
-      () => scrapeCourse(year, term, course.subject, course.number),
-      {
-        jitter: 'full',
-        numOfAttempts: 3, // Reduced retries
-        startingDelay: 2000, // Start with 2 second delay on retries
-        retry: (err: any, attemptNumber: number) => {
-          // Check for 403 Forbidden errors
-          if (err.response?.status === 403) {
-            forbidden403Count++;
-            console.error(`\n❌ 403 Forbidden on ${course.subject} ${course.number}`);
-            console.error(`🛑 ABORTING: UIUC server blocked request`);
-            console.error(`   Saving progress and stopping scraper...\n`);
-            abortRequested = true;
-            return false; // Don't retry 403s
-          }
-          
-          if (err.response?.status === 429) {
-            rateLimitCount++;
-            console.log(`  ⚠️  Rate limited on ${course.subject} ${course.number} (attempt ${attemptNumber})`);
-            
-            if (rateLimitCount > 5) {
-              console.warn(`\n⚠️⚠️⚠️  EXCESSIVE RATE LIMITING! (${rateLimitCount} times)`);
-              console.warn(`Consider stopping and reducing CONCURRENCY or increasing REQUEST_DELAY_MS\n`);
-            }
-          }
-          return err.code === 'ECONNRESET' || 
-                 err.response?.status === 429 || 
-                 err.response?.status >= 500;
-        }
-      }
-    );
+    const scraped = await scrapeCourse(year, term, course.subject, course.number);
     return { course, data: scraped, success: true };
   } catch (error: any) {
+    // Check for 403 Forbidden errors
+    if (error.response?.status === 403) {
+      forbidden403Count++;
+      console.error(`\n❌ 403 Forbidden on ${course.subject} ${course.number}`);
+      console.error(`🛑 ABORTING: UIUC server blocked request`);
+      console.error(`   Stopping scraper...\n`);
+      abortRequested = true;
+      return { course, data: null, success: false };
+    }
+    
+    if (error.response?.status === 429) {
+      rateLimitCount++;
+      console.log(`  ⚠️  Rate limited on ${course.subject} ${course.number}`);
+      
+      if (rateLimitCount > 5) {
+        console.warn(`\n⚠️⚠️⚠️  EXCESSIVE RATE LIMITING! (${rateLimitCount} times)`);
+        console.warn(`Consider stopping and reducing CONCURRENCY or increasing REQUEST_DELAY_MS\n`);
+      }
+    }
+    
     // Don't spam errors if we're aborting
     if (!abortRequested) {
       console.error(`  ❌ Failed to scrape ${course.subject} ${course.number}:`, error.message);
