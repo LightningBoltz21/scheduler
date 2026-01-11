@@ -15,9 +15,6 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Preserve coordinates.csv
-        run: cp ./apps/crawler-v3/data/coordinates.csv /tmp/coordinates.csv
-
       - name: Checkout gh-pages branch to data folder (if exists)
         uses: actions/checkout@v4
         continue-on-error: true
@@ -25,8 +22,10 @@ jobs:
           ref: gh-pages
           path: ./apps/crawler-v3/data
 
-      - name: Restore coordinates.csv
-        run: cp /tmp/coordinates.csv ./apps/crawler-v3/data/coordinates.csv
+      - name: Copy coordinates.csv to data folder
+        run: |
+          cp ./apps/crawler-v3/coordinates.csv ./apps/crawler-v3/data/coordinates.csv
+          echo "Copied coordinates.csv to data folder"
       
       - name: Setup Node.js
         uses: actions/setup-node@v4
