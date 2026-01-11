@@ -8658,6 +8658,133 @@
       "May be repeated in separate terms.",
       []
     ],
+    "GSD 101": [
+      "Introduction to Game Studies and Design",
+      {
+        "AD1": [
+          "71831",
+          [
+            [
+              14,
+              "W",
+              "134 Armory",
+              139,
+              [
+                "Dixon, A",
+                "Durmaz, O",
+                "Starks, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "AD2": [
+          "71833",
+          [
+            [
+              47,
+              "W",
+              "428 Armory",
+              140,
+              [
+                "Dixon, A",
+                "Hussain, H",
+                "Starks, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "AD3": [
+          "74241",
+          [
+            [
+              52,
+              "W",
+              "134 Armory",
+              139,
+              [
+                "Dixon, A",
+                "Durmaz, O",
+                "Starks, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "AD4": [
+          "74242",
+          [
+            [
+              53,
+              "W",
+              "428 Armory",
+              140,
+              [
+                "Dixon, A",
+                "Hussain, H",
+                "Starks, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "AL": [
+          "71760",
+          [
+            [
+              47,
+              "M",
+              "ONLINE",
+              7,
+              [
+                "Dixon, A",
+                "Starks, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          9,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "This broad survey course will provide students across campus an introduction to interdisciplinary game studies, covering both historical/social perspectives and game design. It will explore humanities, social science understandings of play, and the social contexts from which our games and gaming practices arise, as well as the development and consequences of gaming cultures. This course will serve as a broad introduction to issues covered in greater depth in upper-level courses available for students pursuing an Undergraduate Minor in Game Studies & Design.",
+      []
+    ],
     "GWS 100": [
       "Intro Gender & Women's Studies",
       {
@@ -8668,7 +8795,7 @@
               15,
               "R",
               "207 Gregory Hall",
-              139,
+              141,
               [
                 "Gomez-Perez, S",
                 "Khan, M"
@@ -8688,10 +8815,10 @@
           "52485",
           [
             [
-              52,
+              54,
               "R",
               "207 Gregory Hall",
-              139,
+              141,
               [
                 "Gomez-Perez, S",
                 "Khan, M"
@@ -8714,7 +8841,7 @@
               1,
               "F",
               "300 Noyes Laboratory",
-              140,
+              142,
               [
                 "Cipolla, S",
                 "Khan, M"
@@ -8737,7 +8864,7 @@
               2,
               "F",
               "300 Noyes Laboratory",
-              140,
+              142,
               [
                 "Cipolla, S",
                 "Khan, M"
@@ -8847,7 +8974,7 @@
               25,
               "R",
               "3 Christopher Hall",
-              141,
+              143,
               [
                 "Kramer, J"
               ],
@@ -8859,7 +8986,7 @@
               2,
               "T",
               "3 Christopher Hall",
-              141,
+              143,
               [
                 "Kramer, J"
               ],
@@ -8886,7 +9013,7 @@
           "33829",
           [
             [
-              53,
+              55,
               "MTWRF",
               "ONLINE",
               7,
@@ -8988,7 +9115,7 @@
               5,
               "W",
               "207 Gregory Hall",
-              139,
+              141,
               [
                 "Jaimes, M",
                 "Kellis, M"
@@ -9054,10 +9181,10 @@
           "54515",
           [
             [
-              54,
+              56,
               "R",
               "223 David Kinley Hall",
-              142,
+              144,
               [
                 "De Angelis, N",
                 "Jaimes, M"
@@ -9103,7 +9230,7 @@
               4,
               "W",
               "207 Gregory Hall",
-              139,
+              141,
               [
                 "Birch, S",
                 "Jaimes, M"
@@ -9126,7 +9253,7 @@
               0,
               "R",
               "221 Gregory Hall",
-              143,
+              145,
               [
                 "Hong, H",
                 "Jaimes, M"
@@ -9172,7 +9299,7 @@
               23,
               "R",
               "212 David Kinley Hall",
-              144,
+              146,
               [
                 "De Angelis, N",
                 "Jaimes, M"
@@ -9225,7 +9352,7 @@
               4,
               "MW",
               "1048 Campus Recreation Center East",
-              145,
+              147,
               [
                 "Assis Alves Siqueira, V"
               ],
@@ -9247,7 +9374,7 @@
               5,
               "MW",
               "1048 Campus Recreation Center East",
-              145,
+              147,
               [
                 "Assis Alves Siqueira, V"
               ],
@@ -9269,7 +9396,7 @@
               14,
               "MW",
               "ARR Freer Hall",
-              146,
+              148,
               [
                 "Roa Castillo, S"
               ],
@@ -9291,7 +9418,7 @@
               9,
               "TR",
               "ARR Freer Hall",
-              146,
+              148,
               [
                 "Corral, C"
               ],
@@ -9313,7 +9440,7 @@
               14,
               "MW",
               "ARR Freer Hall",
-              146,
+              148,
               [
                 "Roa Castillo, S"
               ],
@@ -9335,7 +9462,7 @@
               9,
               "TR",
               "ARR Freer Hall",
-              146,
+              148,
               [
                 "Corral, C"
               ],
@@ -9357,7 +9484,7 @@
               27,
               "TR",
               "ARR Freer Hall",
-              146,
+              148,
               [
                 "Corral, C"
               ],
@@ -9379,7 +9506,7 @@
               27,
               "TR",
               "ARR Freer Hall",
-              146,
+              148,
               [
                 "Corral, C"
               ],
@@ -9401,7 +9528,7 @@
               51,
               "MW",
               "ARR Freer Hall",
-              146,
+              148,
               [
                 "Gomez Prada, V"
               ],
@@ -9423,7 +9550,7 @@
               51,
               "MW",
               "ARR Freer Hall",
-              146,
+              148,
               [
                 "Gomez Prada, V"
               ],
@@ -9442,10 +9569,10 @@
           "76550",
           [
             [
-              52,
+              54,
               "MW",
               "ARR Freer Hall",
-              146,
+              148,
               [
                 "Couture, K"
               ],
@@ -9464,10 +9591,10 @@
           "76551",
           [
             [
-              55,
+              57,
               "MW",
               "ARR Freer Hall",
-              146,
+              148,
               [
                 "Butt, Z"
               ],
@@ -9489,7 +9616,7 @@
               15,
               "MW",
               "ARR Freer Hall",
-              146,
+              148,
               [
                 "Couture, K"
               ],
@@ -9511,7 +9638,7 @@
               37,
               "MW",
               "ARR Freer Hall",
-              146,
+              148,
               [
                 "Yao, J"
               ],
@@ -9533,7 +9660,7 @@
               0,
               "MW",
               "MP5 Activities & Recreation Center",
-              147,
+              149,
               [
                 "Hammonds, A"
               ],
@@ -9555,7 +9682,7 @@
               1,
               "MW",
               "MP5 Activities & Recreation Center",
-              147,
+              149,
               [
                 "Hammonds, A"
               ],
@@ -9577,7 +9704,7 @@
               5,
               "TR",
               "MP5 Activities & Recreation Center",
-              147,
+              149,
               [
                 "Hammonds, A"
               ],
@@ -9599,7 +9726,7 @@
               37,
               "TR",
               "MP5 Activities & Recreation Center",
-              147,
+              149,
               [
                 "Lill, J"
               ],
@@ -9711,7 +9838,7 @@
               27,
               "TR",
               "204 Transportation Building",
-              148,
+              150,
               [
                 "Gupta, A"
               ],
@@ -9738,7 +9865,7 @@
           "70120",
           [
             [
-              56,
+              58,
               "MW",
               "Location Pending",
               39,
@@ -9876,7 +10003,7 @@
           "63226",
           [
             [
-              57,
+              59,
               "T",
               "Location Pending",
               39,
@@ -9898,7 +10025,7 @@
           "63227",
           [
             [
-              57,
+              59,
               "W",
               "Location Pending",
               39,
@@ -9920,7 +10047,7 @@
           "63228",
           [
             [
-              57,
+              59,
               "R",
               "Location Pending",
               39,
@@ -9942,7 +10069,7 @@
           "66600",
           [
             [
-              58,
+              60,
               "T",
               "Location Pending",
               39,
@@ -9964,7 +10091,7 @@
           "66602",
           [
             [
-              58,
+              60,
               "W",
               "Location Pending",
               39,
@@ -9989,7 +10116,7 @@
               0,
               "MWF",
               "100 Materials Science & Eng Bld",
-              149,
+              151,
               [
                 "Tychonievich, L"
               ],
@@ -10019,7 +10146,7 @@
               0,
               "MW",
               "126 Sch of Info Sciences Bldg",
-              150,
+              152,
               [
                 "Staff"
               ],
@@ -10049,7 +10176,7 @@
               1,
               "MTWR",
               "G48 Literatures, Cultures, & Ling",
-              151,
+              153,
               [
                 "Chiarantini, L",
                 "Hill, L"
@@ -10072,7 +10199,7 @@
               2,
               "MTWR",
               "1032 Literatures, Cultures, & Ling",
-              152,
+              154,
               [
                 "Chiarantini, L",
                 "Hill, L"
@@ -10095,7 +10222,7 @@
               4,
               "MTWR",
               "149 English Building",
-              153,
+              155,
               [
                 "Chiarantini, L",
                 "Hill, L"
@@ -10126,7 +10253,7 @@
               0,
               "MTWRF",
               "1022 Literatures, Cultures, & Ling",
-              154,
+              156,
               [
                 "Nozaki, C",
                 "Pelkey, R"
@@ -10172,7 +10299,7 @@
               2,
               "MTWRF",
               "106 David Kinley Hall",
-              155,
+              157,
               [
                 "Nozaki, C"
               ],
@@ -10194,7 +10321,7 @@
               5,
               "MTWRF",
               "1068 Lincoln Hall",
-              156,
+              158,
               [
                 "Ai, M",
                 "Nozaki, C"
@@ -10217,7 +10344,7 @@
               3,
               "MTWRF",
               "222 David Kinley Hall",
-              157,
+              159,
               [
                 "Nozaki, C"
               ],
@@ -10277,7 +10404,7 @@
               25,
               "TR",
               "111 David Kinley Hall",
-              158,
+              160,
               [
                 "Rosenblatt, E"
               ],
@@ -10307,7 +10434,7 @@
               1,
               "MTWRF",
               "G24 Literatures, Cultures, & Ling",
-              159,
+              161,
               [
                 "Ha, J",
                 "Jeon, J"
@@ -10330,7 +10457,7 @@
               3,
               "MTWRF",
               "1136 Literatures, Cultures, & Ling",
-              160,
+              162,
               [
                 "Ha, J",
                 "Hong, S"
@@ -10414,7 +10541,7 @@
               9,
               "R",
               "170 Wohlers Hall",
-              161,
+              163,
               [
                 "Licht, M",
                 "Reedy, A"
@@ -10475,7 +10602,7 @@
               3,
               "MWF",
               "215 Davenport Hall",
-              162,
+              164,
               [
                 "Pyrgali, M",
                 "Reeber, J"
@@ -10503,7 +10630,7 @@
           "44747",
           [
             [
-              59,
+              61,
               "MW",
               "120 Architecture Building",
               38,
@@ -10693,7 +10820,7 @@
               4,
               "F",
               "G36 Literatures, Cultures, & Ling",
-              163,
+              165,
               [
                 "Armstrong, T",
                 "Kim, A",
@@ -10718,7 +10845,7 @@
               3,
               "F",
               "G36 Literatures, Cultures, & Ling",
-              163,
+              165,
               [
                 "Armstrong, T",
                 "Kim, A",
@@ -10743,7 +10870,7 @@
               1,
               "F",
               "G36 Literatures, Cultures, & Ling",
-              163,
+              165,
               [
                 "Armstrong, T",
                 "Kim, A",
@@ -10768,7 +10895,7 @@
               4,
               "F",
               "212 Davenport Hall",
-              164,
+              166,
               [
                 "Armstrong, T",
                 "Kim, A",
@@ -10793,7 +10920,7 @@
               4,
               "F",
               "1022 Literatures, Cultures, & Ling",
-              154,
+              156,
               [
                 "Armstrong, T",
                 "Kim, A",
@@ -10818,7 +10945,7 @@
               4,
               "MW",
               "116 Roger Adams Laboratory",
-              165,
+              167,
               [
                 "Armstrong, T",
                 "Kim, A",
@@ -10897,7 +11024,7 @@
               15,
               "R",
               "103 1207 W Oregon",
-              166,
+              168,
               [
                 "Corona Valencia, G",
                 "Fernandez, M"
@@ -10920,7 +11047,7 @@
               4,
               "F",
               "103 1207 W Oregon",
-              166,
+              168,
               [
                 "Corona Valencia, G",
                 "Lule, L"
@@ -10943,7 +11070,7 @@
               4,
               "MW",
               "1024 Chemistry Annex",
-              167,
+              169,
               [
                 "Corona Valencia, G"
               ],
@@ -10973,7 +11100,7 @@
               0,
               "R",
               "169 Davenport Hall",
-              168,
+              170,
               [
                 "Knipp, J"
               ],
@@ -10995,7 +11122,7 @@
               1,
               "R",
               "169 Davenport Hall",
-              168,
+              170,
               [
                 "Knipp, J"
               ],
@@ -11017,7 +11144,7 @@
               2,
               "R",
               "393 Bevier Hall",
-              169,
+              171,
               [
                 "Knipp, J"
               ],
@@ -11039,7 +11166,7 @@
               3,
               "R",
               "393 Bevier Hall",
-              169,
+              171,
               [
                 "Knipp, J"
               ],
@@ -11105,7 +11232,7 @@
               5,
               "R",
               "145 Armory",
-              170,
+              172,
               [
                 "Knipp, J"
               ],
@@ -11127,7 +11254,7 @@
               0,
               "F",
               "31 Gregory Hall",
-              171,
+              173,
               [
                 "Knipp, J"
               ],
@@ -11149,7 +11276,7 @@
               1,
               "F",
               "317 Gregory Hall",
-              172,
+              174,
               [
                 "Knipp, J"
               ],
@@ -11171,7 +11298,7 @@
               1,
               "F",
               "31 Gregory Hall",
-              171,
+              173,
               [
                 "Knipp, J"
               ],
@@ -11193,7 +11320,7 @@
               2,
               "F",
               "31 Gregory Hall",
-              171,
+              173,
               [
                 "Knipp, J"
               ],
@@ -11237,7 +11364,7 @@
               2,
               "F",
               "207 Psychology Building",
-              173,
+              175,
               [
                 "Knipp, J"
               ],
@@ -11259,7 +11386,7 @@
               3,
               "F",
               "207 Psychology Building",
-              173,
+              175,
               [
                 "Knipp, J"
               ],
@@ -11281,7 +11408,7 @@
               3,
               "F",
               "311 Gregory Hall",
-              174,
+              176,
               [
                 "Knipp, J"
               ],
@@ -11399,7 +11526,7 @@
               3,
               "F",
               "11 Psychology Building",
-              175,
+              177,
               [
                 "Staff"
               ],
@@ -11421,7 +11548,7 @@
               5,
               "R",
               "11 Psychology Building",
-              175,
+              177,
               [
                 "Staff"
               ],
@@ -11443,7 +11570,7 @@
               4,
               "R",
               "21 Psychology Building",
-              176,
+              178,
               [
                 "Staff"
               ],
@@ -11465,7 +11592,7 @@
               25,
               "TR",
               "144 Loomis Laboratory",
-              177,
+              179,
               [
                 "Perez, Y"
               ],
@@ -11587,7 +11714,7 @@
               44,
               "TR",
               "149 Henry Administration Bldg",
-              178,
+              180,
               [
                 "Koepke, C"
               ],
@@ -11727,7 +11854,7 @@
               31,
               "TR",
               "0035 Campus Instructional Facility",
-              179,
+              181,
               [
                 "Halloran, K"
               ],
@@ -11749,7 +11876,7 @@
               31,
               "TR",
               "0035 Campus Instructional Facility",
-              179,
+              181,
               [
                 "Halloran, K"
               ],
@@ -11809,7 +11936,7 @@
               2,
               "MW",
               "133 Armory",
-              180,
+              182,
               [
                 "Ashworth, E",
                 "Kram, M",
@@ -11833,7 +11960,7 @@
               3,
               "MW",
               "133 Armory",
-              180,
+              182,
               [
                 "Ashworth, E",
                 "Kram, M",
@@ -11857,7 +11984,7 @@
               4,
               "MW",
               "133 Armory",
-              180,
+              182,
               [
                 "Ashworth, E",
                 "Kram, M",
@@ -11976,10 +12103,10 @@
           "72716",
           [
             [
-              60,
+              62,
               "F",
               "114 Smith Memorial Hall",
-              181,
+              183,
               [
                 "Ehlen, T"
               ],
@@ -12010,10 +12137,10 @@
           "72717",
           [
             [
-              61,
+              63,
               "F",
               "220 Smith Memorial Hall",
-              182,
+              184,
               [
                 "Sennet, R"
               ],
@@ -12044,10 +12171,10 @@
           "72718",
           [
             [
-              62,
+              64,
               "T",
               "114 Smith Memorial Hall",
-              181,
+              183,
               [
                 "Wu, C"
               ],
@@ -12215,7 +12342,7 @@
               1,
               "MWF",
               "1010 Wymer Hall",
-              183,
+              185,
               [
                 "Frankenberg, S"
               ],
@@ -12245,7 +12372,7 @@
               8,
               "TR",
               "1047 Sidney Lu Mech Engr Bldg",
-              184,
+              186,
               [
                 "Yang, Y"
               ],
@@ -12275,7 +12402,7 @@
               0,
               "MWF",
               "23 Psychology Building",
-              185,
+              187,
               [
                 "Rhodes, J"
               ],
@@ -12362,7 +12489,7 @@
           "34520",
           [
             [
-              63,
+              65,
               "W",
               "101 Armory",
               14,
@@ -12395,7 +12522,7 @@
               27,
               "TR",
               "328 Bevier Hall",
-              186,
+              188,
               [
                 "Brandley, E"
               ],
@@ -12455,7 +12582,7 @@
               0,
               "F",
               "1020 Lincoln Hall",
-              187,
+              189,
               [
                 "Aghighi, A",
                 "Saadah, E"
@@ -12468,7 +12595,7 @@
               0,
               "MTWR",
               "1020 Lincoln Hall",
-              187,
+              189,
               [
                 "Aghighi, A",
                 "Saadah, E"
@@ -12499,7 +12626,7 @@
               1,
               "F",
               "313 Gregory Hall",
-              188,
+              190,
               [
                 "Chacon Moreno, A",
                 "Saenz, N"
@@ -12545,7 +12672,7 @@
               2,
               "F",
               "313 Gregory Hall",
-              188,
+              190,
               [
                 "Ackerman, J",
                 "Saenz, N"
@@ -12614,7 +12741,7 @@
               2,
               "F",
               "G48 Literatures, Cultures, & Ling",
-              151,
+              153,
               [
                 "Saenz, N",
                 "Siena, K"
@@ -12667,7 +12794,7 @@
               0,
               "MW",
               "151 Loomis Laboratory",
-              189,
+              191,
               [
                 "Staff"
               ],
@@ -12689,7 +12816,7 @@
               1,
               "MW",
               "151 Loomis Laboratory",
-              189,
+              191,
               [
                 "Staff"
               ],
@@ -12733,7 +12860,7 @@
               16,
               "T",
               "4018 Campus Instructional Facility",
-              190,
+              192,
               [
                 "Kim, S"
               ],
@@ -12755,7 +12882,7 @@
               30,
               "T",
               "4018 Campus Instructional Facility",
-              190,
+              192,
               [
                 "De, R"
               ],
@@ -12777,7 +12904,7 @@
               32,
               "T",
               "4018 Campus Instructional Facility",
-              190,
+              192,
               [
                 "Bell, L"
               ],
@@ -12799,7 +12926,7 @@
               18,
               "T",
               "4018 Campus Instructional Facility",
-              190,
+              192,
               [
                 "Das, I"
               ],
@@ -12821,7 +12948,7 @@
               33,
               "T",
               "4018 Campus Instructional Facility",
-              190,
+              192,
               [
                 "Paghadal, A"
               ],
@@ -13019,7 +13146,7 @@
               18,
               "R",
               "0036 Campus Instructional Facility",
-              191,
+              193,
               [
                 "Gulian, E"
               ],
@@ -13041,7 +13168,7 @@
               33,
               "R",
               "0036 Campus Instructional Facility",
-              191,
+              193,
               [
                 "Paghadal, A"
               ],
@@ -13060,10 +13187,10 @@
           "41683",
           [
             [
-              64,
+              66,
               "W",
               "4018 Campus Instructional Facility",
-              190,
+              192,
               [
                 "Engblom, S"
               ],
@@ -13085,7 +13212,7 @@
               28,
               "W",
               "4018 Campus Instructional Facility",
-              190,
+              192,
               [
                 "Mohammad Saad, -"
               ],
@@ -13104,10 +13231,10 @@
           "35764",
           [
             [
-              65,
+              67,
               "W",
               "4018 Campus Instructional Facility",
-              190,
+              192,
               [
                 "Moriarty, J"
               ],
@@ -13126,10 +13253,10 @@
           "35766",
           [
             [
-              66,
+              68,
               "R",
               "4018 Campus Instructional Facility",
-              190,
+              192,
               [
                 "Jessica John Britto, -"
               ],
@@ -13148,10 +13275,10 @@
           "35767",
           [
             [
-              67,
+              69,
               "R",
               "4018 Campus Instructional Facility",
-              190,
+              192,
               [
                 "Skye, C"
               ],
@@ -13173,7 +13300,7 @@
               6,
               "R",
               "4018 Campus Instructional Facility",
-              190,
+              192,
               [
                 "Bogucki, R"
               ],
@@ -13195,7 +13322,7 @@
               12,
               "R",
               "4018 Campus Instructional Facility",
-              190,
+              192,
               [
                 "Mohammad Saad, -"
               ],
@@ -13214,10 +13341,10 @@
           "35770",
           [
             [
-              66,
+              68,
               "F",
               "4018 Campus Instructional Facility",
-              190,
+              192,
               [
                 "Skye, C"
               ],
@@ -13236,10 +13363,10 @@
           "35772",
           [
             [
-              67,
+              69,
               "F",
               "4018 Campus Instructional Facility",
-              190,
+              192,
               [
                 "Bogucki, R"
               ],
@@ -13261,7 +13388,7 @@
               6,
               "F",
               "4018 Campus Instructional Facility",
-              190,
+              192,
               [
                 "Jessica John Britto, -"
               ],
@@ -13283,7 +13410,7 @@
               12,
               "F",
               "4018 Campus Instructional Facility",
-              190,
+              192,
               [
                 "Moriarty, J"
               ],
@@ -13403,7 +13530,7 @@
               0,
               "F",
               "G30 Literatures, Cultures, & Ling",
-              192,
+              194,
               [
                 "Staff"
               ],
@@ -13425,7 +13552,7 @@
               1,
               "F",
               "1022 Literatures, Cultures, & Ling",
-              154,
+              156,
               [
                 "Staff"
               ],
@@ -13447,7 +13574,7 @@
               2,
               "F",
               "G36 Literatures, Cultures, & Ling",
-              163,
+              165,
               [
                 "Staff"
               ],
@@ -13469,7 +13596,7 @@
               2,
               "F",
               "1022 Literatures, Cultures, & Ling",
-              154,
+              156,
               [
                 "Staff"
               ],
@@ -13491,7 +13618,7 @@
               5,
               "F",
               "1136 Literatures, Cultures, & Ling",
-              160,
+              162,
               [
                 "Staff"
               ],
@@ -13513,7 +13640,7 @@
               4,
               "F",
               "1136 Literatures, Cultures, & Ling",
-              160,
+              162,
               [
                 "Staff"
               ],
@@ -13535,7 +13662,7 @@
               2,
               "MW",
               "103 Mumford Hall",
-              193,
+              195,
               [
                 "Ksiazkiewicz, A"
               ],
@@ -13617,7 +13744,7 @@
               5,
               "W",
               "329 Gregory Hall",
-              194,
+              196,
               [
                 "Travis, L"
               ],
@@ -13651,7 +13778,7 @@
               0,
               "MWF",
               "138 Henry Administration Bldg",
-              195,
+              197,
               [
                 "Travis, L"
               ],
@@ -13673,7 +13800,7 @@
               1,
               "MWF",
               "138 Henry Administration Bldg",
-              195,
+              197,
               [
                 "Travis, L"
               ],
@@ -13695,7 +13822,7 @@
               1,
               "MWF",
               "31 Psychology Building",
-              196,
+              198,
               [
                 "Travis, L"
               ],
@@ -13717,7 +13844,7 @@
               2,
               "MWF",
               "138 Henry Administration Bldg",
-              195,
+              197,
               [
                 "Travis, L"
               ],
@@ -13739,7 +13866,7 @@
               2,
               "MWF",
               "31 Psychology Building",
-              196,
+              198,
               [
                 "Travis, L"
               ],
@@ -13761,7 +13888,7 @@
               3,
               "MWF",
               "138 Henry Administration Bldg",
-              195,
+              197,
               [
                 "Travis, L"
               ],
@@ -13783,7 +13910,7 @@
               4,
               "MWF",
               "138 Henry Administration Bldg",
-              195,
+              197,
               [
                 "Travis, L"
               ],
@@ -13805,7 +13932,7 @@
               4,
               "MWF",
               "31 Psychology Building",
-              196,
+              198,
               [
                 "Travis, L"
               ],
@@ -13827,7 +13954,7 @@
               5,
               "MWF",
               "138 Henry Administration Bldg",
-              195,
+              197,
               [
                 "Travis, L"
               ],
@@ -13849,7 +13976,7 @@
               5,
               "MWF",
               "31 Psychology Building",
-              196,
+              198,
               [
                 "Travis, L"
               ],
@@ -13871,7 +13998,7 @@
               8,
               "TR",
               "31 Psychology Building",
-              196,
+              198,
               [
                 "Travis, L"
               ],
@@ -13893,7 +14020,7 @@
               25,
               "TR",
               "31 Psychology Building",
-              196,
+              198,
               [
                 "Travis, L"
               ],
@@ -13915,7 +14042,7 @@
               27,
               "TR",
               "31 Psychology Building",
-              196,
+              198,
               [
                 "Travis, L"
               ],
@@ -13937,7 +14064,7 @@
               9,
               "TR",
               "31 Psychology Building",
-              196,
+              198,
               [
                 "Travis, L"
               ],
@@ -13959,7 +14086,7 @@
               9,
               "TR",
               "259 English Building",
-              197,
+              199,
               [
                 "Travis, L"
               ],
@@ -13981,7 +14108,7 @@
               26,
               "TR",
               "259 English Building",
-              197,
+              199,
               [
                 "Travis, L"
               ],
@@ -14011,7 +14138,7 @@
               1,
               "MWF",
               "307 English Building",
-              198,
+              200,
               [
                 "Molina-Vital, C"
               ],
@@ -14063,7 +14190,7 @@
               27,
               "TR",
               "259 English Building",
-              197,
+              199,
               [
                 "Gasyna, G"
               ],
@@ -14093,7 +14220,7 @@
               2,
               "MWF",
               "160 English Building",
-              199,
+              201,
               [
                 "King, S"
               ],
@@ -14203,7 +14330,7 @@
               44,
               "MW",
               "125 English Building",
-              200,
+              202,
               [
                 "Canipe, J"
               ],
@@ -14237,7 +14364,7 @@
               45,
               "TR",
               "123 English Building",
-              201,
+              203,
               [
                 "Becker, L"
               ],
@@ -14271,7 +14398,7 @@
               43,
               "TR",
               "44 English Building",
-              202,
+              204,
               [
                 "Martin, C"
               ],
@@ -14427,7 +14554,7 @@
               15,
               "MTWR",
               "G48 Literatures, Cultures, & Ling",
-              151,
+              153,
               [
                 "Dzyadevych, T",
                 "Noxon, M"
@@ -14450,7 +14577,7 @@
               1,
               "MTWR",
               "1068 Lincoln Hall",
-              156,
+              158,
               [
                 "Chen, P",
                 "Dzyadevych, T"
@@ -14473,7 +14600,7 @@
               2,
               "MTWR",
               "1126 Literatures, Cultures, & Ling",
-              203,
+              205,
               [
                 "Dzyadevych, T",
                 "Glukhova, M"
@@ -14576,7 +14703,7 @@
               2,
               "MTWR",
               "1048 Literatures, Cultures, & Ling",
-              204,
+              206,
               [
                 "Malekin, B"
               ],
@@ -14606,7 +14733,7 @@
               32,
               "W",
               "316 Transportation Building",
-              205,
+              207,
               [
                 "Fernandez, A",
                 "Goldstein, M"
@@ -14619,7 +14746,7 @@
               3,
               "M",
               "207 Transportation Building",
-              206,
+              208,
               [
                 "Fernandez, A",
                 "Goldstein, M"
@@ -14642,7 +14769,7 @@
               32,
               "W",
               "316 Transportation Building",
-              205,
+              207,
               [
                 "Fernandez, A",
                 "Goldstein, M"
@@ -14655,7 +14782,7 @@
               4,
               "M",
               "207 Transportation Building",
-              206,
+              208,
               [
                 "Fernandez, A",
                 "Goldstein, M"
@@ -14678,7 +14805,7 @@
               18,
               "W",
               "316 Transportation Building",
-              205,
+              207,
               [
                 "Fernandez, A",
                 "Goldstein, M"
@@ -14691,7 +14818,7 @@
               5,
               "M",
               "207 Transportation Building",
-              206,
+              208,
               [
                 "Fernandez, A",
                 "Goldstein, M"
@@ -14714,7 +14841,7 @@
               18,
               "W",
               "316 Transportation Building",
-              205,
+              207,
               [
                 "Gindorf, J",
                 "Goldstein, M"
@@ -14727,7 +14854,7 @@
               37,
               "M",
               "207 Transportation Building",
-              206,
+              208,
               [
                 "Gindorf, J",
                 "Goldstein, M"
@@ -14750,7 +14877,7 @@
               16,
               "R",
               "316 Transportation Building",
-              205,
+              207,
               [
                 "Gindorf, J",
                 "Goldstein, M"
@@ -14763,7 +14890,7 @@
               31,
               "T",
               "207 Transportation Building",
-              206,
+              208,
               [
                 "Gindorf, J",
                 "Goldstein, M"
@@ -14786,7 +14913,7 @@
               16,
               "R",
               "316 Transportation Building",
-              205,
+              207,
               [
                 "Gindorf, J",
                 "Goldstein, M"
@@ -14799,7 +14926,7 @@
               0,
               "T",
               "207 Transportation Building",
-              206,
+              208,
               [
                 "Gindorf, J",
                 "Goldstein, M"
@@ -14822,7 +14949,7 @@
               1,
               "MW",
               "2310 Everitt Laboratory",
-              207,
+              209,
               [
                 "Goldstein, M"
               ],
@@ -14844,7 +14971,7 @@
               18,
               "R",
               "316 Transportation Building",
-              205,
+              207,
               [
                 "Chung, I",
                 "Goldstein, M"
@@ -14857,7 +14984,7 @@
               5,
               "T",
               "207 Transportation Building",
-              206,
+              208,
               [
                 "Chung, I",
                 "Goldstein, M"
@@ -14880,7 +15007,7 @@
               18,
               "R",
               "316 Transportation Building",
-              205,
+              207,
               [
                 "Chung, I",
                 "Goldstein, M"
@@ -14893,7 +15020,7 @@
               37,
               "T",
               "207 Transportation Building",
-              206,
+              208,
               [
                 "Chung, I",
                 "Goldstein, M"
@@ -14916,7 +15043,7 @@
               33,
               "R",
               "316 Transportation Building",
-              205,
+              207,
               [
                 "Goldstein, M",
                 "Sapkota, T"
@@ -14929,7 +15056,7 @@
               15,
               "T",
               "207 Transportation Building",
-              206,
+              208,
               [
                 "Goldstein, M",
                 "Sapkota, T"
@@ -14952,7 +15079,7 @@
               33,
               "R",
               "316 Transportation Building",
-              205,
+              207,
               [
                 "Goldstein, M",
                 "Sapkota, T"
@@ -14962,10 +15089,10 @@
               -1
             ],
             [
-              52,
+              54,
               "T",
               "207 Transportation Building",
-              206,
+              208,
               [
                 "Goldstein, M",
                 "Sapkota, T"
@@ -14988,7 +15115,7 @@
               30,
               "F",
               "316 Transportation Building",
-              205,
+              207,
               [
                 "Goldstein, M",
                 "Rathod, P"
@@ -15001,7 +15128,7 @@
               1,
               "W",
               "207 Transportation Building",
-              206,
+              208,
               [
                 "Goldstein, M",
                 "Rathod, P"
@@ -15024,7 +15151,7 @@
               30,
               "F",
               "316 Transportation Building",
-              205,
+              207,
               [
                 "Goldstein, M",
                 "Rathod, P"
@@ -15037,7 +15164,7 @@
               2,
               "W",
               "207 Transportation Building",
-              206,
+              208,
               [
                 "Goldstein, M",
                 "Rathod, P"
@@ -15060,7 +15187,7 @@
               32,
               "R",
               "316 Transportation Building",
-              205,
+              207,
               [
                 "Goldstein, M",
                 "Hosny, A"
@@ -15073,7 +15200,7 @@
               3,
               "T",
               "207 Transportation Building",
-              206,
+              208,
               [
                 "Goldstein, M",
                 "Hosny, A"
@@ -15096,7 +15223,7 @@
               32,
               "R",
               "316 Transportation Building",
-              205,
+              207,
               [
                 "Goldstein, M",
                 "Hosny, A"
@@ -15109,7 +15236,7 @@
               4,
               "T",
               "207 Transportation Building",
-              206,
+              208,
               [
                 "Goldstein, M",
                 "Hosny, A"
@@ -15132,7 +15259,7 @@
               16,
               "F",
               "316 Transportation Building",
-              205,
+              207,
               [
                 "Goldstein, M"
               ],
@@ -15144,7 +15271,7 @@
               31,
               "W",
               "207 Transportation Building",
-              206,
+              208,
               [
                 "Goldstein, M"
               ],
@@ -15166,7 +15293,7 @@
               16,
               "F",
               "316 Transportation Building",
-              205,
+              207,
               [
                 "Goldstein, M"
               ],
@@ -15178,7 +15305,7 @@
               0,
               "W",
               "207 Transportation Building",
-              206,
+              208,
               [
                 "Goldstein, M"
               ],
@@ -15200,7 +15327,7 @@
               2,
               "TR",
               "3039 Campus Instructional Facility",
-              208,
+              210,
               [
                 "Goldstein, M"
               ],
@@ -15290,7 +15417,7 @@
               8,
               "TR",
               "311 Gregory Hall",
-              174,
+              176,
               [
                 "Clay, A"
               ],
@@ -15320,7 +15447,7 @@
               2,
               "T",
               "1136 Literatures, Cultures, & Ling",
-              160,
+              162,
               [
                 "Chia, J",
                 "Dill, B"
@@ -15343,7 +15470,7 @@
               2,
               "W",
               "325 David Kinley Hall",
-              209,
+              211,
               [
                 "Dill, B",
                 "Jobe, F"
@@ -15366,7 +15493,7 @@
               1,
               "W",
               "325 David Kinley Hall",
-              209,
+              211,
               [
                 "Dill, B",
                 "Jobe, F"
@@ -15458,7 +15585,7 @@
               37,
               "T",
               "1136 Literatures, Cultures, & Ling",
-              160,
+              162,
               [
                 "Chia, J",
                 "Dill, B"
@@ -15550,7 +15677,7 @@
               1,
               "T",
               "1136 Literatures, Cultures, & Ling",
-              160,
+              162,
               [
                 "Chia, J",
                 "Dill, B"
@@ -15619,7 +15746,7 @@
               4,
               "W",
               "325 David Kinley Hall",
-              209,
+              211,
               [
                 "Dill, B",
                 "Gonzalez, K"
@@ -15642,7 +15769,7 @@
               3,
               "W",
               "325 David Kinley Hall",
-              209,
+              211,
               [
                 "Dill, B",
                 "Gonzalez, K"
@@ -15688,7 +15815,7 @@
               27,
               "TR",
               "THEAT Lincoln Hall",
-              210,
+              212,
               [
                 "Dill, B"
               ],
@@ -15710,7 +15837,7 @@
               27,
               "TR",
               "THEAT Lincoln Hall",
-              210,
+              212,
               [
                 "Dill, B"
               ],
@@ -15850,7 +15977,7 @@
               2,
               "TR",
               "313 Gregory Hall",
-              188,
+              190,
               [
                 "Mendoza Seron, A",
                 "Yarrington, K"
@@ -16005,7 +16132,7 @@
               5,
               "MWF",
               "THEAT Lincoln Hall",
-              210,
+              212,
               [
                 "Rao, V"
               ],
@@ -16027,7 +16154,7 @@
               37,
               "MWF",
               "THEAT Lincoln Hall",
-              210,
+              212,
               [
                 "Rao, V"
               ],
@@ -16057,7 +16184,7 @@
               1,
               "R",
               "G8A Literatures, Cultures, & Ling",
-              211,
+              213,
               [
                 "Maweu, D",
                 "Saadah, E"
@@ -16070,7 +16197,7 @@
               1,
               "MTWF",
               "G8A Literatures, Cultures, & Ling",
-              211,
+              213,
               [
                 "Maweu, D",
                 "Saadah, E"
@@ -16131,7 +16258,7 @@
               1,
               "T",
               "2320 Digital Computer Laboratory",
-              212,
+              214,
               [
                 "Jahnke, K"
               ],
@@ -16387,7 +16514,7 @@
               2,
               "F",
               "101 901 W Oregon",
-              213,
+              215,
               [
                 "Sheikhfarshi, S",
                 "Yarusso, M"
@@ -16400,7 +16527,7 @@
               2,
               "MW",
               "225 Temple Hoyne Buell Hall",
-              214,
+              216,
               [
                 "Sheikhfarshi, S",
                 "Yarusso, M"
@@ -16428,7 +16555,7 @@
           "49726",
           [
             [
-              68,
+              70,
               "W",
               "Location Pending",
               39,
@@ -16536,7 +16663,7 @@
               -1
             ],
             [
-              66,
+              68,
               "MF",
               "Location Pending",
               39,
@@ -16661,7 +16788,7 @@
               3,
               "MTWRF",
               "1140 Literatures, Cultures, & Ling",
-              215,
+              217,
               [
                 "Toure, V"
               ],
@@ -16713,7 +16840,7 @@
               2,
               "MW",
               "156 English Building",
-              216,
+              218,
               [
                 "Cole, M"
               ],
@@ -16740,7 +16867,7 @@
           "38906",
           [
             [
-              69,
+              71,
               "F",
               "ONLINE",
               7,
@@ -16752,7 +16879,7 @@
               -1
             ],
             [
-              70,
+              72,
               "TR",
               "ONLINE",
               7,
@@ -16830,6 +16957,8 @@
       "1330 - 1450",
       "1630 - 1910",
       "1500 - 1620",
+      "1430 - 1550",
+      "1730 - 1850",
       "1700 - 1750",
       "1115 - 1205",
       "1530 - 1620",
@@ -17013,6 +17142,8 @@
       "144 Armory",
       "143 Armory",
       "1118 Literatures, Cultures, & Ling",
+      "134 Armory",
+      "428 Armory",
       "207 Gregory Hall",
       "300 Noyes Laboratory",
       "3 Christopher Hall",
@@ -17095,6 +17226,6 @@
     "finalDates": [],
     "finalTimes": []
   },
-  "updatedAt": "2026-01-11T05:59:27.856Z",
+  "updatedAt": "2026-01-11T06:10:46.436Z",
   "version": 3
 }
