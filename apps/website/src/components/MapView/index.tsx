@@ -24,9 +24,9 @@ export default function MapView({
 }: MapViewProps): React.ReactElement {
   // These initial coordinates start the map looking at the UIUC campus
   const [viewState, setViewState] = useState<ViewState>({
-    latitude: 40.102,
-    longitude: -88.2272,
-    zoom: 15,
+    latitude: 40.103515,
+    longitude: -88.227966,
+    zoom: 14.32,
   });
 
   const unknown: MapLocation[] = [];
@@ -41,16 +41,8 @@ export default function MapView({
     }
   });
 
-  // Switch the map style based on the current theme.
-  // These are custom styles owned by the Mapbox account in the BitWarden.
-  // Public share links:
-  // Dark: https://api.mapbox.com/styles/v1/gt-scheduler/cktc4yzhm018w17ql65xa802o.html?fresh=true&title=copy&access_token=pk.eyJ1IjoiZ3Qtc2NoZWR1bGVyIiwiYSI6ImNrdGM0cXlqMDA0aXYyeHBma290Y2NyOTgifQ.S_A1gOu-FSQ8ywQFf2rr5A
-  // Light: https://api.mapbox.com/styles/v1/gt-scheduler/cktc4y61t018918qjynvngozg.html?fresh=true&title=copy&access_token=pk.eyJ1IjoiZ3Qtc2NoZWR1bGVyIiwiYSI6ImNrdGM0cXlqMDA0aXYyeHBma290Y2NyOTgifQ.S_A1gOu-FSQ8ywQFf2rr5A
-  const [theme] = useContext(ThemeContext);
-  const mapStyle =
-    theme === 'dark'
-      ? 'mapbox://styles/gt-scheduler/cktc4yzhm018w17ql65xa802o' // gt-scheduler-dark
-      : 'mapbox://styles/gt-scheduler/cktc4y61t018918qjynvngozg'; // gt-scheduler-light
+  // Use custom UIUC scheduler map style
+  const mapStyle = 'mapbox://styles/lightningboltz21/cmkad1y6c005k01s620czavvk';
 
   return (
     <div className="mapbox">
