@@ -78,7 +78,6 @@ jobs:
         working-directory: ./apps/crawler-v3
         env:
           CONCURRENCY: 10
-          COURSES_PER_SUBJECT: 1
           # MAX_SUBJECTS: 10
         run: npm start
 
