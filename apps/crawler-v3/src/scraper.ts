@@ -224,7 +224,15 @@ export async function scrapeCourse(
       // Get arrays of values for each field (one per meeting)
       const scheduleTypes: string[] = [];
       $type('.app-meeting').each((_, el) => {
-        scheduleTypes.push($type(el).text().trim() || 'Lecture');
+        let typeText = $type(el).text().trim() || 'Lecture';
+
+        // The UIUC website sometimes concatenates schedule type with meeting dates
+        // like "LaboratoryMeets 03/16/26-05/06/26" - we need to extract just the type
+        // Pattern: "Meets" followed by dates in MM/DD/YY format (single date or range)
+        const meetsPattern = /Meets\s+\d{2}\/\d{2}\/\d{2}(?:-\d{2}\/\d{2}\/\d{2})?$/;
+        typeText = typeText.replace(meetsPattern, '').trim();
+
+        scheduleTypes.push(typeText);
       });
       if (scheduleTypes.length === 0) scheduleTypes.push('Lecture');
 

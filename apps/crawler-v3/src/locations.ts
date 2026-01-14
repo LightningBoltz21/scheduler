@@ -64,8 +64,16 @@ loadCoordinatesFromCSV();
 const BUILDING_NAME_ALIASES = new Map<string, string>([
   // Common variations
   ['Agricultural Engr Sciences Bld', 'Agricultural Engineering Sciences Building'],
-  ['Literatures, Cultures, & Ling', 'Languages, Cultures, and Linguistics Building (LCLB)'],
-  ['Literatures Cultures & Ling', 'Languages, Cultures, and Linguistics Building (LCLB)'],
+  ['Literatures, Cultures, & Ling', 'Languages, Cultures, and Linguistics Building'],
+  ['Literatures Cultures & Ling', 'Languages, Cultures, and Linguistics Building'],
+
+  // Buildings with abbreviated names in scraped data
+  ['Materials Science & Eng Bld', 'Materials Science and Engineering Building'],
+  ['Newmark Civil Engineering Bldg', 'Newmark Civil Engineering Laboratory'],
+  ['Sidney Lu Mech Engr Bldg', 'Sidney Lu Mechanical Engineering Building'],
+  ['Siebel Center for Design', 'Siebel Center'],
+  ['Vet Med Basic Sciences Bldg', 'Vet Med Basic Sciences Bldg'],
+  ['Krannert Center for Perf Arts', 'Krannert Center for Perf Arts'],
 
   // Add more aliases as needed based on crawler output
 ]);
@@ -108,6 +116,7 @@ const IGNORED_LOCATIONS = [
   'TBA',
   'ONLINE',
   'ARRANGED',
+  'Location Pending',
   'n.a.',
   'n.a',
   '',
