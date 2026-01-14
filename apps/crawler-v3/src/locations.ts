@@ -271,10 +271,7 @@ export function logMissingLocations(): void {
   const missing = getMissingLocations();
   if (missing.length > 0) {
     console.log(`\n⚠️  Missing coordinates for ${missing.length} buildings:`);
-    missing.slice(0, 20).forEach(loc => console.log(`   - "${loc}"`));
-    if (missing.length > 20) {
-      console.log(`   ... and ${missing.length - 20} more`);
-    }
-    console.log('\nTo add coordinates, edit apps/crawler-v3/src/coordinates.csv');
+    missing.forEach(loc => console.log(`   - "${loc}"`));
+    console.log('\nTo add coordinates, edit apps/crawler-v3/coordinates.csv');
   }
 }

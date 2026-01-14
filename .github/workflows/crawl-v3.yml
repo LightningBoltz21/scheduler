@@ -1,17 +1,44 @@
 name: UIUC Crawler v3
 
 on:
-  # Manual trigger for testing
   workflow_dispatch:
+    inputs:
+      retry_count:
+        description: 'Current retry attempt (auto-incremented on failure)'
+        required: false
+        default: '0'
+        type: string
+      max_retries:
+        description: 'Maximum number of retry attempts'
+        required: false
+        default: '100'
+        type: string
 
 permissions:
   contents: write
+  actions: write  # Required to trigger new workflow runs
 
 jobs:
   crawl-and-deploy:
     runs-on: ubuntu-latest
-    
+
     steps:
+      - name: Check retry limit
+        id: check_retry
+        run: |
+          RETRY_COUNT=${{ github.event.inputs.retry_count || 0 }}
+          MAX_RETRIES=${{ github.event.inputs.max_retries || 3 }}
+
+          echo "retry_count=$RETRY_COUNT" >> $GITHUB_OUTPUT
+          echo "max_retries=$MAX_RETRIES" >> $GITHUB_OUTPUT
+
+          echo "📊 Attempt $((RETRY_COUNT + 1)) of $((MAX_RETRIES + 1))"
+
+          if [ $RETRY_COUNT -gt $MAX_RETRIES ]; then
+            echo "🛑 Max retries ($MAX_RETRIES) exceeded. Stopping."
+            exit 1
+          fi
+
       - name: Checkout repository
         uses: actions/checkout@v4
 
@@ -26,14 +53,14 @@ jobs:
         run: |
           cp ./apps/crawler-v3/coordinates.csv ./apps/crawler-v3/data/coordinates.csv
           echo "Copied coordinates.csv to data folder"
-      
+
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '20'
           cache: 'npm'
           cache-dependency-path: apps/crawler-v3/package-lock.json
-      
+
       - name: Install dependencies
         working-directory: ./apps/crawler-v3
         run: npm ci
@@ -46,13 +73,17 @@ jobs:
           echo "Cleaned old subject caches"
 
       - name: Run crawler
+        id: crawler
+        continue-on-error: true
         working-directory: ./apps/crawler-v3
         env:
+          CONCURRENCY: 10
           COURSES_PER_SUBJECT: 1
           # MAX_SUBJECTS: 10
         run: npm start
-      
-      - name: Deploy to GitHub Pages
+
+      - name: Deploy to GitHub Pages (on success)
+        if: steps.crawler.outcome == 'success'
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -60,3 +91,44 @@ jobs:
           folder: ./apps/crawler-v3/data
           clean: false
           commit-message: 'Update UIUC course data'
+
+      - name: Deploy partial progress (on failure)
+        if: steps.crawler.outcome == 'failure'
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          branch: gh-pages
+          folder: ./apps/crawler-v3/data
+          clean: false
+          commit-message: 'Update UIUC course data (partial - will retry)'
+
+      - name: Trigger new workflow run (on failure)
+        if: steps.crawler.outcome == 'failure'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          RETRY_COUNT=${{ steps.check_retry.outputs.retry_count }}
+          MAX_RETRIES=${{ steps.check_retry.outputs.max_retries }}
+          NEXT_RETRY=$((RETRY_COUNT + 1))
+
+          if [ $NEXT_RETRY -le $MAX_RETRIES ]; then
+            echo ""
+            echo "❌ Crawler failed on attempt $((RETRY_COUNT + 1))"
+            echo "🔄 Triggering new workflow run (attempt $((NEXT_RETRY + 1))/$((MAX_RETRIES + 1)))..."
+
+            gh workflow run crawl-v3.yml \
+              --ref ${{ github.ref_name }} \
+              -f retry_count=$NEXT_RETRY \
+              -f max_retries=$MAX_RETRIES
+
+            echo "✅ New workflow triggered successfully!"
+            echo "   View at: https://github.com/${{ github.repository }}/actions"
+          else
+            echo "🛑 Max retries ($MAX_RETRIES) reached. Not scheduling another retry."
+          fi
+
+      - name: Mark as failed
+        if: steps.crawler.outcome == 'failure'
+        run: |
+          echo "❌ This workflow run failed. A new run has been triggered (if retries remaining)."
+          exit 1
