@@ -1,0 +1,624 @@
+{
+  "subject": "LAT",
+  "scrapedAt": 1768434429619,
+  "courseCount": 11,
+  "courses": {
+    "LAT 101": [
+      "Elementary Latin I",
+      {
+        "A": [
+          "35863",
+          [
+            [
+              18,
+              "MWF",
+              "215 Davenport Hall",
+              2,
+              [
+                "Pyrgali, M",
+                "Reeber, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Grammar and reading for students who have had no work in Latin.",
+      []
+    ],
+    "LAT 401": [
+      "Survey of Latin Literature",
+      {
+        "G": [
+          "75849",
+          [
+            [
+              21,
+              "MWF",
+              "301 Architecture Building",
+              9,
+              [
+                "Austen, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "U": [
+          "75848",
+          [
+            [
+              21,
+              "MWF",
+              "301 Architecture Building",
+              9,
+              [
+                "Austen, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Advanced level readings in classical Latin literature.",
+      []
+    ],
+    "LAT 520": [
+      "Proseminar",
+      {
+        "A": [
+          "35897",
+          [
+            [
+              4,
+              "TR",
+              "1140 Literatures, Cultures, & Ling",
+              6,
+              [
+                "Walters, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Alternating poetry and prose, concentrates on a major author from one of the following areas: epic, oratory, lyric and elegiac poetry, history, drama, philosophy, satire, or epistolography. Areas normally follow this sequence in successive years.",
+      []
+    ],
+    "LAT 201": [
+      "Intermediate Latin",
+      {
+        "A": [
+          "64804",
+          [
+            [
+              18,
+              "MWF",
+              "1062 Lincoln Hall",
+              3,
+              [
+                "Reeber, J",
+                "Sotiroudis, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Review of grammar; reading of easy narrative prose.",
+      []
+    ],
+    "LAT 202": [
+      "Intro to Latin Literature",
+      {
+        "A": [
+          "65189",
+          [
+            [
+              18,
+              "MWF",
+              "1062 Lincoln Hall",
+              3,
+              [
+                "Reeber, J",
+                "Sotiroudis, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Continuation of LAT 201, with readings chiefly in Latin poetic literature.",
+      []
+    ],
+    "LAT 102": [
+      "Elementary Latin II",
+      {
+        "B": [
+          "35868",
+          [
+            [
+              18,
+              "MWF",
+              "132 Davenport Hall",
+              2,
+              [
+                "Mylli, E",
+                "Reeber, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Grammar and reading of easy prose.",
+      []
+    ],
+    "LAT 492": [
+      "Senior Thesis",
+      {
+        "": [
+          "10506",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Thesis and honors. For candidates for honors in Latin and for other seniors.",
+      []
+    ],
+    "LAT 199": [
+      "Undergraduate Open Seminar",
+      {
+        "": [
+          "10504",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      null,
+      []
+    ],
+    "LAT 491": [
+      "Readings in Latin Literature",
+      {
+        "G": [
+          "35891",
+          [
+            [
+              21,
+              "MWF",
+              "301 Architecture Building",
+              9,
+              [
+                "Austen, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "U": [
+          "38752",
+          [
+            [
+              21,
+              "MWF",
+              "301 Architecture Building",
+              9,
+              [
+                "Austen, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Readings in authors or special topics chosen by the instructor from the entire extant literature in Latin.",
+      []
+    ],
+    "LAT 493": [
+      "Independent Reading",
+      {
+        "": [
+          "10509",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "See Department of the Classics for information.",
+      []
+    ],
+    "LAT 595": [
+      "Intro to Classical Studies",
+      {
+        "A": [
+          "49062",
+          [
+            [
+              4,
+              "MW",
+              "1026 Lincoln Hall",
+              3,
+              [
+                "Bosak-Schroeder, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      null,
+      []
+    ]
+  },
+  "caches": {
+    "periods": [
+      "1400 - 1650",
+      "1500 - 1750",
+      "1400 - 1450",
+      "0000 - 0000",
+      "1400 - 1520",
+      "1100 - 1150",
+      "1300 - 1450",
+      "1000 - 1150",
+      "1200 - 1350",
+      "0900 - 1050",
+      "0900 - 0950",
+      "1700 - 1950",
+      "0930 - 1220",
+      "1230 - 1350",
+      "1100 - 1250",
+      "1300 - 1420",
+      "1930 - 2050",
+      "1800 - 1950",
+      "1200 - 1250",
+      "1530 - 1620",
+      "1300 - 1520",
+      "1000 - 1050",
+      "1300 - 1350",
+      "1500 - 1650",
+      "1600 - 1750",
+      "1600 - 1720",
+      "1200 - 1320",
+      "1500 - 1720",
+      "0930 - 1050",
+      "1100 - 1220",
+      "1400 - 1550",
+      "1030 - 1150",
+      "0900 - 1150",
+      "1500 - 1600",
+      "1530 - 1650",
+      "1500 - 1620",
+      "0900 - 1020",
+      "1400 - 1515",
+      "1500 - 1550",
+      "1530 - 1720",
+      "1600 - 1650",
+      "1700 - 1820",
+      "1800 - 2100",
+      "1600 - 1820",
+      "0900 - 1145",
+      "0900 - 1120",
+      "1430 - 1550",
+      "1730 - 1850",
+      "1100 - 1320",
+      "1300 - 1600",
+      "1530 - 1750",
+      "1300 - 1545",
+      "1000 - 1200",
+      "1700 - 1900",
+      "1700 - 1750",
+      "1100 - 1350",
+      "1230 - 1520",
+      "1000 - 1250",
+      "1400 - 1720",
+      "1600 - 1715",
+      "0930 - 1045",
+      "0800 - 1150",
+      "1430 - 1620",
+      "1115 - 1205",
+      "1010 - 1100",
+      "1230 - 1320",
+      "0930 - 1020",
+      "1000 - 1120",
+      "0900 - 1140",
+      "1230 - 1420",
+      "1800 - 1850",
+      "0800 - 0850",
+      "0800 - 0920",
+      "0830 - 0950",
+      "1800 - 2020",
+      "1000 - 1220",
+      "0830 - 1120",
+      "1300 - 1550",
+      "1530 - 1710",
+      "1200 - 1450",
+      "1900 - 2020",
+      "1900 - 2030",
+      "0900 - 1030",
+      "1730 - 2030",
+      "0800 - 1050",
+      "1300 - 1650",
+      "1000 - 1130",
+      "1000 - 1100",
+      "1730 - 2020",
+      "0800 - 0940",
+      "0900 - 1040",
+      "1200 - 1340",
+      "1100 - 1215",
+      "1230 - 1345",
+      "1530 - 1645",
+      "1730 - 1845",
+      "1000 - 1115",
+      "1700 - 1850",
+      "1900 - 2050",
+      "1800 - 2050",
+      "1530 - 1820",
+      "1600 - 1850",
+      "1800 - 1920",
+      "1330 - 1620",
+      "0930 - 1120",
+      "1130 - 1320",
+      "1030 - 1120",
+      "1430 - 1520",
+      "1630 - 1720",
+      "1130 - 1220",
+      "1630 - 1750"
+    ],
+    "dateRanges": [],
+    "scheduleTypes": [
+      "Laboratory",
+      "Lecture",
+      "Independent Study",
+      "Laboratory-Discussion",
+      "Online",
+      "Lecture-Discussion",
+      "Conference",
+      "Online Lecture",
+      "Online Lab",
+      "Discussion/ Recitation",
+      "Study Abroad",
+      "Seminar",
+      "Internship",
+      "Online Lecture Discussion",
+      "Online Discussion",
+      "Research",
+      "Travel"
+    ],
+    "campuses": [],
+    "attributes": [],
+    "restrictions": [],
+    "gradeBases": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      },
+      {
+        "lat": 40.11246109008789,
+        "long": -88.22831726074219
+      },
+      {
+        "lat": 40.1072225,
+        "long": -88.2262016
+      },
+      {
+        "lat": 40.1065684,
+        "long": -88.2281746
+      },
+      {
+        "lat": 40.1035833,
+        "long": -88.228405
+      },
+      {
+        "lat": 40.1020773,
+        "long": -88.2296394
+      },
+      {
+        "lat": 40.10628,
+        "long": -88.22621
+      },
+      {
+        "lat": 40.107534,
+        "long": -88.2281548
+      },
+      {
+        "lat": 40.105732,
+        "long": -88.2281018
+      },
+      {
+        "lat": 40.1033599,
+        "long": -88.2292111
+      },
+      {
+        "lat": 40.1047599,
+        "long": -88.2319514
+      },
+      {
+        "lat": 40.111691,
+        "long": -88.2242511
+      },
+      {
+        "lat": 40.1109722,
+        "long": -88.2282631
+      },
+      {
+        "lat": 40.104794,
+        "long": -88.224264
+      },
+      {
+        "lat": 40.1083446,
+        "long": -88.2282555
+      },
+      {
+        "lat": 40.1110937,
+        "long": -88.2232348
+      },
+      {
+        "lat": 40.1034533,
+        "long": -88.2327596
+      },
+      {
+        "lat": 40.0995003,
+        "long": -88.223104
+      },
+      {
+        "lat": 40.1028373,
+        "long": -88.2251326
+      },
+      {
+        "lat": 40.1048704,
+        "long": -88.2229036
+      },
+      {
+        "lat": 40.10593795776367,
+        "long": -88.2270736694336
+      },
+      {
+        "lat": 40.103587,
+        "long": -88.230606
+      },
+      {
+        "lat": 40.1131317,
+        "long": -88.2264552
+      },
+      {
+        "lat": 40.1108856,
+        "long": -88.2269806
+      }
+    ],
+    "finalDates": [],
+    "finalTimes": []
+  }
+}

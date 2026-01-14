@@ -1,0 +1,1265 @@
+{
+  "subject": "GER",
+  "scrapedAt": 1768434372581,
+  "courseCount": 24,
+  "courses": {
+    "GER 251": [
+      "Grimm's Fairy Tales in Context",
+      {
+        "AD1": [
+          "60015",
+          [
+            [
+              21,
+              "F",
+              "115 David Kinley Hall",
+              4,
+              [
+                "Fam, M",
+                "Johnson, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          9,
+          0,
+          [],
+          -1
+        ],
+        "AD2": [
+          "60018",
+          [
+            [
+              5,
+              "F",
+              "115 David Kinley Hall",
+              4,
+              [
+                "Fam, M",
+                "Johnson, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          9,
+          0,
+          [],
+          -1
+        ],
+        "AD3": [
+          "60021",
+          [
+            [
+              22,
+              "F",
+              "115 David Kinley Hall",
+              4,
+              [
+                "Johnson, L",
+                "Ting, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          9,
+          0,
+          [],
+          -1
+        ],
+        "AD4": [
+          "68654",
+          [
+            [
+              10,
+              "F",
+              "115 David Kinley Hall",
+              4,
+              [
+                "Fam, M",
+                "Johnson, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          9,
+          0,
+          [],
+          -1
+        ],
+        "AD5": [
+          "68655",
+          [
+            [
+              18,
+              "F",
+              "115 David Kinley Hall",
+              4,
+              [
+                "Johnson, L",
+                "Ting, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          9,
+          0,
+          [],
+          -1
+        ],
+        "AD6": [
+          "68656",
+          [
+            [
+              2,
+              "F",
+              "115 David Kinley Hall",
+              4,
+              [
+                "Johnson, L",
+                "Ting, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          9,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "60024",
+          [
+            [
+              2,
+              "MW",
+              "116 Roger Adams Laboratory",
+              0,
+              [
+                "Johnson, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Special attention is paid to the Grimms' tales in terms of traditional narrative genres, elements of life in early modern Europe, and versions from Italy and France as well as Germany. Course is conducted in English.",
+      []
+    ],
+    "GER 201": [
+      "German Popular Culture",
+      {
+        "A": [
+          "63431",
+          [
+            [
+              4,
+              "TR",
+              "323 Education Building",
+              5,
+              [
+                "Jenkins, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to the study of modern and contemporary german culture through examining examples of popular culture from the late-eighteenth century to the present. Looks at texts and films as a mirror and critique of modern German society. Topics to be discussed: nationalism, gender, ethnicity, minority cultures, Jewish life in Germany, German images of other cultures, etc. Course taught in English.",
+      []
+    ],
+    "GER 211": [
+      "Conversation and Writing I",
+      {
+        "F": [
+          "39080",
+          [
+            [
+              18,
+              "MWF",
+              "1022 Literatures, Cultures, & Ling",
+              6,
+              [
+                "Webster, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Prerequisite: GER 104 or equivalent, or consent of instructor.",
+      []
+    ],
+    "GER 205": [
+      "Germany and Europe",
+      {
+        "A": [
+          "52355",
+          [
+            [
+              23,
+              "TR",
+              "G30 Literatures, Cultures, & Ling",
+              6,
+              [
+                "Niekerk, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction into major issues in contemporary German society with a special focus on Germany's functioning within Europe and the European Union through novels, films, essays, interviews etc. Course taught in English.",
+      []
+    ],
+    "GER 191": [
+      "Freshman Honors Tutorial",
+      {
+        "": [
+          "10276",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Study of selected topics on an individually arranged basis. Open only to honors majors or to Cohn Scholars and Associates.",
+      []
+    ],
+    "GER 103": [
+      "Intermediate German I",
+      {
+        "C": [
+          "33570",
+          [
+            [
+              18,
+              "MTWR",
+              "149 English Building",
+              7,
+              [
+                "Kelsey, W",
+                "Webster, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "D": [
+          "33571",
+          [
+            [
+              5,
+              "MTWR",
+              "149 English Building",
+              7,
+              [
+                "Cohen, J",
+                "Webster, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "G": [
+          "33569",
+          [
+            [
+              2,
+              "MTWR",
+              "215 Davenport Hall",
+              2,
+              [
+                "Kelsey, W",
+                "Webster, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Continuation of GER 102. Intermediate course focusing on listening comprehension, oral skills, reading, writing, and culture.",
+      []
+    ],
+    "GER 104": [
+      "Intermediate German II",
+      {
+        "E": [
+          "33573",
+          [
+            [
+              22,
+              "MTWR",
+              "1030 Literatures, Cultures, & Ling",
+              6,
+              [
+                "Sollinger, B",
+                "Webster, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "X": [
+          "33572",
+          [
+            [
+              5,
+              "MTWR",
+              "G48 Literatures, Cultures, & Ling",
+              6,
+              [
+                "Sollinger, B",
+                "Webster, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Continuation of GER 103. Continued focus on listening comprehension, oral skills, reading, writing, and culture at an intermediate level.",
+      []
+    ],
+    "GER 199": [
+      "Undergraduate Open Seminar",
+      {
+        "A1": [
+          "42070",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      null,
+      []
+    ],
+    "GER 102": [
+      "Beginning German II",
+      {
+        "C": [
+          "33563",
+          [
+            [
+              21,
+              "MTWR",
+              "1022 Literatures, Cultures, & Ling",
+              6,
+              [
+                "Avemarie, D",
+                "Webster, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "D": [
+          "33564",
+          [
+            [
+              5,
+              "MTWR",
+              "327 Gregory Hall",
+              8,
+              [
+                "Avemarie, D",
+                "Webster, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "D2": [
+          "33565",
+          [
+            [
+              22,
+              "MTWR",
+              "1136 Literatures, Cultures, & Ling",
+              6,
+              [
+                "Horn, R",
+                "Webster, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Continuation of GER 101. Continued focus on listening comprehension, oral skills, reading, writing, and culture at an introductory level.",
+      []
+    ],
+    "GER 101": [
+      "Beginning German I",
+      {
+        "D": [
+          "33559",
+          [
+            [
+              5,
+              "MTWR",
+              "1128 Literatures, Cultures, & Ling",
+              6,
+              [
+                "Ezeokoli, C",
+                "Webster, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "E": [
+          "33561",
+          [
+            [
+              22,
+              "MTWR",
+              "1120 Literatures, Cultures, & Ling",
+              6,
+              [
+                "Pei, A",
+                "Webster, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introductory course focusing on listening comprehension, oral skills, reading, writing, and culture.",
+      []
+    ],
+    "GER 299": [
+      "Study Abroad",
+      {
+        "A": [
+          "33584",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Webster, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          18,
+          10,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Lectures, seminars, and practical work in German language, literature, civilization, and in other academic areas appropriate to the student's course of study.",
+      []
+    ],
+    "GER 331": [
+      "Intro to German Literature",
+      {
+        "F": [
+          "45898",
+          [
+            [
+              15,
+              "MW",
+              "1134 Literatures, Cultures, & Ling",
+              6,
+              [
+                "Pinkert, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introductory study of representative works (prose, drama, lyric) by outstanding German, Austrian, and Swiss writers of the modern period.",
+      []
+    ],
+    "GER 465": [
+      "German Linguistics",
+      {
+        "S": [
+          "58484",
+          [
+            [
+              24,
+              "M",
+              "G20 Literatures, Cultures, & Ling",
+              6,
+              [
+                "Webster, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Linguistic analysis of Germanic languages in historical, geographic, and social context. Taught in German or English, depending on topic.",
+      []
+    ],
+    "GER 460": [
+      "Principles of Language Testing",
+      {
+        "G4": [
+          "32938",
+          [
+            [
+              4,
+              "TR",
+              "G23 Literatures, Cultures, & Ling",
+              6,
+              [
+                "Yan, X"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "U3": [
+          "32936",
+          [
+            [
+              4,
+              "TR",
+              "G23 Literatures, Cultures, & Ling",
+              6,
+              [
+                "Yan, X"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as EIL 460, EPSY 487, FR 460, ITAL 460, PORT 460, and SPAN 460. See EIL 460.",
+      []
+    ],
+    "GER 418": [
+      "Language & Minorities in Europe",
+      {
+        "1G": [
+          "50300",
+          [
+            [
+              25,
+              "W",
+              "321 Gregory Hall",
+              8,
+              [
+                "Fagyal, Z"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              25,
+              "M",
+              "ONLINE",
+              0,
+              [
+                "Fagyal, Z"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "1U": [
+          "50299",
+          [
+            [
+              25,
+              "W",
+              "321 Gregory Hall",
+              8,
+              [
+                "Fagyal, Z"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              25,
+              "M",
+              "ONLINE",
+              0,
+              [
+                "Fagyal, Z"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as EURO 418, FR 418, ITAL 418, LING 418, PS 418, SLAV 418, and SPAN 418. See FR 418.",
+      []
+    ],
+    "GER 470": [
+      "Middle Ages to Baroque",
+      {
+        "X": [
+          "45143",
+          [
+            [
+              23,
+              "R",
+              "Location Pending",
+              0,
+              [
+                "Horsfall, W"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Literary, thematic, cultural, and bibliographical analysis of the major authors, works, genres, and movements in German literature from 750-1720.",
+      []
+    ],
+    "GER 420": [
+      "German Cultural History",
+      {
+        "E": [
+          "50381",
+          [
+            [
+              26,
+              "TR",
+              "219 David Kinley Hall",
+              4,
+              [
+                "Niekerk, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "A general introduction to German culture from the pre-Christian period to the twenty-first century, focusing on the tension between forces of history and modernization in German culture. Course materials include literary and philosophical texts, film, painting, and music. Particular attention will be paid to the role of art in society.",
+      []
+    ],
+    "GER 489": [
+      "Theoretical Foundations of SLA",
+      {
+        "G4": [
+          "38718",
+          [
+            [
+              21,
+              "MWF",
+              "329 Gregory Hall",
+              8,
+              [
+                "Zhang, Q"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "U3": [
+          "38715",
+          [
+            [
+              21,
+              "MWF",
+              "329 Gregory Hall",
+              8,
+              [
+                "Zhang, Q"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as FR 481, ITAL 489, LING 489, PORT 489, and SPAN 489. See LING 489.",
+      []
+    ],
+    "GER 491": [
+      "Honors Senior Thesis",
+      {
+        "": [
+          "10289",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Intended primarily for candidates for honors in German, but open to other seniors.",
+      []
+    ],
+    "GER 571": [
+      "Medieval German Studies",
+      {
+        "G": [
+          "39100",
+          [
+            [
+              23,
+              "R",
+              "Location Pending",
+              0,
+              [
+                "Horsfall, W"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Seminar in selected genres, themes, or authors of the Middle Ages. Epic, lyric, and didactic works in prose and verse are read in the original language.",
+      []
+    ],
+    "GER 512": [
+      "Applied LiteraryTranslation II",
+      {
+        "A": [
+          "72207",
+          [
+            [
+              27,
+              "M",
+              "G96 Literatures, Cultures, & Ling",
+              6,
+              [
+                "Jenkins, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as CWL 512, EALC 512, SLAV 502, and TRST 502. See TRST 502.",
+      []
+    ],
+    "GER 593": [
+      "Research in Special Topics",
+      {
+        "": [
+          "10295",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          8,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "MM": [
+          "77638",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Meyer, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          8,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "May be repeated to a maximum of 8 hours.",
+      []
+    ],
+    "GER 576": [
+      "Open Seminar in German Studies",
+      {
+        "SH": [
+          "57117",
+          [
+            [
+              23,
+              "W",
+              "Location Pending",
+              0,
+              [
+                "Pinkert, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Seminar in literary phenomena (such as movements, genres and forms, relations, themes and types, interdisciplinary studies, women's studies) that go beyond the confines of a particular century.",
+      []
+    ],
+    "GER 588": [
+      "Sem Second Lang Learn",
+      {
+        "AM1": [
+          "60350",
+          [
+            [
+              23,
+              "R",
+              "1040 Literatures, Cultures, & Ling",
+              6,
+              [
+                "Mroz, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "SM": [
+          "35710",
+          [
+            [
+              13,
+              "TR",
+              "G18 Literatures, Cultures, & Ling",
+              6,
+              [
+                "Montrul, S"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              2,
+              "TR",
+              "ARR Literatures, Cultures, & Ling",
+              6,
+              [
+                "Montrul, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "WM": [
+          "35705",
+          [
+            [
+              1,
+              "W",
+              "69 English Building",
+              7,
+              [
+                "Nelson, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as EALC 588, FR 588, ITAL 588, LING 588, PORT 588, and SPAN 588. See SPAN 588.",
+      []
+    ]
+  },
+  "caches": {
+    "periods": [
+      "1400 - 1650",
+      "1500 - 1750",
+      "1400 - 1450",
+      "0000 - 0000",
+      "1400 - 1520",
+      "1100 - 1150",
+      "1300 - 1450",
+      "1000 - 1150",
+      "1200 - 1350",
+      "0900 - 1050",
+      "0900 - 0950",
+      "1700 - 1950",
+      "0930 - 1220",
+      "1230 - 1350",
+      "1100 - 1250",
+      "1300 - 1420",
+      "1930 - 2050",
+      "1800 - 1950",
+      "1200 - 1250",
+      "1530 - 1620",
+      "1300 - 1520",
+      "1000 - 1050",
+      "1300 - 1350",
+      "1500 - 1650",
+      "1600 - 1750",
+      "1600 - 1720",
+      "1200 - 1320",
+      "1500 - 1720"
+    ],
+    "dateRanges": [],
+    "scheduleTypes": [
+      "Laboratory",
+      "Lecture",
+      "Independent Study",
+      "Laboratory-Discussion",
+      "Online",
+      "Lecture-Discussion",
+      "Conference",
+      "Online Lecture",
+      "Online Lab",
+      "Discussion/ Recitation",
+      "Study Abroad"
+    ],
+    "campuses": [],
+    "attributes": [],
+    "restrictions": [],
+    "gradeBases": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      },
+      {
+        "lat": 40.11246109008789,
+        "long": -88.22831726074219
+      },
+      {
+        "lat": 40.1072225,
+        "long": -88.2262016
+      },
+      {
+        "lat": 40.1065684,
+        "long": -88.2281746
+      },
+      {
+        "lat": 40.1035833,
+        "long": -88.228405
+      },
+      {
+        "lat": 40.1020773,
+        "long": -88.2296394
+      },
+      {
+        "lat": 40.10628,
+        "long": -88.22621
+      },
+      {
+        "lat": 40.107534,
+        "long": -88.2281548
+      },
+      {
+        "lat": 40.105732,
+        "long": -88.2281018
+      }
+    ],
+    "finalDates": [],
+    "finalTimes": []
+  }
+}

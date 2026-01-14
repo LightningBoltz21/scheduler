@@ -1,0 +1,2065 @@
+{
+  "subject": "LA",
+  "scrapedAt": 1768434426447,
+  "courseCount": 28,
+  "courses": {
+    "LA 234": [
+      "Site Design Studio",
+      {
+        "A": [
+          "35292",
+          [
+            [
+              0,
+              "MWF",
+              "200 Mumford Hall",
+              0,
+              [
+                "Gu, Y",
+                "Reeves Dias Jacobs Sujitha Sharmy, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Site as the fundamental unit of landscape design. Involves ecological, cultural and experiential understanding of sites, and the creation of place-specific designs. Field trip required.",
+      []
+    ],
+    "LA 314": [
+      "History of World Landscapes",
+      {
+        "A": [
+          "64527",
+          [
+            [
+              66,
+              "R",
+              "325 Temple Hoyne Buell Hall",
+              0,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              3,
+              "R",
+              "ONLINE",
+              0,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "64528",
+          [
+            [
+              106,
+              "R",
+              "325 Temple Hoyne Buell Hall",
+              0,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              3,
+              "R",
+              "ONLINE",
+              0,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "C": [
+          "64529",
+          [
+            [
+              107,
+              "R",
+              "325 Temple Hoyne Buell Hall",
+              0,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              3,
+              "R",
+              "ONLINE",
+              0,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "D": [
+          "64530",
+          [
+            [
+              19,
+              "R",
+              "325 Temple Hoyne Buell Hall",
+              0,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              3,
+              "R",
+              "ONLINE",
+              0,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "E": [
+          "69401",
+          [
+            [
+              108,
+              "R",
+              "325 Temple Hoyne Buell Hall",
+              0,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              3,
+              "R",
+              "ONLINE",
+              0,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "F": [
+          "73591",
+          [
+            [
+              109,
+              "R",
+              "Location Pending",
+              0,
+              [
+                "Rhee, P"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              3,
+              "R",
+              "ONLINE",
+              0,
+              [
+                "Rhee, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "LC": [
+          "64454",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Rhee, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          7,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Analysis of the development of landscape architecture as a result of environmental and cultural influences.",
+      []
+    ],
+    "LA 241": [
+      "Landform Design & Construction",
+      {
+        "A": [
+          "35296",
+          [
+            [
+              0,
+              "TR",
+              "200 Mumford Hall",
+              0,
+              [
+                "Baakliny, J",
+                "Deal, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to landform design, drainage, stormwater management, surveying, and materials.",
+      []
+    ],
+    "LA 242": [
+      "Nature and American Culture",
+      {
+        "ONA": [
+          "61461",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Grimes, D",
+                "Park, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "ONB": [
+          "61464",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Grimes, D",
+                "Park, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as RST 242, and NRES 242. See RST 242.",
+      []
+    ],
+    "LA 221": [
+      "History of the Prison",
+      {
+        "RG": [
+          "64179",
+          [
+            [
+              36,
+              "TR",
+              "319 Gregory Hall",
+              8,
+              [
+                "Adewunmi, T",
+                "Ginsburg, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "History of prison architecture, landscapes, and carceral regimes from ancient times until the present. Topics include: philosophy of punishment, the invention of the modern prison, the advent of mass incarceration, and 21st century geographies of incarceration. The course focuses on the western experience, but also includes international examples, e.g. from China, East Africa, and Japan. Interdisciplinary approach includes readings in architectural history, urban planning, sociology, philosophy, psychology, history, and landscape studies.",
+      []
+    ],
+    "LA 281": [
+      "Design Communications II",
+      {
+        "M1": [
+          "35298",
+          [
+            [
+              104,
+              "TR",
+              "200 Mumford Hall",
+              0,
+              [
+                "Gu, Y",
+                "Liang, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Advanced principles and techniques of visual communication in landscape architectural rendering, emphasizing computer-based techniques.",
+      []
+    ],
+    "LA 199": [
+      "First-Year Seminar",
+      {
+        "": [
+          "10486",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Survey topics in landscape architecture.",
+      []
+    ],
+    "LA 336": [
+      "Design Workshop Studio I",
+      {
+        "BD": [
+          "35307",
+          [
+            [
+              85,
+              "MW",
+              "219 Temple Hoyne Buell Hall",
+              0,
+              [
+                "Deal, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "ES": [
+          "73407",
+          [
+            [
+              85,
+              "MW",
+              "319 Temple Hoyne Buell Hall",
+              0,
+              [
+                "Scott, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "JA2": [
+          "35305",
+          [
+            [
+              85,
+              "MW",
+              "327 Temple Hoyne Buell Hall",
+              0,
+              [
+                "Altshuler, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "MPM": [
+          "35306",
+          [
+            [
+              85,
+              "MW",
+              "319 Temple Hoyne Buell Hall",
+              0,
+              [
+                "Afeke, S",
+                "McGuire, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "ZT": [
+          "39843",
+          [
+            [
+              85,
+              "MW",
+              "219 Temple Hoyne Buell Hall",
+              0,
+              [
+                "Tao, Z"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Project design at various scales utilizing problems of a wide range of complexity and subject matter; rural, community, and urban problems, housing, recreation, and natural areas; emphasizes problem analysis and generation of innovative design alternatives. Students select from several sections depending on specific interests.",
+      []
+    ],
+    "LA 343": [
+      "Landscape Construction",
+      {
+        "A": [
+          "35308",
+          [
+            [
+              32,
+              "F",
+              "325 Temple Hoyne Buell Hall",
+              0,
+              [
+                "Kundu, G",
+                "Littleton, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Construction methods, materials, and procedures related to the design of landscape structures; development of design details and cost estimating.",
+      []
+    ],
+    "LA 222": [
+      "Islamic Gardens & Architecture",
+      {
+        "A1": [
+          "73056",
+          [
+            [
+              10,
+              "F",
+              "18 Temple Hoyne Buell Hall",
+              0,
+              [
+                "Ruggles, D"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              3,
+              "F",
+              "ONLINE",
+              0,
+              [
+                "Ruggles, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "B1": [
+          "73059",
+          [
+            [
+              21,
+              "F",
+              "18 Temple Hoyne Buell Hall",
+              0,
+              [
+                "Ruggles, D"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              3,
+              "F",
+              "ONLINE",
+              0,
+              [
+                "Ruggles, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "C1": [
+          "73062",
+          [
+            [
+              5,
+              "F",
+              "18 Temple Hoyne Buell Hall",
+              0,
+              [
+                "Ruggles, D"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              3,
+              "F",
+              "ONLINE",
+              0,
+              [
+                "Ruggles, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "D1": [
+          "73065",
+          [
+            [
+              18,
+              "F",
+              "18 Temple Hoyne Buell Hall",
+              0,
+              [
+                "Ruggles, D"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              3,
+              "F",
+              "ONLINE",
+              0,
+              [
+                "Ruggles, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "DFR": [
+          "64180",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Ruggles, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "E1": [
+          "74900",
+          [
+            [
+              22,
+              "F",
+              "18 Temple Hoyne Buell Hall",
+              0,
+              [
+                "Ruggles, D"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              3,
+              "F",
+              "ONLINE",
+              0,
+              [
+                "Ruggles, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Study of the formation, history, and meaning of the landscape and architecture of the Islamic world.",
+      []
+    ],
+    "LA 345": [
+      "Professional Internship",
+      {
+        "A": [
+          "35309",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Davis, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          10,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Professionally supervised field experience in design offices and public agencies intended to introduce students to practice. Students work in the department-approved firm or agency of their choice. Seventy five hours of employment is required for each one hour of course credit or a zero-credit option is available.",
+      []
+    ],
+    "LA 387": [
+      "Undergraduate Seminar",
+      {
+        "BD": [
+          "75970",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Deal, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          6,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "DH": [
+          "73469",
+          [
+            [
+              13,
+              "TR",
+              "325 Temple Hoyne Buell Hall",
+              0,
+              [
+                "Hays, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          6,
+          11,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Topics in current and future areas of landscape architectural application.",
+      []
+    ],
+    "LA 434": [
+      "Graduate Site Design Studio",
+      {
+        "A": [
+          "73088",
+          [
+            [
+              85,
+              "MW",
+              "Location Pending",
+              0,
+              [
+                "Sears, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Graduate-level introduction for students without a BLA to site as the fundamental unit of landscape design. Involves ecological, cultural and experiential understanding of sites, and the creation of place-specific designs. Field trip required.",
+      []
+    ],
+    "LA 390": [
+      "Independent Study I",
+      {
+        "": [
+          "10488",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          6,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "DH2": [
+          "44529",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Hays, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          6,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Supervised independent study, research, or special project in a selected area related to landscape architecture.",
+      []
+    ],
+    "LA 472": [
+      "Museum Theory and Practice",
+      {
+        "1G": [
+          "47362",
+          [
+            [
+              5,
+              "MWF",
+              "1010 Wymer Hall",
+              0,
+              [
+                "Frankenberg, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "1U": [
+          "47363",
+          [
+            [
+              5,
+              "MWF",
+              "1010 Wymer Hall",
+              0,
+              [
+                "Frankenberg, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as ANTH 462 and ARTH 462. See ANTH 462.",
+      []
+    ],
+    "LA 480": [
+      "Sustainable Design Principles",
+      {
+        "BD": [
+          "66213",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Deal, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to key concepts for the sustainable design of buildings and landscapes, including concepts that form the core of the U.S Green Building Council rating system (LEED). Introduction to LEED accreditation.",
+      []
+    ],
+    "LA 370": [
+      "Environmental Sustainability",
+      {
+        "A": [
+          "77855",
+          [
+            [
+              4,
+              "TR",
+              "2020A Natural History Building",
+              0,
+              [
+                "Tomkin, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as ENSU 300 and NRES 370. See ENSU 300.",
+      []
+    ],
+    "LA 438": [
+      "Design Workshop Studio II",
+      {
+        "BD": [
+          "69245",
+          [
+            [
+              85,
+              "MW",
+              "219 Temple Hoyne Buell Hall",
+              0,
+              [
+                "Deal, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "ES": [
+          "73406",
+          [
+            [
+              85,
+              "MW",
+              "319 Temple Hoyne Buell Hall",
+              0,
+              [
+                "Scott, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "JA2": [
+          "57634",
+          [
+            [
+              85,
+              "MW",
+              "327 Temple Hoyne Buell Hall",
+              0,
+              [
+                "Altshuler, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "MPM": [
+          "69244",
+          [
+            [
+              85,
+              "MW",
+              "319 Temple Hoyne Buell Hall",
+              0,
+              [
+                "Afeke, S",
+                "McGuire, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "ZT": [
+          "69246",
+          [
+            [
+              85,
+              "MW",
+              "219 Temple Hoyne Buell Hall",
+              0,
+              [
+                "Tao, Z"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Project design at various scales utilizing problems of a wide range of complexity and subject matter; rural, community, and urban problems, housing, recreation, and natural areas; and emphasizes problem analysis and generation of innovative design alternatives. The student selects from several sections depending on specific interests.",
+      []
+    ],
+    "LA 430": [
+      "Children and Nature",
+      {
+        "OLP": [
+          "68726",
+          [
+            [
+              81,
+              "W",
+              "ONLINE",
+              0,
+              [
+                "Taylor, A",
+                "de Gracia Fuentes, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          13,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "60694",
+          [
+            [
+              81,
+              "W",
+              "ONLINE",
+              0,
+              [
+                "Taylor, A",
+                "de Gracia Fuentes, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          13,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as HORT 430. See HORT 430.",
+      []
+    ],
+    "LA 513": [
+      "History of World Landscapes",
+      {
+        "A": [
+          "64525",
+          [
+            [
+              107,
+              "R",
+              "18 Temple Hoyne Buell Hall",
+              0,
+              [
+                "Rhee, P"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              3,
+              "R",
+              "ONLINE",
+              0,
+              [
+                "Rhee, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "43046",
+          [
+            [
+              109,
+              "R",
+              "325 Temple Hoyne Buell Hall",
+              0,
+              [
+                "Rhee, P"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              3,
+              "R",
+              "ONLINE",
+              0,
+              [
+                "Rhee, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "LC": [
+          "64456",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Rhee, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          7,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to the landscape architectural heritage of the past in its social, environmental and historical context.",
+      []
+    ],
+    "LA 534": [
+      "Design Workshop G-I",
+      {
+        "BD": [
+          "73100",
+          [
+            [
+              85,
+              "MW",
+              "219 Temple Hoyne Buell Hall",
+              0,
+              [
+                "Deal, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "ES": [
+          "73408",
+          [
+            [
+              85,
+              "MW",
+              "319 Temple Hoyne Buell Hall",
+              0,
+              [
+                "Scott, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "JA2": [
+          "73404",
+          [
+            [
+              85,
+              "MW",
+              "327 Temple Hoyne Buell Hall",
+              0,
+              [
+                "Altshuler, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "MPM": [
+          "73096",
+          [
+            [
+              85,
+              "MW",
+              "319 Temple Hoyne Buell Hall",
+              0,
+              [
+                "McGuire, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "ZT": [
+          "73098",
+          [
+            [
+              85,
+              "MW",
+              "219 Temple Hoyne Buell Hall",
+              0,
+              [
+                "Tao, Z"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Graduate project design at various scales utilizing problems of a wide range of complexity and subject matter; rural, community, and urban problems, housing, recreation, and natural areas; and emphasizes problem analysis and generation of innovative design alternatives. The student selects from several sections depending on specific interests.",
+      []
+    ],
+    "LA 545": [
+      "Graduate Internship",
+      {
+        "A": [
+          "75451",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Davis, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          12,
+          12,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Professionally supervised field experience in design offices and public agencies intended to provide the opportunity for graduate students to develop advanced practice skills. Students work in the department-approved firm or agency of their choice. Seventy five hours of employment is required for each one hour of course credit.",
+      []
+    ],
+    "LA 598": [
+      "Master's Project",
+      {
+        "": [
+          "10490",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          8,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Major independent or small-group project synthesizing knowledge from previous coursework.",
+      []
+    ],
+    "LA 590": [
+      "Directed Research",
+      {
+        "": [
+          "10489",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          8,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "RG1": [
+          "40701",
+          [
+            [
+              36,
+              "TR",
+              "Location Pending",
+              0,
+              [
+                "Ginsburg, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          8,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Nature and scope of projects to be determined by consultation between student and faculty adviser; open to landscape architecture majors as well as those from other disciplines who wish to engage in interdisciplinary work.",
+      []
+    ],
+    "LA 597": [
+      "Research Design & Methods",
+      {
+        "PR": [
+          "64182",
+          [
+            [
+              29,
+              "MW",
+              "325 Temple Hoyne Buell Hall",
+              0,
+              [
+                "Rhee, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "This graduate-level course provides instruction and application of research and scholarly methods for landscape architecture and related fields. Students are introduced to the basic steps of inquiry and development of a thesis/research proposal. Course content includes: problem identification; choosing and articulating a research topic; synthesis of topical/theoretical background from literature; choice of research strategy; design of a plan for investigation; selection of data sources, methods and analysis; proof of concept; feasibility planning; and other necessary components of a successful research proposal. Prerequisite: Second year or post-professional MLA students; graduate students in other majors may enroll with permission of instructor.",
+      []
+    ],
+    "LA 594": [
+      "Cultural Heritage",
+      {
+        "KH": [
+          "43298",
+          [
+            [
+              0,
+              "T",
+              "325 Temple Hoyne Buell Hall",
+              0,
+              [
+                "Holliday, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Topics in cultural landscape heritage, conservation planning and design. Investigates theories of landscape, heritage, and their intersections, with readings drawn from anthropology, geography, and landscape studies, as well as applied work on historical landscape conservation, preservation and management.",
+      []
+    ],
+    "LA 539": [
+      "Design Workshop G-II",
+      {
+        "BD": [
+          "73101",
+          [
+            [
+              85,
+              "MW",
+              "219 Temple Hoyne Buell Hall",
+              0,
+              [
+                "Deal, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "ES": [
+          "73410",
+          [
+            [
+              85,
+              "MW",
+              "319 Temple Hoyne Buell Hall",
+              0,
+              [
+                "Scott, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "JA2": [
+          "73405",
+          [
+            [
+              85,
+              "MW",
+              "327 Temple Hoyne Buell Hall",
+              0,
+              [
+                "Altshuler, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "MPM": [
+          "73097",
+          [
+            [
+              85,
+              "MW",
+              "319 Temple Hoyne Buell Hall",
+              0,
+              [
+                "McGuire, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "ZT": [
+          "73099",
+          [
+            [
+              85,
+              "MW",
+              "219 Temple Hoyne Buell Hall",
+              0,
+              [
+                "Tao, Z"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Advanced graduate project design at various scales utilizing problems of a wide range of complexity and subject matter; rural, community, and urban problems, housing, recreation, and natural areas; and emphasizes problem analysis and generation of innovative design alternatives. The student selects from several sections depending on specific interests.",
+      []
+    ],
+    "LA 587": [
+      "Graduate Seminar",
+      {
+        "BD": [
+          "35332",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Deal, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "DH": [
+          "46648",
+          [
+            [
+              13,
+              "TR",
+              "325 Temple Hoyne Buell Hall",
+              0,
+              [
+                "Hays, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          11,
+          0,
+          [],
+          -1
+        ],
+        "RG": [
+          "40699",
+          [
+            [
+              66,
+              "TR",
+              "Location Pending",
+              0,
+              [
+                "Ginsburg, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Preparation, presentation, and discussion of research papers on current and future areas of landscape architectural application.",
+      []
+    ]
+  },
+  "caches": {
+    "periods": [
+      "1400 - 1650",
+      "1500 - 1750",
+      "1400 - 1450",
+      "0000 - 0000",
+      "1400 - 1520",
+      "1100 - 1150",
+      "1300 - 1450",
+      "1000 - 1150",
+      "1200 - 1350",
+      "0900 - 1050",
+      "0900 - 0950",
+      "1700 - 1950",
+      "0930 - 1220",
+      "1230 - 1350",
+      "1100 - 1250",
+      "1300 - 1420",
+      "1930 - 2050",
+      "1800 - 1950",
+      "1200 - 1250",
+      "1530 - 1620",
+      "1300 - 1520",
+      "1000 - 1050",
+      "1300 - 1350",
+      "1500 - 1650",
+      "1600 - 1750",
+      "1600 - 1720",
+      "1200 - 1320",
+      "1500 - 1720",
+      "0930 - 1050",
+      "1100 - 1220",
+      "1400 - 1550",
+      "1030 - 1150",
+      "0900 - 1150",
+      "1500 - 1600",
+      "1530 - 1650",
+      "1500 - 1620",
+      "0900 - 1020",
+      "1400 - 1515",
+      "1500 - 1550",
+      "1530 - 1720",
+      "1600 - 1650",
+      "1700 - 1820",
+      "1800 - 2100",
+      "1600 - 1820",
+      "0900 - 1145",
+      "0900 - 1120",
+      "1430 - 1550",
+      "1730 - 1850",
+      "1100 - 1320",
+      "1300 - 1600",
+      "1530 - 1750",
+      "1300 - 1545",
+      "1000 - 1200",
+      "1700 - 1900",
+      "1700 - 1750",
+      "1100 - 1350",
+      "1230 - 1520",
+      "1000 - 1250",
+      "1400 - 1720",
+      "1600 - 1715",
+      "0930 - 1045",
+      "0800 - 1150",
+      "1430 - 1620",
+      "1115 - 1205",
+      "1010 - 1100",
+      "1230 - 1320",
+      "0930 - 1020",
+      "1000 - 1120",
+      "0900 - 1140",
+      "1230 - 1420",
+      "1800 - 1850",
+      "0800 - 0850",
+      "0800 - 0920",
+      "0830 - 0950",
+      "1800 - 2020",
+      "1000 - 1220",
+      "0830 - 1120",
+      "1300 - 1550",
+      "1530 - 1710",
+      "1200 - 1450",
+      "1900 - 2020",
+      "1900 - 2030",
+      "0900 - 1030",
+      "1730 - 2030",
+      "0800 - 1050",
+      "1300 - 1650",
+      "1000 - 1130",
+      "1000 - 1100",
+      "1730 - 2020",
+      "0800 - 0940",
+      "0900 - 1040",
+      "1200 - 1340",
+      "1100 - 1215",
+      "1230 - 1345",
+      "1530 - 1645",
+      "1730 - 1845",
+      "1000 - 1115",
+      "1700 - 1850",
+      "1900 - 2050",
+      "1800 - 2050",
+      "1530 - 1820",
+      "1600 - 1850",
+      "1800 - 1920",
+      "1330 - 1620",
+      "0930 - 1120",
+      "1130 - 1320",
+      "1030 - 1120",
+      "1430 - 1520",
+      "1630 - 1720",
+      "1130 - 1220"
+    ],
+    "dateRanges": [],
+    "scheduleTypes": [
+      "Laboratory",
+      "Lecture",
+      "Independent Study",
+      "Laboratory-Discussion",
+      "Online",
+      "Lecture-Discussion",
+      "Conference",
+      "Online Lecture",
+      "Online Lab",
+      "Discussion/ Recitation",
+      "Study Abroad",
+      "Seminar",
+      "Internship",
+      "Online Lecture Discussion",
+      "Online Discussion",
+      "Research"
+    ],
+    "campuses": [],
+    "attributes": [],
+    "restrictions": [],
+    "gradeBases": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      },
+      {
+        "lat": 40.11246109008789,
+        "long": -88.22831726074219
+      },
+      {
+        "lat": 40.1072225,
+        "long": -88.2262016
+      },
+      {
+        "lat": 40.1065684,
+        "long": -88.2281746
+      },
+      {
+        "lat": 40.1035833,
+        "long": -88.228405
+      },
+      {
+        "lat": 40.1020773,
+        "long": -88.2296394
+      },
+      {
+        "lat": 40.10628,
+        "long": -88.22621
+      },
+      {
+        "lat": 40.107534,
+        "long": -88.2281548
+      },
+      {
+        "lat": 40.105732,
+        "long": -88.2281018
+      },
+      {
+        "lat": 40.1033599,
+        "long": -88.2292111
+      },
+      {
+        "lat": 40.1047599,
+        "long": -88.2319514
+      },
+      {
+        "lat": 40.111691,
+        "long": -88.2242511
+      },
+      {
+        "lat": 40.1109722,
+        "long": -88.2282631
+      },
+      {
+        "lat": 40.104794,
+        "long": -88.224264
+      },
+      {
+        "lat": 40.1083446,
+        "long": -88.2282555
+      },
+      {
+        "lat": 40.1110937,
+        "long": -88.2232348
+      },
+      {
+        "lat": 40.1034533,
+        "long": -88.2327596
+      },
+      {
+        "lat": 40.0995003,
+        "long": -88.223104
+      },
+      {
+        "lat": 40.1028373,
+        "long": -88.2251326
+      },
+      {
+        "lat": 40.1048704,
+        "long": -88.2229036
+      },
+      {
+        "lat": 40.10593795776367,
+        "long": -88.2270736694336
+      },
+      {
+        "lat": 40.103587,
+        "long": -88.230606
+      },
+      {
+        "lat": 40.1131317,
+        "long": -88.2264552
+      },
+      {
+        "lat": 40.1108856,
+        "long": -88.2269806
+      }
+    ],
+    "finalDates": [],
+    "finalTimes": []
+  }
+}
