@@ -1,0 +1,1433 @@
+{
+  "subject": "NRES",
+  "scrapedAt": 1768372850940,
+  "courseCount": 17,
+  "courses": {
+    "NRES 220": [
+      "Communicating Agriculture",
+      {
+        "ADA": [
+          "52699",
+          [
+            [
+              11,
+              "WF",
+              "1062 Lincoln Hall",
+              6,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          12,
+          0,
+          [],
+          -1
+        ],
+        "ADB": [
+          "73167",
+          [
+            [
+              17,
+              "WF",
+              "1120 Literatures, Cultures, & Ling",
+              0,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          12,
+          0,
+          [],
+          -1
+        ],
+        "ADC": [
+          "77858",
+          [
+            [
+              10,
+              "WF",
+              "217 Gregory Hall",
+              4,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          12,
+          0,
+          [],
+          -1
+        ],
+        "AL": [
+          "77861",
+          [
+            [
+              11,
+              "M",
+              "331 Armory",
+              2,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as AGCM 220 and ENVS 220. See AGCM 220.",
+      []
+    ],
+    "NRES 287": [
+      "Environment and Society",
+      {
+        "AD1": [
+          "52472",
+          [
+            [
+              17,
+              "F",
+              "223 David Kinley Hall",
+              5,
+              [
+                "Salas, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          12,
+          0,
+          [],
+          -1
+        ],
+        "AD2": [
+          "52478",
+          [
+            [
+              11,
+              "F",
+              "223 David Kinley Hall",
+              5,
+              [
+                "Salas, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          12,
+          0,
+          [],
+          -1
+        ],
+        "AD3": [
+          "52484",
+          [
+            [
+              11,
+              "F",
+              "212 David Kinley Hall",
+              5,
+              [
+                "Johnson, Z"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          12,
+          0,
+          [],
+          -1
+        ],
+        "AD4": [
+          "52492",
+          [
+            [
+              23,
+              "F",
+              "212 David Kinley Hall",
+              5,
+              [
+                "Johnson, Z"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          12,
+          0,
+          [],
+          -1
+        ],
+        "AD5": [
+          "52500",
+          [
+            [
+              10,
+              "F",
+              "212 David Kinley Hall",
+              5,
+              [
+                "Afzal, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          12,
+          0,
+          [],
+          -1
+        ],
+        "AD7": [
+          "68925",
+          [
+            [
+              9,
+              "F",
+              "212 David Kinley Hall",
+              5,
+              [
+                "Afzal, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          12,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "41122",
+          [
+            [
+              11,
+              "MW",
+              "213 Gregory Hall",
+              4,
+              [
+                "Garcia Otero, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Examination of the relationship between environment and society and implications for ecological and human well-being. Social science perspective covered on topics such as environmental change, environmental decision-making, natural resource management, agricultural systems, and environmental risks, hazards, and disasters. Students will build critical thinking skills focused on contemporary problems in the interface between people and the physical environment.",
+      []
+    ],
+    "NRES 100": [
+      "Fundamentals of Env Sci",
+      {
+        "AL1": [
+          "34947",
+          [
+            [
+              7,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Bloomer, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to environmental sciences and current environment issues. Topics include population growth, world food supplies, agriculture and the environment, biodiversity, fossil fuels and \"green\" energy issues, endangered and threatened species, water use, conservation and pollution, global warming, acid rain, ozone depletion, waste management and reduction, recycling, toxins and health, mineral resources, and environmental policies and regulations. Course addresses the complex relationships between the human race and the natural systems that contain our air, water, energy, and biotic and food resources.",
+      []
+    ],
+    "NRES 101": [
+      "Wildlife Conservation in the 21st Century",
+      {
+        "A": [
+          "60210",
+          [
+            [
+              7,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Brunk, L",
+                "Stickley, S",
+                "Witynski, G"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "An introduction to the conservation, diversity and ecology of animals. The diversity of fish, reptiles, amphibians, mammals, and birds both around the world and in Illinois will be explored. The course will have a strong conservation component where students are introduced to a variety of threats facing animals. The students will be introduced to how to manage sustainable wildlife populations. The students will be exposed to current issues in Illinois to illustrate how people and animals can co-occur and a broad overview of the management, restoration, and conservation techniques.",
+      []
+    ],
+    "NRES 108": [
+      "Env Sc & Nat Resource Careers",
+      {
+        "A": [
+          "58186",
+          [
+            [
+              7,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Hodson, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ESE": [
+          "59551",
+          [
+            [
+              7,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Hodson, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Explores career options in the fields of Natural Resource Management and Environmental Sciences. Students will improve understanding of their career goals, expand their knowledge of careers available in these fields, improve their job searching skills, and develop a plan for pursuing a career.",
+      []
+    ],
+    "NRES 242": [
+      "Nature and American Culture",
+      {
+        "ONA": [
+          "61462",
+          [
+            [
+              7,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Grimes, D",
+                "Park, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ONB": [
+          "61465",
+          [
+            [
+              7,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Grimes, D",
+                "Park, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as LA 242 and RST 242. See RST 242.",
+      []
+    ],
+    "NRES 105": [
+      "Climate Change Impacts on Ecological Systems",
+      {
+        "A": [
+          "69995",
+          [
+            [
+              7,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Fraterrigo, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Examines the response of ecological systems to climate change by drawing on multiple lines of evidence from the past and present. Topics include species range shifts, timing of biological events, ecosystem function, and feedbacks. The implications for conservation, as well as approaches to mitigating and adapting to climate change, are also explored. Computer-based exercises are used to enhance quantitative reasoning skills and build climate and ecological literacy.",
+      []
+    ],
+    "NRES 201": [
+      "Introductory Soils",
+      {
+        "AB1": [
+          "34987",
+          [
+            [
+              42,
+              "M",
+              "W25 Turner Hall",
+              0,
+              [
+                "Arai, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "AB2": [
+          "34978",
+          [
+            [
+              42,
+              "T",
+              "W25 Turner Hall",
+              0,
+              [
+                "Arai, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "AB4": [
+          "34955",
+          [
+            [
+              42,
+              "R",
+              "W25 Turner Hall",
+              0,
+              [
+                "Arai, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "34993",
+          [
+            [
+              47,
+              "MW",
+              "W109 Turner Hall",
+              0,
+              [
+                "Arai, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "[IAI Code: AG904] The nature and properties of soil including origin, formation, and biological, chemical, and physical aspects.",
+      []
+    ],
+    "NRES 210": [
+      "Environmental Economics & Policy",
+      {
+        "AD2": [
+          "30548",
+          [
+            [
+              9,
+              "F",
+              "325 David Kinley Hall",
+              5,
+              [
+                "Loduca, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          12,
+          0,
+          [],
+          -1
+        ],
+        "AD3": [
+          "30551",
+          [
+            [
+              10,
+              "F",
+              "325 David Kinley Hall",
+              5,
+              [
+                "Loduca, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          12,
+          0,
+          [],
+          -1
+        ],
+        "AD4": [
+          "30553",
+          [
+            [
+              23,
+              "F",
+              "325 David Kinley Hall",
+              5,
+              [
+                "Loduca, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          12,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "30555",
+          [
+            [
+              26,
+              "MW",
+              "1000 Lincoln Hall",
+              6,
+              [
+                "Loduca, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as ACE 210, ECON 210, ENVS 210, and UP 210. See ACE 210.",
+      []
+    ],
+    "NRES 293": [
+      "Professional Internship",
+      {
+        "": [
+          "10092",
+          [
+            [
+              7,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Off-campus experience in a field directly pertaining to a subject matter in natural resources and environmental sciences.",
+      []
+    ],
+    "NRES 340": [
+      "Environ Social Sci Res Meth",
+      {
+        "A": [
+          "54685",
+          [
+            [
+              15,
+              "MW",
+              "W223 Turner Hall",
+              0,
+              [
+                "Wardropper, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to social science research methods for addressing environmental issues. It provides basic information about social science concepts and methods (especially observation, surveys, focus groups, and interviews), helps students become informed users of social science research, and guides selection of appropriate social science tools to meet environmental challenges. A group focus on a local environmental issue offers a practical experience in which course content is applied within a specific community context.",
+      []
+    ],
+    "NRES 310": [
+      "Natural Resource Economics",
+      {
+        "AD1": [
+          "60473",
+          [
+            [
+              9,
+              "F",
+              "M205 Turner Hall",
+              0,
+              [
+                "Atallah, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          12,
+          0,
+          [],
+          -1
+        ],
+        "AD2": [
+          "60474",
+          [
+            [
+              10,
+              "F",
+              "M205 Turner Hall",
+              0,
+              [
+                "Atallah, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          12,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "60461",
+          [
+            [
+              10,
+              "MW",
+              "131 Animal Sciences Laboratory",
+              26,
+              [
+                "Atallah, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as ACE 310 and ENVS 310. See ACE 310.",
+      []
+    ],
+    "NRES 295": [
+      "Undergrad Research or Thesis",
+      {
+        "": [
+          "10096",
+          [
+            [
+              7,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Individual research, special problems, thesis, development and/or design work under the supervision of an appropriate member of the faculty.",
+      []
+    ],
+    "NRES 294": [
+      "Resident Internship",
+      {
+        "": [
+          "10086",
+          [
+            [
+              7,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "NPC": [
+          "52460",
+          [
+            [
+              18,
+              "T",
+              "60 Lincoln Avenue Residence Hall",
+              0,
+              [
+                "Leiter, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          11,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Supervised, on-campus, learning experience with faculty engaged in research.",
+      []
+    ],
+    "NRES 385": [
+      "Field Experience",
+      {
+        "A": [
+          "77962",
+          [
+            [
+              42,
+              "T",
+              "Location Pending",
+              0,
+              [
+                "Ashmore, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "EHI": [
+          "77961",
+          [
+            [
+              62,
+              "T",
+              "W223 Turner Hall",
+              0,
+              [
+                "Leiter, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "EWI": [
+          "78065",
+          [
+            [
+              7,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Bloomer, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "FPF": [
+          "78233",
+          [
+            [
+              177,
+              "W",
+              "N120 Turner Hall",
+              0,
+              [
+                "Evans, C",
+                "Fraterrigo, J",
+                "Rohling, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "LRF": [
+          "77960",
+          [
+            [
+              18,
+              "R",
+              "Location Pending",
+              0,
+              [
+                "Guyon, L",
+                "Sloan, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "PAM": [
+          "78269",
+          [
+            [
+              17,
+              "MW",
+              "W115 Turner Hall",
+              0,
+              [
+                "Van Riper, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "SJC": [
+          "78431",
+          [
+            [
+              124,
+              "T",
+              "W13 Turner Hall",
+              0,
+              [
+                "Miernicki, L",
+                "Wiesbrook, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Field based course that exposes students to procedures and methods used in various resource settings in a hands-on manner. Includes field trips to visit representative natural resource and environmental science settings with supporting active learning exercises. Field trips vary by section (multiple day trips or longer single trip at the end of the course). Content of offerings vary by section, but all focus on resource management, environmental quality and assessment, and effects of consumption and use on the environment. Field trips required.",
+      []
+    ],
+    "NRES 362": [
+      "Ecology of Invasive Species",
+      {
+        "A": [
+          "67076",
+          [
+            [
+              47,
+              "TR",
+              "W223 Turner Hall",
+              0,
+              [
+                "Larson, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Focused on the ecology and management of biological invasions, with an emphasis on understanding the introduction, establishment, spread and impact stages of the invasion process. Students will identify the causes and impacts of biological invasions, as well as management strategies for preventing new invasions and mitigating impacts of established invaders in freshwater, marine, and terrestrial ecosystems. No special equipment will be required, and any optional, weekend field trips will occur on campus.",
+      []
+    ],
+    "NRES 370": [
+      "Environmental Sustainability",
+      {
+        "A": [
+          "77863",
+          [
+            [
+              13,
+              "TR",
+              "2020A Natural History Building",
+              0,
+              [
+                "Tomkin, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as ENSU 300 and LA 370. See ENSU 300.",
+      []
+    ]
+  },
+  "caches": {
+    "periods": [
+      "1300 - 1550",
+      "1000 - 1250",
+      "0930 - 1220",
+      "0900 - 1150",
+      "1530 - 1820",
+      "1700 - 1850",
+      "1230 - 1520",
+      "0000 - 0000",
+      "1600 - 1720",
+      "1000 - 1050",
+      "1100 - 1150",
+      "1300 - 1350",
+      "0930 - 1050",
+      "1400 - 1520",
+      "1900 - 2050",
+      "1300 - 1420",
+      "1530 - 1650",
+      "1400 - 1450",
+      "1500 - 1650",
+      "1230 - 1350",
+      "1500 - 1750",
+      "0900 - 1020",
+      "1500 - 1620",
+      "1200 - 1250",
+      "0900 - 0950",
+      "1100 - 1220",
+      "1500 - 1550",
+      "1800 - 1920",
+      "1600 - 1850",
+      "1330 - 1620",
+      "0930 - 1120",
+      "1130 - 1320",
+      "0800 - 0920",
+      "1430 - 1620",
+      "1000 - 1150",
+      "0900 - 1140",
+      "0930 - 1020",
+      "1030 - 1120",
+      "1430 - 1520",
+      "1530 - 1620",
+      "1630 - 1720",
+      "1130 - 1220",
+      "1400 - 1650",
+      "1300 - 1650",
+      "1900 - 2030",
+      "1700 - 1900",
+      "1630 - 1750",
+      "1700 - 1820",
+      "1230 - 1320",
+      "1500 - 1615",
+      "1530 - 1645",
+      "1330 - 1445",
+      "1030 - 1145",
+      "1030 - 1150",
+      "1200 - 1259",
+      "1600 - 1750",
+      "1430 - 1545",
+      "1600 - 1715",
+      "1330 - 1520",
+      "1330 - 1420",
+      "0900 - 1015",
+      "1325 - 1445",
+      "0900 - 1050",
+      "0830 - 1020",
+      "1729 - 1920",
+      "1500 - 1659",
+      "1300 - 1459",
+      "0850 - 1020",
+      "1715 - 1830",
+      "1730 - 1930",
+      "1330 - 1535",
+      "0930 - 1135",
+      "1700 - 1930",
+      "0900 - 1159",
+      "0930 - 1130",
+      "1630 - 1745",
+      "0930 - 1129",
+      "0915 - 1159",
+      "1200 - 1320",
+      "1600 - 1859",
+      "1600 - 1810",
+      "1700 - 1859",
+      "1500 - 1629",
+      "1800 - 1915",
+      "1600 - 1759",
+      "1330 - 1615",
+      "1500 - 1555",
+      "1330 - 1559",
+      "1330 - 1640",
+      "1330 - 1630",
+      "1345 - 1645",
+      "1630 - 1820",
+      "1230 - 1420",
+      "0900 - 1700",
+      "0900 - 1035",
+      "1630 - 1920",
+      "1325 - 1450",
+      "1740 - 2000",
+      "1700 - 1830",
+      "1530 - 1720",
+      "1500 - 1720",
+      "1330 - 1529",
+      "1000 - 1159",
+      "1030 - 1159",
+      "1700 - 1910",
+      "1500 - 1745",
+      "1500 - 1729",
+      "1501 - 1745",
+      "1330 - 1429",
+      "1745 - 1925",
+      "1800 - 2005",
+      "1730 - 1920",
+      "1300 - 1415",
+      "1010 - 1125",
+      "1000 - 1120",
+      "0900 - 1000",
+      "1600 - 1650",
+      "1100 - 1350",
+      "1830 - 2030",
+      "0800 - 1030",
+      "1800 - 2000",
+      "1200 - 1330",
+      "0800 - 1050",
+      "0800 - 0950",
+      "1300 - 1450",
+      "1430 - 1550",
+      "1400 - 1550",
+      "1800 - 1930",
+      "1400 - 1720",
+      "1600 - 1820",
+      "1230 - 1345",
+      "1400 - 1515",
+      "1100 - 1320",
+      "1100 - 1215",
+      "1320 - 1450",
+      "1230 - 1430",
+      "1430 - 1820",
+      "0800 - 0850",
+      "1100 - 1250",
+      "0900 - 1040",
+      "1200 - 1350",
+      "1400 - 1750",
+      "0900 - 1250",
+      "1200 - 1450",
+      "1700 - 1750",
+      "1000 - 1350",
+      "1630 - 1730",
+      "1330 - 1500",
+      "1800 - 1950",
+      "0930 - 1045",
+      "0800 - 0930",
+      "0600 - 0720",
+      "1700 - 1920",
+      "1330 - 1450",
+      "1830 - 2050",
+      "1430 - 1630",
+      "0830 - 0950",
+      "1730 - 1820",
+      "1100 - 1300",
+      "0930 - 1100",
+      "1400 - 1530",
+      "1500 - 1630",
+      "1730 - 1900",
+      "1100 - 1230",
+      "1800 - 2050",
+      "1800 - 1850",
+      "1800 - 2020",
+      "1730 - 1850",
+      "1930 - 2130",
+      "1700 - 2000",
+      "1900 - 2200",
+      "1000 - 1300",
+      "1900 - 2150",
+      "1400 - 1630",
+      "1200 - 1300",
+      "1000 - 1130",
+      "1700 - 2050",
+      "1600 - 1730"
+    ],
+    "dateRanges": [],
+    "scheduleTypes": [
+      "Lecture-Discussion",
+      "Online",
+      "Lecture",
+      "Independent Study",
+      "Laboratory",
+      "Laboratory-Discussion",
+      "Online Lab",
+      "Online Lecture",
+      "Conference",
+      "Seminar",
+      "Online Lecture Discussion",
+      "Internship",
+      "Discussion/ Recitation",
+      "Study Abroad",
+      "Online Discussion",
+      "Travel",
+      "LectureMeets 01/22/26-03/27/26",
+      "LectureMeets 02/27/26",
+      "ConferenceMeets 02/27/26",
+      "Lecture-DiscussionMeets 02/27/26",
+      "ConferenceMeets 01/21/26",
+      "LectureMeets 04/03/26",
+      "Lecture-DiscussionMeets 04/03/26",
+      "Lecture-DiscussionMeets 03/03/26",
+      "Discussion/ RecitationMeets 04/24/26",
+      "Lecture-DiscussionMeets 04/24/26",
+      "LectureMeets 03/06/26",
+      "Lecture-DiscussionMeets 03/06/26",
+      "Lecture-DiscussionMeets 03/27/26",
+      "Discussion/ RecitationMeets 03/27/26",
+      "Quiz",
+      "Lecture-DiscussionMeets 04/06/26-04/10/26",
+      "LectureMeets 01/25/26-05/06/26",
+      "Practice",
+      "Packaged Section"
+    ],
+    "campuses": [],
+    "attributes": [],
+    "restrictions": [],
+    "gradeBases": [],
+    "locations": [
+      {
+        "lat": null,
+        "long": null
+      },
+      {
+        "lat": 40.107534,
+        "long": -88.2281548
+      },
+      {
+        "lat": 40.1047599,
+        "long": -88.2319514
+      },
+      {
+        "lat": 40.1072225,
+        "long": -88.2262016
+      },
+      {
+        "lat": 40.105732,
+        "long": -88.2281018
+      },
+      {
+        "lat": 40.1035833,
+        "long": -88.228405
+      },
+      {
+        "lat": 40.1065684,
+        "long": -88.2281746
+      },
+      {
+        "lat": 40.1020773,
+        "long": -88.2296394
+      },
+      {
+        "lat": 40.1108856,
+        "long": -88.2269806
+      },
+      {
+        "lat": 40.11246109008789,
+        "long": -88.22831726074219
+      },
+      {
+        "lat": 40.1033599,
+        "long": -88.2292111
+      },
+      {
+        "lat": 40.10099,
+        "long": -88.23159
+      },
+      {
+        "lat": 40.104794,
+        "long": -88.224264
+      },
+      {
+        "lat": 40.1034533,
+        "long": -88.2327596
+      },
+      {
+        "lat": 40.1083446,
+        "long": -88.2282555
+      },
+      {
+        "lat": 40.107811,
+        "long": -88.2260761
+      },
+      {
+        "lat": 40.1110937,
+        "long": -88.2232348
+      },
+      {
+        "lat": 40.1028373,
+        "long": -88.2251326
+      },
+      {
+        "lat": 40.1109722,
+        "long": -88.2282631
+      },
+      {
+        "lat": 40.103587,
+        "long": -88.230606
+      },
+      {
+        "lat": 40.1149296,
+        "long": -88.2280589
+      },
+      {
+        "lat": 40.1131317,
+        "long": -88.2264552
+      },
+      {
+        "lat": 40.10593795776367,
+        "long": -88.2270736694336
+      },
+      {
+        "lat": 40.101862,
+        "long": -88.231737
+      },
+      {
+        "lat": 40.1116416,
+        "long": -88.2248868
+      },
+      {
+        "lat": 40.111691,
+        "long": -88.2242511
+      },
+      {
+        "lat": 40.0995003,
+        "long": -88.223104
+      }
+    ],
+    "finalDates": [],
+    "finalTimes": []
+  }
+}
