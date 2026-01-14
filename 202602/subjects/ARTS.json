@@ -1,7 +1,7 @@
 {
   "subject": "ARTS",
-  "scrapedAt": 1768370950890,
-  "courseCount": 22,
+  "scrapedAt": 1768372531168,
+  "courseCount": 30,
   "courses": {
     "ARTS 264": [
       "Basic Photography",
@@ -842,126 +842,473 @@
       [],
       "Advanced exploration of specific printmaking processes. Students will develop skills through a progression of projects, while increasing their awareness of conceptual concerns unique to printmaking through discussion and field trips. Projects that relate to work developed in other studio and design areas are encouraged.",
       []
+    ],
+    "ARTS 451": [
+      "BFASA Capstone Studio",
+      {
+        "GM": [
+          "46823",
+          [
+            [
+              0,
+              "MWF",
+              "128 Flagg Hall",
+              0,
+              [
+                "Pokorny, M",
+                "Tomlinson, E",
+                "Ward, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Explores and develops conceptual and aesthetic interests, topics, and projects; expands and refines material knowledge and expertise; develops research strategies and methodologies. Includes individual and group critiques, dynamic interaction with faculty and peers.",
+      []
+    ],
+    "ARTS 461": [
+      "Advanced Photography",
+      {
+        "1": [
+          "71997",
+          [
+            [
+              1,
+              "TR",
+              "129 Flagg Hall",
+              0,
+              [
+                "Fein-Smolinski, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Concentrated use of photographic processes for creative expression with emphasis on professionalism and the production of a photographic portfolio.",
+      []
+    ],
+    "ARTS 465": [
+      "Advanced Illustration",
+      {
+        "1": [
+          "78069",
+          [
+            [
+              0,
+              "MW",
+              "209 Art and Design Building",
+              0,
+              [
+                "Hogin, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Advanced Illustration learning activities, focused through the instructor’s research and creative practice, serve as the base from which students will progress design, composition, and storytelling strategies, and self-directed research practices. Surveys of past and present industry professionals and practices, group and individual discussions, exhibitions, and critique build context and guide students toward the inherent meaning and potential of their work.",
+      []
+    ],
+    "ARTS 591": [
+      "Graduate Studio",
+      {
+        "": [
+          "10363",
+          [
+            [
+              2,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Facilitate and model independently directed practice in the studio arts and related forms of cultural production, as well as the successful navigation of resources and opportunities within and outside of the University.",
+      []
+    ],
+    "ARTS 594": [
+      "Capstone Writing Workshop",
+      {
+        "1": [
+          "78095",
+          [
+            [
+              3,
+              "W",
+              "312 Art and Design Building",
+              0,
+              [
+                "Bianchi Geisse, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "In this course, we will study how artists have used writing as both a primary creative practice and as a supplement to one’s works in the visual/studio/material arts. The final quarter of this course will serve as a writing workshop for students to develop their own writing practice, leading to the completion of a written document to accompany the MFA Thesis Exhibition in service of the MFA in Studio Art degree.",
+      []
+    ],
+    "ARTS 499": [
+      "Special Topics in Studio Art",
+      {
+        "A1": [
+          "62127",
+          [
+            [
+              4,
+              "R",
+              "306 Flagg Hall",
+              0,
+              [
+                "Hammie, P"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              5,
+              "T",
+              "306 Flagg Hall",
+              0,
+              [
+                "Hammie, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "A1G": [
+          "60661",
+          [
+            [
+              4,
+              "R",
+              "Location Pending",
+              0,
+              [
+                "Hammie, P"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              5,
+              "T",
+              "Location Pending",
+              0,
+              [
+                "Hammie, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "A2": [
+          "46779",
+          [
+            [
+              6,
+              "F",
+              "306 Flagg Hall",
+              0,
+              [
+                "Hammie, P"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              5,
+              "T",
+              "306 Flagg Hall",
+              0,
+              [
+                "Hammie, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "A2G": [
+          "62096",
+          [
+            [
+              6,
+              "F",
+              "Location Pending",
+              0,
+              [
+                "Hammie, P"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              5,
+              "T",
+              "Location Pending",
+              0,
+              [
+                "Hammie, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "LBG": [
+          "47309",
+          [
+            [
+              0,
+              "MW",
+              "131 Flagg Hall",
+              0,
+              [
+                "Batten, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "LBU": [
+          "46781",
+          [
+            [
+              0,
+              "MW",
+              "131 Flagg Hall",
+              0,
+              [
+                "Batten, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Special topics in studio arts. Topics and subject matter to be published in course listings.",
+      []
+    ],
+    "ARTS 593": [
+      "Seminar: Methods Criticism",
+      {
+        "CB": [
+          "13165",
+          [
+            [
+              7,
+              "M",
+              "316 Art and Design Building",
+              0,
+              [
+                "Bakker, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "A graduate-level discussion-based seminar designed to provide a fundamental and critical grounding in contemporary art and theory through readings, discussion, writing, and student presentations. Emphasis will be on helping students locate their studio practices in the context of a research university, the contemporary art world, and community-based models of making and distributing art. Specific themes within this framework will vary by semester.",
+      []
+    ],
+    "ARTS 595": [
+      "Graduate Laboratory",
+      {
+        "": [
+          "10364",
+          [
+            [
+              2,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "HL": [
+          "44470",
+          [
+            [
+              2,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Hogin, L",
+                "Lingscheit, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "WR": [
+          "13319",
+          [
+            [
+              8,
+              "F",
+              "Location Pending",
+              0,
+              [
+                "Ross, J",
+                "White, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "The aim of the course is to facilitate and model the professional presentation and discursive reception of work in the field of studio art and related practices. This is primarily achieved through the use of formal critiques and studio visits.",
+      []
     ]
   },
   "caches": {
     "periods": [
-      "0930 - 1050",
-      "1600 - 1715",
-      "0930 - 1045",
-      "0900 - 0950",
-      "1000 - 1050",
-      "1100 - 1150",
-      "1200 - 1250",
-      "1300 - 1350",
-      "1400 - 1450",
-      "0000 - 0000",
-      "1400 - 1650",
-      "1230 - 1350",
-      "1100 - 1220",
-      "1400 - 1520",
-      "1400 - 1550",
-      "1600 - 1720",
-      "1500 - 1720",
-      "1400 - 1720",
-      "0900 - 1150",
-      "1300 - 1450",
-      "1500 - 1650",
-      "0800 - 0950",
-      "0900 - 1020",
-      "1500 - 1550",
-      "1400 - 1630",
-      "0800 - 0850",
-      "0800 - 0920",
-      "1530 - 1650",
-      "1700 - 1820",
-      "1530 - 1620",
-      "2000 - 2050",
-      "0800 - 1150",
-      "1500 - 1750",
-      "1200 - 1550",
-      "1230 - 1620",
-      "0830 - 0920",
-      "1300 - 1650",
-      "1500 - 1620",
-      "0900 - 1050",
-      "1100 - 1250",
-      "1700 - 1850",
-      "1200 - 1320",
-      "1600 - 1750",
-      "1600 - 1650",
-      "1000 - 1120",
-      "1130 - 1250",
-      "1300 - 1420",
-      "1600 - 1730",
-      "1030 - 1150",
-      "1230 - 1320",
-      "1330 - 1520",
-      "1530 - 1710",
-      "1430 - 1550",
-      "1630 - 1750",
-      "1730 - 1850",
-      "1730 - 1920",
-      "1530 - 1820",
-      "1000 - 1150",
-      "1700 - 1750",
-      "1100 - 1215",
-      "0800 - 0959",
-      "1530 - 1730",
-      "1500 - 1700",
-      "1700 - 1900",
-      "1730 - 1930",
-      "0600 - 0730",
-      "1700 - 1950",
-      "1500 - 1730",
-      "1200 - 1450",
-      "0930 - 1020",
-      "1730 - 2030",
-      "1300 - 1550",
-      "1730 - 1900",
-      "1830 - 1950",
-      "1100 - 1350",
-      "1800 - 2050",
-      "1300 - 1750",
-      "1030 - 1120",
-      "1430 - 1520",
-      "1630 - 1720",
-      "1130 - 1220",
-      "1300 - 1520",
-      "0930 - 1220",
-      "0800 - 1050",
-      "1200 - 1420",
-      "0930 - 1120",
-      "1800 - 1950",
-      "0900 - 1140",
       "1300 - 1540",
-      "1330 - 1450",
-      "1600 - 1840",
-      "1700 - 1940",
       "1400 - 1640",
+      "0000 - 0000",
+      "0900 - 1150",
+      "1700 - 1820",
       "0930 - 1210",
-      "1530 - 1800"
+      "1130 - 1250",
+      "1600 - 1840",
+      "1400 - 1700"
     ],
     "dateRanges": [],
     "scheduleTypes": [
-      "Lecture-Discussion",
-      "Discussion/ Recitation",
-      "Lecture",
-      "Online",
-      "Independent Study",
-      "Laboratory",
-      "Online Lecture",
-      "Laboratory-Discussion",
-      "Online Discussion",
-      "Conference",
-      "Online Lecture Discussion",
-      "Seminar",
-      "Study Abroad",
-      "Internship",
-      "Research",
-      "Travel",
       "Studio",
-      "LaboratoryMeets 03/16/26-05/06/26"
+      "Independent Study",
+      "Lecture",
+      "Laboratory",
+      "Seminar"
     ],
     "campuses": [],
     "attributes": [],
@@ -969,108 +1316,8 @@
     "gradeBases": [],
     "locations": [
       {
-        "lat": 40.107534,
-        "long": -88.2281548
-      },
-      {
         "lat": null,
         "long": null
-      },
-      {
-        "lat": 40.1047599,
-        "long": -88.2319514
-      },
-      {
-        "lat": 40.1065684,
-        "long": -88.2281746
-      },
-      {
-        "lat": 40.105732,
-        "long": -88.2281018
-      },
-      {
-        "lat": 40.1072225,
-        "long": -88.2262016
-      },
-      {
-        "lat": 40.1020773,
-        "long": -88.2296394
-      },
-      {
-        "lat": 40.1035833,
-        "long": -88.228405
-      },
-      {
-        "lat": 40.11246109008789,
-        "long": -88.22831726074219
-      },
-      {
-        "lat": 40.1035872,
-        "long": -88.2306061
-      },
-      {
-        "lat": 40.1034533,
-        "long": -88.2327596
-      },
-      {
-        "lat": 40.0995003,
-        "long": -88.223104
-      },
-      {
-        "lat": 40.101862,
-        "long": -88.231737
-      },
-      {
-        "lat": 40.104794,
-        "long": -88.224264
-      },
-      {
-        "lat": 40.103587,
-        "long": -88.230606
-      },
-      {
-        "lat": 40.107811,
-        "long": -88.2260761
-      },
-      {
-        "lat": 40.1033599,
-        "long": -88.2292111
-      },
-      {
-        "lat": 40.1083446,
-        "long": -88.2282555
-      },
-      {
-        "lat": 40.1109722,
-        "long": -88.2282631
-      },
-      {
-        "lat": 40.1108856,
-        "long": -88.2269806
-      },
-      {
-        "lat": 40.1131317,
-        "long": -88.2264552
-      },
-      {
-        "lat": 40.1110937,
-        "long": -88.2232348
-      },
-      {
-        "lat": 40.111691,
-        "long": -88.2242511
-      },
-      {
-        "lat": 40.1149296,
-        "long": -88.2280589
-      },
-      {
-        "lat": 40.1149521,
-        "long": -88.2267561
-      },
-      {
-        "lat": 40.1028373,
-        "long": -88.2251326
       }
     ],
     "finalDates": [],

@@ -4,7 +4,7 @@
   "year": "2026",
   "term": "spring",
   "startedAt": 1768370801953,
-  "lastUpdated": 1768370950893,
+  "lastUpdated": 1768372591112,
   "totalSubjects": 187,
   "totalCourses": 4516,
   "subjects": [
@@ -18661,19 +18661,50 @@
     "ARTE",
     "ARTF",
     "ARTH",
-    "ARTJ"
+    "ARTJ",
+    "ARTS",
+    "ASRM",
+    "ASST",
+    "ASTR",
+    "ATMS",
+    "BADM",
+    "BASQ",
+    "BCOG",
+    "BCS",
+    "BDI",
+    "BIOC",
+    "BIOE",
+    "BIOP",
+    "BSE",
+    "BTW",
+    "BUS",
+    "CAS",
+    "CB",
+    "CDB",
+    "CEE",
+    "CGGE",
+    "CHBE",
+    "CHEM",
+    "CHIN",
+    "CHP",
+    "CI",
+    "CIC",
+    "CLCV",
+    "CLE",
+    "CMN",
+    "CPSC"
   ],
   "partialSubjects": {
-    "ARTS": {
-      "completed": 22,
-      "total": 30,
+    "CS": {
+      "completed": 27,
+      "total": 93,
       "lastCourse": "ABORTED"
     }
   },
   "failedSubjects": [],
   "stats": {
-    "successfulCourses": 571,
-    "failedCourses": 1,
+    "successfulCourses": 1265,
+    "failedCourses": 2,
     "rateLimitCount": 0
   }
 }
