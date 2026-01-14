@@ -1,0 +1,445 @@
+{
+  "subject": "PSM",
+  "scrapedAt": 1768434548556,
+  "courseCount": 5,
+  "courses": {
+    "PSM 502": [
+      "PSM Industry Seminar II",
+      {
+        "A": [
+          "53834",
+          [
+            [
+              7,
+              "M",
+              "131 Animal Sciences Laboratory",
+              4,
+              [
+                "Bosecker, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "57824",
+          [
+            [
+              7,
+              "M",
+              "131 Animal Sciences Laboratory",
+              4,
+              [
+                "Bosecker, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Taken in the second semester of the PSM cohort, builds on the experience of the first semester industry seminar. Learning occurs through guest lectures by and discussions with industry leaders. Project management is explores. Engagement with students across science disciplines to address current developments in the science professions. Practical issues facing science professionals in the workplace are addressed.",
+      []
+    ],
+    "PSM 501": [
+      "PSM Industry Seminar I",
+      {
+        "A": [
+          "73761",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              3,
+              [
+                "Bosecker, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "73764",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              3,
+              [
+                "Bosecker, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Engagement with students across science disciplines to address current developments in the science professions. Management and leadership challenges in science and issues facing science professionals in the workplace are addressed. Learning occurs through lecture and discussion with industry leaders. Taken in the first semester of the Professional Science Master's (PSM) cohort.",
+      []
+    ],
+    "PSM 520": [
+      "Special Topics-Sci & Business",
+      {
+        "A": [
+          "60576",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              3,
+              [
+                "Bosecker, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Special, emerging, or advanced topics in science and business. Topics will vary by offering. May be used to pilot course offerings before adding them to the PSM curriculum. Open to Illinois Professional Science Master's (PSM) students only.",
+      []
+    ],
+    "PSM 555": [
+      "PSM Internship",
+      {
+        "ACR": [
+          "62890",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              3,
+              [
+                "Bosecker, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "ANC": [
+          "62891",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              3,
+              [
+                "Bosecker, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "BCR": [
+          "61164",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              3,
+              [
+                "Bosecker, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "BNC": [
+          "61165",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              3,
+              [
+                "Bosecker, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "FCR": [
+          "62893",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              3,
+              [
+                "Bosecker, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "FNC": [
+          "62894",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              3,
+              [
+                "Bosecker, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "GCR": [
+          "66189",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              3,
+              [
+                "Bosecker, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "GNC": [
+          "66190",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              3,
+              [
+                "Bosecker, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "TCR": [
+          "62897",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              3,
+              [
+                "Bosecker, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "TNC": [
+          "62898",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              3,
+              [
+                "Bosecker, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Practical learning experience in which business knowledge and skills are applied to science problems and opportunities. In consultation with program coordinators, students find internship companies and positions that match their individual career objectives and meet the learning goals of the program. Learning objectives, deliverables, and performance evaluation are determined for each student by the program coordinator. Completed in the summer after the first year of study. Open to Illinois Professional Sciences Master's (PSM) students only. Internationals holding student visas must have prior authorization from International Student and Scholar Services.",
+      []
+    ],
+    "PSM 503": [
+      "PSM Industry Seminar III",
+      {
+        "A": [
+          "66191",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              3,
+              [
+                "Bosecker, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Taken in the final semester of the PSM cohort, focuses on the shared experiences of the summer internship and on career development. Students present and critique, individual and in teams, the value and lessons learned from the internship. Discussions and exercises center on long-term career development and lifelong learning and commitment to science.",
+      []
+    ]
+  },
+  "caches": {
+    "periods": [
+      "1200 - 1320",
+      "1500 - 1750",
+      "1330 - 1550",
+      "0930 - 1150",
+      "0000 - 0000",
+      "1400 - 1620",
+      "1530 - 1750",
+      "1730 - 1850"
+    ],
+    "dateRanges": [],
+    "scheduleTypes": [
+      "Lecture-Discussion",
+      "Lecture",
+      "Independent Study"
+    ],
+    "campuses": [],
+    "attributes": [],
+    "restrictions": [],
+    "gradeBases": [],
+    "locations": [
+      {
+        "lat": 40.1035833,
+        "long": -88.228405
+      },
+      {
+        "lat": 40.1047599,
+        "long": -88.2319514
+      },
+      {
+        "lat": 40.107534,
+        "long": -88.2281548
+      },
+      {
+        "lat": null,
+        "long": null
+      },
+      {
+        "lat": 40.0995003,
+        "long": -88.223104
+      }
+    ],
+    "finalDates": [],
+    "finalTimes": []
+  }
+}

@@ -1,0 +1,616 @@
+{
+  "subject": "TRST",
+  "scrapedAt": 1768434598515,
+  "courseCount": 8,
+  "courses": {
+    "TRST 540": [
+      "Capstone",
+      {
+        "": [
+          "62056",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              3,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Original capstone project completed as the culmination of the MA in Translation and Interpreting.",
+      []
+    ],
+    "TRST 502": [
+      "Applied LiteraryTranslation II",
+      {
+        "A": [
+          "67078",
+          [
+            [
+              35,
+              "M",
+              "G96 Literatures, Cultures, & Ling",
+              6,
+              [
+                "Jenkins, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "67079",
+          [
+            [
+              35,
+              "M",
+              "ONLINE",
+              3,
+              [
+                "Jenkins, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          7,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Focuses on the practice and strategies of literary translation through the study of what prominent and successful translators have written about their own experience and through comparative analysis of prize-winning translations. Students will be exposed to reader response theory and the role of the translator as cultural agent while learning how to produce paratext for their translations (prefaces, notes, etc.) and developing skills in translation, editing, grant-writing, and participation in professional associations.",
+      []
+    ],
+    "TRST 542": [
+      "Conference Interpreting",
+      {
+        "G4": [
+          "68558",
+          [
+            [
+              117,
+              "T",
+              "G96 Literatures, Cultures, & Ling",
+              6,
+              [
+                "Arzik Erzurumlu, O"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "68562",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              3,
+              [
+                "Pagura, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          7,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to conference interpreting and its main theoretical concepts. Core skills will be introduced and practiced, such as understanding the spoken language and language analysis techniques, acquisition of subject matter knowledge, terminology management, verbal expression skills, and mastery of technology for conference interpreting. Intensive interpreting practice in simultaneous interpreting in the students' language pairs.",
+      []
+    ],
+    "TRST 503": [
+      "Computer-Assisted Translation",
+      {
+        "A": [
+          "72211",
+          [
+            [
+              9,
+              "MW",
+              "G23 Literatures, Cultures, & Ling",
+              6,
+              [
+                "Yazeva, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "73134",
+          [
+            [
+              9,
+              "MW",
+              "ONLINE",
+              3,
+              [
+                "Yazeva, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          7,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "A foundation course in the history, technical underpinnings and functionality of computer-assisted translation (CAT). Students work with several CAT tools and learn the functions and features of CAT, including Project set-up, Translation Memory, Termbase, Alignment, File filters, Quality Assurance, Reports, Review files, Machine Translation, and Autosuggest dictionaries. Campus students should have access to a laptop that can be brought to class.",
+      []
+    ],
+    "TRST 412": [
+      "Spanish/English Translation",
+      {
+        "G4": [
+          "59369",
+          [
+            [
+              9,
+              "MW",
+              "29 English Building",
+              2,
+              [
+                "Tolliver, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "U3": [
+          "58566",
+          [
+            [
+              9,
+              "MW",
+              "29 English Building",
+              2,
+              [
+                "Tolliver, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as SPAN 410. See SPAN 410.",
+      []
+    ],
+    "TRST 500": [
+      "Translation and Interpreting: Reflective Practice",
+      {
+        "G4": [
+          "68561",
+          [
+            [
+              6,
+              "W",
+              "G96 Literatures, Cultures, & Ling",
+              6,
+              [
+                "Phillips, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "68560",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              3,
+              [
+                "Phillips, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          7,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Exploration of the ethical and epistemological dimensions of translation and interpreting. Through discussion of primary texts and case studies, this course aims to take students beyond codified codes of professional ethics to discover the intellectual traditions (e.g., hermeneutics and philosophy of language, critical social theory, virtue ethics, etc.) that frame reflective practice. Topics include the nature of language, dialogue across difference, and the crafting of a personally fulfilling and morally responsive life of practice. This course is designed as a transition to professional practice, to be taken shortly before graduation. Prerequisite: TRST 410 or consent of instructor.",
+      []
+    ],
+    "TRST 505": [
+      "Commercial & Technical Translation",
+      {
+        "ONL": [
+          "73124",
+          [
+            [
+              34,
+              "MW",
+              "ONLINE",
+              3,
+              [
+                "Yazeva, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          7,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Theoretical and practical aspects of translation of various genres of commercial and technical content, for example, annual reports, product specifications, marketing web sites, user manuals, online help, etc.",
+      []
+    ],
+    "TRST 410": [
+      "Translation and Interpreting Theory & Practice",
+      {
+        "OG4": [
+          "65518",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              3,
+              [
+                "Pagura, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "OU3": [
+          "72189",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              3,
+              [
+                "Pagura, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          7,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Study of the theory and methods of translation and interpreting. Emphasis is on contemporary theoretical trends in the translation and interpreting fields, and practical application of theoretical models.",
+      []
+    ]
+  },
+  "caches": {
+    "periods": [
+      "1200 - 1320",
+      "1500 - 1750",
+      "1330 - 1550",
+      "0930 - 1150",
+      "0000 - 0000",
+      "1400 - 1620",
+      "1530 - 1750",
+      "1730 - 1850",
+      "1230 - 1350",
+      "1400 - 1520",
+      "1530 - 1650",
+      "0930 - 1050",
+      "1200 - 1250",
+      "1000 - 1050",
+      "1400 - 1450",
+      "1500 - 1550",
+      "1100 - 1220",
+      "1100 - 1150",
+      "1300 - 1350",
+      "0900 - 0950",
+      "1400 - 1515",
+      "1530 - 1620",
+      "1600 - 1650",
+      "1000 - 1150",
+      "1600 - 1850",
+      "0900 - 1150",
+      "1300 - 1550",
+      "0900 - 1050",
+      "1100 - 1250",
+      "1300 - 1450",
+      "1500 - 1650",
+      "1530 - 1720",
+      "1400 - 1550",
+      "1100 - 1215",
+      "1000 - 1120",
+      "1500 - 1720",
+      "0800 - 0920",
+      "1430 - 1550",
+      "1330 - 1450",
+      "1600 - 1715",
+      "1200 - 1350",
+      "0900 - 1130",
+      "0930 - 1130",
+      "0900 - 1020",
+      "1000 - 1130",
+      "1400 - 1650",
+      "1500 - 1730",
+      "0900 - 1140",
+      "0930 - 1045",
+      "1230 - 1345",
+      "0800 - 0850",
+      "1530 - 1645",
+      "1700 - 1815",
+      "0800 - 0915",
+      "1700 - 1750",
+      "1900 - 2020",
+      "1600 - 1720",
+      "0930 - 1020",
+      "1800 - 2030",
+      "1400 - 1540",
+      "1800 - 1920",
+      "1530 - 1710",
+      "1200 - 1420",
+      "1500 - 1800",
+      "0800 - 0950",
+      "1600 - 1750",
+      "1800 - 1950",
+      "1600 - 1820",
+      "1200 - 1450",
+      "1100 - 1350",
+      "0800 - 1050",
+      "0830 - 1020",
+      "1800 - 2050",
+      "1300 - 1650",
+      "1320 - 1450",
+      "1300 - 1420",
+      "1530 - 1820",
+      "1300 - 1500",
+      "1300 - 1415",
+      "0900 - 1015",
+      "1500 - 1615",
+      "1800 - 1930",
+      "1945 - 2115",
+      "0900 - 1000",
+      "1500 - 1700",
+      "1500 - 1645",
+      "1300 - 1445",
+      "1800 - 1945",
+      "1800 - 2000",
+      "1830 - 2000",
+      "1900 - 2030",
+      "1300 - 1430",
+      "1700 - 1950",
+      "1230 - 1320",
+      "1700 - 1820",
+      "1900 - 2050",
+      "1230 - 1420",
+      "1030 - 1150",
+      "1700 - 1850",
+      "1000 - 1230",
+      "1730 - 1900",
+      "1030 - 1215",
+      "1500 - 1620",
+      "0830 - 0950",
+      "1115 - 1235",
+      "1330 - 1520",
+      "0900 - 0930",
+      "1110 - 1230",
+      "0940 - 1100",
+      "1400 - 1700",
+      "1800 - 2200",
+      "1030 - 1220",
+      "1000 - 1250",
+      "1520 - 1650",
+      "1330 - 1630",
+      "1000 - 1350",
+      "1130 - 1420",
+      "1000 - 1220",
+      "1600 - 1700"
+    ],
+    "dateRanges": [],
+    "scheduleTypes": [
+      "Lecture-Discussion",
+      "Lecture",
+      "Independent Study",
+      "Discussion/ Recitation",
+      "Laboratory",
+      "Online Lecture",
+      "Conference",
+      "Online",
+      "Seminar",
+      "Internship",
+      "Laboratory-Discussion",
+      "Practice",
+      "Research",
+      "Study Abroad",
+      "Online Lecture Discussion"
+    ],
+    "campuses": [],
+    "attributes": [],
+    "restrictions": [],
+    "gradeBases": [],
+    "locations": [
+      {
+        "lat": 40.1035833,
+        "long": -88.228405
+      },
+      {
+        "lat": 40.1047599,
+        "long": -88.2319514
+      },
+      {
+        "lat": 40.107534,
+        "long": -88.2281548
+      },
+      {
+        "lat": null,
+        "long": null
+      },
+      {
+        "lat": 40.0995003,
+        "long": -88.223104
+      },
+      {
+        "lat": 40.1028373,
+        "long": -88.2251326
+      },
+      {
+        "lat": 40.10628,
+        "long": -88.22621
+      },
+      {
+        "lat": 40.1065684,
+        "long": -88.2281746
+      },
+      {
+        "lat": 40.105732,
+        "long": -88.2281018
+      },
+      {
+        "lat": 40.1083446,
+        "long": -88.2282555
+      },
+      {
+        "lat": 40.1020773,
+        "long": -88.2296394
+      },
+      {
+        "lat": 40.1109722,
+        "long": -88.2282631
+      },
+      {
+        "lat": 40.11246109008789,
+        "long": -88.22831726074219
+      },
+      {
+        "lat": 40.104794,
+        "long": -88.224264
+      },
+      {
+        "lat": 40.1108856,
+        "long": -88.2269806
+      },
+      {
+        "lat": 40.1072225,
+        "long": -88.2262016
+      },
+      {
+        "lat": 40.1034533,
+        "long": -88.2327596
+      },
+      {
+        "lat": 40.1131317,
+        "long": -88.2264552
+      },
+      {
+        "lat": 40.1149296,
+        "long": -88.2280589
+      },
+      {
+        "lat": 40.1110937,
+        "long": -88.2232348
+      },
+      {
+        "lat": 40.1033599,
+        "long": -88.2292111
+      },
+      {
+        "lat": 40.111691,
+        "long": -88.2242511
+      }
+    ],
+    "finalDates": [],
+    "finalTimes": []
+  }
+}
