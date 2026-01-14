@@ -3,8 +3,8 @@
   "termName": "Spring 2026",
   "year": "2026",
   "term": "spring",
-  "startedAt": 1768370468407,
-  "lastUpdated": 1768370611152,
+  "startedAt": 1768370634052,
+  "lastUpdated": 1768370781093,
   "totalSubjects": 187,
   "totalCourses": 4516,
   "subjects": [
@@ -18656,18 +18656,21 @@
     "ANTH",
     "ARAB",
     "ARCH",
-    "ART"
+    "ART",
+    "ARTD",
+    "ARTE",
+    "ARTF"
   ],
   "partialSubjects": {
-    "ARTD": {
-      "completed": 10,
-      "total": 22,
+    "ARTH": {
+      "completed": 0,
+      "total": 21,
       "lastCourse": "ABORTED"
     }
   },
   "failedSubjects": [],
   "stats": {
-    "successfulCourses": 492,
+    "successfulCourses": 520,
     "failedCourses": 1,
     "rateLimitCount": 0
   }

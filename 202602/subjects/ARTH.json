@@ -1,91 +1,8 @@
 {
-  "subject": "AHS",
-  "scrapedAt": 1768370762481,
-  "courseCount": 2,
-  "courses": {
-    "AHS 199": [
-      "Undergraduate Open Seminar",
-      {
-        "CV1": [
-          "54154",
-          [
-            [
-              9,
-              "",
-              "ONLINE",
-              1,
-              [
-                "Lotspeich-Yadao, M"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          6,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "CV2": [
-          "53918",
-          [
-            [
-              9,
-              "",
-              "ONLINE",
-              1,
-              [
-                "Lange, D"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          6,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Topics will vary each semester. Please see section topic.",
-      []
-    ],
-    "AHS 292": [
-      "AHS Study Abroad",
-      {
-        "A": [
-          "46523",
-          [
-            [
-              9,
-              "",
-              "ONLINE",
-              1,
-              [
-                "Klebek, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          18,
-          13,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Provides credit toward the undergraduate degree for study at an accredited international institution or approved overseas program. Final determination of credit granted is made upon the student' s successful completion of work.",
-      []
-    ]
-  },
+  "subject": "ARTH",
+  "scrapedAt": 1768370781090,
+  "courseCount": 0,
+  "courses": {},
   "caches": {
     "periods": [
       "0930 - 1050",
@@ -158,7 +75,30 @@
       "1500 - 1730",
       "1200 - 1450",
       "0930 - 1020",
-      "1730 - 2030"
+      "1730 - 2030",
+      "1300 - 1550",
+      "1730 - 1900",
+      "1830 - 1950",
+      "1100 - 1350",
+      "1800 - 2050",
+      "1300 - 1520",
+      "1030 - 1120",
+      "1430 - 1520",
+      "1630 - 1720",
+      "1130 - 1220",
+      "1300 - 1750",
+      "0930 - 1220",
+      "0800 - 1050",
+      "1200 - 1420",
+      "0930 - 1120",
+      "1800 - 1950",
+      "1600 - 1840",
+      "1700 - 1940",
+      "0900 - 1140",
+      "1300 - 1540",
+      "1330 - 1450",
+      "1400 - 1640",
+      "0930 - 1210"
     ],
     "dateRanges": [],
     "scheduleTypes": [
@@ -176,7 +116,10 @@
       "Seminar",
       "Internship",
       "Study Abroad",
-      "Research"
+      "Research",
+      "Travel",
+      "Studio",
+      "LaboratoryMeets 03/16/26-05/06/26"
     ],
     "campuses": [],
     "attributes": [],
@@ -278,6 +221,14 @@
       {
         "lat": 40.1149296,
         "long": -88.2280589
+      },
+      {
+        "lat": 40.1149521,
+        "long": -88.2267561
+      },
+      {
+        "lat": 40.1028373,
+        "long": -88.2251326
       }
     ],
     "finalDates": [],
