@@ -1,7 +1,7 @@
 {
   "subject": "NRES",
-  "scrapedAt": 1768372850940,
-  "courseCount": 17,
+  "scrapedAt": 1768372876675,
+  "courseCount": 51,
   "courses": {
     "NRES 220": [
       "Communicating Agriculture",
@@ -1092,226 +1092,1442 @@
       [],
       "Same as ENSU 300 and LA 370. See ENSU 300.",
       []
+    ],
+    "NRES 436": [
+      "Applied Soil Ecology",
+      {
+        "A": [
+          "78219",
+          [
+            [
+              0,
+              "TR",
+              "W223 Turner Hall",
+              0,
+              [
+                "Ugarte Diaz, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "This course will review the underlying concepts, theory, and application of modern soil ecology. Students will study the groups of organisms that form the soil food web, the factors that influence their spatial and temporal distribution, and their role in soil function and delivery of ecosystem services. Throughout the semester, the course will use a series of readings, lectures, writing assignments, and discussions of peer-reviewed literature to provide extensive consideration of root-soil-microbial-faunal interactions.",
+      []
+    ],
+    "NRES 407": [
+      "Wildlife Population Ecology",
+      {
+        "AB": [
+          "44547",
+          [
+            [
+              1,
+              "R",
+              "432 Armory",
+              1,
+              [
+                "Tomczyk, S",
+                "Van Doren, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "44442",
+          [
+            [
+              2,
+              "TR",
+              "432 Armory",
+              1,
+              [
+                "Van Doren, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "This course includes the application of principles of population biology to the analysis, management, and conservation of wildlife populations, models of population growth, spatio-temporal variation in abundances, estimation of demographic parameters and methods of decision-making.",
+      []
+    ],
+    "NRES 419": [
+      "Env and Plant Ecosystems",
+      {
+        "MSU": [
+          "70844",
+          [
+            [
+              3,
+              "T",
+              "ONLINE",
+              0,
+              [
+                "Carpenter, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Relationships among environmental factors and plant processes and functions; impact of human activities on the environment and the structure and function of plant ecosystems. Examples will be drawn from a variety of managed and unmanaged plant ecosystems.",
+      []
+    ],
+    "NRES 396": [
+      "UG Honors Research or Thesis",
+      {
+        "": [
+          "10100",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Individual research, special problems, thesis, development and/or design work under the direction of the Honors advisor.",
+      []
+    ],
+    "NRES 431": [
+      "Plants and Global Change",
+      {
+        "A": [
+          "31544",
+          [
+            [
+              2,
+              "TR",
+              "2020B Natural History Building",
+              0,
+              [
+                "Ainsworth, L",
+                "Leakey, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as CPSC 431 and IB 440. See CPSC 431.",
+      []
+    ],
+    "NRES 440": [
+      "Applied Statistical Methods I",
+      {
+        "ONL": [
+          "31629",
+          [
+            [
+              5,
+              "T",
+              "ONLINE",
+              0,
+              [
+                "Klimasmith, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as ANSC 440, CPSC 440, FSHN 440, and NUTR 440. See CPSC 440.",
+      []
+    ],
+    "NRES 441": [
+      "Biogeography",
+      {
+        "A": [
+          "52945",
+          [
+            [
+              6,
+              "TR",
+              "2083 Natural History Building",
+              0,
+              [
+                "Punyasena, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as ANTH 436, ESE 439, GGIS 436 and IB 439. See IB 439.",
+      []
+    ],
+    "NRES 421": [
+      "Quantitative Methods in NRES",
+      {
+        "AB1": [
+          "35120",
+          [
+            [
+              7,
+              "R",
+              "Location Pending",
+              0,
+              [
+                "Yannarell, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AB2": [
+          "35123",
+          [
+            [
+              8,
+              "R",
+              "Location Pending",
+              0,
+              [
+                "Yannarell, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AB3": [
+          "77084",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Yannarell, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AE1": [
+          "35125",
+          [
+            [
+              9,
+              "MW",
+              "2 Education Building",
+              2,
+              [
+                "Yannarell, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Explores the fundamental principles, procedures, and practices that underlie the most common statistical and sampling methods used in natural resources and environmental sciences. This course covers hypothesis testing, regression, and analysis of variance. There is also a strong focus on sampling theory and experimental design. Computer labs utilize the open source R statistical computing environment.",
+      []
+    ],
+    "NRES 434": [
+      "Environment, Policy, and Conflict",
+      {
+        "A": [
+          "75835",
+          [
+            [
+              10,
+              "TR",
+              "W223 Turner Hall",
+              0,
+              [
+                "Johnson, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Explores the complex, dynamic relationship between environment, conflict, and conflict resolution. Students will examine definitions of (environmental) conflict, identify the pathways by which environment is linked to conflict, and explore how policymakers devise solutions to resolve environmental conflict. The course will examine conflict across multiple scales, actors, resource types, and contexts, working primarily through a lens of equity and justice.",
+      []
+    ],
+    "NRES 455": [
+      "Advanced GIS for Environmental Management",
+      {
+        "AL1": [
+          "39380",
+          [
+            [
+              11,
+              "T",
+              "Location Pending",
+              0,
+              [
+                "Peterson, C",
+                "Stickley, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "MSU": [
+          "66031",
+          [
+            [
+              11,
+              "T",
+              "ONLINE",
+              0,
+              [
+                "Peterson, C",
+                "Stickley, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Examines advanced applications of Geographic Information Systems (GIS) and remote sensing for environmental management. This course integrates current geospatial tools and methods to learn applied techniques for collecting spatial data, building spatial models and databases, analyzing spatial patterns, managing environmental issues, and communicating science through interactive mapping applications. Course exercises provide hands-on learning approaches and introduce students to programming principles for GIS.",
+      []
+    ],
+    "NRES 420": [
+      "Restoration Ecology",
+      {
+        "AB1": [
+          "35114",
+          [
+            [
+              12,
+              "F",
+              "W223 Turner Hall",
+              0,
+              [
+                "Daleo, M",
+                "Miller, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "35115",
+          [
+            [
+              13,
+              "TR",
+              "W223 Turner Hall",
+              0,
+              [
+                "Daleo, M",
+                "Miller, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Historical development of ecological restoration, its philosophical foundation, multi-disciplinary borrowings from the natural, applied, and social sciences, and varied practical applications, with emphasis on the application of ecological principles. Case studies, field trips, and laboratory activities on restoration planning. Field trip required.",
+      []
+    ],
+    "NRES 461": [
+      "Ornithology",
+      {
+        "AB1": [
+          "47291",
+          [
+            [
+              14,
+              "M",
+              "4072 Natural History Building",
+              0,
+              [
+                "Benson, T",
+                "Chamberlain, M",
+                "Coates, H",
+                "Enos, J",
+                "Stodola, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AB2": [
+          "48741",
+          [
+            [
+              14,
+              "W",
+              "4072 Natural History Building",
+              0,
+              [
+                "Benson, T",
+                "Chamberlain, M",
+                "Coates, H",
+                "Enos, J",
+                "Stodola, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "47142",
+          [
+            [
+              15,
+              "MWF",
+              "2083 Natural History Building",
+              0,
+              [
+                "Benson, T",
+                "Enos, J",
+                "Stodola, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      null,
+      []
+    ],
+    "NRES 475": [
+      "Environmental Microbiology",
+      {
+        "A": [
+          "35179",
+          [
+            [
+              16,
+              "MWF",
+              "W203 Turner Hall",
+              0,
+              [
+                "Kent, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to the diversity of microbial populations and their important role in environmental processes in air, water, soils, and sediments. Microbial community ecology and interactions with plants and animals will also be discussed. Students will learn how microbial activities sustain natural ecosystems and contribute to environmental quality, and also how these functions are harnessed to support managed and artificial systems. Molecular biology techniques for investigating microbial communities and their activities will also be discussed.",
+      []
+    ],
+    "NRES 456": [
+      "Integrative Ecosystem Management",
+      {
+        "A": [
+          "46996",
+          [
+            [
+              6,
+              "TR",
+              "1092 Lincoln Hall",
+              3,
+              [
+                "Edmonds, D",
+                "Marshalla, D",
+                "Miller, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Examines ecological and human dimensions of ecosystem management, with a strong emphasis on national and international case studies. Capstone course for seniors in the NRES major.",
+      []
+    ],
+    "NRES 480": [
+      "Human-Wildlife Interactions",
+      {
+        "A": [
+          "74642",
+          [
+            [
+              13,
+              "TR",
+              "209 Huff Hall",
+              4,
+              [
+                "O'Keefe, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Human-wildlife interactions will increase in frequency as we continue to encroach on wildlife habitats. This lecture and discussion course will seek to describe human-wildlife interactions along a spectrum from conflict to coexistence. Students will discuss the pros and cons of various measures taken to reduce conflicts and think critically about the ways that attitudes, economics, geography, policies, and culture affect our relationships with wildlife globally. This course aims to enhance students’ capacity as educators, resource managers, and conservationists to overcome negative perceptions of wildlife and to improve outcomes during human-wildlife interactions.",
+      []
+    ],
+    "NRES 485": [
+      "Stream Ecology",
+      {
+        "L": [
+          "78164",
+          [
+            [
+              17,
+              "MWF",
+              "W203 Turner Hall",
+              0,
+              [
+                "Larson, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "This course relates the structure and function of streams and rivers to challenges and opportunities in their conservation, management, and restoration using a combination of readings and class discussions. Students will develop an integrative understanding of stream and river ecosystem management from the site to watershed scale on issues spanning from nutrient pollution, to the natural flow regime, to the design and implementation of freshwater protected areas.",
+      []
+    ],
+    "NRES 474": [
+      "Soil and Water Conservation",
+      {
+        "AL1": [
+          "35177",
+          [
+            [
+              18,
+              "MWF",
+              "W223 Turner Hall",
+              0,
+              [
+                "Yu, Z"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "MSU": [
+          "49090",
+          [
+            [
+              19,
+              "M",
+              "ONLINE",
+              0,
+              [
+                "Yu, Z"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              4,
+              "M",
+              "ONLINE",
+              0,
+              [
+                "Yu, Z"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Application of principles of soil conservation and management to the solution of land-use problems; influence of soil characteristics on erosion control, cropping intensity, water management, and land-use planning.",
+      []
+    ],
+    "NRES 490": [
+      "Surface Water System Chemistry",
+      {
+        "MSU": [
+          "45549",
+          [
+            [
+              3,
+              "R",
+              "ONLINE",
+              0,
+              [
+                "Hudson, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Examines the interaction of chemical and biological processes that govern the chemistry of streams, lakes, and wetlands, and the response of aquatic organisms to pollution. Chemical equilibrium and kinetic principles are used to analyze the behavior of surface water systems through the use of models. Topics include modeling of field studies in environmental inorganic chemistry and biogeochemistry. The laboratory section will be devoted to instruction in the use of computer models and to their practical application.",
+      []
+    ],
+    "NRES 477": [
+      "Introduction to Remote Sensing",
+      {
+        "MS": [
+          "77293",
+          [
+            [
+              8,
+              "WF",
+              "ONLINE",
+              0,
+              [
+                "Diao, C",
+                "Wang, F"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "56620",
+          [
+            [
+              8,
+              "WF",
+              "ONLINE",
+              0,
+              [
+                "Diao, C",
+                "Wang, F"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as GGIS 477. See GGIS 477.",
+      []
+    ],
+    "NRES 488": [
+      "Soil Fertility and Fertilizers",
+      {
+        "L1": [
+          "55916",
+          [
+            [
+              20,
+              "MWF",
+              "W115 Turner Hall",
+              0,
+              [
+                "Mulvaney, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "MSU": [
+          "49116",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Mulvaney, R",
+                "Zhou, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Provides a broad-based understanding of the basic principles of soil fertility and their application. Coverage includes the occurrence, cycling, and plant availability of the essential mineral nutrients in soils; fertilizer sources, soil reactions, and efficiency; evaluating fertilizer and lime needs; methods of fertilizer application; and the economics of fertilization.",
+      []
+    ],
+    "NRES 499": [
+      "Special Topics",
+      {
+        "SLF": [
+          "53418",
+          [
+            [
+              21,
+              "S",
+              "W13 Turner Hall",
+              0,
+              [
+                "Jog, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Experimental course on a special topic in natural resources and environmental sciences.",
+      []
+    ],
+    "NRES 501": [
+      "Special Problems",
+      {
+        "": [
+          "10110",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Individual studies or investigations in selected branches of horticulture, natural resources, and environmental sciences.",
+      []
+    ],
+    "NRES 504": [
+      "Critical Issues Recreation Mgt",
+      {
+        "OLM": [
+          "77555",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Payne, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      null,
+      []
+    ],
+    "NRES 500": [
+      "Graduate Seminar",
+      {
+        "AE0": [
+          "75834",
+          [
+            [
+              22,
+              "F",
+              "W109 Turner Hall",
+              0,
+              [
+                "Bloomer, C",
+                "O'Keefe, J",
+                "Ugarte Diaz, C",
+                "Van Doren, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "AE1": [
+          "35328",
+          [
+            [
+              22,
+              "F",
+              "W109 Turner Hall",
+              0,
+              [
+                "Bloomer, C",
+                "O'Keefe, J",
+                "Ugarte Diaz, C",
+                "Van Doren, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          7,
+          0,
+          [],
+          -1
+        ],
+        "MSU": [
+          "59162",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Curtis Quick, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Exposure to current research and specialized topics in natural resources and environmental sciences through attending/viewing and responding to the NRES seminar series.",
+      []
+    ],
+    "NRES 510": [
+      "Adv Natural Resource Economics",
+      {
+        "B": [
+          "60781",
+          [
+            [
+              23,
+              "TR",
+              "316N Mumford Hall",
+              0,
+              [
+                "Hultgren, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as ACE 510, ECON 548, and ENVS 510. See ACE 510.",
+      []
+    ],
+    "NRES 512": [
+      "Discussions in NRES",
+      {
+        "AER": [
+          "60709",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Parkos, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          8,
+          0,
+          [],
+          -1
+        ],
+        "GSR": [
+          "78263",
+          [
+            [
+              24,
+              "W",
+              "M205 Turner Hall",
+              0,
+              [
+                "Stickley, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          8,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Discussion of recent developments and current literature in natural resources and environmental sciences, with a term-long emphasis on a particular aspect of the subject matter.",
+      []
+    ],
+    "NRES 503": [
+      "Capstone Research Project",
+      {
+        "PH": [
+          "58004",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Hodson, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          8,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "A supervised individual investigative study in selected areas of natural resources and environmental sciences relevant to the student's career preparation. Open only to NRES graduate students. A capstone paper and successful completion of an oral exam is required to earn credit for this course and also serves as the final requirement to complete the non-thesis master's program.",
+      []
+    ],
+    "NRES 511": [
+      "Principles of Applied Ecology",
+      {
+        "MSU": [
+          "60783",
+          [
+            [
+              25,
+              "W",
+              "ONLINE",
+              0,
+              [
+                "Stodola, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Provides a thorough foundation of fundamental ecological principles that govern the distribution and abundance of organisms with extra attention to applied ecology as it pertains to current-day ecological problems. The approach will include lectures, discussions, hands-on evaluation and interpretation of data and experimental design presented in case studies, and design and implementation of an independent research project.",
+      []
+    ],
+    "NRES 502": [
+      "Research Methods in NRES",
+      {
+        "MSU": [
+          "69541",
+          [
+            [
+              26,
+              "M",
+              "ONLINE",
+              0,
+              [
+                "Curtis Quick, J",
+                "Hodson, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Theory and practice of research methods in natural resources, ecology, and environmental sciences. Provides an overview of experimental design and sampling techniques, and includes discussions of discipline-specific statistical methods.",
+      []
+    ],
+    "NRES 527": [
+      "Wetland Science and Conservation in Context",
+      {
+        "ONL": [
+          "77250",
+          [
+            [
+              27,
+              "T",
+              "ONLINE",
+              0,
+              [
+                "Bloomer, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Deepens students’ understanding of policy, economic, community, and cultural factors that empower and constrain wetland protection, conservation, and restoration. The first half explores wetland regulation and management in the U.S., in other countries, and internationally with attention to adapting to environmental change within those policy contexts. The second half focuses on competing management and conservation priorities, social aspects of wetland conservation, restoration, and management, and developing skills in the effective and culturally sensitive stakeholder engagement.",
+      []
+    ],
+    "NRES 572": [
+      "Chemistry of Soil Fertility",
+      {
+        "A": [
+          "35373",
+          [
+            [
+              28,
+              "MWF",
+              "W223 Turner Hall",
+              0,
+              [
+                "Mulvaney, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "The chemistry of essential plant nutrients in soils, and their quantitative relationships to plant growth.",
+      []
+    ],
+    "NRES 592": [
+      "Sustainable Urban Systems",
+      {
+        "D": [
+          "62002",
+          [
+            [
+              2,
+              "TR",
+              "1311 Newmark Civil Engineering Bldg",
+              0,
+              [
+                "Cheng, Y",
+                "Zhao, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "62658",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Zhao, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as CEE 592 and UP 576. See CEE 592.",
+      []
+    ],
+    "NRES 594": [
+      "NRES Professional Orientation",
+      {
+        "MSU": [
+          "40648",
+          [
+            [
+              4,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Hodson, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "The philosophy and components of graduate education with development of the principles useful in teaching, research, and extension in horticulture, natural resources and environmental sciences. Students will be required to develop and submit a proposal describing planned research for their M.S. or Ph.D. thesis.",
+      []
+    ],
+    "NRES 598": [
+      "Experimental Graduate Courses",
+      {
+        "SIE": [
+          "58912",
+          [
+            [
+              0,
+              "TR",
+              "Location Pending",
+              0,
+              [
+                "Yu, Z"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Experimental course on a special topic in natural resources and environmental sciences.",
+      []
     ]
   },
   "caches": {
     "periods": [
-      "1300 - 1550",
-      "1000 - 1250",
-      "0930 - 1220",
-      "0900 - 1150",
-      "1530 - 1820",
-      "1700 - 1850",
-      "1230 - 1520",
-      "0000 - 0000",
-      "1600 - 1720",
-      "1000 - 1050",
-      "1100 - 1150",
-      "1300 - 1350",
-      "0930 - 1050",
       "1400 - 1520",
-      "1900 - 2050",
-      "1300 - 1420",
-      "1530 - 1650",
-      "1400 - 1450",
-      "1500 - 1650",
-      "1230 - 1350",
-      "1500 - 1750",
-      "0900 - 1020",
-      "1500 - 1620",
-      "1200 - 1250",
-      "0900 - 0950",
+      "1530 - 1820",
       "1100 - 1220",
-      "1500 - 1550",
-      "1800 - 1920",
-      "1600 - 1850",
-      "1330 - 1620",
-      "0930 - 1120",
-      "1130 - 1320",
-      "0800 - 0920",
-      "1430 - 1620",
-      "1000 - 1150",
-      "0900 - 1140",
-      "0930 - 1020",
-      "1030 - 1120",
-      "1430 - 1520",
-      "1530 - 1620",
-      "1630 - 1720",
-      "1130 - 1220",
-      "1400 - 1650",
-      "1300 - 1650",
-      "1900 - 2030",
-      "1700 - 1900",
-      "1630 - 1750",
-      "1700 - 1820",
-      "1230 - 1320",
-      "1500 - 1615",
-      "1530 - 1645",
-      "1330 - 1445",
-      "1030 - 1145",
-      "1030 - 1150",
-      "1200 - 1259",
-      "1600 - 1750",
-      "1430 - 1545",
-      "1600 - 1715",
-      "1330 - 1520",
-      "1330 - 1420",
-      "0900 - 1015",
-      "1325 - 1445",
+      "1800 - 2100",
+      "0000 - 0000",
+      "1830 - 1950",
+      "0930 - 1050",
       "0900 - 1050",
-      "0830 - 1020",
-      "1729 - 1920",
-      "1500 - 1659",
-      "1300 - 1459",
-      "0850 - 1020",
-      "1715 - 1830",
-      "1730 - 1930",
-      "1330 - 1535",
-      "0930 - 1135",
-      "1700 - 1930",
-      "0900 - 1159",
-      "0930 - 1130",
-      "1630 - 1745",
-      "0930 - 1129",
-      "0915 - 1159",
-      "1200 - 1320",
-      "1600 - 1859",
-      "1600 - 1810",
-      "1700 - 1859",
-      "1500 - 1629",
-      "1800 - 1915",
-      "1600 - 1759",
-      "1330 - 1615",
-      "1500 - 1555",
-      "1330 - 1559",
-      "1330 - 1640",
-      "1330 - 1630",
-      "1345 - 1645",
-      "1630 - 1820",
-      "1230 - 1420",
-      "0900 - 1700",
-      "0900 - 1035",
-      "1630 - 1920",
-      "1325 - 1450",
-      "1740 - 2000",
-      "1700 - 1830",
-      "1530 - 1720",
-      "1500 - 1720",
-      "1330 - 1529",
-      "1000 - 1159",
-      "1030 - 1159",
-      "1700 - 1910",
-      "1500 - 1745",
-      "1500 - 1729",
-      "1501 - 1745",
-      "1330 - 1429",
-      "1745 - 1925",
-      "1800 - 2005",
-      "1730 - 1920",
-      "1300 - 1415",
-      "1010 - 1125",
-      "1000 - 1120",
-      "0900 - 1000",
-      "1600 - 1650",
-      "1100 - 1350",
-      "1830 - 2030",
-      "0800 - 1030",
-      "1800 - 2000",
-      "1200 - 1330",
-      "0800 - 1050",
-      "0800 - 0950",
-      "1300 - 1450",
-      "1430 - 1550",
-      "1400 - 1550",
-      "1800 - 1930",
-      "1400 - 1720",
-      "1600 - 1820",
-      "1230 - 1345",
-      "1400 - 1515",
-      "1100 - 1320",
-      "1100 - 1215",
-      "1320 - 1450",
-      "1230 - 1430",
-      "1430 - 1820",
-      "0800 - 0850",
       "1100 - 1250",
-      "0900 - 1040",
-      "1200 - 1350",
-      "1400 - 1750",
-      "0900 - 1250",
-      "1200 - 1450",
-      "1700 - 1750",
-      "1000 - 1350",
-      "1630 - 1730",
-      "1330 - 1500",
-      "1800 - 1950",
-      "0930 - 1045",
-      "0800 - 0930",
-      "0600 - 0720",
-      "1700 - 1920",
-      "1330 - 1450",
-      "1830 - 2050",
-      "1430 - 1630",
-      "0830 - 0950",
-      "1730 - 1820",
-      "1100 - 1300",
-      "0930 - 1100",
-      "1400 - 1530",
-      "1500 - 1630",
-      "1730 - 1900",
-      "1100 - 1230",
-      "1800 - 2050",
-      "1800 - 1850",
-      "1800 - 2020",
-      "1730 - 1850",
-      "1930 - 2130",
-      "1700 - 2000",
-      "1900 - 2200",
-      "1000 - 1300",
-      "1900 - 2150",
-      "1400 - 1630",
-      "1200 - 1300",
-      "1000 - 1130",
+      "1200 - 1250",
+      "1530 - 1650",
       "1700 - 2050",
-      "1600 - 1730"
+      "1200 - 1550",
+      "1230 - 1350",
+      "0800 - 1050",
+      "1100 - 1150",
+      "1400 - 1450",
+      "1600 - 1650",
+      "0900 - 0950",
+      "1800 - 1900",
+      "1000 - 1050",
+      "0900 - 1300",
+      "1500 - 1550",
+      "1030 - 1150",
+      "1000 - 1150",
+      "1830 - 2130",
+      "1900 - 2100",
+      "1900 - 2030",
+      "0800 - 0850"
     ],
     "dateRanges": [],
     "scheduleTypes": [
       "Lecture-Discussion",
-      "Online",
-      "Lecture",
-      "Independent Study",
       "Laboratory",
-      "Laboratory-Discussion",
+      "Lecture",
+      "Online",
+      "Independent Study",
       "Online Lab",
-      "Online Lecture",
-      "Conference",
-      "Seminar",
-      "Online Lecture Discussion",
-      "Internship",
+      "Laboratory-Discussion",
       "Discussion/ Recitation",
-      "Study Abroad",
-      "Online Discussion",
-      "Travel",
-      "LectureMeets 01/22/26-03/27/26",
-      "LectureMeets 02/27/26",
-      "ConferenceMeets 02/27/26",
-      "Lecture-DiscussionMeets 02/27/26",
-      "ConferenceMeets 01/21/26",
-      "LectureMeets 04/03/26",
-      "Lecture-DiscussionMeets 04/03/26",
-      "Lecture-DiscussionMeets 03/03/26",
-      "Discussion/ RecitationMeets 04/24/26",
-      "Lecture-DiscussionMeets 04/24/26",
-      "LectureMeets 03/06/26",
-      "Lecture-DiscussionMeets 03/06/26",
-      "Lecture-DiscussionMeets 03/27/26",
-      "Discussion/ RecitationMeets 03/27/26",
-      "Quiz",
-      "Lecture-DiscussionMeets 04/06/26-04/10/26",
-      "LectureMeets 01/25/26-05/06/26",
-      "Practice",
-      "Packaged Section"
+      "Conference"
     ],
     "campuses": [],
     "attributes": [],
@@ -1323,108 +2539,20 @@
         "long": null
       },
       {
-        "lat": 40.107534,
-        "long": -88.2281548
-      },
-      {
         "lat": 40.1047599,
         "long": -88.2319514
-      },
-      {
-        "lat": 40.1072225,
-        "long": -88.2262016
-      },
-      {
-        "lat": 40.105732,
-        "long": -88.2281018
-      },
-      {
-        "lat": 40.1035833,
-        "long": -88.228405
-      },
-      {
-        "lat": 40.1065684,
-        "long": -88.2281746
       },
       {
         "lat": 40.1020773,
         "long": -88.2296394
       },
       {
-        "lat": 40.1108856,
-        "long": -88.2269806
-      },
-      {
-        "lat": 40.11246109008789,
-        "long": -88.22831726074219
-      },
-      {
-        "lat": 40.1033599,
-        "long": -88.2292111
-      },
-      {
-        "lat": 40.10099,
-        "long": -88.23159
-      },
-      {
-        "lat": 40.104794,
-        "long": -88.224264
+        "lat": 40.1065684,
+        "long": -88.2281746
       },
       {
         "lat": 40.1034533,
         "long": -88.2327596
-      },
-      {
-        "lat": 40.1083446,
-        "long": -88.2282555
-      },
-      {
-        "lat": 40.107811,
-        "long": -88.2260761
-      },
-      {
-        "lat": 40.1110937,
-        "long": -88.2232348
-      },
-      {
-        "lat": 40.1028373,
-        "long": -88.2251326
-      },
-      {
-        "lat": 40.1109722,
-        "long": -88.2282631
-      },
-      {
-        "lat": 40.103587,
-        "long": -88.230606
-      },
-      {
-        "lat": 40.1149296,
-        "long": -88.2280589
-      },
-      {
-        "lat": 40.1131317,
-        "long": -88.2264552
-      },
-      {
-        "lat": 40.10593795776367,
-        "long": -88.2270736694336
-      },
-      {
-        "lat": 40.101862,
-        "long": -88.231737
-      },
-      {
-        "lat": 40.1116416,
-        "long": -88.2248868
-      },
-      {
-        "lat": 40.111691,
-        "long": -88.2242511
-      },
-      {
-        "lat": 40.0995003,
-        "long": -88.223104
       }
     ],
     "finalDates": [],
