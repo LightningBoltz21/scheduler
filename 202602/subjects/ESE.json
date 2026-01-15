@@ -1,843 +1,13 @@
 {
-  "subject": "CSE",
-  "scrapedAt": 1768450584618,
-  "courseCount": 21,
+  "subject": "ESE",
+  "scrapedAt": 1768450624775,
+  "courseCount": 23,
   "courses": {
-    "CSE 412": [
-      "Numerical Thermo-Fluid Mechs",
+    "ESE 117": [
+      "The Oceans",
       {
-        "F2": [
-          "61262",
-          [
-            [
-              15,
-              "MWF",
-              "2055 Sidney Lu Mech Engr Bldg",
-              4,
-              [
-                "Staff"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ],
-        "F3": [
-          "61337",
-          [
-            [
-              15,
-              "MWF",
-              "2055 Sidney Lu Mech Engr Bldg",
-              4,
-              [
-                "Raj, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ],
-        "F4": [
-          "61340",
-          [
-            [
-              15,
-              "MWF",
-              "2055 Sidney Lu Mech Engr Bldg",
-              4,
-              [
-                "Raj, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      null,
-      []
-    ],
-    "CSE 426": [
-      "Software Engineering I",
-      {
-        "SE3": [
-          "78287",
-          [
-            [
-              3,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Marinov, D"
-              ],
-              -1,
-              -1,
-              -1
-            ],
-            [
-              3,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Marinov, D"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          11,
-          0,
-          [],
-          -1
-        ],
-        "SE4": [
-          "74280",
-          [
-            [
-              3,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Marinov, D"
-              ],
-              -1,
-              -1,
-              -1
-            ],
-            [
-              3,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Marinov, D"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          11,
-          0,
-          [],
-          -1
-        ],
-        "SEU": [
-          "74278",
-          [
-            [
-              3,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Marinov, D"
-              ],
-              -1,
-              -1,
-              -1
-            ],
-            [
-              3,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Marinov, D"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          11,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      null,
-      []
-    ],
-    "CSE 408": [
-      "Applied Parallel Programming",
-      {
-        "AB": [
-          "67939",
-          [
-            [
-              3,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Staff"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "AL": [
-          "67940",
-          [
-            [
-              21,
-              "TR",
-              "1002 Electrical & Computer Eng Bldg",
-              28,
-              [
-                "Kindratenko, V"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          2,
-          0,
-          [],
-          -1
-        ],
-        "CSP": [
-          "77525",
-          [
-            [
-              3,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Kindratenko, V"
-              ],
-              -1,
-              -1,
-              -1
-            ],
-            [
-              21,
-              "TR",
-              "ONLINE",
-              0,
-              [
-                "Kindratenko, V"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          13,
-          0,
-          [],
-          -1
-        ],
-        "MCS": [
-          "77531",
-          [
-            [
-              3,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Kindratenko, V"
-              ],
-              -1,
-              -1,
-              -1
-            ],
-            [
-              21,
-              "TR",
-              "ONLINE",
-              0,
-              [
-                "Kindratenko, V"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          13,
-          0,
-          [],
-          -1
-        ],
-        "OLB": [
-          "68237",
-          [
-            [
-              3,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Kindratenko, V"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          13,
-          0,
-          [],
-          -1
-        ],
-        "OLC": [
-          "68238",
-          [
-            [
-              21,
-              "TR",
-              "ONLINE",
-              0,
-              [
-                "Kindratenko, V"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          1,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Same as CS 483 and ECE 408. See ECE 408.",
-      []
-    ],
-    "CSE 441": [
-      "Introduction to Optimization",
-      {
-        "OP3": [
-          "33980",
-          [
-            [
-              27,
-              "MW",
-              "3015 Electrical & Computer Eng Bldg",
-              28,
-              [
-                "Bose, S"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          11,
-          0,
-          [],
-          -1
-        ],
-        "OP4": [
-          "54361",
-          [
-            [
-              27,
-              "MW",
-              "3015 Electrical & Computer Eng Bldg",
-              28,
-              [
-                "Bose, S"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          11,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      null,
-      []
-    ],
-    "CSE 414": [
-      "Algorithms",
-      {
-        "ALG": [
-          "58767",
-          [
-            [
-              65,
-              "WF",
-              "1310 Digital Computer Laboratory",
-              7,
-              [
-                "Forbes, M"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          2,
-          0,
-          [],
-          -1
-        ],
-        "ALU": [
-          "31560",
-          [
-            [
-              65,
-              "WF",
-              "1310 Digital Computer Laboratory",
-              7,
-              [
-                "Forbes, M"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          2,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Same as CS 473 and MATH 473. See CS 473.",
-      []
-    ],
-    "CSE 440": [
-      "Statistical Data Management",
-      {
-        "1GR": [
-          "63957",
-          [
-            [
-              26,
-              "MWF",
-              "32 Psychology Building",
-              25,
-              [
-                "Kinson, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ],
-        "1UG": [
-          "63958",
-          [
-            [
-              26,
-              "MWF",
-              "32 Psychology Building",
-              25,
-              [
-                "Kinson, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ],
-        "2GR": [
-          "63955",
-          [
-            [
-              25,
-              "MWF",
-              "32 Psychology Building",
-              25,
-              [
-                "Kinson, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ],
-        "2UG": [
-          "63956",
-          [
-            [
-              25,
-              "MWF",
-              "32 Psychology Building",
-              25,
-              [
-                "Kinson, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Same as STAT 440. See STAT 440.",
-      []
-    ],
-    "CSE 428": [
-      "Statistical Computing",
-      {
-        "1GR": [
-          "63948",
-          [
-            [
-              21,
-              "TR",
-              "151 Loomis Laboratory",
-              13,
-              [
-                "Wang, S"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ],
-        "1UG": [
-          "63949",
-          [
-            [
-              21,
-              "TR",
-              "151 Loomis Laboratory",
-              13,
-              [
-                "Wang, S"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Same as STAT 428. See STAT 428.",
-      []
-    ],
-    "CSE 401": [
-      "Numerical Analysis",
-      {
-        "B3": [
-          "31432",
-          [
-            [
-              59,
-              "MW",
-              "3031 Campus Instructional Facility",
-              9,
-              [
-                "Kloeckner, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ],
-        "B4": [
-          "31434",
-          [
-            [
-              59,
-              "MW",
-              "3031 Campus Instructional Facility",
-              9,
-              [
-                "Kloeckner, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Same as CS 450, ECE 491 and MATH 450. See CS 450.",
-      []
-    ],
-    "CSE 422": [
-      "Computer System Organization",
-      {
-        "S3": [
-          "31408",
-          [
-            [
-              61,
-              "TR",
-              "1304 Siebel Center for Comp Sci",
-              10,
-              [
-                "Talati, N"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ],
-        "S4": [
-          "31409",
-          [
-            [
-              61,
-              "TR",
-              "1304 Siebel Center for Comp Sci",
-              10,
-              [
-                "Talati, N"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      null,
-      []
-    ],
-    "CSE 423": [
-      "Operating Systems Design",
-      {
-        "CG": [
-          "31381",
-          [
-            [
-              61,
-              "TR",
-              "1310 Digital Computer Laboratory",
-              7,
-              [
-                "Staff"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ],
-        "CU": [
-          "31380",
-          [
-            [
-              61,
-              "TR",
-              "1310 Digital Computer Laboratory",
-              7,
-              [
-                "Staff"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      null,
-      []
-    ],
-    "CSE 451": [
-      "Finite Element Analysis",
-      {
-        "B3": [
-          "37474",
-          [
-            [
-              27,
-              "MW",
-              "114 Transportation Building",
-              2,
-              [
-                "Mercer, B"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ],
-        "B4": [
-          "59678",
-          [
-            [
-              27,
-              "MW",
-              "114 Transportation Building",
-              2,
-              [
-                "Mercer, B"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Same as AE 420 and ME 471. See ME 471.",
-      []
-    ],
-    "CSE 461": [
-      "Computational Aerodynamics",
-      {
-        "A": [
-          "29957",
-          [
-            [
-              2,
-              "MW",
-              "403B2 Engineering Hall",
-              15,
-              [
-                "Vollmer, B"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ],
         "ONL": [
-          "62529",
+          "59022",
           [
             [
               3,
@@ -845,14 +15,14 @@
               "ONLINE",
               0,
               [
-                "Vollmer, B"
+                "Buckley, E"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          4,
+          3,
           3,
           0,
           [],
@@ -860,74 +30,218 @@
         ]
       },
       [],
-      null,
+      "Same as GEOL 117. See GEOL 117.",
       []
     ],
-    "CSE 522": [
-      "Parallel Computer Architecture",
+    "ESE 111": [
+      "Emergence of Life",
       {
-        "S": [
-          "57171",
+        "A": [
+          "61955",
           [
             [
-              64,
-              "TR",
-              "1214 Siebel Center for Comp Sci",
-              10,
+              3,
+              "",
+              "ONLINE",
+              0,
               [
-                "Torrellas, J"
+                "Cole, T",
+                "Scott, C"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          4,
-          5,
+          3,
+          3,
           0,
           [],
           -1
         ]
       },
       [],
-      null,
+      "Same as GEOL 111. See GEOL 111.",
       []
     ],
-    "CSE 448": [
-      "Advanced Data Analysis",
+    "ESE 104": [
+      "Geology of the National Parks",
       {
-        "1GR": [
-          "63959",
+        "AB1": [
+          "77169",
           [
             [
-              22,
-              "MWF",
-              "3101 Sidney Lu Mech Engr Bldg",
-              4,
+              1,
+              "R",
+              "2020B Natural History Building",
+              18,
               [
-                "Bravo De Guenni, L"
+                "Nguyen, H"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          4,
-          5,
+          3,
+          0,
           0,
           [],
           -1
         ],
-        "1UG": [
-          "67123",
+        "AL1": [
+          "63300",
           [
             [
-              22,
-              "MWF",
-              "3101 Sidney Lu Mech Engr Bldg",
-              4,
+              1,
+              "T",
+              "2020B Natural History Building",
+              18,
               [
-                "Bravo De Guenni, L"
+                "Nguyen, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as GEOL 104. See GEOL 104.",
+      []
+    ],
+    "ESE 120": [
+      "Severe and Hazardous Weather",
+      {
+        "A": [
+          "54843",
+          [
+            [
+              1,
+              "TR",
+              "THEAT Lincoln Hall",
+              19,
+              [
+                "Choate, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "HA": [
+          "54870",
+          [
+            [
+              1,
+              "TR",
+              "THEAT Lincoln Hall",
+              19,
+              [
+                "Choate, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as ATMS 120. See ATMS 120.",
+      []
+    ],
+    "ESE 140": [
+      "Climate and Global Change",
+      {
+        "A": [
+          "54862",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Hence, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as ATMS 140. See ATMS 140.",
+      []
+    ],
+    "ESE 210": [
+      "Social & Environmental Issues",
+      {
+        "ONL": [
+          "54796",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Alvarado, N",
+                "Cummings, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as GGIS 210. See GGIS 210.",
+      []
+    ],
+    "ESE 103": [
+      "Earth's Physical Systems",
+      {
+        "AB1": [
+          "54793",
+          [
+            [
+              1,
+              "R",
+              "137C Davenport Hall",
+              12,
+              [
+                "Chyon, S"
               ],
               -1,
               -1,
@@ -935,29 +249,44 @@
             ]
           ],
           4,
-          5,
+          14,
           0,
           [],
           -1
-        ]
-      },
-      [],
-      "Same as STAT 448. See STAT 448.",
-      []
-    ],
-    "CSE 510": [
-      "Numerical Methods for PDEs",
-      {
-        "N": [
-          "50118",
+        ],
+        "AB2": [
+          "54794",
           [
             [
-              65,
-              "TR",
-              "1035 Campus Instructional Facility",
-              9,
+              21,
+              "F",
+              "137C Davenport Hall",
+              12,
               [
-                "Fischer, P"
+                "Chyon, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          14,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "54792",
+          [
+            [
+              21,
+              "TR",
+              "101 Transportation Building",
+              2,
+              [
+                "Chyon, S",
+                "Wang, J"
               ],
               -1,
               -1,
@@ -972,29 +301,30 @@
         ]
       },
       [],
-      "Same as CS 555 and MATH 552. See CS 555.",
+      "Same as GGIS 103. See GGIS 103.",
       []
     ],
-    "CSE 525": [
-      "Topics in Computational Statistics",
+    "ESE 106": [
+      "Geographies of Globalization",
       {
-        "A1": [
-          "63832",
+        "A": [
+          "58856",
           [
             [
               14,
               "MWF",
-              "1002 Lincoln Hall",
-              19,
+              "319 Gregory Hall",
+              5,
               [
-                "Zhou, Y"
+                "McAlister, J",
+                "Sanchez, I"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          4,
+          3,
           5,
           0,
           [],
@@ -1002,126 +332,14 @@
         ]
       },
       [],
-      "Same as STAT 525. See STAT 525.",
+      "Same as GGIS 106. See GGIS 106.",
       []
     ],
-    "CSE 498": [
-      "Special Topics",
+    "ESE 118": [
+      "Natural Disasters",
       {
-        "DM": [
-          "70543",
-          [
-            [
-              2,
-              "TR",
-              "2051 Sidney Lu Mech Engr Bldg",
-              4,
-              [
-                "Schleife, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Subject offerings of new and developing areas of knowledge in computational science and engineering intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites.",
-      []
-    ],
-    "CSE 542": [
-      "Statistical Learning",
-      {
-        "A1": [
-          "63828",
-          [
-            [
-              25,
-              "MWF",
-              "3025 Campus Instructional Facility",
-              9,
-              [
-                "Liu, J"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Same as ASRM 551 and STAT 542. See STAT 542.",
-      []
-    ],
-    "CSE 521": [
-      "Computer Architecture",
-      {
-        "A": [
-          "69418",
-          [
-            [
-              18,
-              "TR",
-              "3017 Electrical & Computer Eng Bldg",
-              28,
-              [
-                "Huang, J"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          11,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      null,
-      []
-    ],
-    "CSE 551": [
-      "Finite Element Methods",
-      {
-        "D": [
-          "31750",
-          [
-            [
-              2,
-              "MW",
-              "2311 Newmark Civil Engineering Bldg",
-              32,
-              [
-                "Duarte, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ],
         "ONL": [
-          "60866",
+          "58496",
           [
             [
               3,
@@ -1129,7 +347,424 @@
               "ONLINE",
               0,
               [
-                "Duarte, C"
+                "Brinker, S",
+                "Maguire, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as GEOL 118 and GLBL 118. See GEOL 118.",
+      []
+    ],
+    "ESE 222": [
+      "Big Rivers of the World",
+      {
+        "A": [
+          "54797",
+          [
+            [
+              24,
+              "MWF",
+              "2020A Natural History Building",
+              18,
+              [
+                "Best, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as GGIS 222. See GGIS 222.",
+      []
+    ],
+    "ESE 287": [
+      "Environment and Society",
+      {
+        "AD1": [
+          "54847",
+          [
+            [
+              24,
+              "F",
+              "223 David Kinley Hall",
+              36,
+              [
+                "Salas, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          11,
+          0,
+          [],
+          -1
+        ],
+        "AD2": [
+          "54848",
+          [
+            [
+              15,
+              "F",
+              "223 David Kinley Hall",
+              36,
+              [
+                "Salas, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          11,
+          0,
+          [],
+          -1
+        ],
+        "AD3": [
+          "54849",
+          [
+            [
+              15,
+              "F",
+              "212 David Kinley Hall",
+              36,
+              [
+                "Johnson, Z"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          11,
+          0,
+          [],
+          -1
+        ],
+        "AD4": [
+          "54850",
+          [
+            [
+              14,
+              "F",
+              "212 David Kinley Hall",
+              36,
+              [
+                "Johnson, Z"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          11,
+          0,
+          [],
+          -1
+        ],
+        "AD5": [
+          "54851",
+          [
+            [
+              22,
+              "F",
+              "212 David Kinley Hall",
+              36,
+              [
+                "Afzal, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          11,
+          0,
+          [],
+          -1
+        ],
+        "AD7": [
+          "68927",
+          [
+            [
+              17,
+              "F",
+              "212 David Kinley Hall",
+              36,
+              [
+                "Afzal, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          11,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "54846",
+          [
+            [
+              15,
+              "MW",
+              "213 Gregory Hall",
+              5,
+              [
+                "Garcia Otero, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as GGIS 287, NRES 287 and PS 273. See NRES 287.",
+      []
+    ],
+    "ESE 350": [
+      "Sustainability and the City",
+      {
+        "A": [
+          "59658",
+          [
+            [
+              1,
+              "TR",
+              "115 David Kinley Hall",
+              36,
+              [
+                "Wilson, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as GGIS 350. See GGIS 350.",
+      []
+    ],
+    "ESE 360": [
+      "Environmental Writing",
+      {
+        "A": [
+          "66865",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Tomkin, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "67476",
+          [
+            [
+              21,
+              "TR",
+              "313 Gregory Hall",
+              5,
+              [
+                "Gaffney, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Equips students to write about the environment for various audiences, with a focus on specific current efforts to promote sustainability on the Urbana-Champaign campus. We will practice effective techniques for each stage of the writing process-from defining topics, to gathering information, to crafting active, engaging prose. Readings will include models of effective environmental writing and \"how to\" pieces by experts. Research will include visits to campus sites and student-conducted interviews with subjects.",
+      []
+    ],
+    "ESE 320": [
+      "Water Planet, Water Crisis",
+      {
+        "AL1": [
+          "58559",
+          [
+            [
+              2,
+              "TR",
+              "2020A Natural History Building",
+              18,
+              [
+                "Sivapalan, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Study of the science of water on planet earth, the developing water crisis, and some possible solutions to it. Topics include water's unique physical and chemical properties; how it profoundly shapes the earth/ocean/atmosphere system; dynamics of oceans, atmosphere, lakes, rivers, groundwater, and ice masses; current fresh water supplies and their distribution on earth relative to population; current and future water crises and the compounding effects of droughts, floods, and global change; and prospects for some technological and economic approaches to easing the crisis.",
+      []
+    ],
+    "ESE 380": [
+      "Geographic Information Systems II",
+      {
+        "A": [
+          "61528",
+          [
+            [
+              1,
+              "TR",
+              "1020 Natural History Building",
+              18,
+              [
+                "Minn, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          14,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as GGIS 380. See GGIS 380.",
+      []
+    ],
+    "ESE 389": [
+      "Environment and Sustainability Field Expedition",
+      {
+        "A": [
+          "62068",
+          [
+            [
+              73,
+              "W",
+              "2020A Natural History Building",
+              18,
+              [
+                "Meghani, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          11,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Group expedition to study environment and sustainability issues at a field site. Includes in-class meetings, student-led presentation, and field trip; expeditions run during spring break, winter break, in mid-May or in intercession; dates depend on location. Field Trip and field trip fee required.",
+      []
+    ],
+    "ESE 379": [
+      "Introduction to Geographic Information Systems",
+      {
+        "AE1": [
+          "54798",
+          [
+            [
+              30,
+              "W",
+              "1090 Lincoln Hall",
+              19,
+              [
+                "Minn, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "62098",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Minn, M"
               ],
               -1,
               -1,
@@ -1144,22 +779,112 @@
         ]
       },
       [],
-      null,
+      "Same as GGIS 379. See GGIS 379.",
       []
     ],
-    "CSE 566": [
-      "Numerical Fluid Dynamics",
+    "ESE 445": [
+      "Earth Resources Sustainability",
       {
         "A": [
-          "63492",
+          "61711",
           [
             [
-              24,
-              "MWF",
-              "G7 Literatures, Cultures, & Ling",
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Cole, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduces the physical (energy, mineral, and soil) resources of the Earth, the environmental consequences of producing and using resources, the controls on resource supplies, and the alternatives to traditional supplies. Focuses on the geological origin and context of resources, the means of exploration and production, the history of production, and sustainability issues related to consumption and depletion. Provides an understanding of why resources can be scarce and expensive, why many are not renewable, and why their use impacts the Earth System. May include field trips.",
+      []
+    ],
+    "ESE 439": [
+      "Biogeography",
+      {
+        "A": [
+          "56936",
+          [
+            [
+              21,
+              "TR",
+              "2083 Natural History Building",
+              18,
+              [
+                "Punyasena, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as ANTH 436, GGIS 436, IB 439, and NRES 441. See IB 439.",
+      []
+    ],
+    "ESE 401": [
+      "ESE Capstone",
+      {
+        "": [
+          "54841",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Capstone experience for majors in Earth, Society, and Environment Sustainability.",
+      []
+    ],
+    "ESE 467": [
+      "Multimedia Environmental Communications",
+      {
+        "A": [
+          "70523",
+          [
+            [
+              4,
+              "TR",
+              "1128 Literatures, Cultures, & Ling",
               20,
               [
-                "Jewett, B"
+                "Becker, L"
               ],
               -1,
               -1,
@@ -1174,7 +899,103 @@
         ]
       },
       [],
-      "Same as ATMS 502. See ATMS 502.",
+      "Develops capacities to communicate about sustainability and other environmental topics. Storytelling and clear exposition across multiple types of media will be emphasized. Students will be exposed to the application of blogs, audio podcasts, short videos, infographics and social media applications to communicate effectively about environmental science and allied fields. Skills in photography, videography, audio capture, developing scripts, interviewing, and social media best practices will be learned.",
+      []
+    ],
+    "ESE 497": [
+      "Special Topics in ESE",
+      {
+        "I": [
+          "76924",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Brown, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "M": [
+          "77884",
+          [
+            [
+              15,
+              "MWF",
+              "220 Davenport Hall",
+              12,
+              [
+                "Christie, M",
+                "Meghani, N"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              30,
+              "M",
+              "220 Davenport Hall",
+              12,
+              [
+                "Christie, M",
+                "Meghani, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Advanced topics course, consisting of seminar or lectures in subjects not covered by regular course offerings; for advanced undergraduates and graduate students. Possible field study in a prominent geological locality; includes in-class meetings, student-led presentations, and field trip; trips run during spring break, winter break, in mid-end May; dates depend on location.",
+      []
+    ],
+    "ESE 498": [
+      "Environmental Writing for Publication",
+      {
+        "A": [
+          "67478",
+          [
+            [
+              16,
+              "TR",
+              "G48 Literatures, Cultures, & Ling",
+              20,
+              [
+                "Cole, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Provides students with both the experience of the real-world editorial process and with a research product (the published essay) that showcases their professional development as well-informed and persuasive writers on environmental issues.",
       []
     ]
   },
@@ -1283,7 +1104,46 @@
       "1600 - 1715",
       "1730 - 1845",
       "1700 - 1800",
-      "1300 - 1415"
+      "1300 - 1415",
+      "1500 - 1720",
+      "1300 - 1600",
+      "1400 - 1630",
+      "1000 - 1220",
+      "1430 - 1820",
+      "1500 - 1700",
+      "0900 - 1030",
+      "1430 - 1630",
+      "1035 - 1150",
+      "1700 - 1900",
+      "1400 - 1620",
+      "1450 - 1735",
+      "1145 - 1305",
+      "1530 - 1750",
+      "1500 - 1750",
+      "1100 - 1350",
+      "0830 - 0950",
+      "1100 - 1230",
+      "1600 - 1800",
+      "1800 - 2000",
+      "1900 - 1930",
+      "0730 - 1530",
+      "1530 - 1550",
+      "1000 - 1700",
+      "1600 - 1730",
+      "1730 - 1850",
+      "1630 - 1800",
+      "1100 - 1320",
+      "1230 - 1430",
+      "1500 - 1730",
+      "1200 - 1430",
+      "1000 - 1200",
+      "1700 - 2000",
+      "1730 - 2030",
+      "1730 - 2020",
+      "0900 - 1200",
+      "1730 - 2130",
+      "0900 - 1600",
+      "1900 - 2200"
     ],
     "dateRanges": [],
     "scheduleTypes": [
@@ -1484,6 +1344,18 @@
       {
         "lat": 40.1149521,
         "long": -88.2267561
+      },
+      {
+        "lat": 40.10802885201532,
+        "long": -88.22239700364068
+      },
+      {
+        "lat": 40.11180304465921,
+        "long": -88.22613003543475
+      },
+      {
+        "lat": 40.1022093629303,
+        "long": -88.22800864058527
       }
     ],
     "finalDates": [],

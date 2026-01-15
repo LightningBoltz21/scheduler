@@ -1,65 +1,68 @@
 {
-  "subject": "CSE",
-  "scrapedAt": 1768450584618,
-  "courseCount": 21,
+  "subject": "GER",
+  "scrapedAt": 1768450646627,
+  "courseCount": 20,
   "courses": {
-    "CSE 412": [
-      "Numerical Thermo-Fluid Mechs",
+    "GER 102": [
+      "Beginning German II",
       {
-        "F2": [
-          "61262",
+        "C": [
+          "33563",
+          [
+            [
+              17,
+              "MTWR",
+              "1022 Literatures, Cultures, & Ling",
+              20,
+              [
+                "Avemarie, D",
+                "Webster, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "D": [
+          "33564",
+          [
+            [
+              22,
+              "MTWR",
+              "327 Gregory Hall",
+              5,
+              [
+                "Avemarie, D",
+                "Webster, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "D2": [
+          "33565",
           [
             [
               15,
-              "MWF",
-              "2055 Sidney Lu Mech Engr Bldg",
-              4,
+              "MTWR",
+              "1136 Literatures, Cultures, & Ling",
+              20,
               [
-                "Staff"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ],
-        "F3": [
-          "61337",
-          [
-            [
-              15,
-              "MWF",
-              "2055 Sidney Lu Mech Engr Bldg",
-              4,
-              [
-                "Raj, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ],
-        "F4": [
-          "61340",
-          [
-            [
-              15,
-              "MWF",
-              "2055 Sidney Lu Mech Engr Bldg",
-              4,
-              [
-                "Raj, A"
+                "Horn, R",
+                "Webster, C"
               ],
               -1,
               -1,
@@ -74,770 +77,44 @@
         ]
       },
       [],
-      null,
+      "Continuation of GER 101. Continued focus on listening comprehension, oral skills, reading, writing, and culture at an introductory level.",
       []
     ],
-    "CSE 426": [
-      "Software Engineering I",
-      {
-        "SE3": [
-          "78287",
-          [
-            [
-              3,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Marinov, D"
-              ],
-              -1,
-              -1,
-              -1
-            ],
-            [
-              3,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Marinov, D"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          11,
-          0,
-          [],
-          -1
-        ],
-        "SE4": [
-          "74280",
-          [
-            [
-              3,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Marinov, D"
-              ],
-              -1,
-              -1,
-              -1
-            ],
-            [
-              3,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Marinov, D"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          11,
-          0,
-          [],
-          -1
-        ],
-        "SEU": [
-          "74278",
-          [
-            [
-              3,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Marinov, D"
-              ],
-              -1,
-              -1,
-              -1
-            ],
-            [
-              3,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Marinov, D"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          11,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      null,
-      []
-    ],
-    "CSE 408": [
-      "Applied Parallel Programming",
-      {
-        "AB": [
-          "67939",
-          [
-            [
-              3,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Staff"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "AL": [
-          "67940",
-          [
-            [
-              21,
-              "TR",
-              "1002 Electrical & Computer Eng Bldg",
-              28,
-              [
-                "Kindratenko, V"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          2,
-          0,
-          [],
-          -1
-        ],
-        "CSP": [
-          "77525",
-          [
-            [
-              3,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Kindratenko, V"
-              ],
-              -1,
-              -1,
-              -1
-            ],
-            [
-              21,
-              "TR",
-              "ONLINE",
-              0,
-              [
-                "Kindratenko, V"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          13,
-          0,
-          [],
-          -1
-        ],
-        "MCS": [
-          "77531",
-          [
-            [
-              3,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Kindratenko, V"
-              ],
-              -1,
-              -1,
-              -1
-            ],
-            [
-              21,
-              "TR",
-              "ONLINE",
-              0,
-              [
-                "Kindratenko, V"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          13,
-          0,
-          [],
-          -1
-        ],
-        "OLB": [
-          "68237",
-          [
-            [
-              3,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Kindratenko, V"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          13,
-          0,
-          [],
-          -1
-        ],
-        "OLC": [
-          "68238",
-          [
-            [
-              21,
-              "TR",
-              "ONLINE",
-              0,
-              [
-                "Kindratenko, V"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          1,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Same as CS 483 and ECE 408. See ECE 408.",
-      []
-    ],
-    "CSE 441": [
-      "Introduction to Optimization",
-      {
-        "OP3": [
-          "33980",
-          [
-            [
-              27,
-              "MW",
-              "3015 Electrical & Computer Eng Bldg",
-              28,
-              [
-                "Bose, S"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          11,
-          0,
-          [],
-          -1
-        ],
-        "OP4": [
-          "54361",
-          [
-            [
-              27,
-              "MW",
-              "3015 Electrical & Computer Eng Bldg",
-              28,
-              [
-                "Bose, S"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          11,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      null,
-      []
-    ],
-    "CSE 414": [
-      "Algorithms",
-      {
-        "ALG": [
-          "58767",
-          [
-            [
-              65,
-              "WF",
-              "1310 Digital Computer Laboratory",
-              7,
-              [
-                "Forbes, M"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          2,
-          0,
-          [],
-          -1
-        ],
-        "ALU": [
-          "31560",
-          [
-            [
-              65,
-              "WF",
-              "1310 Digital Computer Laboratory",
-              7,
-              [
-                "Forbes, M"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          2,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Same as CS 473 and MATH 473. See CS 473.",
-      []
-    ],
-    "CSE 440": [
-      "Statistical Data Management",
-      {
-        "1GR": [
-          "63957",
-          [
-            [
-              26,
-              "MWF",
-              "32 Psychology Building",
-              25,
-              [
-                "Kinson, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ],
-        "1UG": [
-          "63958",
-          [
-            [
-              26,
-              "MWF",
-              "32 Psychology Building",
-              25,
-              [
-                "Kinson, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ],
-        "2GR": [
-          "63955",
-          [
-            [
-              25,
-              "MWF",
-              "32 Psychology Building",
-              25,
-              [
-                "Kinson, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ],
-        "2UG": [
-          "63956",
-          [
-            [
-              25,
-              "MWF",
-              "32 Psychology Building",
-              25,
-              [
-                "Kinson, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Same as STAT 440. See STAT 440.",
-      []
-    ],
-    "CSE 428": [
-      "Statistical Computing",
-      {
-        "1GR": [
-          "63948",
-          [
-            [
-              21,
-              "TR",
-              "151 Loomis Laboratory",
-              13,
-              [
-                "Wang, S"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ],
-        "1UG": [
-          "63949",
-          [
-            [
-              21,
-              "TR",
-              "151 Loomis Laboratory",
-              13,
-              [
-                "Wang, S"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Same as STAT 428. See STAT 428.",
-      []
-    ],
-    "CSE 401": [
-      "Numerical Analysis",
-      {
-        "B3": [
-          "31432",
-          [
-            [
-              59,
-              "MW",
-              "3031 Campus Instructional Facility",
-              9,
-              [
-                "Kloeckner, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ],
-        "B4": [
-          "31434",
-          [
-            [
-              59,
-              "MW",
-              "3031 Campus Instructional Facility",
-              9,
-              [
-                "Kloeckner, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Same as CS 450, ECE 491 and MATH 450. See CS 450.",
-      []
-    ],
-    "CSE 422": [
-      "Computer System Organization",
-      {
-        "S3": [
-          "31408",
-          [
-            [
-              61,
-              "TR",
-              "1304 Siebel Center for Comp Sci",
-              10,
-              [
-                "Talati, N"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ],
-        "S4": [
-          "31409",
-          [
-            [
-              61,
-              "TR",
-              "1304 Siebel Center for Comp Sci",
-              10,
-              [
-                "Talati, N"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      null,
-      []
-    ],
-    "CSE 423": [
-      "Operating Systems Design",
-      {
-        "CG": [
-          "31381",
-          [
-            [
-              61,
-              "TR",
-              "1310 Digital Computer Laboratory",
-              7,
-              [
-                "Staff"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ],
-        "CU": [
-          "31380",
-          [
-            [
-              61,
-              "TR",
-              "1310 Digital Computer Laboratory",
-              7,
-              [
-                "Staff"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      null,
-      []
-    ],
-    "CSE 451": [
-      "Finite Element Analysis",
-      {
-        "B3": [
-          "37474",
-          [
-            [
-              27,
-              "MW",
-              "114 Transportation Building",
-              2,
-              [
-                "Mercer, B"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ],
-        "B4": [
-          "59678",
-          [
-            [
-              27,
-              "MW",
-              "114 Transportation Building",
-              2,
-              [
-                "Mercer, B"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Same as AE 420 and ME 471. See ME 471.",
-      []
-    ],
-    "CSE 461": [
-      "Computational Aerodynamics",
+    "GER 205": [
+      "Germany and Europe",
       {
         "A": [
-          "29957",
+          "52355",
           [
             [
-              2,
-              "MW",
-              "403B2 Engineering Hall",
-              15,
+              44,
+              "TR",
+              "G30 Literatures, Cultures, & Ling",
+              20,
               [
-                "Vollmer, B"
+                "Niekerk, C"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          4,
+          3,
           5,
           0,
           [],
           -1
-        ],
-        "ONL": [
-          "62529",
+        ]
+      },
+      [],
+      "Introduction into major issues in contemporary German society with a special focus on Germany's functioning within Europe and the European Union through novels, films, essays, interviews etc. Course taught in English.",
+      []
+    ],
+    "GER 199": [
+      "Undergraduate Open Seminar",
+      {
+        "A1": [
+          "42070",
           [
             [
               3,
@@ -845,15 +122,15 @@
               "ONLINE",
               0,
               [
-                "Vollmer, B"
+                "Staff"
               ],
               -1,
               -1,
               -1
             ]
           ],
+          5,
           4,
-          3,
           0,
           [],
           -1
@@ -863,138 +140,26 @@
       null,
       []
     ],
-    "CSE 522": [
-      "Parallel Computer Architecture",
+    "GER 211": [
+      "Conversation and Writing I",
       {
-        "S": [
-          "57171",
-          [
-            [
-              64,
-              "TR",
-              "1214 Siebel Center for Comp Sci",
-              10,
-              [
-                "Torrellas, J"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      null,
-      []
-    ],
-    "CSE 448": [
-      "Advanced Data Analysis",
-      {
-        "1GR": [
-          "63959",
-          [
-            [
-              22,
-              "MWF",
-              "3101 Sidney Lu Mech Engr Bldg",
-              4,
-              [
-                "Bravo De Guenni, L"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ],
-        "1UG": [
-          "67123",
-          [
-            [
-              22,
-              "MWF",
-              "3101 Sidney Lu Mech Engr Bldg",
-              4,
-              [
-                "Bravo De Guenni, L"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Same as STAT 448. See STAT 448.",
-      []
-    ],
-    "CSE 510": [
-      "Numerical Methods for PDEs",
-      {
-        "N": [
-          "50118",
-          [
-            [
-              65,
-              "TR",
-              "1035 Campus Instructional Facility",
-              9,
-              [
-                "Fischer, P"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          2,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Same as CS 555 and MATH 552. See CS 555.",
-      []
-    ],
-    "CSE 525": [
-      "Topics in Computational Statistics",
-      {
-        "A1": [
-          "63832",
+        "F": [
+          "39080",
           [
             [
               14,
               "MWF",
-              "1002 Lincoln Hall",
-              19,
+              "1022 Literatures, Cultures, & Ling",
+              20,
               [
-                "Zhou, Y"
+                "Webster, C"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          4,
+          3,
           5,
           0,
           [],
@@ -1002,112 +167,53 @@
         ]
       },
       [],
-      "Same as STAT 525. See STAT 525.",
+      "Prerequisite: GER 104 or equivalent, or consent of instructor.",
       []
     ],
-    "CSE 498": [
-      "Special Topics",
+    "GER 191": [
+      "Freshman Honors Tutorial",
       {
-        "DM": [
-          "70543",
+        "": [
+          "10276",
           [
             [
-              2,
-              "TR",
-              "2051 Sidney Lu Mech Engr Bldg",
-              4,
+              3,
+              "",
+              "ONLINE",
+              0,
               [
-                "Schleife, A"
+                "Staff"
               ],
               -1,
               -1,
               -1
             ]
           ],
+          3,
           4,
-          5,
           0,
           [],
           -1
         ]
       },
       [],
-      "Subject offerings of new and developing areas of knowledge in computational science and engineering intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites.",
+      "Study of selected topics on an individually arranged basis. Open only to honors majors or to Cohn Scholars and Associates.",
       []
     ],
-    "CSE 542": [
-      "Statistical Learning",
+    "GER 104": [
+      "Intermediate German II",
       {
-        "A1": [
-          "63828",
+        "E": [
+          "33573",
           [
             [
-              25,
-              "MWF",
-              "3025 Campus Instructional Facility",
-              9,
+              15,
+              "MTWR",
+              "1030 Literatures, Cultures, & Ling",
+              20,
               [
-                "Liu, J"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Same as ASRM 551 and STAT 542. See STAT 542.",
-      []
-    ],
-    "CSE 521": [
-      "Computer Architecture",
-      {
-        "A": [
-          "69418",
-          [
-            [
-              18,
-              "TR",
-              "3017 Electrical & Computer Eng Bldg",
-              28,
-              [
-                "Huang, J"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          11,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      null,
-      []
-    ],
-    "CSE 551": [
-      "Finite Element Methods",
-      {
-        "D": [
-          "31750",
-          [
-            [
-              2,
-              "MW",
-              "2311 Newmark Civil Engineering Bldg",
-              32,
-              [
-                "Duarte, C"
+                "Sollinger, B",
+                "Webster, C"
               ],
               -1,
               -1,
@@ -1120,46 +226,17 @@
           [],
           -1
         ],
-        "ONL": [
-          "60866",
+        "X": [
+          "33572",
           [
             [
-              3,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Duarte, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          3,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      null,
-      []
-    ],
-    "CSE 566": [
-      "Numerical Fluid Dynamics",
-      {
-        "A": [
-          "63492",
-          [
-            [
-              24,
-              "MWF",
-              "G7 Literatures, Cultures, & Ling",
+              22,
+              "MTWR",
+              "G48 Literatures, Cultures, & Ling",
               20,
               [
-                "Jewett, B"
+                "Sollinger, B",
+                "Webster, C"
               ],
               -1,
               -1,
@@ -1174,7 +251,726 @@
         ]
       },
       [],
-      "Same as ATMS 502. See ATMS 502.",
+      "Continuation of GER 103. Continued focus on listening comprehension, oral skills, reading, writing, and culture at an intermediate level.",
+      []
+    ],
+    "GER 103": [
+      "Intermediate German I",
+      {
+        "C": [
+          "33570",
+          [
+            [
+              14,
+              "MTWR",
+              "149 English Building",
+              3,
+              [
+                "Kelsey, W",
+                "Webster, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "D": [
+          "33571",
+          [
+            [
+              22,
+              "MTWR",
+              "149 English Building",
+              3,
+              [
+                "Cohen, J",
+                "Webster, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "G": [
+          "33569",
+          [
+            [
+              24,
+              "MTWR",
+              "215 Davenport Hall",
+              12,
+              [
+                "Kelsey, W",
+                "Webster, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Continuation of GER 102. Intermediate course focusing on listening comprehension, oral skills, reading, writing, and culture.",
+      []
+    ],
+    "GER 251": [
+      "Grimm's Fairy Tales in Context",
+      {
+        "AD1": [
+          "60015",
+          [
+            [
+              17,
+              "F",
+              "115 David Kinley Hall",
+              36,
+              [
+                "Fam, M",
+                "Johnson, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          11,
+          0,
+          [],
+          -1
+        ],
+        "AD2": [
+          "60018",
+          [
+            [
+              22,
+              "F",
+              "115 David Kinley Hall",
+              36,
+              [
+                "Fam, M",
+                "Johnson, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          11,
+          0,
+          [],
+          -1
+        ],
+        "AD3": [
+          "60021",
+          [
+            [
+              15,
+              "F",
+              "115 David Kinley Hall",
+              36,
+              [
+                "Johnson, L",
+                "Ting, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          11,
+          0,
+          [],
+          -1
+        ],
+        "AD4": [
+          "68654",
+          [
+            [
+              20,
+              "F",
+              "115 David Kinley Hall",
+              36,
+              [
+                "Fam, M",
+                "Johnson, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          11,
+          0,
+          [],
+          -1
+        ],
+        "AD5": [
+          "68655",
+          [
+            [
+              14,
+              "F",
+              "115 David Kinley Hall",
+              36,
+              [
+                "Johnson, L",
+                "Ting, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          11,
+          0,
+          [],
+          -1
+        ],
+        "AD6": [
+          "68656",
+          [
+            [
+              24,
+              "F",
+              "115 David Kinley Hall",
+              36,
+              [
+                "Johnson, L",
+                "Ting, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          11,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "60024",
+          [
+            [
+              24,
+              "MW",
+              "116 Roger Adams Laboratory",
+              34,
+              [
+                "Johnson, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Special attention is paid to the Grimms' tales in terms of traditional narrative genres, elements of life in early modern Europe, and versions from Italy and France as well as Germany. Course is conducted in English.",
+      []
+    ],
+    "GER 201": [
+      "German Popular Culture",
+      {
+        "A": [
+          "63431",
+          [
+            [
+              1,
+              "TR",
+              "323 Education Building",
+              8,
+              [
+                "Jenkins, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduction to the study of modern and contemporary german culture through examining examples of popular culture from the late-eighteenth century to the present. Looks at texts and films as a mirror and critique of modern German society. Topics to be discussed: nationalism, gender, ethnicity, minority cultures, Jewish life in Germany, German images of other cultures, etc. Course taught in English.",
+      []
+    ],
+    "GER 101": [
+      "Beginning German I",
+      {
+        "D": [
+          "33559",
+          [
+            [
+              22,
+              "MTWR",
+              "1128 Literatures, Cultures, & Ling",
+              20,
+              [
+                "Ezeokoli, C",
+                "Webster, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "E": [
+          "33561",
+          [
+            [
+              15,
+              "MTWR",
+              "1120 Literatures, Cultures, & Ling",
+              20,
+              [
+                "Pei, A",
+                "Webster, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introductory course focusing on listening comprehension, oral skills, reading, writing, and culture.",
+      []
+    ],
+    "GER 418": [
+      "Language & Minorities in Europe",
+      {
+        "1G": [
+          "50300",
+          [
+            [
+              73,
+              "W",
+              "321 Gregory Hall",
+              5,
+              [
+                "Fagyal, Z"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              73,
+              "M",
+              "ONLINE",
+              0,
+              [
+                "Fagyal, Z"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "1U": [
+          "50299",
+          [
+            [
+              73,
+              "W",
+              "321 Gregory Hall",
+              5,
+              [
+                "Fagyal, Z"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              73,
+              "M",
+              "ONLINE",
+              0,
+              [
+                "Fagyal, Z"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as EURO 418, FR 418, ITAL 418, LING 418, PS 418, SLAV 418, and SPAN 418. See FR 418.",
+      []
+    ],
+    "GER 331": [
+      "Intro to German Literature",
+      {
+        "F": [
+          "45898",
+          [
+            [
+              33,
+              "MW",
+              "1134 Literatures, Cultures, & Ling",
+              20,
+              [
+                "Pinkert, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introductory study of representative works (prose, drama, lyric) by outstanding German, Austrian, and Swiss writers of the modern period.",
+      []
+    ],
+    "GER 460": [
+      "Principles of Language Testing",
+      {
+        "G4": [
+          "32938",
+          [
+            [
+              1,
+              "TR",
+              "G23 Literatures, Cultures, & Ling",
+              20,
+              [
+                "Yan, X"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "U3": [
+          "32936",
+          [
+            [
+              1,
+              "TR",
+              "G23 Literatures, Cultures, & Ling",
+              20,
+              [
+                "Yan, X"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as EIL 460, EPSY 487, FR 460, ITAL 460, PORT 460, and SPAN 460. See EIL 460.",
+      []
+    ],
+    "GER 299": [
+      "Study Abroad",
+      {
+        "A": [
+          "33584",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Webster, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          18,
+          17,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Lectures, seminars, and practical work in German language, literature, civilization, and in other academic areas appropriate to the student's course of study.",
+      []
+    ],
+    "GER 420": [
+      "German Cultural History",
+      {
+        "E": [
+          "50381",
+          [
+            [
+              27,
+              "TR",
+              "219 David Kinley Hall",
+              36,
+              [
+                "Niekerk, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "A general introduction to German culture from the pre-Christian period to the twenty-first century, focusing on the tension between forces of history and modernization in German culture. Course materials include literary and philosophical texts, film, painting, and music. Particular attention will be paid to the role of art in society.",
+      []
+    ],
+    "GER 470": [
+      "Middle Ages to Baroque",
+      {
+        "X": [
+          "45143",
+          [
+            [
+              44,
+              "R",
+              "Location Pending",
+              0,
+              [
+                "Horsfall, W"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Literary, thematic, cultural, and bibliographical analysis of the major authors, works, genres, and movements in German literature from 750-1720.",
+      []
+    ],
+    "GER 465": [
+      "German Linguistics",
+      {
+        "S": [
+          "58484",
+          [
+            [
+              31,
+              "M",
+              "G20 Literatures, Cultures, & Ling",
+              20,
+              [
+                "Webster, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Linguistic analysis of Germanic languages in historical, geographic, and social context. Taught in German or English, depending on topic.",
+      []
+    ],
+    "GER 489": [
+      "Theoretical Foundations of SLA",
+      {
+        "G4": [
+          "38718",
+          [
+            [
+              17,
+              "MWF",
+              "329 Gregory Hall",
+              5,
+              [
+                "Zhang, Q"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "U3": [
+          "38715",
+          [
+            [
+              17,
+              "MWF",
+              "329 Gregory Hall",
+              5,
+              [
+                "Zhang, Q"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as FR 481, ITAL 489, LING 489, PORT 489, and SPAN 489. See LING 489.",
+      []
+    ],
+    "GER 491": [
+      "Honors Senior Thesis",
+      {
+        "": [
+          "10289",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Intended primarily for candidates for honors in German, but open to other seniors.",
+      []
+    ],
+    "GER 512": [
+      "Applied LiteraryTranslation II",
+      {
+        "A": [
+          "72207",
+          [
+            [
+              104,
+              "M",
+              "G96 Literatures, Cultures, & Ling",
+              20,
+              [
+                "Jenkins, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as CWL 512, EALC 512, SLAV 502, and TRST 502. See TRST 502.",
       []
     ]
   },
@@ -1283,7 +1079,54 @@
       "1600 - 1715",
       "1730 - 1845",
       "1700 - 1800",
-      "1300 - 1415"
+      "1300 - 1415",
+      "1500 - 1720",
+      "1300 - 1600",
+      "1400 - 1630",
+      "1000 - 1220",
+      "1430 - 1820",
+      "1500 - 1700",
+      "0900 - 1030",
+      "1430 - 1630",
+      "1035 - 1150",
+      "1700 - 1900",
+      "1400 - 1620",
+      "1450 - 1735",
+      "1145 - 1305",
+      "1530 - 1750",
+      "1500 - 1750",
+      "1100 - 1350",
+      "0830 - 0950",
+      "1100 - 1230",
+      "1600 - 1800",
+      "1800 - 2000",
+      "1900 - 1930",
+      "0730 - 1530",
+      "1530 - 1550",
+      "1000 - 1700",
+      "1600 - 1730",
+      "1730 - 1850",
+      "1630 - 1800",
+      "1100 - 1320",
+      "1230 - 1430",
+      "1500 - 1730",
+      "1200 - 1430",
+      "1000 - 1200",
+      "1700 - 2000",
+      "1730 - 2030",
+      "1730 - 2020",
+      "0900 - 1200",
+      "1730 - 2130",
+      "0900 - 1600",
+      "1900 - 2200",
+      "1900 - 1950",
+      "1500 - 1615",
+      "0800 - 1220",
+      "1700 - 1920",
+      "1630 - 1910",
+      "1600 - 2050",
+      "0830 - 1350",
+      "0930 - 1040"
     ],
     "dateRanges": [],
     "scheduleTypes": [
@@ -1484,6 +1327,22 @@
       {
         "lat": 40.1149521,
         "long": -88.2267561
+      },
+      {
+        "lat": 40.10802885201532,
+        "long": -88.22239700364068
+      },
+      {
+        "lat": 40.11180304465921,
+        "long": -88.22613003543475
+      },
+      {
+        "lat": 40.1022093629303,
+        "long": -88.22800864058527
+      },
+      {
+        "lat": 40.10623714823253,
+        "long": -88.2232659093846
       }
     ],
     "finalDates": [],

@@ -1,346 +1,248 @@
 {
-  "subject": "CSE",
-  "scrapedAt": 1768450584618,
-  "courseCount": 21,
+  "subject": "EDUC",
+  "scrapedAt": 1768450606654,
+  "courseCount": 5,
   "courses": {
-    "CSE 412": [
-      "Numerical Thermo-Fluid Mechs",
+    "EDUC 202": [
+      "Social Justice, School and Society",
       {
-        "F2": [
-          "61262",
+        "AD1": [
+          "63344",
           [
             [
-              15,
-              "MWF",
-              "2055 Sidney Lu Mech Engr Bldg",
-              4,
+              69,
+              "W",
+              "242 Education Building",
+              8,
               [
-                "Staff"
+                "Aslam, s"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ],
-        "F3": [
-          "61337",
-          [
-            [
-              15,
-              "MWF",
-              "2055 Sidney Lu Mech Engr Bldg",
-              4,
-              [
-                "Raj, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ],
-        "F4": [
-          "61340",
-          [
-            [
-              15,
-              "MWF",
-              "2055 Sidney Lu Mech Engr Bldg",
-              4,
-              [
-                "Raj, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      null,
-      []
-    ],
-    "CSE 426": [
-      "Software Engineering I",
-      {
-        "SE3": [
-          "78287",
-          [
-            [
-              3,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Marinov, D"
-              ],
-              -1,
-              -1,
-              -1
-            ],
-            [
-              3,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Marinov, D"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
+          3,
           11,
           0,
           [],
           -1
         ],
-        "SE4": [
-          "74280",
+        "AD2": [
+          "63345",
           [
             [
-              3,
-              "",
-              "ONLINE",
-              0,
+              72,
+              "R",
+              "111 David Kinley Hall",
+              36,
               [
-                "Marinov, D"
-              ],
-              -1,
-              -1,
-              -1
-            ],
-            [
-              3,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Marinov, D"
+                "Gonzalez, C"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          4,
+          3,
           11,
           0,
           [],
           -1
         ],
-        "SEU": [
-          "74278",
+        "AD3": [
+          "63346",
           [
             [
-              3,
-              "",
-              "ONLINE",
-              0,
+              54,
+              "F",
+              "222 David Kinley Hall",
+              36,
               [
-                "Marinov, D"
-              ],
-              -1,
-              -1,
-              -1
-            ],
-            [
-              3,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Marinov, D"
+                "Yurekli, C"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          4,
+          3,
           11,
           0,
           [],
           -1
-        ]
-      },
-      [],
-      null,
-      []
-    ],
-    "CSE 408": [
-      "Applied Parallel Programming",
-      {
-        "AB": [
-          "67939",
+        ],
+        "AD4": [
+          "63347",
           [
             [
-              3,
-              "",
+              37,
+              "F",
               "ONLINE",
               0,
               [
-                "Staff"
+                "Johnson, M"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          4,
-          0,
+          3,
+          12,
           0,
           [],
           -1
         ],
-        "AL": [
-          "67940",
+        "AD5": [
+          "63348",
           [
             [
-              21,
-              "TR",
-              "1002 Electrical & Computer Eng Bldg",
-              28,
+              54,
+              "W",
+              "22 Education Building",
+              8,
               [
-                "Kindratenko, V"
+                "Chhikara, P"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          4,
-          2,
+          3,
+          11,
           0,
           [],
           -1
         ],
-        "CSP": [
-          "77525",
+        "AD6": [
+          "63349",
           [
             [
-              3,
-              "",
-              "ONLINE",
-              0,
+              72,
+              "W",
+              "243 Armory",
+              30,
               [
-                "Kindratenko, V"
-              ],
-              -1,
-              -1,
-              -1
-            ],
-            [
-              21,
-              "TR",
-              "ONLINE",
-              0,
-              [
-                "Kindratenko, V"
+                "Chhikara, P"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          4,
-          13,
+          3,
+          11,
           0,
           [],
           -1
         ],
-        "MCS": [
-          "77531",
+        "AD7": [
+          "65473",
           [
             [
-              3,
-              "",
+              69,
+              "R",
               "ONLINE",
               0,
               [
-                "Kindratenko, V"
-              ],
-              -1,
-              -1,
-              -1
-            ],
-            [
-              21,
-              "TR",
-              "ONLINE",
-              0,
-              [
-                "Kindratenko, V"
+                "Dawson, A"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          4,
-          13,
+          3,
+          12,
           0,
           [],
           -1
         ],
-        "OLB": [
-          "68237",
+        "AD8": [
+          "68649",
           [
             [
-              3,
-              "",
+              30,
+              "R",
               "ONLINE",
               0,
               [
-                "Kindratenko, V"
+                "Jones, A"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          4,
-          13,
+          3,
+          12,
           0,
           [],
           -1
         ],
-        "OLC": [
-          "68238",
+        "LE1": [
+          "63343",
           [
             [
-              21,
-              "TR",
+              22,
+              "T",
               "ONLINE",
               0,
               [
-                "Kindratenko, V"
+                "Jones, A"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          4,
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "LE2": [
+          "71911",
+          [
+            [
+              22,
+              "T",
+              "ONLINE",
+              0,
+              [
+                "Jones, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "LE3": [
+          "71912",
+          [
+            [
+              22,
+              "T",
+              "ONLINE",
+              0,
+              [
+                "Jones, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
           1,
           0,
           [],
@@ -348,376 +250,306 @@
         ]
       },
       [],
-      "Same as CS 483 and ECE 408. See ECE 408.",
+      "Examines the nature of justice and the dynamics of a pluralistic society to derive a conception of social justice. Working with this conception, it asks how schools function to perpetuate and/or remediate social injustice. The course will consider the history and nature of schooling, issues of access and tracking, and notions of the public and the common. The course is designed for students interested in reflecting on their own educational histories, for those considering careers in teaching, and for all future parents and citizens needing to be able to reflect critically on justice, school, and society.",
       []
     ],
-    "CSE 441": [
-      "Introduction to Optimization",
+    "EDUC 199": [
+      "Undergraduate Open Seminar",
       {
-        "OP3": [
-          "33980",
+        "LS1": [
+          "71923",
           [
             [
-              27,
-              "MW",
-              "3015 Electrical & Computer Eng Bldg",
-              28,
+              73,
+              "M",
+              "7 Weston Hall",
+              0,
               [
-                "Bose, S"
+                "Fink, L"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          4,
-          11,
-          0,
-          [],
-          -1
-        ],
-        "OP4": [
-          "54361",
-          [
-            [
-              27,
-              "MW",
-              "3015 Electrical & Computer Eng Bldg",
-              28,
-              [
-                "Bose, S"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          11,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      null,
-      []
-    ],
-    "CSE 414": [
-      "Algorithms",
-      {
-        "ALG": [
-          "58767",
-          [
-            [
-              65,
-              "WF",
-              "1310 Digital Computer Laboratory",
-              7,
-              [
-                "Forbes, M"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
+          6,
           2,
           0,
           [],
           -1
         ],
-        "ALU": [
-          "31560",
+        "N10": [
+          "74887",
           [
             [
-              65,
-              "WF",
-              "1310 Digital Computer Laboratory",
-              7,
+              127,
+              "S",
+              "1126 Wassaja Hall",
+              0,
               [
-                "Forbes, M"
+                "Sanden, N",
+                "Wisdom, A"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              31,
+              "T",
+              "2009 Student Dining & Res Program",
+              0,
+              [
+                "Sanden, N",
+                "Wisdom, A"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          4,
-          2,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Same as CS 473 and MATH 473. See CS 473.",
-      []
-    ],
-    "CSE 440": [
-      "Statistical Data Management",
-      {
-        "1GR": [
-          "63957",
-          [
-            [
-              26,
-              "MWF",
-              "32 Psychology Building",
-              25,
-              [
-                "Kinson, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
+          6,
           5,
           0,
           [],
           -1
         ],
-        "1UG": [
-          "63958",
+        "N11": [
+          "74888",
           [
             [
-              26,
-              "MWF",
-              "32 Psychology Building",
-              25,
+              127,
+              "S",
+              "2003 Student Dining & Res Program",
+              0,
               [
-                "Kinson, C"
+                "Floyd, A",
+                "Sanden, N"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              44,
+              "M",
+              "2003 Student Dining & Res Program",
+              0,
+              [
+                "Floyd, A",
+                "Sanden, N"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          4,
+          6,
           5,
           0,
           [],
           -1
         ],
-        "2GR": [
-          "63955",
+        "NS0": [
+          "74881",
           [
             [
-              25,
-              "MWF",
-              "32 Psychology Building",
-              25,
+              127,
+              "S",
+              "2009 Student Dining & Res Program",
+              0,
               [
-                "Kinson, C"
+                "Hinton, J",
+                "Sanden, N"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              31,
+              "M",
+              "94AB Illinois Street Residence Lng",
+              0,
+              [
+                "Hinton, J",
+                "Sanden, N"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          4,
+          6,
           5,
           0,
           [],
           -1
         ],
-        "2UG": [
-          "63956",
+        "NS1": [
+          "74882",
           [
             [
-              25,
-              "MWF",
-              "32 Psychology Building",
-              25,
+              127,
+              "S",
+              "2005 Student Dining & Res Program",
+              0,
               [
-                "Kinson, C"
+                "Moreno, S",
+                "Sanden, N"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              31,
+              "M",
+              "89 Illinois Street Residence Lng",
+              0,
+              [
+                "Moreno, S",
+                "Sanden, N"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Same as STAT 440. See STAT 440.",
-      []
-    ],
-    "CSE 428": [
-      "Statistical Computing",
-      {
-        "1GR": [
-          "63948",
-          [
-            [
-              21,
-              "TR",
-              "151 Loomis Laboratory",
-              13,
-              [
-                "Wang, S"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
+          6,
           5,
           0,
           [],
           -1
         ],
-        "1UG": [
-          "63949",
+        "NS2": [
+          "74883",
           [
             [
-              21,
-              "TR",
-              "151 Loomis Laboratory",
-              13,
+              127,
+              "S",
+              "ARR Student Dining & Res Program",
+              0,
               [
-                "Wang, S"
+                "Flowers, R",
+                "Sanden, N"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              44,
+              "T",
+              "89 Illinois Street Residence Lng",
+              0,
+              [
+                "Flowers, R",
+                "Sanden, N"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Same as STAT 428. See STAT 428.",
-      []
-    ],
-    "CSE 401": [
-      "Numerical Analysis",
-      {
-        "B3": [
-          "31432",
-          [
-            [
-              59,
-              "MW",
-              "3031 Campus Instructional Facility",
-              9,
-              [
-                "Kloeckner, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
+          6,
           5,
           0,
           [],
           -1
         ],
-        "B4": [
-          "31434",
+        "NS4": [
+          "74885",
           [
             [
-              59,
-              "MW",
-              "3031 Campus Instructional Facility",
-              9,
+              127,
+              "S",
+              "1045 Bousfield Hall",
+              0,
               [
-                "Kloeckner, A"
+                "Sanden, N",
+                "Woods, A"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              31,
+              "T",
+              "1045 Bousfield Hall",
+              0,
+              [
+                "Sanden, N",
+                "Woods, A"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Same as CS 450, ECE 491 and MATH 450. See CS 450.",
-      []
-    ],
-    "CSE 422": [
-      "Computer System Organization",
-      {
-        "S3": [
-          "31408",
-          [
-            [
-              61,
-              "TR",
-              "1304 Siebel Center for Comp Sci",
-              10,
-              [
-                "Talati, N"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
+          6,
           5,
           0,
           [],
           -1
         ],
-        "S4": [
-          "31409",
+        "NS5": [
+          "74886",
           [
             [
-              61,
-              "TR",
-              "1304 Siebel Center for Comp Sci",
-              10,
+              127,
+              "S",
+              "2052 Student Dining & Res Program",
+              0,
               [
-                "Talati, N"
+                "Sanden, N",
+                "Slaughter, M"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              44,
+              "R",
+              "2050 Student Dining & Res Program",
+              0,
+              [
+                "Sanden, N",
+                "Slaughter, M"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          4,
+          6,
           5,
           0,
           [],
           -1
-        ]
-      },
-      [],
-      null,
-      []
-    ],
-    "CSE 423": [
-      "Operating Systems Design",
-      {
-        "CG": [
-          "31381",
+        ],
+        "NS7": [
+          "74880",
           [
             [
-              61,
-              "TR",
-              "1310 Digital Computer Laboratory",
-              7,
+              127,
+              "S",
+              "2050 Student Dining & Res Program",
+              0,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              44,
+              "M",
+              "2050 Student Dining & Res Program",
+              0,
               [
                 "Staff"
               ],
@@ -726,215 +558,101 @@
               -1
             ]
           ],
-          4,
+          6,
           5,
           0,
           [],
           -1
         ],
-        "CU": [
-          "31380",
+        "NS8": [
+          "74889",
           [
             [
-              61,
-              "TR",
-              "1310 Digital Computer Laboratory",
-              7,
-              [
-                "Staff"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      null,
-      []
-    ],
-    "CSE 451": [
-      "Finite Element Analysis",
-      {
-        "B3": [
-          "37474",
-          [
-            [
-              27,
-              "MW",
-              "114 Transportation Building",
-              2,
-              [
-                "Mercer, B"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ],
-        "B4": [
-          "59678",
-          [
-            [
-              27,
-              "MW",
-              "114 Transportation Building",
-              2,
-              [
-                "Mercer, B"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Same as AE 420 and ME 471. See ME 471.",
-      []
-    ],
-    "CSE 461": [
-      "Computational Aerodynamics",
-      {
-        "A": [
-          "29957",
-          [
-            [
-              2,
-              "MW",
-              "403B2 Engineering Hall",
-              15,
-              [
-                "Vollmer, B"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ],
-        "ONL": [
-          "62529",
-          [
-            [
-              3,
-              "",
-              "ONLINE",
+              127,
+              "S",
+              "Location Pending",
               0,
               [
-                "Vollmer, B"
+                "Cunningham, T",
+                "Sanden, N"
               ],
               -1,
               -1,
               -1
-            ]
-          ],
-          4,
-          3,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      null,
-      []
-    ],
-    "CSE 522": [
-      "Parallel Computer Architecture",
-      {
-        "S": [
-          "57171",
-          [
+            ],
             [
-              64,
-              "TR",
-              "1214 Siebel Center for Comp Sci",
-              10,
+              44,
+              "R",
+              "2003 Student Dining & Res Program",
+              0,
               [
-                "Torrellas, J"
+                "Cunningham, T",
+                "Sanden, N"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      null,
-      []
-    ],
-    "CSE 448": [
-      "Advanced Data Analysis",
-      {
-        "1GR": [
-          "63959",
-          [
-            [
-              22,
-              "MWF",
-              "3101 Sidney Lu Mech Engr Bldg",
-              4,
-              [
-                "Bravo De Guenni, L"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
+          6,
           5,
           0,
           [],
           -1
         ],
-        "1UG": [
-          "67123",
+        "NS9": [
+          "74884",
           [
             [
-              22,
-              "MWF",
-              "3101 Sidney Lu Mech Engr Bldg",
-              4,
+              127,
+              "S",
+              "5 Weston Hall",
+              0,
               [
-                "Bravo De Guenni, L"
+                "Klaw, M",
+                "Sanden, N"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              44,
+              "T",
+              "2050 Student Dining & Res Program",
+              0,
+              [
+                "Klaw, M",
+                "Sanden, N"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          4,
+          6,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "SAS": [
+          "71913",
+          [
+            [
+              1,
+              "W",
+              "214 Davenport Hall",
+              12,
+              [
+                "Threadgill, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          6,
           5,
           0,
           [],
@@ -942,224 +660,286 @@
         ]
       },
       [],
-      "Same as STAT 448. See STAT 448.",
+      "See class schedule for topics.",
       []
     ],
-    "CSE 510": [
-      "Numerical Methods for PDEs",
+    "EDUC 201": [
+      "Identity and Difference in Education",
       {
-        "N": [
-          "50118",
+        "AD1": [
+          "66994",
           [
             [
-              65,
-              "TR",
-              "1035 Campus Instructional Facility",
-              9,
+              69,
+              "R",
+              "42A Education Building",
+              8,
               [
-                "Fischer, P"
+                "Adeyemo, A",
+                "Shepherd, J"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          4,
-          2,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Same as CS 555 and MATH 552. See CS 555.",
-      []
-    ],
-    "CSE 525": [
-      "Topics in Computational Statistics",
-      {
-        "A1": [
-          "63832",
-          [
-            [
-              14,
-              "MWF",
-              "1002 Lincoln Hall",
-              19,
-              [
-                "Zhou, Y"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Same as STAT 525. See STAT 525.",
-      []
-    ],
-    "CSE 498": [
-      "Special Topics",
-      {
-        "DM": [
-          "70543",
-          [
-            [
-              2,
-              "TR",
-              "2051 Sidney Lu Mech Engr Bldg",
-              4,
-              [
-                "Schleife, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Subject offerings of new and developing areas of knowledge in computational science and engineering intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites.",
-      []
-    ],
-    "CSE 542": [
-      "Statistical Learning",
-      {
-        "A1": [
-          "63828",
-          [
-            [
-              25,
-              "MWF",
-              "3025 Campus Instructional Facility",
-              9,
-              [
-                "Liu, J"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Same as ASRM 551 and STAT 542. See STAT 542.",
-      []
-    ],
-    "CSE 521": [
-      "Computer Architecture",
-      {
-        "A": [
-          "69418",
-          [
-            [
-              18,
-              "TR",
-              "3017 Electrical & Computer Eng Bldg",
-              28,
-              [
-                "Huang, J"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
+          3,
           11,
           0,
           [],
           -1
-        ]
-      },
-      [],
-      null,
-      []
-    ],
-    "CSE 551": [
-      "Finite Element Methods",
-      {
-        "D": [
-          "31750",
+        ],
+        "AD2": [
+          "66995",
           [
             [
-              2,
-              "MW",
-              "2311 Newmark Civil Engineering Bldg",
-              32,
+              72,
+              "R",
+              "4F Education Building",
+              8,
               [
-                "Duarte, C"
+                "Adeyemo, A",
+                "Torres, A"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          4,
-          5,
+          3,
+          11,
           0,
           [],
           -1
         ],
-        "ONL": [
-          "60866",
+        "AD3": [
+          "66996",
           [
             [
-              3,
-              "",
-              "ONLINE",
-              0,
+              54,
+              "F",
+              "37 Education Building",
+              8,
               [
-                "Duarte, C"
+                "Adeyemo, A",
+                "Morgan, R"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          4,
           3,
+          11,
           0,
           [],
           -1
-        ]
-      },
-      [],
-      null,
-      []
-    ],
-    "CSE 566": [
-      "Numerical Fluid Dynamics",
-      {
-        "A": [
-          "63492",
+        ],
+        "AD4": [
+          "66997",
           [
             [
-              24,
-              "MWF",
-              "G7 Literatures, Cultures, & Ling",
+              37,
+              "F",
+              "162 Education Building",
+              8,
+              [
+                "Adeyemo, A",
+                "Kumi, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          11,
+          0,
+          [],
+          -1
+        ],
+        "AD5": [
+          "69611",
+          [
+            [
+              54,
+              "T",
+              "4G Education Building",
+              8,
+              [
+                "Adeyemo, A",
+                "Kim, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          11,
+          0,
+          [],
+          -1
+        ],
+        "AD6": [
+          "69612",
+          [
+            [
+              37,
+              "T",
+              "242 Education Building",
+              8,
+              [
+                "Adeyemo, A",
+                "Lee, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          11,
+          0,
+          [],
+          -1
+        ],
+        "AD7": [
+          "78411",
+          [
+            [
+              54,
+              "R",
+              "4F Education Building",
+              8,
+              [
+                "Shepherd, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          11,
+          0,
+          [],
+          -1
+        ],
+        "LE1": [
+          "66993",
+          [
+            [
               20,
+              "W",
+              "ONLINE",
+              0,
               [
-                "Jewett, B"
+                "Adeyemo, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "LE2": [
+          "71909",
+          [
+            [
+              20,
+              "W",
+              "ONLINE",
+              0,
+              [
+                "Adeyemo, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "LE3": [
+          "71910",
+          [
+            [
+              20,
+              "W",
+              "ONLINE",
+              0,
+              [
+                "Adeyemo, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Focuses on the role of identity in schooling and the way in which identity is socially constructed. Examine how power and privilege impact equity and opportunities based on socially constructed identities such as race, social class, gender, sexual identity, language, (dis)ability, and nationalism. Explore asset-based frameworks that are identity affirming and counter deficit-based perspectives. This course is designed for students interested in reflecting on their own experiences as learners by critically examining their socially constructed identities and \"ways of knowing\" and the societal implications of these experiences. It is also for those considering careers in teaching, and anyone interested in reflecting on how issues of inclusion, exclusion, power, and privilege play out in education.",
+      []
+    ],
+    "EDUC 299": [
+      "Education Study Abroad",
+      {
+        "SSA": [
+          "69314",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Witt, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          18,
+          17,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Provides credit toward the undergraduate degree for study at approved, accredited foreign institutions or approved overseas programs. Final determination of credit is made upon the student's completion of the work. College of Education students studying abroad on a Campus or College of Education program should enroll in 299 as a placeholder course for a semester length study abroad and in 499 for short term study abroad programs.",
+      []
+    ],
+    "EDUC 499": [
+      "Education Abroad",
+      {
+        "A2": [
+          "67670",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Minniear, J"
               ],
               -1,
               -1,
@@ -1167,14 +947,124 @@
             ]
           ],
           4,
-          5,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "B2": [
+          "74045",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Witt, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "RA": [
+          "68378",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Minniear, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "TAS": [
+          "67750",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Liu, W"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "VS0": [
+          "74044",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Minniear, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "VSI": [
+          "67749",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Minniear, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
           0,
           [],
           -1
         ]
       },
       [],
-      "Same as ATMS 502. See ATMS 502.",
+      "This course will serve as a foundation for your education abroad experience. The class will center on the experience of travel as it relates to education - your own education, the education systems and policies you encounter, as well as your prospective role as a future educator. This course will introduce comparative education inquiry and provide space to consider the cultural, political, and ethical implications of engaging in education travel and research in cross-cultural, global contexts.",
       []
     ]
   },
@@ -1283,7 +1173,31 @@
       "1600 - 1715",
       "1730 - 1845",
       "1700 - 1800",
-      "1300 - 1415"
+      "1300 - 1415",
+      "1500 - 1720",
+      "1300 - 1600",
+      "1400 - 1630",
+      "1000 - 1220",
+      "1430 - 1820",
+      "1500 - 1700",
+      "0900 - 1030",
+      "1430 - 1630",
+      "1035 - 1150",
+      "1700 - 1900",
+      "1400 - 1620",
+      "1450 - 1735",
+      "1145 - 1305",
+      "1530 - 1750",
+      "1500 - 1750",
+      "1100 - 1350",
+      "0830 - 0950",
+      "1100 - 1230",
+      "1600 - 1800",
+      "1800 - 2000",
+      "1900 - 1930",
+      "0730 - 1530",
+      "1530 - 1550",
+      "1000 - 1700"
     ],
     "dateRanges": [],
     "scheduleTypes": [
@@ -1484,6 +1398,14 @@
       {
         "lat": 40.1149521,
         "long": -88.2267561
+      },
+      {
+        "lat": 40.10802885201532,
+        "long": -88.22239700364068
+      },
+      {
+        "lat": 40.11180304465921,
+        "long": -88.22613003543475
       }
     ],
     "finalDates": [],

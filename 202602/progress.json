@@ -4,7 +4,7 @@
   "year": "2026",
   "term": "spring",
   "startedAt": 1768450320876,
-  "lastUpdated": 1768450566740,
+  "lastUpdated": 1768450646629,
   "totalSubjects": 187,
   "totalCourses": 4515,
   "subjects": [
@@ -18689,19 +18689,50 @@
     "CLE",
     "CMN",
     "CPSC",
-    "CS"
+    "CS",
+    "CSE",
+    "CW",
+    "CWL",
+    "DANC",
+    "DTX",
+    "EALC",
+    "ECE",
+    "ECON",
+    "EDPR",
+    "EDUC",
+    "EIL",
+    "ENG",
+    "ENGL",
+    "ENSU",
+    "ENT",
+    "ENVS",
+    "EPOL",
+    "EPSY",
+    "ERAM",
+    "ESE",
+    "ESL",
+    "ETMA",
+    "EURO",
+    "EXP",
+    "FAA",
+    "FIN",
+    "FLTE",
+    "FR",
+    "FSHN",
+    "GC",
+    "GEOL"
   ],
   "partialSubjects": {
-    "CSE": {
+    "GER": {
       "completed": 20,
-      "total": 21,
+      "total": 24,
       "lastCourse": "ABORTED"
     }
   },
   "failedSubjects": [],
   "stats": {
-    "successfulCourses": 1351,
-    "failedCourses": 2,
+    "successfulCourses": 2126,
+    "failedCourses": 3,
     "rateLimitCount": 0
   }
 }

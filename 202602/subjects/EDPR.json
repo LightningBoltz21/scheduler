@@ -1,21 +1,21 @@
 {
-  "subject": "CSE",
-  "scrapedAt": 1768450584618,
-  "courseCount": 21,
+  "subject": "EDPR",
+  "scrapedAt": 1768450605983,
+  "courseCount": 8,
   "courses": {
-    "CSE 412": [
-      "Numerical Thermo-Fluid Mechs",
+    "EDPR 550": [
+      "School and Community Experience",
       {
-        "F2": [
-          "61262",
+        "ART": [
+          "69971",
           [
             [
-              15,
-              "MWF",
-              "2055 Sidney Lu Mech Engr Bldg",
-              4,
+              3,
+              "",
+              "ONLINE",
+              0,
               [
-                "Staff"
+                "Bergmark, J"
               ],
               -1,
               -1,
@@ -23,21 +23,21 @@
             ]
           ],
           4,
-          5,
+          16,
           0,
           [],
           -1
         ],
-        "F3": [
-          "61337",
+        "EL1": [
+          "65893",
           [
             [
-              15,
-              "MWF",
-              "2055 Sidney Lu Mech Engr Bldg",
-              4,
+              3,
+              "",
+              "ONLINE",
+              0,
               [
-                "Raj, A"
+                "Gutzmer, C"
               ],
               -1,
               -1,
@@ -45,43 +45,21 @@
             ]
           ],
           4,
-          5,
-          0,
-          [],
-          -1
-        ],
-        "F4": [
-          "61340",
-          [
-            [
-              15,
-              "MWF",
-              "2055 Sidney Lu Mech Engr Bldg",
-              4,
-              [
-                "Raj, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
+          16,
           0,
           [],
           -1
         ]
       },
       [],
-      null,
+      "Early field experiences in teacher education, including observation and laboratory experiences in schools: Designed to provide opportunities for career exploration, professional orientation, the development of insight into the relationships of theory and practice, and the place of the student in the educational process.",
       []
     ],
-    "CSE 426": [
-      "Software Engineering I",
+    "EDPR 410": [
+      "Early Childhood Education Early Field Experience",
       {
-        "SE3": [
-          "78287",
+        "ECP": [
+          "74265",
           [
             [
               3,
@@ -89,109 +67,81 @@
               "ONLINE",
               0,
               [
-                "Marinov, D"
-              ],
-              -1,
-              -1,
-              -1
-            ],
-            [
-              3,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Marinov, D"
+                "Pradzinski, A"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          4,
-          11,
-          0,
-          [],
-          -1
-        ],
-        "SE4": [
-          "74280",
-          [
-            [
-              3,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Marinov, D"
-              ],
-              -1,
-              -1,
-              -1
-            ],
-            [
-              3,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Marinov, D"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          11,
-          0,
-          [],
-          -1
-        ],
-        "SEU": [
-          "74278",
-          [
-            [
-              3,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Marinov, D"
-              ],
-              -1,
-              -1,
-              -1
-            ],
-            [
-              3,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Marinov, D"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          11,
+          3,
+          16,
           0,
           [],
           -1
         ]
       },
       [],
-      null,
+      "Focuses on early field experiences in early childhood teacher education, including observation and laboratory experiences in schools. This course is designed to provide opportunities for career exploration, professional orientation, the development of insight into the relationships of theory and practice, and the place of the student in the educational process.",
       []
     ],
-    "CSE 408": [
-      "Applied Parallel Programming",
+    "EDPR 420": [
+      "School Access & Supports",
       {
-        "AB": [
-          "67939",
+        "LBS": [
+          "33755",
+          [
+            [
+              124,
+              "W",
+              "17 Education Building",
+              8,
+              [
+                "Andrews, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          12,
+          16,
+          0,
+          [],
+          -1
+        ],
+        "LBT": [
+          "33756",
+          [
+            [
+              124,
+              "W",
+              "17 Education Building",
+              8,
+              [
+                "Andrews, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          12,
+          16,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Field experience providing supports and services to students with or at risk for disabilities. 2 to 12 undergraduate hours. 2 to 12 graduate hours. Approved for S/U grading only. May be repeated for up to a total of 18 hours, 12 of which may be taken in the same term.",
+      []
+    ],
+    "EDPR 432": [
+      "Ed Prac in EC & ELED",
+      {
+        "EC": [
+          "33757",
           [
             [
               3,
@@ -199,43 +149,35 @@
               "ONLINE",
               0,
               [
-                "Staff"
+                "Gutzmer, C",
+                "Talbott, S"
               ],
               -1,
               -1,
               -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "AL": [
-          "67940",
-          [
+            ],
             [
-              21,
-              "TR",
-              "1002 Electrical & Computer Eng Bldg",
-              28,
+              3,
+              "",
+              "ONLINE",
+              0,
               [
-                "Kindratenko, V"
+                "Gutzmer, C",
+                "Talbott, S"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          4,
+          12,
           2,
           0,
           [],
           -1
         ],
-        "CSP": [
-          "77525",
+        "ECP": [
+          "66420",
           [
             [
               3,
@@ -243,208 +185,50 @@
               "ONLINE",
               0,
               [
-                "Kindratenko, V"
+                "Pradzinski, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          12,
+          16,
+          0,
+          [],
+          -1
+        ],
+        "EL": [
+          "33759",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Gutzmer, C",
+                "Talbott, S"
               ],
               -1,
               -1,
               -1
             ],
             [
-              21,
-              "TR",
-              "ONLINE",
-              0,
-              [
-                "Kindratenko, V"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          13,
-          0,
-          [],
-          -1
-        ],
-        "MCS": [
-          "77531",
-          [
-            [
               3,
               "",
               "ONLINE",
               0,
               [
-                "Kindratenko, V"
-              ],
-              -1,
-              -1,
-              -1
-            ],
-            [
-              21,
-              "TR",
-              "ONLINE",
-              0,
-              [
-                "Kindratenko, V"
+                "Gutzmer, C",
+                "Talbott, S"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          4,
-          13,
-          0,
-          [],
-          -1
-        ],
-        "OLB": [
-          "68237",
-          [
-            [
-              3,
-              "",
-              "ONLINE",
-              0,
-              [
-                "Kindratenko, V"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          13,
-          0,
-          [],
-          -1
-        ],
-        "OLC": [
-          "68238",
-          [
-            [
-              21,
-              "TR",
-              "ONLINE",
-              0,
-              [
-                "Kindratenko, V"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          1,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Same as CS 483 and ECE 408. See ECE 408.",
-      []
-    ],
-    "CSE 441": [
-      "Introduction to Optimization",
-      {
-        "OP3": [
-          "33980",
-          [
-            [
-              27,
-              "MW",
-              "3015 Electrical & Computer Eng Bldg",
-              28,
-              [
-                "Bose, S"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          11,
-          0,
-          [],
-          -1
-        ],
-        "OP4": [
-          "54361",
-          [
-            [
-              27,
-              "MW",
-              "3015 Electrical & Computer Eng Bldg",
-              28,
-              [
-                "Bose, S"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          11,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      null,
-      []
-    ],
-    "CSE 414": [
-      "Algorithms",
-      {
-        "ALG": [
-          "58767",
-          [
-            [
-              65,
-              "WF",
-              "1310 Digital Computer Laboratory",
-              7,
-              [
-                "Forbes, M"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          2,
-          0,
-          [],
-          -1
-        ],
-        "ALU": [
-          "31560",
-          [
-            [
-              65,
-              "WF",
-              "1310 Digital Computer Laboratory",
-              7,
-              [
-                "Forbes, M"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
+          12,
           2,
           0,
           [],
@@ -452,22 +236,23 @@
         ]
       },
       [],
-      "Same as CS 473 and MATH 473. See CS 473.",
+      "Course in practice teaching to meet licensure requirements for teaching in the elementary school.",
       []
     ],
-    "CSE 440": [
-      "Statistical Data Management",
+    "EDPR 250": [
+      "School & Community Experiences",
       {
-        "1GR": [
-          "63957",
+        "EL1": [
+          "67452",
           [
             [
-              26,
-              "MWF",
-              "32 Psychology Building",
-              25,
+              125,
+              "T",
+              "Location Pending",
+              0,
               [
-                "Kinson, C"
+                "Gutzmer, C",
+                "Talbott, S"
               ],
               -1,
               -1,
@@ -475,21 +260,22 @@
             ]
           ],
           4,
-          5,
+          16,
           0,
           [],
           -1
         ],
-        "1UG": [
-          "63958",
+        "EL2": [
+          "67453",
           [
             [
-              26,
-              "MWF",
-              "32 Psychology Building",
-              25,
+              125,
+              "T",
+              "Location Pending",
+              0,
               [
-                "Kinson, C"
+                "Gutzmer, C",
+                "Talbott, S"
               ],
               -1,
               -1,
@@ -497,21 +283,22 @@
             ]
           ],
           4,
-          5,
+          16,
           0,
           [],
           -1
         ],
-        "2GR": [
-          "63955",
+        "EL3": [
+          "67454",
           [
             [
-              25,
-              "MWF",
-              "32 Psychology Building",
-              25,
+              125,
+              "T",
+              "Location Pending",
+              0,
               [
-                "Kinson, C"
+                "Gutzmer, C",
+                "Talbott, S"
               ],
               -1,
               -1,
@@ -519,21 +306,22 @@
             ]
           ],
           4,
-          5,
+          16,
           0,
           [],
           -1
         ],
-        "2UG": [
-          "63956",
+        "EL4": [
+          "67455",
           [
             [
-              25,
-              "MWF",
-              "32 Psychology Building",
-              25,
+              125,
+              "T",
+              "Location Pending",
+              0,
               [
-                "Kinson, C"
+                "Gutzmer, C",
+                "Talbott, S"
               ],
               -1,
               -1,
@@ -541,303 +329,43 @@
             ]
           ],
           4,
-          5,
+          16,
+          0,
+          [],
+          -1
+        ],
+        "LBS": [
+          "33748",
+          [
+            [
+              126,
+              "M",
+              "42A Education Building",
+              8,
+              [
+                "Andrews, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          16,
           0,
           [],
           -1
         ]
       },
       [],
-      "Same as STAT 440. See STAT 440.",
+      "Early field experiences in teacher education, including observation and laboratory experiences in public schools: designed to provide opportunities for career exploration, professional orientation, the development of insight into the interrelationship of theory and practice, and the place of the student in the educational process.",
       []
     ],
-    "CSE 428": [
-      "Statistical Computing",
-      {
-        "1GR": [
-          "63948",
-          [
-            [
-              21,
-              "TR",
-              "151 Loomis Laboratory",
-              13,
-              [
-                "Wang, S"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ],
-        "1UG": [
-          "63949",
-          [
-            [
-              21,
-              "TR",
-              "151 Loomis Laboratory",
-              13,
-              [
-                "Wang, S"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Same as STAT 428. See STAT 428.",
-      []
-    ],
-    "CSE 401": [
-      "Numerical Analysis",
-      {
-        "B3": [
-          "31432",
-          [
-            [
-              59,
-              "MW",
-              "3031 Campus Instructional Facility",
-              9,
-              [
-                "Kloeckner, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ],
-        "B4": [
-          "31434",
-          [
-            [
-              59,
-              "MW",
-              "3031 Campus Instructional Facility",
-              9,
-              [
-                "Kloeckner, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Same as CS 450, ECE 491 and MATH 450. See CS 450.",
-      []
-    ],
-    "CSE 422": [
-      "Computer System Organization",
-      {
-        "S3": [
-          "31408",
-          [
-            [
-              61,
-              "TR",
-              "1304 Siebel Center for Comp Sci",
-              10,
-              [
-                "Talati, N"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ],
-        "S4": [
-          "31409",
-          [
-            [
-              61,
-              "TR",
-              "1304 Siebel Center for Comp Sci",
-              10,
-              [
-                "Talati, N"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      null,
-      []
-    ],
-    "CSE 423": [
-      "Operating Systems Design",
+    "EDPR 199": [
+      "Undergraduate Open Seminar",
       {
         "CG": [
-          "31381",
-          [
-            [
-              61,
-              "TR",
-              "1310 Digital Computer Laboratory",
-              7,
-              [
-                "Staff"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ],
-        "CU": [
-          "31380",
-          [
-            [
-              61,
-              "TR",
-              "1310 Digital Computer Laboratory",
-              7,
-              [
-                "Staff"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      null,
-      []
-    ],
-    "CSE 451": [
-      "Finite Element Analysis",
-      {
-        "B3": [
-          "37474",
-          [
-            [
-              27,
-              "MW",
-              "114 Transportation Building",
-              2,
-              [
-                "Mercer, B"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ],
-        "B4": [
-          "59678",
-          [
-            [
-              27,
-              "MW",
-              "114 Transportation Building",
-              2,
-              [
-                "Mercer, B"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Same as AE 420 and ME 471. See ME 471.",
-      []
-    ],
-    "CSE 461": [
-      "Computational Aerodynamics",
-      {
-        "A": [
-          "29957",
-          [
-            [
-              2,
-              "MW",
-              "403B2 Engineering Hall",
-              15,
-              [
-                "Vollmer, B"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ],
-        "ONL": [
-          "62529",
+          "33749",
           [
             [
               3,
@@ -845,283 +373,29 @@
               "ONLINE",
               0,
               [
-                "Vollmer, B"
+                "Gutzmer, C"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          4,
-          3,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      null,
-      []
-    ],
-    "CSE 522": [
-      "Parallel Computer Architecture",
-      {
-        "S": [
-          "57171",
-          [
-            [
-              64,
-              "TR",
-              "1214 Siebel Center for Comp Sci",
-              10,
-              [
-                "Torrellas, J"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
           5,
+          16,
           0,
           [],
           -1
         ]
       },
       [],
-      null,
+      "Approved for S/U grading only. May be repeated.",
       []
     ],
-    "CSE 448": [
-      "Advanced Data Analysis",
-      {
-        "1GR": [
-          "63959",
-          [
-            [
-              22,
-              "MWF",
-              "3101 Sidney Lu Mech Engr Bldg",
-              4,
-              [
-                "Bravo De Guenni, L"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ],
-        "1UG": [
-          "67123",
-          [
-            [
-              22,
-              "MWF",
-              "3101 Sidney Lu Mech Engr Bldg",
-              4,
-              [
-                "Bravo De Guenni, L"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Same as STAT 448. See STAT 448.",
-      []
-    ],
-    "CSE 510": [
-      "Numerical Methods for PDEs",
-      {
-        "N": [
-          "50118",
-          [
-            [
-              65,
-              "TR",
-              "1035 Campus Instructional Facility",
-              9,
-              [
-                "Fischer, P"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          2,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Same as CS 555 and MATH 552. See CS 555.",
-      []
-    ],
-    "CSE 525": [
-      "Topics in Computational Statistics",
-      {
-        "A1": [
-          "63832",
-          [
-            [
-              14,
-              "MWF",
-              "1002 Lincoln Hall",
-              19,
-              [
-                "Zhou, Y"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Same as STAT 525. See STAT 525.",
-      []
-    ],
-    "CSE 498": [
-      "Special Topics",
-      {
-        "DM": [
-          "70543",
-          [
-            [
-              2,
-              "TR",
-              "2051 Sidney Lu Mech Engr Bldg",
-              4,
-              [
-                "Schleife, A"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Subject offerings of new and developing areas of knowledge in computational science and engineering intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites.",
-      []
-    ],
-    "CSE 542": [
-      "Statistical Learning",
-      {
-        "A1": [
-          "63828",
-          [
-            [
-              25,
-              "MWF",
-              "3025 Campus Instructional Facility",
-              9,
-              [
-                "Liu, J"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Same as ASRM 551 and STAT 542. See STAT 542.",
-      []
-    ],
-    "CSE 521": [
-      "Computer Architecture",
+    "EDPR 442": [
+      "Educational Practice in Secondary Education",
       {
         "A": [
-          "69418",
-          [
-            [
-              18,
-              "TR",
-              "3017 Electrical & Computer Eng Bldg",
-              28,
-              [
-                "Huang, J"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          11,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      null,
-      []
-    ],
-    "CSE 551": [
-      "Finite Element Methods",
-      {
-        "D": [
-          "31750",
-          [
-            [
-              2,
-              "MW",
-              "2311 Newmark Civil Engineering Bldg",
-              32,
-              [
-                "Duarte, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          5,
-          0,
-          [],
-          -1
-        ],
-        "ONL": [
-          "60866",
+          "33768",
           [
             [
               3,
@@ -1129,52 +403,470 @@
               "ONLINE",
               0,
               [
-                "Duarte, C"
+                "Percoco, S"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          4,
-          3,
+          12,
+          16,
           0,
           [],
           -1
-        ]
-      },
-      [],
-      null,
-      []
-    ],
-    "CSE 566": [
-      "Numerical Fluid Dynamics",
-      {
-        "A": [
-          "63492",
+        ],
+        "AE": [
+          "33791",
           [
             [
-              24,
-              "MWF",
-              "G7 Literatures, Cultures, & Ling",
-              20,
+              3,
+              "",
+              "ONLINE",
+              0,
               [
-                "Jewett, B"
+                "Ochs, G"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          4,
-          5,
+          12,
+          16,
+          0,
+          [],
+          -1
+        ],
+        "E": [
+          "33770",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Gutzmer, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          12,
+          16,
+          0,
+          [],
+          -1
+        ],
+        "FF": [
+          "33771",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Krushnowski, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          12,
+          16,
+          0,
+          [],
+          -1
+        ],
+        "FG": [
+          "33772",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Krushnowski, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          12,
+          16,
+          0,
+          [],
+          -1
+        ],
+        "FL": [
+          "33773",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Krushnowski, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          12,
+          16,
+          0,
+          [],
+          -1
+        ],
+        "FS": [
+          "33775",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Krushnowski, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          12,
+          16,
+          0,
+          [],
+          -1
+        ],
+        "L": [
+          "33776",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Ochs, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          12,
+          16,
+          0,
+          [],
+          -1
+        ],
+        "M": [
+          "33777",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Gutzmer, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          12,
+          16,
+          0,
+          [],
+          -1
+        ],
+        "MG": [
+          "43507",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Gutzmer, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          12,
+          16,
+          0,
+          [],
+          -1
+        ],
+        "O": [
+          "33778",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Shungu, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          12,
+          16,
+          0,
+          [],
+          -1
+        ],
+        "P": [
+          "33779",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "O'Connor, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          12,
+          16,
+          0,
+          [],
+          -1
+        ],
+        "SB": [
+          "33782",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Gutzmer, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          12,
+          16,
+          0,
+          [],
+          -1
+        ],
+        "SC": [
+          "33783",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Gutzmer, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          12,
+          16,
+          0,
+          [],
+          -1
+        ],
+        "SE": [
+          "33784",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Gutzmer, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          12,
+          16,
+          0,
+          [],
+          -1
+        ],
+        "SP": [
+          "33787",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Gutzmer, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          12,
+          16,
+          0,
+          [],
+          -1
+        ],
+        "T": [
+          "33788",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Gutzmer, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          12,
+          16,
           0,
           [],
           -1
         ]
       },
       [],
-      "Same as ATMS 502. See ATMS 502.",
+      "Course in practice teaching to meet licensure requirements for teaching in the secondary schools.",
+      []
+    ],
+    "EDPR 438": [
+      "Educational Practice in Special Fields",
+      {
+        "A": [
+          "33763",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Percoco, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          12,
+          16,
+          0,
+          [],
+          -1
+        ],
+        "L": [
+          "33764",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Ochs, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          12,
+          16,
+          0,
+          [],
+          -1
+        ],
+        "O": [
+          "33765",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Shungu, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          12,
+          16,
+          0,
+          [],
+          -1
+        ],
+        "P": [
+          "33766",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "O'Connor, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          12,
+          16,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Course in student teaching to meet requirements for licensure in special fields.",
       []
     ]
   },
@@ -1283,7 +975,30 @@
       "1600 - 1715",
       "1730 - 1845",
       "1700 - 1800",
-      "1300 - 1415"
+      "1300 - 1415",
+      "1500 - 1720",
+      "1300 - 1600",
+      "1400 - 1630",
+      "1000 - 1220",
+      "1430 - 1820",
+      "1500 - 1700",
+      "0900 - 1030",
+      "1430 - 1630",
+      "1035 - 1150",
+      "1700 - 1900",
+      "1400 - 1620",
+      "1450 - 1735",
+      "1145 - 1305",
+      "1530 - 1750",
+      "1500 - 1750",
+      "1100 - 1350",
+      "0830 - 0950",
+      "1100 - 1230",
+      "1600 - 1800",
+      "1800 - 2000",
+      "1900 - 1930",
+      "0730 - 1530",
+      "1530 - 1550"
     ],
     "dateRanges": [],
     "scheduleTypes": [
@@ -1484,6 +1199,14 @@
       {
         "lat": 40.1149521,
         "long": -88.2267561
+      },
+      {
+        "lat": 40.10802885201532,
+        "long": -88.22239700364068
+      },
+      {
+        "lat": 40.11180304465921,
+        "long": -88.22613003543475
       }
     ],
     "finalDates": [],
