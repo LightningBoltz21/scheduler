@@ -1,7 +1,7 @@
 {
   "subject": "LLS",
-  "scrapedAt": 1768450736644,
-  "courseCount": 30,
+  "scrapedAt": 1768450760828,
+  "courseCount": 31,
   "courses": {
     "LLS 246": [
       "Gender & Sexuality in Latina/o Literature",
@@ -1728,6 +1728,36 @@
       },
       [],
       "This capstone seminar, designed for advanced majors in LLS, will guide students through the process of writing a senior research paper relevant to the field of Latina/Latino Studies. Students will develop research skills through discussions, writing exercises, and workshops.",
+      []
+    ],
+    "LLS 590": [
+      "Independent Study",
+      {
+        "": [
+          "46522",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Independent study on special topics not treated in regularly scheduled courses.",
       []
     ]
   },

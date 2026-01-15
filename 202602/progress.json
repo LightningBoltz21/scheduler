@@ -4,7 +4,7 @@
   "year": "2026",
   "term": "spring",
   "startedAt": 1768450320876,
-  "lastUpdated": 1768450736647,
+  "lastUpdated": 1768450826676,
   "totalSubjects": 187,
   "totalCourses": 4515,
   "subjects": [
@@ -18755,19 +18755,47 @@
     "LCTL",
     "LEAD",
     "LER",
-    "LING"
+    "LING",
+    "LLS",
+    "MACS",
+    "MATH",
+    "MBA",
+    "MCB",
+    "MDIA",
+    "MDVL",
+    "ME",
+    "MICR",
+    "MILS",
+    "MIP",
+    "MSE",
+    "MUS",
+    "MUSC",
+    "MUSE",
+    "NE",
+    "NEUR",
+    "NPRE",
+    "NRES",
+    "NS",
+    "NUTR",
+    "PATH",
+    "PERS",
+    "PHIL",
+    "PHYS",
+    "PLPA",
+    "POL",
+    "PORT"
   ],
   "partialSubjects": {
-    "LLS": {
-      "completed": 30,
-      "total": 31,
+    "PS": {
+      "completed": 29,
+      "total": 57,
       "lastCourse": "ABORTED"
     }
   },
   "failedSubjects": [],
   "stats": {
-    "successfulCourses": 2976,
-    "failedCourses": 4,
+    "successfulCourses": 3753,
+    "failedCourses": 5,
     "rateLimitCount": 0
   }
 }
