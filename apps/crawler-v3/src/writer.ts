@@ -225,7 +225,50 @@ export class DataWriter {
 
     const json = JSON.stringify(indexData, null, 2);
     fs.writeFileSync(filepath, json, 'utf-8');
-    
+
     console.log(`✅ Written: ${filepath}`);
+  }
+
+  /**
+   * Import existing caches to restore writer state when resuming.
+   * This ensures that new courses get indices consistent with existing courses.
+   */
+  public importCaches(existingCaches: Caches): void {
+    // Import string-based caches
+    const stringCacheNames: (keyof CacheBuilder)[] = [
+      'dateRanges',
+      'scheduleTypes',
+      'campuses',
+      'attributes',
+      'restrictions',
+      'gradeBases',
+      'finalDates',
+      'finalTimes'
+    ];
+
+    for (const cacheName of stringCacheNames) {
+      const values = existingCaches[cacheName] as string[];
+      if (values) {
+        // Copy values to caches array
+        (this.caches[cacheName] as string[]) = [...values];
+        // Rebuild the cacheBuilder Map for lookups
+        this.cacheBuilder[cacheName] = new Map();
+        values.forEach((value, index) => {
+          this.cacheBuilder[cacheName].set(value, index);
+        });
+      }
+    }
+
+    // Import periods (stored as strings)
+    if (existingCaches.periods) {
+      this.caches.periods = [...existingCaches.periods];
+      // Note: periods use a different lookup mechanism (linear search in addPeriodToCache)
+    }
+
+    // Import locations (complex objects)
+    if (existingCaches.locations) {
+      this.caches.locations = [...existingCaches.locations];
+      // Note: locations use findIndex for deduplication in addLocationToCache
+    }
   }
 }

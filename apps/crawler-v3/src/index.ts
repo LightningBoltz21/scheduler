@@ -427,7 +427,17 @@ async function main() {
         
         // Load existing courses for this subject (resume support)
         const existingCourses = progressManager.getScrapedCourses(subject);
-        
+
+        // If resuming with existing courses, import their caches to maintain index consistency
+        // This ensures new courses get indices that align with existing courses
+        if (Object.keys(existingCourses).length > 0) {
+          const existingCaches = progressManager.getSubjectCaches(subject);
+          if (existingCaches) {
+            writer.importCaches(existingCaches);
+            console.log(`  📥 Imported caches for resume (${existingCaches.scheduleTypes.length} scheduleTypes)`);
+          }
+        }
+
         console.log(`\n📦 Processing ${subject} (${subjectIndex}/${subjects.length} subjects)...`);
         
         // Scrape this subject

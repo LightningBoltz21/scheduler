@@ -88,7 +88,12 @@ export default function Section({
   const sectionTooltipId = useId();
   return (
     <ActionRow
-      label={section.id}
+      label={
+        <div className="section-label">
+          <span className="section-id">{section.id}</span>
+          <span className="schedule-type">{section.scheduleType}</span>
+        </div>
+      }
       className={classes('Section', className)}
       onMouseEnter={(): void => setOverlayCrns([section.crn])}
       onMouseLeave={(): void => setOverlayCrns([])}

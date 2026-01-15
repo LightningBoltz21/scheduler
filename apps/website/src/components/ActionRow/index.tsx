@@ -18,7 +18,7 @@ export type Action = {
 } & Omit<ButtonProps, 'children'>;
 
 type BaseActionRowProps = {
-  label: string;
+  label: React.ReactNode;
   actions: (Action | null | undefined)[];
   className?: string;
   children?: React.ReactNode;

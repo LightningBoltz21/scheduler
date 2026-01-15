@@ -309,6 +309,14 @@ export class ProgressManager {
   }
 
   /**
+   * Get caches for a subject (used when resuming to maintain index consistency)
+   */
+  getSubjectCaches(subject: string): Caches | null {
+    const subjectFile = this.loadSubjectFile(subject);
+    return subjectFile?.caches ?? null;
+  }
+
+  /**
    * Get count of courses scraped for a subject
    */
   getScrapedCourseCount(subject: string): number {
