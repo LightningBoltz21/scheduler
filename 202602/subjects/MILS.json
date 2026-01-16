@@ -1,133 +1,233 @@
 {
-  "subject": "LCTL",
-  "scrapedAt": 1768543808802,
-  "courseCount": 4,
+  "subject": "MILS",
+  "scrapedAt": 1768543833589,
+  "courseCount": 9,
   "courses": {
-    "LCTL 102": [
-      "Elementary Course in a Less Commonly Taught Language II",
+    "MILS 202": [
+      "Leadership and Teamwork",
       {
-        "BUL": [
-          "75210",
+        "B": [
+          "34436",
           [
             [
-              7,
-              "MTWR",
-              "327 Gregory Hall",
-              1,
-              [
-                "Cooper, D",
-                "Dimitrova, I"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Continuing beginning or intensive language instruction in a selected less commonly taught language. May be repeated with approval. Prerequisite: Consent of instructor.",
-      []
-    ],
-    "LCTL 301": [
-      "Advanced Course in a Less Commonly Taught Language I",
-      {
-        "BT": [
-          "75211",
-          [
-            [
+              8,
+              "TR",
+              "133 Armory",
               0,
-              "TR",
-              "ONLINE",
-              7,
               [
-                "Blazek, K"
+                "Ashworth, E",
+                "Campbell, J",
+                "Miller, Z",
+                "Thompson, S"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          5,
-          3,
+          2,
+          0,
           0,
           [],
           -1
         ],
-        "BTA": [
-          "75500",
+        "D": [
+          "34442",
           [
             [
-              129,
+              5,
               "TR",
-              "ONLINE",
+              "Location Pending",
               7,
               [
-                "Blazek, K"
+                "Ashworth, E",
+                "Campbell, J",
+                "Miller, Z",
+                "Thompson, S"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          5,
-          3,
+          2,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "E": [
+          "34446",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Ashworth, E",
+                "Campbell, J",
+                "Miller, Z",
+                "Thompson, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          0,
           0,
           [],
           -1
         ]
       },
       [],
-      "Advanced or intensive language instruction in a selected less commonly taught language. May be repeated with approval. Prerequisite: Consent of instructor.",
+      "MILS 202 focuses on Army doctrine and team development. The course begins the journey to understand and demonstrate competencies as they relate to Army doctrine. Army Values, Teamwork, and Warrior Ethos and their relationship to the Law of Land Warfare and philosophy of military service are also stressed. The ability to lead and follow is also covered through Team Building exercises at squad level. Students are then required to apply their knowledge outside the classroom in a hands-on performance-oriented environment during a weekly lab facilitated by MS III Cadets and supervised by cadre.",
       []
     ],
-    "LCTL 302": [
-      "Advanced Course in a Less Commonly Taught Language II",
+    "MILS 324": [
+      "Leadership Laboratory",
       {
-        "BTI": [
-          "77387",
+        "A": [
+          "34507",
           [
             [
-              237,
-              "TR",
-              "ONLINE",
+              248,
+              "TWR",
+              "6THSTLAWNE Outdoor Space",
               7,
               [
-                "Blazek, K"
+                "Ashworth, E",
+                "Miller, Z"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              163,
+              "R",
+              "6THSTLAWNE Outdoor Space",
+              7,
+              [
+                "Ashworth, E",
+                "Miller, Z"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          5,
-          3,
+          0,
+          6,
           0,
           [],
           -1
         ],
-        "WLF": [
-          "76101",
+        "C": [
+          "34512",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Ashworth, E",
+                "Miller, Z"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Continuation of MILS 322. Field trip required.",
+      []
+    ],
+    "MILS 302": [
+      "Leadership and Ethics",
+      {
+        "A": [
+          "34451",
           [
             [
               44,
               "TR",
-              "1110 Literatures, Cultures, & Ling",
-              3,
+              "143 Armory",
+              0,
               [
-                "Toure, V"
+                "Ashworth, E",
+                "Campbell, J",
+                "Kolthoff, M",
+                "Miller, Z",
+                "Thompson, D"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          5,
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "34455",
+          [
+            [
+              47,
+              "TR",
+              "143 Armory",
+              0,
+              [
+                "Ashworth, E",
+                "Campbell, J",
+                "Kolthoff, M",
+                "Miller, Z",
+                "Thompson, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "E": [
+          "42969",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Ashworth, E",
+                "Campbell, J",
+                "Kolthoff, M",
+                "Miller, Z"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
           0,
           0,
           [],
@@ -135,96 +235,85 @@
         ]
       },
       [],
-      "Advanced or intensive language instruction in a selected less commonly taught language. May be repeated with approval. Prerequisite: Consent of instructor.",
+      "Principles of leadership including management practices and their relationship to leadership, problem solving, decision making, human behavior and motivation, superior-subordinate relations, and leadership problems in the military environment. Includes field practical application.",
       []
     ],
-    "LCTL 202": [
-      "Intermediate Course in a Less Commonly Taught Language II",
+    "MILS 325": [
+      "Independent Study",
       {
-        "BT1": [
-          "73771",
+        "A": [
+          "34518",
           [
             [
-              22,
-              "MW",
+              12,
+              "",
               "ONLINE",
               7,
               [
-                "Blazek, K"
+                "Ashworth, E",
+                "Miller, Z"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          5,
           3,
+          9,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Supervised reading and research in a selected area of Military Science.",
+      []
+    ],
+    "MILS 342": [
+      "Officership",
+      {
+        "A": [
+          "34497",
+          [
+            [
+              249,
+              "TR",
+              "133 Armory",
+              0,
+              [
+                "Ashworth, E",
+                "Miller, Z",
+                "Stumbo, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
           0,
           [],
           -1
         ],
-        "BTA": [
-          "75349",
+        "E": [
+          "34504",
           [
             [
-              22,
-              "MW",
+              12,
+              "M",
               "ONLINE",
               7,
               [
-                "Blazek, K"
+                "Miller, Z",
+                "Stumbo, T"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          5,
           3,
-          0,
-          [],
-          -1
-        ],
-        "BTT": [
-          "76258",
-          [
-            [
-              238,
-              "MTWR",
-              "ONLINE",
-              7,
-              [
-                "Blazek, K"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
-          3,
-          0,
-          [],
-          -1
-        ],
-        "BTU": [
-          "76254",
-          [
-            [
-              43,
-              "MWF",
-              "1018 Literatures, Cultures, & Ling",
-              3,
-              [
-                "Cooper, D",
-                "Dimitrova, I"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
           0,
           0,
           [],
@@ -232,7 +321,305 @@
         ]
       },
       [],
-      "Intermediate or intensive language instruction in a selected less commonly taught language. May be repeated with approval. Prerequisite: Consent of instructor.",
+      "Basic examination of all military management systems: personnel, supply, logistics, training, maintenance, finance, and administration. Includes instruction on military administrative skills - written and verbal communications, meeting management, and briefing techniques. Discusses motivation and counseling techniques. Basic instruction on Army environmental protection policies.",
+      []
+    ],
+    "MILS 102": [
+      "Introduction to the Profession of Arms",
+      {
+        "A": [
+          "34414",
+          [
+            [
+              5,
+              "MW",
+              "133 Armory",
+              0,
+              [
+                "Ashworth, E",
+                "Kram, M",
+                "Miller, Z"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "34417",
+          [
+            [
+              6,
+              "MW",
+              "133 Armory",
+              0,
+              [
+                "Ashworth, E",
+                "Kram, M",
+                "Miller, Z"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "C": [
+          "34419",
+          [
+            [
+              7,
+              "MW",
+              "133 Armory",
+              0,
+              [
+                "Ashworth, E",
+                "Kram, M",
+                "Miller, Z"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "This course introduces you to the professional challenges and competencies that are needed for effective execution of the profession of arms and Army communication. Through this course, you will learn how Army ethics and values shape the U.S. Army and the specific ways that these factors are inculcated into Army culture. You will gain a better understanding of the Laws of the Land Warfare and the Principles of War and how they affect and Army Leader's decision making process. You will understand the fundamentals of military and USGS map reading including methods such as intersection and resection, terrain association, and orienteering.",
+      []
+    ],
+    "MILS 214": [
+      "Leadership Laboratory",
+      {
+        "A": [
+          "34448",
+          [
+            [
+              248,
+              "TWR",
+              "6THSTLAWNE Outdoor Space",
+              7,
+              [
+                "Ashworth, E",
+                "Campbell, J",
+                "Miller, Z",
+                "Thompson, S"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              163,
+              "R",
+              "6THSTLAWNE Outdoor Space",
+              7,
+              [
+                "Ashworth, E",
+                "Campbell, J",
+                "Miller, Z",
+                "Thompson, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "61775",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Ashworth, E",
+                "Campbell, J",
+                "Miller, Z",
+                "Thompson, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Continuation of MILS 212 to include military radio communication procedures and small unit tactics. Field trip required.",
+      []
+    ],
+    "MILS 314": [
+      "Leadership Laboratory",
+      {
+        "A": [
+          "34458",
+          [
+            [
+              248,
+              "TWR",
+              "6THSTLAWNE Outdoor Space",
+              7,
+              [
+                "Ashworth, E",
+                "Campbell, J",
+                "Kolthoff, M",
+                "Miller, Z",
+                "Thompson, D"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              163,
+              "R",
+              "6THSTLAWNE Outdoor Space",
+              7,
+              [
+                "Ashworth, E",
+                "Campbell, J",
+                "Kolthoff, M",
+                "Miller, Z",
+                "Thompson, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "61905",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Ashworth, E",
+                "Campbell, J",
+                "Kolthoff, M",
+                "Miller, Z"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Continuation of MILS 312 to include small unit tactics and patrolling techniques. Field trip required.",
+      []
+    ],
+    "MILS 114": [
+      "Leadership Laboratory",
+      {
+        "A": [
+          "34429",
+          [
+            [
+              248,
+              "TWR",
+              "6THSTLAWNE Outdoor Space",
+              7,
+              [
+                "Ashworth, E",
+                "Kram, M",
+                "Miller, Z"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              163,
+              "R",
+              "6THSTLAWNE Outdoor Space",
+              7,
+              [
+                "Ashworth, E",
+                "Kram, M",
+                "Miller, Z"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "61601",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Ashworth, E",
+                "Kram, M",
+                "Miller, Z"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Continuation of MILS 112 to include actual firing of weapons. Field trip may be required.",
       []
     ]
   },
@@ -476,7 +863,18 @@
       "1030 - 1159",
       "1700 - 1910",
       "1010 - 1125",
-      "0900 - 1000"
+      "0900 - 1000",
+      "0800 - 1030",
+      "1830 - 2030",
+      "1200 - 1330",
+      "1800 - 1930",
+      "1320 - 1450",
+      "1400 - 1750",
+      "0900 - 1250",
+      "1000 - 1350",
+      "1330 - 1500",
+      "0600 - 0720",
+      "0800 - 0930"
     ],
     "dateRanges": [],
     "scheduleTypes": [

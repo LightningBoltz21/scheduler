@@ -1,29 +1,28 @@
 {
-  "subject": "LCTL",
-  "scrapedAt": 1768543808802,
-  "courseCount": 4,
+  "subject": "MDVL",
+  "scrapedAt": 1768543829675,
+  "courseCount": 6,
   "courses": {
-    "LCTL 102": [
-      "Elementary Course in a Less Commonly Taught Language II",
+    "MDVL 345": [
+      "Medieval Civilization",
       {
-        "BUL": [
-          "75210",
+        "A": [
+          "40120",
           [
             [
-              7,
-              "MTWR",
-              "327 Gregory Hall",
-              1,
+              13,
+              "MW",
+              "310 David Kinley Hall",
+              14,
               [
-                "Cooper, D",
-                "Dimitrova, I"
+                "Symes, C"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          5,
+          3,
           0,
           0,
           [],
@@ -31,200 +30,29 @@
         ]
       },
       [],
-      "Continuing beginning or intensive language instruction in a selected less commonly taught language. May be repeated with approval. Prerequisite: Consent of instructor.",
+      "Same as HIST 345 and REL 345. See HIST 345.",
       []
     ],
-    "LCTL 301": [
-      "Advanced Course in a Less Commonly Taught Language I",
+    "MDVL 252": [
+      "Viking Sagas in Translation",
       {
-        "BT": [
-          "75211",
-          [
-            [
-              0,
-              "TR",
-              "ONLINE",
-              7,
-              [
-                "Blazek, K"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
-          3,
-          0,
-          [],
-          -1
-        ],
-        "BTA": [
-          "75500",
-          [
-            [
-              129,
-              "TR",
-              "ONLINE",
-              7,
-              [
-                "Blazek, K"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
-          3,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Advanced or intensive language instruction in a selected less commonly taught language. May be repeated with approval. Prerequisite: Consent of instructor.",
-      []
-    ],
-    "LCTL 302": [
-      "Advanced Course in a Less Commonly Taught Language II",
-      {
-        "BTI": [
-          "77387",
-          [
-            [
-              237,
-              "TR",
-              "ONLINE",
-              7,
-              [
-                "Blazek, K"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
-          3,
-          0,
-          [],
-          -1
-        ],
-        "WLF": [
-          "76101",
-          [
-            [
-              44,
-              "TR",
-              "1110 Literatures, Cultures, & Ling",
-              3,
-              [
-                "Toure, V"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Advanced or intensive language instruction in a selected less commonly taught language. May be repeated with approval. Prerequisite: Consent of instructor.",
-      []
-    ],
-    "LCTL 202": [
-      "Intermediate Course in a Less Commonly Taught Language II",
-      {
-        "BT1": [
-          "73771",
+        "C": [
+          "58487",
           [
             [
               22,
-              "MW",
-              "ONLINE",
-              7,
+              "TR",
+              "325 David Kinley Hall",
+              14,
               [
-                "Blazek, K"
+                "Horsfall, W"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          5,
           3,
-          0,
-          [],
-          -1
-        ],
-        "BTA": [
-          "75349",
-          [
-            [
-              22,
-              "MW",
-              "ONLINE",
-              7,
-              [
-                "Blazek, K"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
-          3,
-          0,
-          [],
-          -1
-        ],
-        "BTT": [
-          "76258",
-          [
-            [
-              238,
-              "MTWR",
-              "ONLINE",
-              7,
-              [
-                "Blazek, K"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
-          3,
-          0,
-          [],
-          -1
-        ],
-        "BTU": [
-          "76254",
-          [
-            [
-              43,
-              "MWF",
-              "1018 Literatures, Cultures, & Ling",
-              3,
-              [
-                "Cooper, D",
-                "Dimitrova, I"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
           0,
           0,
           [],
@@ -232,7 +60,127 @@
         ]
       },
       [],
-      "Intermediate or intensive language instruction in a selected less commonly taught language. May be repeated with approval. Prerequisite: Consent of instructor.",
+      "Same as CWL 252 and SCAN 252. See SCAN 252.",
+      []
+    ],
+    "MDVL 571": [
+      "Medieval German Studies",
+      {
+        "G": [
+          "40116",
+          [
+            [
+              19,
+              "R",
+              "Location Pending",
+              7,
+              [
+                "Horsfall, W"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      null,
+      []
+    ],
+    "MDVL 500": [
+      "Seminar in Medieval Studies",
+      {
+        "A": [
+          "52496",
+          [
+            [
+              56,
+              "R",
+              "Location Pending",
+              7,
+              [
+                "Symes, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Team-taught, interdisciplinary seminar on varying topics in Medieval Studies drawing on faculty from UIUC and invited scholars from other universities.",
+      []
+    ],
+    "MDVL 201": [
+      "Medieval Literature and Culture",
+      {
+        "S": [
+          "43185",
+          [
+            [
+              103,
+              "TR",
+              "149 Henry Administration Bldg",
+              27,
+              [
+                "Koepke, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as CWL 253 and ENGL 202. See ENGL 202.",
+      []
+    ],
+    "MDVL 470": [
+      "Middle Ages to Baroque",
+      {
+        "X": [
+          "45144",
+          [
+            [
+              19,
+              "R",
+              "Location Pending",
+              7,
+              [
+                "Horsfall, W"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      null,
       []
     ]
   },
@@ -476,7 +424,16 @@
       "1030 - 1159",
       "1700 - 1910",
       "1010 - 1125",
-      "0900 - 1000"
+      "0900 - 1000",
+      "0800 - 1030",
+      "1830 - 2030",
+      "1200 - 1330",
+      "1800 - 1930",
+      "1320 - 1450",
+      "1400 - 1750",
+      "0900 - 1250",
+      "1000 - 1350",
+      "1330 - 1500"
     ],
     "dateRanges": [],
     "scheduleTypes": [

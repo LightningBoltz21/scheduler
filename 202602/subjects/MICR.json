@@ -1,238 +1,514 @@
 {
-  "subject": "LCTL",
-  "scrapedAt": 1768543808802,
-  "courseCount": 4,
+  "subject": "MICR",
+  "scrapedAt": 1768543832869,
+  "courseCount": 3,
   "courses": {
-    "LCTL 102": [
-      "Elementary Course in a Less Commonly Taught Language II",
+    "MICR 595": [
+      "Microbiology Graduate Seminar",
       {
-        "BUL": [
-          "75210",
-          [
-            [
-              7,
-              "MTWR",
-              "327 Gregory Hall",
-              1,
-              [
-                "Cooper, D",
-                "Dimitrova, I"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Continuing beginning or intensive language instruction in a selected less commonly taught language. May be repeated with approval. Prerequisite: Consent of instructor.",
-      []
-    ],
-    "LCTL 301": [
-      "Advanced Course in a Less Commonly Taught Language I",
-      {
-        "BT": [
-          "75211",
-          [
-            [
-              0,
-              "TR",
-              "ONLINE",
-              7,
-              [
-                "Blazek, K"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
-          3,
-          0,
-          [],
-          -1
-        ],
-        "BTA": [
-          "75500",
-          [
-            [
-              129,
-              "TR",
-              "ONLINE",
-              7,
-              [
-                "Blazek, K"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
-          3,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Advanced or intensive language instruction in a selected less commonly taught language. May be repeated with approval. Prerequisite: Consent of instructor.",
-      []
-    ],
-    "LCTL 302": [
-      "Advanced Course in a Less Commonly Taught Language II",
-      {
-        "BTI": [
-          "77387",
-          [
-            [
-              237,
-              "TR",
-              "ONLINE",
-              7,
-              [
-                "Blazek, K"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
-          3,
-          0,
-          [],
-          -1
-        ],
-        "WLF": [
-          "76101",
-          [
-            [
-              44,
-              "TR",
-              "1110 Literatures, Cultures, & Ling",
-              3,
-              [
-                "Toure, V"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Advanced or intensive language instruction in a selected less commonly taught language. May be repeated with approval. Prerequisite: Consent of instructor.",
-      []
-    ],
-    "LCTL 202": [
-      "Intermediate Course in a Less Commonly Taught Language II",
-      {
-        "BT1": [
-          "73771",
-          [
-            [
-              22,
-              "MW",
-              "ONLINE",
-              7,
-              [
-                "Blazek, K"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
-          3,
-          0,
-          [],
-          -1
-        ],
-        "BTA": [
-          "75349",
-          [
-            [
-              22,
-              "MW",
-              "ONLINE",
-              7,
-              [
-                "Blazek, K"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
-          3,
-          0,
-          [],
-          -1
-        ],
-        "BTT": [
-          "76258",
-          [
-            [
-              238,
-              "MTWR",
-              "ONLINE",
-              7,
-              [
-                "Blazek, K"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
-          3,
-          0,
-          [],
-          -1
-        ],
-        "BTU": [
-          "76254",
+        "A": [
+          "34411",
           [
             [
               43,
-              "MWF",
-              "1018 Literatures, Cultures, & Ling",
-              3,
+              "TR",
+              "B102 Chemical and Life Sci Lab",
+              7,
               [
-                "Cooper, D",
-                "Dimitrova, I"
+                "Mera, P"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          5,
-          0,
+          1,
+          9,
           0,
           [],
           -1
         ]
       },
       [],
-      "Intermediate or intensive language instruction in a selected less commonly taught language. May be repeated with approval. Prerequisite: Consent of instructor.",
+      "Required of all graduate students whose major is microbiology.",
+      []
+    ],
+    "MICR 599": [
+      "Thesis Research",
+      {
+        "AHA": [
+          "23819",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Hatoum, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "AK": [
+          "23841",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Kuzminov, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "BAW": [
+          "23847",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Wilson, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "CBB": [
+          "64424",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Brooke, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "CDK": [
+          "23813",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Kieffer, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "CKV": [
+          "47371",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Vanderpool, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "GJO": [
+          "23852",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Olsen, G"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "IC": [
+          "48832",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Cann, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "IG": [
+          "73751",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Golding, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "JAI": [
+          "23817",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Imlay, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "JEC": [
+          "23843",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Cronan, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "JMS": [
+          "23811",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Slauch, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "KDH": [
+          "71017",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Heath, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "NAG": [
+          "23807",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Grant, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "PEM": [
+          "23830",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Mera, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "PMV": [
+          "43168",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Martinez Vargas, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "RJW": [
+          "47373",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Whitaker, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "SRB": [
+          "43165",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Blanke, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "SS": [
+          "75502",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Sirk, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "WWM": [
+          "23823",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Metcalf, W"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Approved for S/U grading only. May be repeated in the same term or in separate terms.",
+      []
+    ],
+    "MICR 590": [
+      "Individual Topics",
+      {
+        "": [
+          "10582",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Approved for S/U grading only. May be repeated. Prerequisite: Consent of instructor.",
       []
     ]
   },
@@ -476,7 +752,16 @@
       "1030 - 1159",
       "1700 - 1910",
       "1010 - 1125",
-      "0900 - 1000"
+      "0900 - 1000",
+      "0800 - 1030",
+      "1830 - 2030",
+      "1200 - 1330",
+      "1800 - 1930",
+      "1320 - 1450",
+      "1400 - 1750",
+      "0900 - 1250",
+      "1000 - 1350",
+      "1330 - 1500"
     ],
     "dateRanges": [],
     "scheduleTypes": [

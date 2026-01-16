@@ -1,133 +1,58 @@
 {
-  "subject": "LCTL",
-  "scrapedAt": 1768543808802,
-  "courseCount": 4,
+  "subject": "NS",
+  "scrapedAt": 1768543859889,
+  "courseCount": 8,
   "courses": {
-    "LCTL 102": [
-      "Elementary Course in a Less Commonly Taught Language II",
+    "NS 306": [
+      "Naval Weapons Systems",
       {
-        "BUL": [
-          "75210",
-          [
-            [
-              7,
-              "MTWR",
-              "327 Gregory Hall",
-              1,
-              [
-                "Cooper, D",
-                "Dimitrova, I"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Continuing beginning or intensive language instruction in a selected less commonly taught language. May be repeated with approval. Prerequisite: Consent of instructor.",
-      []
-    ],
-    "LCTL 301": [
-      "Advanced Course in a Less Commonly Taught Language I",
-      {
-        "BT": [
-          "75211",
+        "A": [
+          "46710",
           [
             [
               0,
-              "TR",
-              "ONLINE",
-              7,
+              "MW",
+              "337 Armory",
+              0,
               [
-                "Blazek, K"
+                "Thompson, S"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          5,
           3,
           0,
-          [],
-          -1
-        ],
-        "BTA": [
-          "75500",
-          [
-            [
-              129,
-              "TR",
-              "ONLINE",
-              7,
-              [
-                "Blazek, K"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
-          3,
           0,
           [],
           -1
         ]
       },
       [],
-      "Advanced or intensive language instruction in a selected less commonly taught language. May be repeated with approval. Prerequisite: Consent of instructor.",
+      "Introduction to concepts and properties of electronic, physical, electromagnetic and mechanical systems and the underlying principles for operation of shipboard and aircraft weapons systems. Course emphasizes types of weapons and fire control systems, capabilities and limitations, theory of target acquisition, identification and tracking, trajectory and ballistics principles, and basic theory of radar and sonar",
       []
     ],
-    "LCTL 302": [
-      "Advanced Course in a Less Commonly Taught Language II",
+    "NS 102": [
+      "Sea Power and Maritime Affairs",
       {
-        "BTI": [
-          "77387",
+        "B": [
+          "34584",
           [
             [
-              237,
-              "TR",
-              "ONLINE",
-              7,
-              [
-                "Blazek, K"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
-          3,
-          0,
-          [],
-          -1
-        ],
-        "WLF": [
-          "76101",
-          [
-            [
-              44,
-              "TR",
-              "1110 Literatures, Cultures, & Ling",
               3,
+              "TR",
+              "145 Armory",
+              0,
               [
-                "Toure, V"
+                "Hughes, D"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          5,
+          2,
           0,
           0,
           [],
@@ -135,96 +60,81 @@
         ]
       },
       [],
-      "Advanced or intensive language instruction in a selected less commonly taught language. May be repeated with approval. Prerequisite: Consent of instructor.",
+      "Investigates the characteristics of sea power and their impact on the affairs of our nation; discusses those characteristics with historical and modern applications to the United States and other world powers.",
       []
     ],
-    "LCTL 202": [
-      "Intermediate Course in a Less Commonly Taught Language II",
+    "NS 204": [
+      "Navigation/Naval Operations I",
       {
-        "BT1": [
-          "73771",
+        "A": [
+          "43947",
           [
             [
-              22,
-              "MW",
+              12,
+              "",
               "ONLINE",
               7,
               [
-                "Blazek, K"
+                "Pflug, D"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          5,
           3,
+          4,
           0,
           [],
           -1
         ],
-        "BTA": [
-          "75349",
+        "MS": [
+          "57991",
           [
             [
-              22,
-              "MW",
-              "ONLINE",
-              7,
-              [
-                "Blazek, K"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
-          3,
-          0,
-          [],
-          -1
-        ],
-        "BTT": [
-          "76258",
-          [
-            [
-              238,
-              "MTWR",
-              "ONLINE",
-              7,
-              [
-                "Blazek, K"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
-          3,
-          0,
-          [],
-          -1
-        ],
-        "BTU": [
-          "76254",
-          [
-            [
-              43,
+              4,
               "MWF",
-              "1018 Literatures, Cultures, & Ling",
-              3,
+              "337 Armory",
+              0,
               [
-                "Cooper, D",
-                "Dimitrova, I"
+                "Pflug, D"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          5,
+          3,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduces the basic concepts of marine navigation, international and inland rules for vessels at sea and the use of maneuvering boards in safe ship maneuvering. Explores principles of navigation and methods used to aid in navigation. Provides a solid foundation of the fundamentals of marine navigation and its importance to the United States Navy.",
+      []
+    ],
+    "NS 321": [
+      "Evolution of Warfare",
+      {
+        "FLS": [
+          "59410",
+          [
+            [
+              25,
+              "TR",
+              "337 Armory",
+              0,
+              [
+                "Thompson, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
           0,
           0,
           [],
@@ -232,7 +142,149 @@
         ]
       },
       [],
-      "Intermediate or intensive language instruction in a selected less commonly taught language. May be repeated with approval. Prerequisite: Consent of instructor.",
+      "Open to all students on campus, not just ROTC students. The course provides the student with a basic overview of Marine Corps history combined with its mission within the Department of Defense. To that end, three general topics are discussed: (1) Leadership and Ethics, (2) Seapower and Naval History, and (3) Technical Foundations of Naval Warfare. This course is well suited for anyone interested in learning more about what makes the Marine Corps so effective as a warfighting organization as well as students seeking to develop their leadership skills.",
+      []
+    ],
+    "NS 308": [
+      "Leadership and Ethics",
+      {
+        "A": [
+          "43950",
+          [
+            [
+              25,
+              "TR",
+              "Location Pending",
+              7,
+              [
+                "O'Neill, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "JDH": [
+          "57898",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Casteel, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Leadership and Ethics prepares future leaders by exploring and applying a diverse range of leadership and ethical tools to enhance objective, sound, and timely decision-making in the most challenging environments. This course emphasizes the importance of leadership that adheres to the highest standards of character and integrity. It is a \"Leadership Seminar\" where fundamentals and applications of leadership and ethics will be discussed. The primary purpose of this course is to help you develop your personal leadership philosophy and style based on a solid ethical foundation.",
+      []
+    ],
+    "NS 100": [
+      "Leadership Laboratory",
+      {
+        "A": [
+          "34520",
+          [
+            [
+              264,
+              "W",
+              "101 Armory",
+              0,
+              [
+                "O'Neill, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Noncredit course designed to give the Naval ROTC student, through practical application, a better grasp of the naval science subjects taught in the classroom and a working knowledge of close order drill.",
+      []
+    ],
+    "NS 323": [
+      "Maneuver Warfare Fundamentals",
+      {
+        "BTH": [
+          "69483",
+          [
+            [
+              265,
+              "TR",
+              "Location Pending",
+              7,
+              [
+                "Dudley, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Open to all students on campus, not just ROTC students.Throughout the course we will discuss modern tactical principles, current military developments, and other aspects of warfare along with their interactions with and influences on maneuver warfare doctrine. There is a specific focus on the United States Marine Corps as the premier maneuver warfighting organization. Additionally, study will include historical influences on tactical, operational, and strategic levels of maneuver warfare practices in the current and future operating environments. This course is well suited for anyone interested in learning more about what makes the Marine Corps so effective as a warfighting organization as well as students seeking to develop their leadership skills.",
+      []
+    ],
+    "NS 307": [
+      "Navigation/Naval Operations II",
+      {
+        "C": [
+          "53482",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Thompson, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Explores numerous aspects related to the efficient and professional manner of U.S. Navy ship operations. Teaches the fundamentals of the U.S. Navy systems of communications used on sea-going vessels and Naval Warfare, Command and Control, and Joint Operations. Discusses the many issues relating to ship handling and Naval Officer responsibilities. Prerequisite: NS 204",
       []
     ]
   },
@@ -476,7 +528,34 @@
       "1030 - 1159",
       "1700 - 1910",
       "1010 - 1125",
-      "0900 - 1000"
+      "0900 - 1000",
+      "0800 - 1030",
+      "1830 - 2030",
+      "1200 - 1330",
+      "1800 - 1930",
+      "1320 - 1450",
+      "1400 - 1750",
+      "0900 - 1250",
+      "1000 - 1350",
+      "1330 - 1500",
+      "0600 - 0720",
+      "0800 - 0930",
+      "1830 - 2050",
+      "1730 - 1820",
+      "1100 - 1300",
+      "0930 - 1100",
+      "1400 - 1530",
+      "1500 - 1630",
+      "1930 - 2130",
+      "1000 - 1300",
+      "1900 - 2150",
+      "1200 - 1300",
+      "1700 - 2050",
+      "1800 - 1900",
+      "0900 - 1300",
+      "1900 - 2100",
+      "0600 - 0750",
+      "1200 - 1315"
     ],
     "dateRanges": [],
     "scheduleTypes": [
@@ -499,7 +578,8 @@
       "Studio",
       "Online Lab",
       "Practice",
-      "Quiz"
+      "Quiz",
+      "Packaged Section"
     ],
     "campuses": [],
     "attributes": [],
@@ -713,6 +793,10 @@
       {
         "lat": 40.10099,
         "long": -88.23159
+      },
+      {
+        "lat": 40.1116416,
+        "long": -88.2248868
       }
     ],
     "finalDates": [],

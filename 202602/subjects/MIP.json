@@ -1,238 +1,690 @@
 {
-  "subject": "LCTL",
-  "scrapedAt": 1768543808802,
-  "courseCount": 4,
+  "subject": "MIP",
+  "scrapedAt": 1768543834329,
+  "courseCount": 3,
   "courses": {
-    "LCTL 102": [
-      "Elementary Course in a Less Commonly Taught Language II",
+    "MIP 595": [
+      "Seminars in Physiology",
       {
-        "BUL": [
-          "75210",
+        "1": [
+          "37677",
           [
             [
+              5,
+              "R",
+              "B102 Chemical and Life Sci Lab",
               7,
-              "MTWR",
-              "327 Gregory Hall",
-              1,
               [
-                "Cooper, D",
-                "Dimitrova, I"
+                "Sweeney, P"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          5,
-          0,
+          1,
+          9,
           0,
           [],
           -1
         ]
       },
       [],
-      "Continuing beginning or intensive language instruction in a selected less commonly taught language. May be repeated with approval. Prerequisite: Consent of instructor.",
+      "Advanced seminars on current topics of interest in physiology.",
       []
     ],
-    "LCTL 301": [
-      "Advanced Course in a Less Commonly Taught Language I",
+    "MIP 599": [
+      "Thesis Research",
       {
-        "BT": [
-          "75211",
+        "ALD": [
+          "25546",
           [
             [
-              0,
-              "TR",
+              12,
+              "",
               "ONLINE",
               7,
               [
-                "Blazek, K"
+                "Devries, A"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          5,
-          3,
+          16,
+          4,
           0,
           [],
           -1
         ],
-        "BTA": [
-          "75500",
+        "BDA": [
+          "25520",
           [
             [
-              129,
-              "TR",
+              12,
+              "",
               "ONLINE",
               7,
               [
-                "Blazek, K"
+                "Auerbach, B"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          5,
-          3,
+          16,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "BSK": [
+          "25516",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Katzenellenbogen, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "BWK": [
+          "25532",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Kemper, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "CCH": [
+          "66025",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Christian-Hinman, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "CFG": [
+          "25513",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Grosman, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "DAL": [
+          "52230",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Llano, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "ECB": [
+          "54247",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Bolton, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "EJR": [
+          "25527",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Roy, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "EN": [
+          "66028",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Nelson, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "FD": [
+          "25534",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Delcomyn, F"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "HJC": [
+          "54246",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Chung, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "JKK": [
+          "49575",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Kemper, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "JMB": [
+          "25537",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Bahr, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "JRC": [
+          "25533",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Climer, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "JVS": [
+          "52037",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Sweedler, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "LTR": [
+          "25524",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Raetzman, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "MB": [
+          "25542",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Bagchi, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "MN": [
+          "25545",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Nelson, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "MUG": [
+          "25543",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Gillette, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "NPT": [
+          "66027",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Tsai, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "ODS": [
+          "25538",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Sherwood, O"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "PPP": [
+          "25541",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Perez Pinera, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "PSW": [
+          "25517",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Sweeney, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "RG": [
+          "25530",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Gillette, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "SA": [
+          "25521",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Anakk, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "TJA": [
+          "25510",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Anastasio, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "TMF": [
+          "25525",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Fan, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
           0,
           [],
           -1
         ]
       },
       [],
-      "Advanced or intensive language instruction in a selected less commonly taught language. May be repeated with approval. Prerequisite: Consent of instructor.",
+      "Research may be conducted under supervision of the thesis advisor in the following areas: (a) cellular and molecular physiology; (b) comparative physiology; (c) mammalian physiology; (d) human physiology; (e) endocrinology; (f) neurophysiology; (g) radiobiology; and (h) environmental and stress physiology.",
       []
     ],
-    "LCTL 302": [
-      "Advanced Course in a Less Commonly Taught Language II",
+    "MIP 590": [
+      "Individual Topics",
       {
-        "BTI": [
-          "77387",
+        "": [
+          "10166",
           [
             [
-              237,
-              "TR",
+              12,
+              "",
               "ONLINE",
               7,
               [
-                "Blazek, K"
+                "Staff"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          5,
-          3,
-          0,
-          [],
-          -1
-        ],
-        "WLF": [
-          "76101",
-          [
-            [
-              44,
-              "TR",
-              "1110 Literatures, Cultures, & Ling",
-              3,
-              [
-                "Toure, V"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
-          0,
+          16,
+          4,
           0,
           [],
           -1
         ]
       },
       [],
-      "Advanced or intensive language instruction in a selected less commonly taught language. May be repeated with approval. Prerequisite: Consent of instructor.",
-      []
-    ],
-    "LCTL 202": [
-      "Intermediate Course in a Less Commonly Taught Language II",
-      {
-        "BT1": [
-          "73771",
-          [
-            [
-              22,
-              "MW",
-              "ONLINE",
-              7,
-              [
-                "Blazek, K"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
-          3,
-          0,
-          [],
-          -1
-        ],
-        "BTA": [
-          "75349",
-          [
-            [
-              22,
-              "MW",
-              "ONLINE",
-              7,
-              [
-                "Blazek, K"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
-          3,
-          0,
-          [],
-          -1
-        ],
-        "BTT": [
-          "76258",
-          [
-            [
-              238,
-              "MTWR",
-              "ONLINE",
-              7,
-              [
-                "Blazek, K"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
-          3,
-          0,
-          [],
-          -1
-        ],
-        "BTU": [
-          "76254",
-          [
-            [
-              43,
-              "MWF",
-              "1018 Literatures, Cultures, & Ling",
-              3,
-              [
-                "Cooper, D",
-                "Dimitrova, I"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Intermediate or intensive language instruction in a selected less commonly taught language. May be repeated with approval. Prerequisite: Consent of instructor.",
+      "For graduate students wishing to study individual problems or topics not assigned in other courses.",
       []
     ]
   },
@@ -476,7 +928,18 @@
       "1030 - 1159",
       "1700 - 1910",
       "1010 - 1125",
-      "0900 - 1000"
+      "0900 - 1000",
+      "0800 - 1030",
+      "1830 - 2030",
+      "1200 - 1330",
+      "1800 - 1930",
+      "1320 - 1450",
+      "1400 - 1750",
+      "0900 - 1250",
+      "1000 - 1350",
+      "1330 - 1500",
+      "0600 - 0720",
+      "0800 - 0930"
     ],
     "dateRanges": [],
     "scheduleTypes": [

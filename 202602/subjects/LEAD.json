@@ -1,29 +1,220 @@
 {
-  "subject": "LCTL",
-  "scrapedAt": 1768543808802,
-  "courseCount": 4,
+  "subject": "LEAD",
+  "scrapedAt": 1768543809532,
+  "courseCount": 8,
   "courses": {
-    "LCTL 102": [
-      "Elementary Course in a Less Commonly Taught Language II",
+    "LEAD 470": [
+      "Leading Professional Organizations and Communities",
       {
-        "BUL": [
-          "75210",
+        "A": [
+          "70630",
           [
             [
+              12,
+              "",
+              "ONLINE",
               7,
-              "MTWR",
-              "327 Gregory Hall",
-              1,
               [
-                "Cooper, D",
-                "Dimitrova, I"
+                "Brockett, J"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          5,
+          2,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Students will develop their capacity for leadership in their current and future professional positions in business and academic research teams, as well as within their broader community. This course's activities are designed to help students understand organizational structures, effective organizations, leading other people, and application of systems thinking beyond formal organizations to communities and society.",
+      []
+    ],
+    "LEAD 260": [
+      "Foundations of Leadership",
+      {
+        "ADA": [
+          "70598",
+          [
+            [
+              5,
+              "R",
+              "103 Bevier Hall",
+              22,
+              [
+                "Smist, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADB": [
+          "70599",
+          [
+            [
+              8,
+              "W",
+              "103 Bevier Hall",
+              22,
+              [
+                "Smist, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADC": [
+          "70600",
+          [
+            [
+              8,
+              "R",
+              "103 Bevier Hall",
+              22,
+              [
+                "Smist, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "ADD": [
+          "70601",
+          [
+            [
+              5,
+              "W",
+              "103 Bevier Hall",
+              22,
+              [
+                "Smist, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "AL1": [
+          "70593",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Smist, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "H": [
+          "70604",
+          [
+            [
+              11,
+              "TR",
+              "Location Pending",
+              7,
+              [
+                "Smist, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "ONL": [
+          "74725",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Smist, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Study of leadership theories and their application to the development of leadership skills. Students develop a personal philosophy of leadership, prepare a development plan for enhancing leadership skills, and begin a portfolio to record their leadership growth. Explores topics concerning diversity, ethics, and leadership/follower roles.",
+      []
+    ],
+    "LEAD 427": [
+      "Human-centered Organizational Leadership and Management",
+      {
+        "A": [
+          "75831",
+          [
+            [
+              7,
+              "MW",
+              "103 Bevier Hall",
+              22,
+              [
+                "Rosch, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
           0,
           0,
           [],
@@ -31,208 +222,227 @@
         ]
       },
       [],
-      "Continuing beginning or intensive language instruction in a selected less commonly taught language. May be repeated with approval. Prerequisite: Consent of instructor.",
+      "Many leadership courses focus on the direct human inter-relationships that exist within teams. Instead, this course applies philosophies embedded within contemporary leadership theory to the management of the organizations in complex professional and community settings, also drawing from management concepts and the field of human resource development.",
       []
     ],
-    "LCTL 301": [
-      "Advanced Course in a Less Commonly Taught Language I",
+    "LEAD 460": [
+      "Critical Approaches to Leadership Practice",
       {
-        "BT": [
-          "75211",
+        "A": [
+          "72271",
+          [
+            [
+              11,
+              "TR",
+              "166 Bevier Hall",
+              22,
+              [
+                "Botkin, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "This advanced undergraduate and graduate course reviews the significant leadership theories and models covered in earlier courses and applies critical social theory to deconstruct common concepts of effective leaders and leadership, as well as how these concepts might be more productively reconstructed. Students will gain a deeper appreciation and understanding of the challenges and rewards of leadership in contemporary society.",
+      []
+    ],
+    "LEAD 321": [
+      "Training and Development",
+      {
+        "ADA": [
+          "77160",
           [
             [
               0,
-              "TR",
-              "ONLINE",
-              7,
+              "R",
+              "108 David Kinley Hall",
+              14,
               [
-                "Blazek, K"
+                "Brockett, J",
+                "Leman, A"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          5,
           3,
+          1,
           0,
           [],
           -1
         ],
-        "BTA": [
-          "75500",
+        "ADB": [
+          "77201",
           [
             [
-              129,
-              "TR",
-              "ONLINE",
-              7,
+              2,
+              "R",
+              "108 David Kinley Hall",
+              14,
               [
-                "Blazek, K"
+                "Brockett, J",
+                "Leman, A"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          5,
           3,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "SP": [
+          "72269",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Brockett, J",
+                "Leman, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          7,
           0,
           [],
           -1
         ]
       },
       [],
-      "Advanced or intensive language instruction in a selected less commonly taught language. May be repeated with approval. Prerequisite: Consent of instructor.",
+      "Students will learn to assess, design, develop, implement, and evaluate a training program in agricultural and non-agricultural industries. Topics will emphasize the theory of training and development, methods of assessing training needs and learning styles, design of effective training, presentation skills, and program evaluation. Different types of training programs will be examined, including orientation, skills training, team building, management development, and diversity training. Students will create and present a training program for an actual client utilizing the training design process.",
       []
     ],
-    "LCTL 302": [
-      "Advanced Course in a Less Commonly Taught Language II",
+    "LEAD 425": [
+      "Leading Teams",
       {
-        "BTI": [
-          "77387",
+        "A": [
+          "75856",
           [
             [
-              237,
-              "TR",
+              12,
+              "",
               "ONLINE",
               7,
               [
-                "Blazek, K"
+                "Brockett, J"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          5,
           3,
-          0,
-          [],
-          -1
-        ],
-        "WLF": [
-          "76101",
-          [
-            [
-              44,
-              "TR",
-              "1110 Literatures, Cultures, & Ling",
-              3,
-              [
-                "Toure, V"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
-          0,
+          3,
           0,
           [],
           -1
         ]
       },
       [],
-      "Advanced or intensive language instruction in a selected less commonly taught language. May be repeated with approval. Prerequisite: Consent of instructor.",
+      "This course provides a strong foundation to build the knowledge, attitudes, and behaviors necessary to provide leadership to professional and community work teams. Concepts include the theory and practice of team leadership including group dynamics, group process and development, problem-identification and goal-setting, conflict management and resolution, supervision, and leading diverse teams and in times of change and disruption.",
       []
     ],
-    "LCTL 202": [
-      "Intermediate Course in a Less Commonly Taught Language II",
+    "LEAD 116": [
+      "Honors Uncommon Reads",
       {
-        "BT1": [
-          "73771",
+        "A": [
+          "75850",
           [
             [
-              22,
-              "MW",
-              "ONLINE",
-              7,
-              [
-                "Blazek, K"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
-          3,
-          0,
-          [],
-          -1
-        ],
-        "BTA": [
-          "75349",
-          [
-            [
-              22,
-              "MW",
-              "ONLINE",
-              7,
-              [
-                "Blazek, K"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
-          3,
-          0,
-          [],
-          -1
-        ],
-        "BTT": [
-          "76258",
-          [
-            [
-              238,
-              "MTWR",
-              "ONLINE",
-              7,
-              [
-                "Blazek, K"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
-          3,
-          0,
-          [],
-          -1
-        ],
-        "BTU": [
-          "76254",
-          [
-            [
-              43,
-              "MWF",
-              "1018 Literatures, Cultures, & Ling",
               3,
+              "R",
+              "89 Illinois Street Residence Lng",
+              7,
               [
-                "Cooper, D",
-                "Dimitrova, I"
+                "Carter, A"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          5,
+          1,
+          1,
           0,
+          [],
+          -1
+        ],
+        "C": [
+          "75852",
+          [
+            [
+              23,
+              "W",
+              "89 Illinois Street Residence Lng",
+              7,
+              [
+                "Fitzjarrald, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          1,
+          1,
           0,
           [],
           -1
         ]
       },
       [],
-      "Intermediate or intensive language instruction in a selected less commonly taught language. May be repeated with approval. Prerequisite: Consent of instructor.",
+      "Fosters student inquiry, civic engagement, and leadership through an interdisciplinary exploration of current issues in society. Students will acquire knowledge of current issues, identify connections to their academic major, and increase their motivation to challenge the society in which they live.",
+      []
+    ],
+    "LEAD 140": [
+      "Harnessing Your Interpersonal Intelligence",
+      {
+        "C": [
+          "70628",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Brockett, J",
+                "Smist, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          2,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Students will expand their capacity for communication, collaboration and team leadership to navigate the complexities of the university and beyond. In this course, students will learn communication strategies to work with others and practice self-awareness, self-management, and interpersonal communication skills in a supportive setting to reach their personal potential as emerging leaders.",
       []
     ]
   },

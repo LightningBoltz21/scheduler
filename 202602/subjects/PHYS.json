@@ -1,241 +1,8 @@
 {
-  "subject": "LCTL",
-  "scrapedAt": 1768543808802,
-  "courseCount": 4,
-  "courses": {
-    "LCTL 102": [
-      "Elementary Course in a Less Commonly Taught Language II",
-      {
-        "BUL": [
-          "75210",
-          [
-            [
-              7,
-              "MTWR",
-              "327 Gregory Hall",
-              1,
-              [
-                "Cooper, D",
-                "Dimitrova, I"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Continuing beginning or intensive language instruction in a selected less commonly taught language. May be repeated with approval. Prerequisite: Consent of instructor.",
-      []
-    ],
-    "LCTL 301": [
-      "Advanced Course in a Less Commonly Taught Language I",
-      {
-        "BT": [
-          "75211",
-          [
-            [
-              0,
-              "TR",
-              "ONLINE",
-              7,
-              [
-                "Blazek, K"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
-          3,
-          0,
-          [],
-          -1
-        ],
-        "BTA": [
-          "75500",
-          [
-            [
-              129,
-              "TR",
-              "ONLINE",
-              7,
-              [
-                "Blazek, K"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
-          3,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Advanced or intensive language instruction in a selected less commonly taught language. May be repeated with approval. Prerequisite: Consent of instructor.",
-      []
-    ],
-    "LCTL 302": [
-      "Advanced Course in a Less Commonly Taught Language II",
-      {
-        "BTI": [
-          "77387",
-          [
-            [
-              237,
-              "TR",
-              "ONLINE",
-              7,
-              [
-                "Blazek, K"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
-          3,
-          0,
-          [],
-          -1
-        ],
-        "WLF": [
-          "76101",
-          [
-            [
-              44,
-              "TR",
-              "1110 Literatures, Cultures, & Ling",
-              3,
-              [
-                "Toure, V"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Advanced or intensive language instruction in a selected less commonly taught language. May be repeated with approval. Prerequisite: Consent of instructor.",
-      []
-    ],
-    "LCTL 202": [
-      "Intermediate Course in a Less Commonly Taught Language II",
-      {
-        "BT1": [
-          "73771",
-          [
-            [
-              22,
-              "MW",
-              "ONLINE",
-              7,
-              [
-                "Blazek, K"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
-          3,
-          0,
-          [],
-          -1
-        ],
-        "BTA": [
-          "75349",
-          [
-            [
-              22,
-              "MW",
-              "ONLINE",
-              7,
-              [
-                "Blazek, K"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
-          3,
-          0,
-          [],
-          -1
-        ],
-        "BTT": [
-          "76258",
-          [
-            [
-              238,
-              "MTWR",
-              "ONLINE",
-              7,
-              [
-                "Blazek, K"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
-          3,
-          0,
-          [],
-          -1
-        ],
-        "BTU": [
-          "76254",
-          [
-            [
-              43,
-              "MWF",
-              "1018 Literatures, Cultures, & Ling",
-              3,
-              [
-                "Cooper, D",
-                "Dimitrova, I"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Intermediate or intensive language instruction in a selected less commonly taught language. May be repeated with approval. Prerequisite: Consent of instructor.",
-      []
-    ]
-  },
+  "subject": "PHYS",
+  "scrapedAt": 1768543867045,
+  "courseCount": 0,
+  "courses": {},
   "caches": {
     "periods": [
       "1100 - 1220",
@@ -476,7 +243,37 @@
       "1030 - 1159",
       "1700 - 1910",
       "1010 - 1125",
-      "0900 - 1000"
+      "0900 - 1000",
+      "0800 - 1030",
+      "1830 - 2030",
+      "1200 - 1330",
+      "1800 - 1930",
+      "1320 - 1450",
+      "1400 - 1750",
+      "0900 - 1250",
+      "1000 - 1350",
+      "1330 - 1500",
+      "0600 - 0720",
+      "0800 - 0930",
+      "1830 - 2050",
+      "1730 - 1820",
+      "1100 - 1300",
+      "0930 - 1100",
+      "1400 - 1530",
+      "1500 - 1630",
+      "1930 - 2130",
+      "1000 - 1300",
+      "1900 - 2150",
+      "1200 - 1300",
+      "1700 - 2050",
+      "1800 - 1900",
+      "0900 - 1300",
+      "1900 - 2100",
+      "0600 - 0750",
+      "1200 - 1315",
+      "1400 - 1600",
+      "1430 - 1530",
+      "1100 - 1200"
     ],
     "dateRanges": [],
     "scheduleTypes": [
@@ -499,7 +296,8 @@
       "Studio",
       "Online Lab",
       "Practice",
-      "Quiz"
+      "Quiz",
+      "Packaged Section"
     ],
     "campuses": [],
     "attributes": [],
@@ -713,6 +511,10 @@
       {
         "lat": 40.10099,
         "long": -88.23159
+      },
+      {
+        "lat": 40.1116416,
+        "long": -88.2248868
       }
     ],
     "finalDates": [],

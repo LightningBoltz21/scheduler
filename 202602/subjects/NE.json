@@ -1,238 +1,88 @@
 {
-  "subject": "LCTL",
-  "scrapedAt": 1768543808802,
-  "courseCount": 4,
+  "subject": "NE",
+  "scrapedAt": 1768543852745,
+  "courseCount": 2,
   "courses": {
-    "LCTL 102": [
-      "Elementary Course in a Less Commonly Taught Language II",
+    "NE 412": [
+      "Neural Data Analysis",
       {
-        "BUL": [
-          "75210",
+        "NDA": [
+          "77708",
           [
             [
-              7,
-              "MTWR",
-              "327 Gregory Hall",
-              1,
+              2,
+              "TR",
+              "1047 Sidney Lu Mech Engr Bldg",
+              29,
               [
-                "Cooper, D",
-                "Dimitrova, I"
+                "Yang, Y"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          5,
-          0,
+          3,
+          2,
           0,
           [],
           -1
         ]
       },
       [],
-      "Continuing beginning or intensive language instruction in a selected less commonly taught language. May be repeated with approval. Prerequisite: Consent of instructor.",
+      "Modern technologies for recording brain activity hold the potential to enable a range of applications in neurology, neurobiology, and neuroscience in general. However, those recording technologies generate data at such scale and complexity that rigorous data analysis approaches for automatic information retrieval are required to fully leverage their potential. This course will introduce students to multiple neural data modalities (e.g., EEG and fMRI) and illustrate through examples, how modern data analysis techniques such as machine learning can be used to automatically extract meaningful information from those data. We will cover basics of neural data acquisition, preprocessing methods, data representation, dimensionality reduction, clustering, supervised learning, unsupervised learning, and some select advanced analytic concepts. This course will put equal emphasis on the understanding of analytical methods as well as practical hands-on experience, and equip the students with the essential skills to analyze neural data using advanced data analysis techniques such as machine learning. This course is designed for junior/senior undergraduate students with no or very limited prior experience in data science. Although prior exposure to the Python programming language is preferred, it is not required.",
       []
     ],
-    "LCTL 301": [
-      "Advanced Course in a Less Commonly Taught Language I",
+    "NE 422": [
+      "Introduction to Neuroimaging",
       {
-        "BT": [
-          "75211",
+        "IN1": [
+          "76523",
           [
             [
               0,
               "TR",
-              "ONLINE",
-              7,
+              "3117 Everitt Laboratory",
+              31,
               [
-                "Blazek, K"
+                "Monroy, G"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          5,
-          3,
+          4,
+          2,
           0,
           [],
           -1
         ],
-        "BTA": [
-          "75500",
+        "IN2": [
+          "76524",
           [
             [
-              129,
+              0,
               "TR",
-              "ONLINE",
-              7,
+              "3117 Everitt Laboratory",
+              31,
               [
-                "Blazek, K"
+                "Monroy, G"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          5,
-          3,
+          4,
+          2,
           0,
           [],
           -1
         ]
       },
       [],
-      "Advanced or intensive language instruction in a selected less commonly taught language. May be repeated with approval. Prerequisite: Consent of instructor.",
-      []
-    ],
-    "LCTL 302": [
-      "Advanced Course in a Less Commonly Taught Language II",
-      {
-        "BTI": [
-          "77387",
-          [
-            [
-              237,
-              "TR",
-              "ONLINE",
-              7,
-              [
-                "Blazek, K"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
-          3,
-          0,
-          [],
-          -1
-        ],
-        "WLF": [
-          "76101",
-          [
-            [
-              44,
-              "TR",
-              "1110 Literatures, Cultures, & Ling",
-              3,
-              [
-                "Toure, V"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Advanced or intensive language instruction in a selected less commonly taught language. May be repeated with approval. Prerequisite: Consent of instructor.",
-      []
-    ],
-    "LCTL 202": [
-      "Intermediate Course in a Less Commonly Taught Language II",
-      {
-        "BT1": [
-          "73771",
-          [
-            [
-              22,
-              "MW",
-              "ONLINE",
-              7,
-              [
-                "Blazek, K"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
-          3,
-          0,
-          [],
-          -1
-        ],
-        "BTA": [
-          "75349",
-          [
-            [
-              22,
-              "MW",
-              "ONLINE",
-              7,
-              [
-                "Blazek, K"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
-          3,
-          0,
-          [],
-          -1
-        ],
-        "BTT": [
-          "76258",
-          [
-            [
-              238,
-              "MTWR",
-              "ONLINE",
-              7,
-              [
-                "Blazek, K"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
-          3,
-          0,
-          [],
-          -1
-        ],
-        "BTU": [
-          "76254",
-          [
-            [
-              43,
-              "MWF",
-              "1018 Literatures, Cultures, & Ling",
-              3,
-              [
-                "Cooper, D",
-                "Dimitrova, I"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Intermediate or intensive language instruction in a selected less commonly taught language. May be repeated with approval. Prerequisite: Consent of instructor.",
+      "Basic physics and physiology associated with imaging approaches that are unlocking the secrets of organization and function in both health and disease in the human brain at both the microscale and the macroscale. From cellular structure to metabolic signals to electrical signaling, this course will cover fundamental neuroimaging techniques and provide access to representative data sets to help the student understand the types of neuroscience questions that can be answered by the technologies. From the microscale, including multiphoton microscopy, neural circuit reconstruction, and brain clearing techniques to macroscale electrophysiology, hemodynamics, and molecular imaging approaches. Students will process data from these modalities using MATLAB or other specialized analysis software.",
       []
     ]
   },
@@ -476,7 +326,27 @@
       "1030 - 1159",
       "1700 - 1910",
       "1010 - 1125",
-      "0900 - 1000"
+      "0900 - 1000",
+      "0800 - 1030",
+      "1830 - 2030",
+      "1200 - 1330",
+      "1800 - 1930",
+      "1320 - 1450",
+      "1400 - 1750",
+      "0900 - 1250",
+      "1000 - 1350",
+      "1330 - 1500",
+      "0600 - 0720",
+      "0800 - 0930",
+      "1830 - 2050",
+      "1730 - 1820",
+      "1100 - 1300",
+      "0930 - 1100",
+      "1400 - 1530",
+      "1500 - 1630",
+      "1930 - 2130",
+      "1000 - 1300",
+      "1900 - 2150"
     ],
     "dateRanges": [],
     "scheduleTypes": [
@@ -499,7 +369,8 @@
       "Studio",
       "Online Lab",
       "Practice",
-      "Quiz"
+      "Quiz",
+      "Packaged Section"
     ],
     "campuses": [],
     "attributes": [],
@@ -713,6 +584,10 @@
       {
         "lat": 40.10099,
         "long": -88.23159
+      },
+      {
+        "lat": 40.1116416,
+        "long": -88.2248868
       }
     ],
     "finalDates": [],
