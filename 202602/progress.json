@@ -4,7 +4,7 @@
   "year": "2026",
   "term": "spring",
   "startedAt": 1768543383605,
-  "lastUpdated": 1768543696932,
+  "lastUpdated": 1768543786678,
   "totalSubjects": 187,
   "totalCourses": 4512,
   "subjects": [
@@ -18709,19 +18709,49 @@
     "FSHN",
     "GC",
     "GEOL",
-    "GER"
+    "GER",
+    "GGIS",
+    "GLBL",
+    "GMC",
+    "GRK",
+    "GRKM",
+    "GSD",
+    "GWS",
+    "HBSE",
+    "HDFS",
+    "HEBR",
+    "HIST",
+    "HK",
+    "HNDI",
+    "HORT",
+    "HT",
+    "HUM",
+    "IB",
+    "IE",
+    "INFO",
+    "IS",
+    "ITAL",
+    "JAPN",
+    "JOUR",
+    "JS",
+    "KOR",
+    "LA",
+    "LAS",
+    "LAST",
+    "LAT",
+    "LAW"
   ],
   "partialSubjects": {
-    "GGIS": {
-      "completed": 10,
-      "total": 39,
+    "LCTL": {
+      "completed": 2,
+      "total": 4,
       "lastCourse": "ABORTED"
     }
   },
   "failedSubjects": [],
   "stats": {
-    "successfulCourses": 2140,
-    "failedCourses": 3,
+    "successfulCourses": 2865,
+    "failedCourses": 4,
     "rateLimitCount": 0
   }
 }
