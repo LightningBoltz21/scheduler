@@ -1,543 +1,754 @@
 {
-  "subject": "ARTH",
-  "scrapedAt": 1768543551333,
+  "subject": "CSE",
+  "scrapedAt": 1768543615995,
   "courseCount": 21,
   "courses": {
-    "ARTH 110": [
-      "Introduction to the History of Art and Visual Culture",
+    "CSE 428": [
+      "Statistical Computing",
       {
-        "AD1": [
-          "68862",
-          [
-            [
-              4,
-              "F",
-              "131 Flagg Hall",
-              7,
-              [
-                "Staff"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "AD2": [
-          "68863",
-          [
-            [
-              5,
-              "F",
-              "131 Flagg Hall",
-              7,
-              [
-                "Staff"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "AD3": [
-          "68864",
-          [
-            [
-              6,
-              "F",
-              "131 Flagg Hall",
-              7,
-              [
-                "Staff"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "AD4": [
-          "68866",
-          [
-            [
-              7,
-              "F",
-              "131 Flagg Hall",
-              7,
-              [
-                "Staff"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "AD5": [
-          "68867",
-          [
-            [
-              49,
-              "T",
-              "131 Flagg Hall",
-              7,
-              [
-                "Staff"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "AD6": [
-          "68868",
-          [
-            [
-              49,
-              "R",
-              "131 Flagg Hall",
-              7,
-              [
-                "Staff"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "AL1": [
-          "68861",
-          [
-            [
-              6,
-              "MW",
-              "120 Architecture Building",
-              25,
-              [
-                "O'Brien, D"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          2,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "This course introduces participants to foundational questions that shape the disciplines of art history and visual studies. It is not a comprehensive survey. Rather, it provides students critical frames for examining the visual world from various temporal, geographic, and methodological perspectives. Students will investigate the history, interpretation, and criticism of selected cultural objects, images, places, and spaces across time and around the globe.",
-      []
-    ],
-    "ARTH 415": [
-      "The Archaeology of Greece",
-      {
-        "A": [
-          "40092",
-          [
-            [
-              0,
-              "TR",
-              "1060 Wymer Hall",
-              7,
-              [
-                "Bevis, B"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Same as CLCV 443. See CLCV 443.",
-      []
-    ],
-    "ARTH 220": [
-      "African Arts and Architecture",
-      {
-        "1": [
-          "76182",
-          [
-            [
-              13,
-              "MW",
-              "312 Art and Design Building",
-              7,
-              [
-                "von Hesse, H"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Africa’s arts and architectural forms are as diverse and dynamic as its peoples. In chronological and thematic order, this course examines the emergence of some of Africa’s earliest rock arts, architectural forms, textiles/cloths, and more recent artistic expressions. We focus on internal and external influences such as long-distance trade, ancient Christianity, Islam, and European colonialism shaped local aesthetic innovations and the built environment. We also highlight Africa’s influences on global modernist artistic and cultural expressions.",
-      []
-    ],
-    "ARTH 343": [
-      "Arts of Modern Latin America",
-      {
-        "1": [
-          "70325",
-          [
-            [
-              0,
-              "TR",
-              "316 Art and Design Building",
-              7,
-              [
-                "Vazquez, O"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          2,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "This course is an introduction to the major visual materials, monuments, and critical debates of the arts of Latin America, from the 19th to the early 20th century. It studies a wide range of artistic media, including drawings, paintings, popular prints, performance, photography, film, murals, architecture, and urban planning, especially as they pertain to definitions of \"Latin America\". The course pays particular attention to constructions of race and gender in representing the modern nation.",
-      []
-    ],
-    "ARTH 219": [
-      "Islamic Gardens & Architecture",
-      {
-        "A1": [
-          "73058",
-          [
-            [
-              3,
-              "F",
-              "18 Temple Hoyne Buell Hall",
-              41,
-              [
-                "Staff"
-              ],
-              -1,
-              -1,
-              -1
-            ],
-            [
-              12,
-              "F",
-              "ONLINE",
-              7,
-              [
-                "Staff"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "B1": [
-          "73061",
-          [
-            [
-              4,
-              "F",
-              "18 Temple Hoyne Buell Hall",
-              41,
-              [
-                "Staff"
-              ],
-              -1,
-              -1,
-              -1
-            ],
-            [
-              12,
-              "F",
-              "ONLINE",
-              7,
-              [
-                "Staff"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "C1": [
-          "73064",
-          [
-            [
-              5,
-              "F",
-              "18 Temple Hoyne Buell Hall",
-              41,
-              [
-                "Staff"
-              ],
-              -1,
-              -1,
-              -1
-            ],
-            [
-              12,
-              "F",
-              "ONLINE",
-              7,
-              [
-                "Staff"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "D1": [
-          "73067",
-          [
-            [
-              6,
-              "F",
-              "18 Temple Hoyne Buell Hall",
-              41,
-              [
-                "Staff"
-              ],
-              -1,
-              -1,
-              -1
-            ],
-            [
-              12,
-              "F",
-              "ONLINE",
-              7,
-              [
-                "Staff"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "DFR": [
-          "73054",
-          [
-            [
-              12,
-              "",
-              "ONLINE",
-              7,
-              [
-                "Ruggles, D"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          7,
-          0,
-          [],
-          -1
-        ],
-        "E1": [
-          "74902",
-          [
-            [
-              7,
-              "F",
-              "18 Temple Hoyne Buell Hall",
-              41,
-              [
-                "Ruggles, D"
-              ],
-              -1,
-              -1,
-              -1
-            ],
-            [
-              12,
-              "F",
-              "ONLINE",
-              7,
-              [
-                "Ruggles, D"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Same as ARCH 222 and LA 222. See LA 222.",
-      []
-    ],
-    "ARTH 391": [
-      "Individual Art History Topics",
-      {
-        "": [
-          "10382",
-          [
-            [
-              12,
-              "",
-              "ONLINE",
-              7,
-              [
-                "Staff"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          4,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Directed independent research.",
-      []
-    ],
-    "ARTH 250": [
-      "American Art",
-      {
-        "JC": [
-          "52424",
+        "1GR": [
+          "63948",
           [
             [
               2,
               "TR",
-              "316 Art and Design Building",
-              7,
+              "151 Loomis Laboratory",
+              34,
               [
-                "Albuquerque Araujo, I",
-                "Chuong, J"
+                "Wang, S"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          3,
-          2,
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "1UG": [
+          "63949",
+          [
+            [
+              2,
+              "TR",
+              "151 Loomis Laboratory",
+              34,
+              [
+                "Wang, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
           0,
           [],
           -1
         ]
       },
       [],
-      "Surveys American art and architecture from the colonial period to the present.",
+      "Same as STAT 428. See STAT 428.",
       []
     ],
-    "ARTH 211": [
-      "Design History Survey",
+    "CSE 408": [
+      "Applied Parallel Programming",
       {
-        "A": [
-          "63628",
+        "AB": [
+          "67939",
           [
             [
-              17,
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          6,
+          0,
+          [],
+          -1
+        ],
+        "AL": [
+          "67940",
+          [
+            [
+              2,
+              "TR",
+              "1002 Electrical & Computer Eng Bldg",
+              35,
+              [
+                "Kindratenko, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "CSP": [
+          "77525",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Kindratenko, V"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              2,
+              "TR",
+              "ONLINE",
+              7,
+              [
+                "Kindratenko, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          17,
+          0,
+          [],
+          -1
+        ],
+        "MCS": [
+          "77531",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Kindratenko, V"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              2,
+              "TR",
+              "ONLINE",
+              7,
+              [
+                "Kindratenko, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          17,
+          0,
+          [],
+          -1
+        ],
+        "OLB": [
+          "68237",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Kindratenko, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          17,
+          0,
+          [],
+          -1
+        ],
+        "OLC": [
+          "68238",
+          [
+            [
+              2,
+              "TR",
+              "ONLINE",
+              7,
+              [
+                "Kindratenko, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          7,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as CS 483 and ECE 408. See ECE 408.",
+      []
+    ],
+    "CSE 440": [
+      "Statistical Data Management",
+      {
+        "1GR": [
+          "63957",
+          [
+            [
+              43,
+              "MWF",
+              "32 Psychology Building",
+              2,
+              [
+                "Kinson, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "1UG": [
+          "63958",
+          [
+            [
+              43,
+              "MWF",
+              "32 Psychology Building",
+              2,
+              [
+                "Kinson, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "2GR": [
+          "63955",
+          [
+            [
+              23,
+              "MWF",
+              "32 Psychology Building",
+              2,
+              [
+                "Kinson, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "2UG": [
+          "63956",
+          [
+            [
+              23,
+              "MWF",
+              "32 Psychology Building",
+              2,
+              [
+                "Kinson, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as STAT 440. See STAT 440.",
+      []
+    ],
+    "CSE 426": [
+      "Software Engineering I",
+      {
+        "SE3": [
+          "78287",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Marinov, D"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Marinov, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "SE4": [
+          "74280",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Marinov, D"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Marinov, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "SEU": [
+          "74278",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Marinov, D"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Marinov, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      null,
+      []
+    ],
+    "CSE 422": [
+      "Computer System Organization",
+      {
+        "S3": [
+          "31408",
+          [
+            [
+              103,
+              "TR",
+              "1304 Siebel Center for Comp Sci",
+              28,
+              [
+                "Talati, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "S4": [
+          "31409",
+          [
+            [
+              103,
+              "TR",
+              "1304 Siebel Center for Comp Sci",
+              28,
+              [
+                "Talati, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      null,
+      []
+    ],
+    "CSE 401": [
+      "Numerical Analysis",
+      {
+        "B3": [
+          "31432",
+          [
+            [
+              104,
               "MW",
-              "134 Temple Hoyne Buell Hall",
-              41,
+              "3031 Campus Instructional Facility",
+              13,
               [
-                "Kirk, S",
-                "Lyon, A",
-                "Smith, C"
+                "Kloeckner, A"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          3,
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "B4": [
+          "31434",
+          [
+            [
+              104,
+              "MW",
+              "3031 Campus Instructional Facility",
+              13,
+              [
+                "Kloeckner, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as CS 450, ECE 491 and MATH 450. See CS 450.",
+      []
+    ],
+    "CSE 423": [
+      "Operating Systems Design",
+      {
+        "CG": [
+          "31381",
+          [
+            [
+              103,
+              "TR",
+              "1310 Digital Computer Laboratory",
+              32,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "CU": [
+          "31380",
+          [
+            [
+              103,
+              "TR",
+              "1310 Digital Computer Laboratory",
+              32,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      null,
+      []
+    ],
+    "CSE 412": [
+      "Numerical Thermo-Fluid Mechs",
+      {
+        "F2": [
+          "61262",
+          [
+            [
+              7,
+              "MWF",
+              "2055 Sidney Lu Mech Engr Bldg",
+              29,
+              [
+                "Staff"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "F3": [
+          "61337",
+          [
+            [
+              7,
+              "MWF",
+              "2055 Sidney Lu Mech Engr Bldg",
+              29,
+              [
+                "Raj, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "F4": [
+          "61340",
+          [
+            [
+              7,
+              "MWF",
+              "2055 Sidney Lu Mech Engr Bldg",
+              29,
+              [
+                "Raj, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      null,
+      []
+    ],
+    "CSE 451": [
+      "Finite Element Analysis",
+      {
+        "B3": [
+          "37474",
+          [
+            [
+              41,
+              "MW",
+              "114 Transportation Building",
+              30,
+              [
+                "Mercer, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "B4": [
+          "59678",
+          [
+            [
+              41,
+              "MW",
+              "114 Transportation Building",
+              30,
+              [
+                "Mercer, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as AE 420 and ME 471. See ME 471.",
+      []
+    ],
+    "CSE 414": [
+      "Algorithms",
+      {
+        "ALG": [
+          "58767",
+          [
+            [
+              107,
+              "WF",
+              "1310 Digital Computer Laboratory",
+              32,
+              [
+                "Forbes, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "ALU": [
+          "31560",
+          [
+            [
+              107,
+              "WF",
+              "1310 Digital Computer Laboratory",
+              32,
+              [
+                "Forbes, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
           2,
           0,
           [],
@@ -545,136 +756,238 @@
         ]
       },
       [],
-      "The historical, social and cultural context of design concentrating on manufactured products, communication, media and design from the Industrial Revolution to the present. Lectures, seminars and individual research projects.",
+      "Same as CS 473 and MATH 473. See CS 473.",
       []
     ],
-    "ARTH 230": [
-      "Italian Renaissance Art",
+    "CSE 441": [
+      "Introduction to Optimization",
+      {
+        "OP3": [
+          "33980",
+          [
+            [
+              41,
+              "MW",
+              "3015 Electrical & Computer Eng Bldg",
+              35,
+              [
+                "Bose, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "OP4": [
+          "54361",
+          [
+            [
+              41,
+              "MW",
+              "3015 Electrical & Computer Eng Bldg",
+              35,
+              [
+                "Bose, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      null,
+      []
+    ],
+    "CSE 510": [
+      "Numerical Methods for PDEs",
+      {
+        "N": [
+          "50118",
+          [
+            [
+              107,
+              "TR",
+              "1035 Campus Instructional Facility",
+              13,
+              [
+                "Fischer, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as CS 555 and MATH 552. See CS 555.",
+      []
+    ],
+    "CSE 461": [
+      "Computational Aerodynamics",
       {
         "A": [
-          "43849",
+          "29957",
           [
             [
-              26,
-              "TR",
-              "316 Art and Design Building",
-              7,
+              0,
+              "MW",
+              "403B2 Engineering Hall",
+              33,
               [
-                "Pilgrim, J",
-                "Wallman, K"
+                "Vollmer, B"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          3,
-          2,
+          4,
+          0,
           0,
           [],
           -1
-        ]
-      },
-      [],
-      "Architecture, painting, and sculpture of Italy during the Renaissance.",
-      []
-    ],
-    "ARTH 260": [
-      "Graffiti and Murals",
-      {
-        "OV": [
-          "57257",
+        ],
+        "ONL": [
+          "62529",
           [
             [
-              13,
-              "TR",
-              "316 Art and Design Building",
+              12,
+              "",
+              "ONLINE",
               7,
               [
-                "Sullivan, K",
-                "Vazquez, O"
+                "Vollmer, B"
               ],
               -1,
               -1,
               -1
             ]
           ],
+          4,
           3,
-          2,
           0,
           [],
           -1
         ]
       },
       [],
-      "From Bronx walls to the Berlin Wall, from ancient palatial decorations to spray-can art, murals and graffiti have been revolutionary political tools, objects of aesthetic contemplation, and vehicles for identity formation. Primarily a lecture course that examines ancient and early modern cases from different cultures, as well as focusing on modern examples from Latin America and the USA.",
+      null,
       []
     ],
-    "ARTH 438": [
-      "Modernity’s Mirror: Nineteenth-Century Architecture 1750-1900",
+    "CSE 448": [
+      "Advanced Data Analysis",
       {
-        "HG": [
-          "77668",
+        "1GR": [
+          "63959",
+          [
+            [
+              5,
+              "MWF",
+              "3101 Sidney Lu Mech Engr Bldg",
+              29,
+              [
+                "Bravo De Guenni, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ],
+        "1UG": [
+          "67123",
+          [
+            [
+              5,
+              "MWF",
+              "3101 Sidney Lu Mech Engr Bldg",
+              29,
+              [
+                "Bravo De Guenni, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as STAT 448. See STAT 448.",
+      []
+    ],
+    "CSE 498": [
+      "Special Topics",
+      {
+        "DM": [
+          "70543",
           [
             [
               0,
               "TR",
-              "115 David Kinley Hall",
-              14,
+              "2051 Sidney Lu Mech Engr Bldg",
+              29,
               [
-                "Grossman, H"
+                "Schleife, A"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          3,
-          2,
+          4,
+          0,
           0,
           [],
           -1
         ]
       },
       [],
-      "Same as ARCH 415. See ARCH 415.",
+      "Subject offerings of new and developing areas of knowledge in computational science and engineering intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites.",
       []
     ],
-    "ARTH 447": [
-      "France and Its Others",
+    "CSE 522": [
+      "Parallel Computer Architecture",
       {
-        "DOG": [
-          "48140",
+        "S": [
+          "57171",
           [
             [
-              22,
-              "MW",
-              "316 Art and Design Building",
-              7,
+              10,
+              "TR",
+              "1214 Siebel Center for Comp Sci",
+              28,
               [
-                "O'Brien, D"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "DOU": [
-          "48139",
-          [
-            [
-              22,
-              "MW",
-              "316 Art and Design Building",
-              7,
-              [
-                "O'Brien, D"
+                "Torrellas, J"
               ],
               -1,
               -1,
@@ -689,290 +1002,164 @@
         ]
       },
       [],
-      "Examines the relationship between art and colonialism in nineteenth-century France. Topics include orientalism, primitivism, and exoticism; the central figures include Delacroix, Flaubert, Gerome, and Gauguin.",
+      null,
       []
     ],
-    "ARTH 491": [
-      "Topics in Art History",
-      {
-        "": [
-          "10383",
-          [
-            [
-              12,
-              "",
-              "ONLINE",
-              7,
-              [
-                "Staff"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          4,
-          0,
-          [],
-          -1
-        ],
-        "VHG": [
-          "30646",
-          [
-            [
-              46,
-              "MW",
-              "316 Art and Design Building",
-              7,
-              [
-                "von Hesse, H"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "VHU": [
-          "12454",
-          [
-            [
-              46,
-              "MW",
-              "316 Art and Design Building",
-              7,
-              [
-                "von Hesse, H"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Variable content; consult the Class Schedule for current topics.",
-      []
-    ],
-    "ARTH 462": [
-      "Museum Theory and Practice",
-      {
-        "1G": [
-          "47360",
-          [
-            [
-              5,
-              "MWF",
-              "1010 Wymer Hall",
-              7,
-              [
-                "Frankenberg, S"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "1U": [
-          "47361",
-          [
-            [
-              5,
-              "MWF",
-              "1010 Wymer Hall",
-              7,
-              [
-                "Frankenberg, S"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Same as ANTH 462 and LA 472. See ANTH 462.",
-      []
-    ],
-    "ARTH 490": [
-      "Senior Art-History Honors-BFA",
-      {
-        "": [
-          "10381",
-          [
-            [
-              12,
-              "",
-              "ONLINE",
-              7,
-              [
-                "Staff"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
-          4,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Directed independent research and study for honors.",
-      []
-    ],
-    "ARTH 535": [
-      "Seminar in Baroque Art",
-      {
-        "JP": [
-          "39099",
-          [
-            [
-              92,
-              "W",
-              "340 Art and Design Building",
-              7,
-              [
-                "Pilgrim, J"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          11,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Research seminar in problems selected from the art of seventeenth-century Europe.",
-      []
-    ],
-    "ARTH 541": [
-      "Seminar in Modern Art",
-      {
-        "KR": [
-          "30659",
-          [
-            [
-              90,
-              "T",
-              "312 Art and Design Building",
-              7,
-              [
-                "Romberg, K"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          11,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Investigation of special problems in the history of twentieth-century art. Students present reports of their research.",
-      []
-    ],
-    "ARTH 495": [
-      "Undergraduate Seminar in Art History",
+    "CSE 521": [
+      "Computer Architecture",
       {
         "A": [
-          "39097",
+          "69418",
           [
             [
-              88,
-              "T",
-              "131 Flagg Hall",
-              7,
+              22,
+              "TR",
+              "3017 Electrical & Computer Eng Bldg",
+              35,
               [
-                "Chuong, J"
+                "Huang, J"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          3,
-          11,
+          4,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      null,
+      []
+    ],
+    "CSE 525": [
+      "Topics in Computational Statistics",
+      {
+        "A1": [
+          "63832",
+          [
+            [
+              6,
+              "MWF",
+              "1002 Lincoln Hall",
+              4,
+              [
+                "Zhou, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as STAT 525. See STAT 525.",
+      []
+    ],
+    "CSE 566": [
+      "Numerical Fluid Dynamics",
+      {
+        "A": [
+          "63492",
+          [
+            [
+              8,
+              "MWF",
+              "G7 Literatures, Cultures, & Ling",
+              3,
+              [
+                "Jewett, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as ATMS 502. See ATMS 502.",
+      []
+    ],
+    "CSE 551": [
+      "Finite Element Methods",
+      {
+        "D": [
+          "31750",
+          [
+            [
+              0,
+              "MW",
+              "2311 Newmark Civil Engineering Bldg",
+              45,
+              [
+                "Duarte, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          0,
           0,
           [],
           -1
         ],
-        "B": [
-          "77352",
+        "ONL": [
+          "60866",
           [
             [
-              92,
-              "W",
-              "316 Art and Design Building",
+              12,
+              "",
+              "ONLINE",
               7,
               [
-                "Smith, C"
+                "Duarte, C"
               ],
               -1,
               -1,
               -1
             ]
           ],
+          4,
           3,
-          11,
           0,
           [],
           -1
         ]
       },
       [],
-      "Seminar offering students practical experience in research methods in Art History. Focuses on a specialized theme of the professor's choice, and incorporates extensive reading in a specific field of Art History and the completion of a substantial research paper.",
+      null,
       []
     ],
-    "ARTH 515": [
-      "Seminar in Ancient Art",
+    "CSE 542": [
+      "Statistical Learning",
       {
-        "VVC": [
-          "67442",
+        "A1": [
+          "63828",
           [
             [
-              94,
-              "W",
-              "1026 Lincoln Hall",
-              4,
+              23,
+              "MWF",
+              "3025 Campus Instructional Facility",
+              13,
               [
-                "Bevis, B"
+                "Liu, J"
               ],
               -1,
               -1,
@@ -980,74 +1167,14 @@
             ]
           ],
           4,
-          11,
+          0,
           0,
           [],
           -1
         ]
       },
       [],
-      "Research seminar in subject selected from the art and architecture of the ancient period.",
-      []
-    ],
-    "ARTH 489": [
-      "Senior Art-History Honors-BA",
-      {
-        "": [
-          "10379",
-          [
-            [
-              12,
-              "",
-              "ONLINE",
-              7,
-              [
-                "Staff"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
-          4,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Independent guided research and study in a selected area of art history for candidates for the Bachelor of Arts in Art History with departmental distinction.",
-      []
-    ],
-    "ARTH 591": [
-      "Individual Readings",
-      {
-        "": [
-          "10384",
-          [
-            [
-              12,
-              "",
-              "ONLINE",
-              7,
-              [
-                "Staff"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          4,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Directed readings in special fields or aspects of history of art not provided in depth by the current course offerings.",
+      "Same as ASRM 551 and STAT 542. See STAT 542.",
       []
     ]
   },
@@ -1147,7 +1274,42 @@
       "0900 - 1140",
       "1300 - 1540",
       "1330 - 1450",
-      "1530 - 1800"
+      "1530 - 1800",
+      "1400 - 1700",
+      "1930 - 2050",
+      "1830 - 2020",
+      "0900 - 1220",
+      "1300 - 1620",
+      "1100 - 1450",
+      "1500 - 1850",
+      "1600 - 1850",
+      "1400 - 1515",
+      "1530 - 1645",
+      "1700 - 1815",
+      "1830 - 1945",
+      "1230 - 1345",
+      "1600 - 1740",
+      "1200 - 1350",
+      "1900 - 2050",
+      "1530 - 1720",
+      "1800 - 2100",
+      "0900 - 1120",
+      "1800 - 1920",
+      "1200 - 1650",
+      "1630 - 1920",
+      "1100 - 1330",
+      "0930 - 1200",
+      "1000 - 2000",
+      "1300 - 1430",
+      "1830 - 2130",
+      "1830 - 2100",
+      "1600 - 1700",
+      "1700 - 1800",
+      "1000 - 1250",
+      "1630 - 1745",
+      "1630 - 1730",
+      "1730 - 1845",
+      "1300 - 1415"
     ],
     "dateRanges": [],
     "scheduleTypes": [
@@ -1167,7 +1329,10 @@
       "Internship",
       "Research",
       "Travel",
-      "Studio"
+      "Studio",
+      "Online Lab",
+      "Practice",
+      "Quiz"
     ],
     "campuses": [],
     "attributes": [],
@@ -1341,6 +1506,26 @@
       {
         "lat": 40.1022093629303,
         "long": -88.22800864058527
+      },
+      {
+        "lat": 40.105587640130146,
+        "long": -88.22025111416733
+      },
+      {
+        "lat": 40.10593795776367,
+        "long": -88.2270736694336
+      },
+      {
+        "lat": 40.108570819242026,
+        "long": -88.22518453938676
+      },
+      {
+        "lat": 40.11397164321797,
+        "long": -88.2265192685827
+      },
+      {
+        "lat": 40.11085653938169,
+        "long": -88.22609810215927
       }
     ],
     "finalDates": [],

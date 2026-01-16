@@ -1,401 +1,13 @@
 {
-  "subject": "ARTH",
-  "scrapedAt": 1768543551333,
-  "courseCount": 21,
+  "subject": "BIOP",
+  "scrapedAt": 1768543573526,
+  "courseCount": 5,
   "courses": {
-    "ARTH 110": [
-      "Introduction to the History of Art and Visual Culture",
-      {
-        "AD1": [
-          "68862",
-          [
-            [
-              4,
-              "F",
-              "131 Flagg Hall",
-              7,
-              [
-                "Staff"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "AD2": [
-          "68863",
-          [
-            [
-              5,
-              "F",
-              "131 Flagg Hall",
-              7,
-              [
-                "Staff"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "AD3": [
-          "68864",
-          [
-            [
-              6,
-              "F",
-              "131 Flagg Hall",
-              7,
-              [
-                "Staff"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "AD4": [
-          "68866",
-          [
-            [
-              7,
-              "F",
-              "131 Flagg Hall",
-              7,
-              [
-                "Staff"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "AD5": [
-          "68867",
-          [
-            [
-              49,
-              "T",
-              "131 Flagg Hall",
-              7,
-              [
-                "Staff"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "AD6": [
-          "68868",
-          [
-            [
-              49,
-              "R",
-              "131 Flagg Hall",
-              7,
-              [
-                "Staff"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          1,
-          0,
-          [],
-          -1
-        ],
-        "AL1": [
-          "68861",
-          [
-            [
-              6,
-              "MW",
-              "120 Architecture Building",
-              25,
-              [
-                "O'Brien, D"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          2,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "This course introduces participants to foundational questions that shape the disciplines of art history and visual studies. It is not a comprehensive survey. Rather, it provides students critical frames for examining the visual world from various temporal, geographic, and methodological perspectives. Students will investigate the history, interpretation, and criticism of selected cultural objects, images, places, and spaces across time and around the globe.",
-      []
-    ],
-    "ARTH 415": [
-      "The Archaeology of Greece",
+    "BIOP 595": [
+      "Biophysics Seminars",
       {
         "A": [
-          "40092",
-          [
-            [
-              0,
-              "TR",
-              "1060 Wymer Hall",
-              7,
-              [
-                "Bevis, B"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Same as CLCV 443. See CLCV 443.",
-      []
-    ],
-    "ARTH 220": [
-      "African Arts and Architecture",
-      {
-        "1": [
-          "76182",
-          [
-            [
-              13,
-              "MW",
-              "312 Art and Design Building",
-              7,
-              [
-                "von Hesse, H"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Africa’s arts and architectural forms are as diverse and dynamic as its peoples. In chronological and thematic order, this course examines the emergence of some of Africa’s earliest rock arts, architectural forms, textiles/cloths, and more recent artistic expressions. We focus on internal and external influences such as long-distance trade, ancient Christianity, Islam, and European colonialism shaped local aesthetic innovations and the built environment. We also highlight Africa’s influences on global modernist artistic and cultural expressions.",
-      []
-    ],
-    "ARTH 343": [
-      "Arts of Modern Latin America",
-      {
-        "1": [
-          "70325",
-          [
-            [
-              0,
-              "TR",
-              "316 Art and Design Building",
-              7,
-              [
-                "Vazquez, O"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          2,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "This course is an introduction to the major visual materials, monuments, and critical debates of the arts of Latin America, from the 19th to the early 20th century. It studies a wide range of artistic media, including drawings, paintings, popular prints, performance, photography, film, murals, architecture, and urban planning, especially as they pertain to definitions of \"Latin America\". The course pays particular attention to constructions of race and gender in representing the modern nation.",
-      []
-    ],
-    "ARTH 219": [
-      "Islamic Gardens & Architecture",
-      {
-        "A1": [
-          "73058",
-          [
-            [
-              3,
-              "F",
-              "18 Temple Hoyne Buell Hall",
-              41,
-              [
-                "Staff"
-              ],
-              -1,
-              -1,
-              -1
-            ],
-            [
-              12,
-              "F",
-              "ONLINE",
-              7,
-              [
-                "Staff"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "B1": [
-          "73061",
-          [
-            [
-              4,
-              "F",
-              "18 Temple Hoyne Buell Hall",
-              41,
-              [
-                "Staff"
-              ],
-              -1,
-              -1,
-              -1
-            ],
-            [
-              12,
-              "F",
-              "ONLINE",
-              7,
-              [
-                "Staff"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "C1": [
-          "73064",
-          [
-            [
-              5,
-              "F",
-              "18 Temple Hoyne Buell Hall",
-              41,
-              [
-                "Staff"
-              ],
-              -1,
-              -1,
-              -1
-            ],
-            [
-              12,
-              "F",
-              "ONLINE",
-              7,
-              [
-                "Staff"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "D1": [
-          "73067",
-          [
-            [
-              6,
-              "F",
-              "18 Temple Hoyne Buell Hall",
-              41,
-              [
-                "Staff"
-              ],
-              -1,
-              -1,
-              -1
-            ],
-            [
-              12,
-              "F",
-              "ONLINE",
-              7,
-              [
-                "Staff"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "DFR": [
-          "73054",
+          "31837",
           [
             [
               12,
@@ -403,63 +15,851 @@
               "ONLINE",
               7,
               [
-                "Ruggles, D"
+                "Nair, S"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          3,
-          7,
-          0,
-          [],
-          -1
-        ],
-        "E1": [
-          "74902",
-          [
-            [
-              7,
-              "F",
-              "18 Temple Hoyne Buell Hall",
-              41,
-              [
-                "Ruggles, D"
-              ],
-              -1,
-              -1,
-              -1
-            ],
-            [
-              12,
-              "F",
-              "ONLINE",
-              7,
-              [
-                "Ruggles, D"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          0,
+          2,
+          9,
           0,
           [],
           -1
         ]
       },
       [],
-      "Same as ARCH 222 and LA 222. See LA 222.",
+      "Survey of literature in one area of biophysics, with special emphasis on student reports.",
       []
     ],
-    "ARTH 391": [
-      "Individual Art History Topics",
+    "BIOP 599": [
+      "Thesis Research",
+      {
+        "AB": [
+          "14376",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Belmont, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "BMS": [
+          "14359",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Stadtmueller, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "CES": [
+          "14350",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Sing, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "CFG": [
+          "14363",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Grosman, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "DEL": [
+          "14409",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Leckband, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "DS": [
+          "63394",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Shukla, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "EO": [
+          "14390",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Oldfield, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "ET": [
+          "45804",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Tajkhorshid, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "GJO": [
+          "14415",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Olsen, G"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "HJ": [
+          "59961",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Jin, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "HJK": [
+          "50072",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Kong, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "HJQ": [
+          "14357",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Qiao, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "HSH": [
+          "14385",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Han, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "HZ": [
+          "14421",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Zhao, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "IG": [
+          "48914",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Golding, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "KZ": [
+          "63397",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Zhang, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "LO": [
+          "70230",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Olshansky, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "MLK": [
+          "50075",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Kraft, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "MPB": [
+          "73966",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Backlund, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "MS": [
+          "45807",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Shen, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "NCW": [
+          "47086",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Wu, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "OA": [
+          "57190",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Aksimentiev, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "PJH": [
+          "14368",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Hergenrother, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "PS": [
+          "14356",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Selvin, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "RF": [
+          "64858",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Fratti, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "SAM": [
+          "45810",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Martinis, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "SGP": [
+          "14396",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Prasanth, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "SJK": [
+          "14402",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Kim, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "SKN": [
+          "14361",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Nair, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "SKS": [
+          "47084",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Silverman, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "SM": [
+          "67196",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Meroueh, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "SSM": [
+          "67199",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Maslov, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "TL": [
+          "64861",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Lu, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "TVP": [
+          "65318",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Pogorelov, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "YAL": [
+          "14394",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Liu, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "YRC": [
+          "47083",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Chemla, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "ZLS": [
+          "14406",
+          [
+            [
+              12,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Luthey-Schulten, Z"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Research may be conducted in any area under investigation in a faculty laboratory, subject to the approval of the faculty member concerned and the department in which the research is to be done.",
+      []
+    ],
+    "BIOP 586": [
+      "Special Topics in Biophysics",
       {
         "": [
-          "10382",
+          "10416",
           [
             [
               12,
@@ -479,202 +879,17 @@
           0,
           [],
           -1
-        ]
-      },
-      [],
-      "Directed independent research.",
-      []
-    ],
-    "ARTH 250": [
-      "American Art",
-      {
-        "JC": [
-          "52424",
-          [
-            [
-              2,
-              "TR",
-              "316 Art and Design Building",
-              7,
-              [
-                "Albuquerque Araujo, I",
-                "Chuong, J"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          2,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Surveys American art and architecture from the colonial period to the present.",
-      []
-    ],
-    "ARTH 211": [
-      "Design History Survey",
-      {
-        "A": [
-          "63628",
-          [
-            [
-              17,
-              "MW",
-              "134 Temple Hoyne Buell Hall",
-              41,
-              [
-                "Kirk, S",
-                "Lyon, A",
-                "Smith, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          2,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "The historical, social and cultural context of design concentrating on manufactured products, communication, media and design from the Industrial Revolution to the present. Lectures, seminars and individual research projects.",
-      []
-    ],
-    "ARTH 230": [
-      "Italian Renaissance Art",
-      {
-        "A": [
-          "43849",
-          [
-            [
-              26,
-              "TR",
-              "316 Art and Design Building",
-              7,
-              [
-                "Pilgrim, J",
-                "Wallman, K"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          2,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Architecture, painting, and sculpture of Italy during the Renaissance.",
-      []
-    ],
-    "ARTH 260": [
-      "Graffiti and Murals",
-      {
-        "OV": [
-          "57257",
-          [
-            [
-              13,
-              "TR",
-              "316 Art and Design Building",
-              7,
-              [
-                "Sullivan, K",
-                "Vazquez, O"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          2,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "From Bronx walls to the Berlin Wall, from ancient palatial decorations to spray-can art, murals and graffiti have been revolutionary political tools, objects of aesthetic contemplation, and vehicles for identity formation. Primarily a lecture course that examines ancient and early modern cases from different cultures, as well as focusing on modern examples from Latin America and the USA.",
-      []
-    ],
-    "ARTH 438": [
-      "Modernity’s Mirror: Nineteenth-Century Architecture 1750-1900",
-      {
-        "HG": [
-          "77668",
-          [
-            [
-              0,
-              "TR",
-              "115 David Kinley Hall",
-              14,
-              [
-                "Grossman, H"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          2,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Same as ARCH 415. See ARCH 415.",
-      []
-    ],
-    "ARTH 447": [
-      "France and Its Others",
-      {
-        "DOG": [
-          "48140",
-          [
-            [
-              22,
-              "MW",
-              "316 Art and Design Building",
-              7,
-              [
-                "O'Brien, D"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
         ],
-        "DOU": [
-          "48139",
+        "SM": [
+          "14073",
           [
             [
-              22,
-              "MW",
-              "316 Art and Design Building",
+              12,
+              "",
+              "ONLINE",
               7,
               [
-                "O'Brien, D"
+                "Meroueh, S"
               ],
               -1,
               -1,
@@ -682,21 +897,21 @@
             ]
           ],
           4,
-          0,
+          4,
           0,
           [],
           -1
         ]
       },
       [],
-      "Examines the relationship between art and colonialism in nineteenth-century France. Topics include orientalism, primitivism, and exoticism; the central figures include Delacroix, Flaubert, Gerome, and Gauguin.",
+      "Advanced course/tutorials on topics of interest in biophysics, such as electrophysiology, radiation biology, bioenergetics, protein structure, or the physics of muscular contraction.",
       []
     ],
-    "ARTH 491": [
-      "Topics in Art History",
+    "BIOP 590": [
+      "Individual Topics",
       {
         "": [
-          "10383",
+          "10417",
           [
             [
               12,
@@ -711,118 +926,14 @@
               -1
             ]
           ],
-          4,
+          10,
           4,
           0,
           [],
           -1
         ],
-        "VHG": [
-          "30646",
-          [
-            [
-              46,
-              "MW",
-              "316 Art and Design Building",
-              7,
-              [
-                "von Hesse, H"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "VHU": [
-          "12454",
-          [
-            [
-              46,
-              "MW",
-              "316 Art and Design Building",
-              7,
-              [
-                "von Hesse, H"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Variable content; consult the Class Schedule for current topics.",
-      []
-    ],
-    "ARTH 462": [
-      "Museum Theory and Practice",
-      {
-        "1G": [
-          "47360",
-          [
-            [
-              5,
-              "MWF",
-              "1010 Wymer Hall",
-              7,
-              [
-                "Frankenberg, S"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ],
-        "1U": [
-          "47361",
-          [
-            [
-              5,
-              "MWF",
-              "1010 Wymer Hall",
-              7,
-              [
-                "Frankenberg, S"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          0,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Same as ANTH 462 and LA 472. See ANTH 462.",
-      []
-    ],
-    "ARTH 490": [
-      "Senior Art-History Honors-BFA",
-      {
-        "": [
-          "10381",
+        "SM": [
+          "67195",
           [
             [
               12,
@@ -830,14 +941,14 @@
               "ONLINE",
               7,
               [
-                "Staff"
+                "Meroueh, S"
               ],
               -1,
               -1,
               -1
             ]
           ],
-          5,
+          10,
           4,
           0,
           [],
@@ -845,82 +956,22 @@
         ]
       },
       [],
-      "Directed independent research and study for honors.",
+      "For graduate students wishing to study individual problems or topics not assigned in other courses.",
       []
     ],
-    "ARTH 535": [
-      "Seminar in Baroque Art",
+    "BIOP 432": [
+      "Photosynthesis",
       {
-        "JP": [
-          "39099",
+        "100": [
+          "40422",
           [
             [
-              92,
-              "W",
-              "340 Art and Design Building",
+              44,
+              "MW",
+              "ARR Institute for Genomic Biology",
               7,
               [
-                "Pilgrim, J"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          11,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Research seminar in problems selected from the art of seventeenth-century Europe.",
-      []
-    ],
-    "ARTH 541": [
-      "Seminar in Modern Art",
-      {
-        "KR": [
-          "30659",
-          [
-            [
-              90,
-              "T",
-              "312 Art and Design Building",
-              7,
-              [
-                "Romberg, K"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          11,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Investigation of special problems in the history of twentieth-century art. Students present reports of their research.",
-      []
-    ],
-    "ARTH 495": [
-      "Undergraduate Seminar in Art History",
-      {
-        "A": [
-          "39097",
-          [
-            [
-              88,
-              "T",
-              "131 Flagg Hall",
-              7,
-              [
-                "Chuong, J"
+                "Lawson, T"
               ],
               -1,
               -1,
@@ -928,126 +979,14 @@
             ]
           ],
           3,
-          11,
-          0,
-          [],
-          -1
-        ],
-        "B": [
-          "77352",
-          [
-            [
-              92,
-              "W",
-              "316 Art and Design Building",
-              7,
-              [
-                "Smith, C"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          3,
-          11,
+          2,
           0,
           [],
           -1
         ]
       },
       [],
-      "Seminar offering students practical experience in research methods in Art History. Focuses on a specialized theme of the professor's choice, and incorporates extensive reading in a specific field of Art History and the completion of a substantial research paper.",
-      []
-    ],
-    "ARTH 515": [
-      "Seminar in Ancient Art",
-      {
-        "VVC": [
-          "67442",
-          [
-            [
-              94,
-              "W",
-              "1026 Lincoln Hall",
-              4,
-              [
-                "Bevis, B"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          11,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Research seminar in subject selected from the art and architecture of the ancient period.",
-      []
-    ],
-    "ARTH 489": [
-      "Senior Art-History Honors-BA",
-      {
-        "": [
-          "10379",
-          [
-            [
-              12,
-              "",
-              "ONLINE",
-              7,
-              [
-                "Staff"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          5,
-          4,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Independent guided research and study in a selected area of art history for candidates for the Bachelor of Arts in Art History with departmental distinction.",
-      []
-    ],
-    "ARTH 591": [
-      "Individual Readings",
-      {
-        "": [
-          "10384",
-          [
-            [
-              12,
-              "",
-              "ONLINE",
-              7,
-              [
-                "Staff"
-              ],
-              -1,
-              -1,
-              -1
-            ]
-          ],
-          4,
-          4,
-          0,
-          [],
-          -1
-        ]
-      },
-      [],
-      "Directed readings in special fields or aspects of history of art not provided in depth by the current course offerings.",
+      "Same as CPSC 489 and IB 421. See IB 421.",
       []
     ]
   },
@@ -1147,7 +1086,15 @@
       "0900 - 1140",
       "1300 - 1540",
       "1330 - 1450",
-      "1530 - 1800"
+      "1530 - 1800",
+      "1400 - 1700",
+      "1930 - 2050",
+      "1830 - 2020",
+      "0900 - 1220",
+      "1300 - 1620",
+      "1100 - 1450",
+      "1500 - 1850",
+      "1600 - 1850"
     ],
     "dateRanges": [],
     "scheduleTypes": [
@@ -1167,7 +1114,8 @@
       "Internship",
       "Research",
       "Travel",
-      "Studio"
+      "Studio",
+      "Online Lab"
     ],
     "campuses": [],
     "attributes": [],
@@ -1341,6 +1289,14 @@
       {
         "lat": 40.1022093629303,
         "long": -88.22800864058527
+      },
+      {
+        "lat": 40.105587640130146,
+        "long": -88.22025111416733
+      },
+      {
+        "lat": 40.10593795776367,
+        "long": -88.2270736694336
       }
     ],
     "finalDates": [],
