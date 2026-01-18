@@ -1,7 +1,7 @@
 {
   "subject": "CS",
-  "scrapedAt": 1768695766670,
-  "courseCount": 51,
+  "scrapedAt": 1768695789952,
+  "courseCount": 93,
   "courses": {
     "CS 102": [
       "Little Bits to Big Ideas",
@@ -7177,6 +7177,4533 @@
       [],
       "Computational foundations of modern audio applications: theory of audio processing for implementation of applications such as room and 3D/virtual audio rendering, pitch manipulations and autotuning, denoising for communications and forensics, audio classification, music information retrieval based on audio, rudimentary speech recognition, speech and audio coding, applications of machine learning to audio scene recognition, audio restoration, missing data recovery, and many more. This will be a lab-like course in which students collectively implement a variety of core audio operations that are commonplace today. Students will be required to bring to class their laptops and headphones to participate in lab exercises.",
       []
+    ],
+    "CS 450": [
+      "Numerical Analysis",
+      {
+        "B3": [
+          "31427",
+          [
+            [
+              62,
+              "MW",
+              "3031 Campus Instructional Facility",
+              6,
+              [
+                "Kloeckner, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "B4": [
+          "31430",
+          [
+            [
+              62,
+              "MW",
+              "3031 Campus Instructional Facility",
+              6,
+              [
+                "Kloeckner, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "CSP": [
+          "74375",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Kloeckner, A"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Kloeckner, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "MCS": [
+          "74379",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Kloeckner, A"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Kloeckner, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Linear system solvers, optimization techniques, interpolation and approximation of functions, solving systems of nonlinear equations, eigenvalue problems, least squares, and quadrature; numerical handling of ordinary and partial differential equations.",
+      []
+    ],
+    "CS 461": [
+      "Computer Security I",
+      {
+        "ALG": [
+          "70797",
+          [
+            [
+              68,
+              "TR",
+              "1404 Siebel Center for Comp Sci",
+              7,
+              [
+                "Xing, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "ALU": [
+          "48199",
+          [
+            [
+              68,
+              "TR",
+              "1404 Siebel Center for Comp Sci",
+              7,
+              [
+                "Xing, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AY2": [
+          "63508",
+          [
+            [
+              11,
+              "W",
+              "2406 Siebel Center for Comp Sci",
+              7,
+              [
+                "Xing, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "AY3": [
+          "63509",
+          [
+            [
+              27,
+              "W",
+              "2406 Siebel Center for Comp Sci",
+              7,
+              [
+                "Xing, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "AY4": [
+          "63510",
+          [
+            [
+              28,
+              "W",
+              "2406 Siebel Center for Comp Sci",
+              7,
+              [
+                "Xing, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "AY5": [
+          "63511",
+          [
+            [
+              29,
+              "W",
+              "2406 Siebel Center for Comp Sci",
+              7,
+              [
+                "Xing, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "CSP": [
+          "72177",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Bates, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ],
+        "DSO": [
+          "72176",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Bates, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ],
+        "MC4": [
+          "48198",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Bates, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Fundamental principles of computer and communications security and information assurance: ethics, privacy, notions of threat, vulnerabilities, and risk in systems, information warfare, malicious software, data secrecy and integrity issues, network security, trusted computing, mandatory and discretionary access controls, certification and accreditation of systems against security standards. Security mechanisms: authentication, auditing, intrusion detection, access control, cryptography, security protocols, key distribution.",
+      []
+    ],
+    "CS 466": [
+      "Introduction to Bioinformatics",
+      {
+        "B3": [
+          "54552",
+          [
+            [
+              67,
+              "TR",
+              "1404 Siebel Center for Comp Sci",
+              7,
+              [
+                "El-Kebir, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "B4": [
+          "54553",
+          [
+            [
+              67,
+              "TR",
+              "1404 Siebel Center for Comp Sci",
+              7,
+              [
+                "El-Kebir, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Algorithmic approaches in bioinformatics: (i) biological problems that can be solved computationally (e.g., discovering genes, and interactions among different genes and proteins); (ii) algorithmic techniques with wide applicability in solving these problems (e.g., dynamic programming and probabilistic methods); (iii) practical issues in translating the basic algorithmic ideas into accurate and efficient tools that biologists may use.",
+      []
+    ],
+    "CS 474": [
+      "Logic in Computer Science",
+      {
+        "LG": [
+          "74417",
+          [
+            [
+              62,
+              "TR",
+              "1304 Siebel Center for Comp Sci",
+              7,
+              [
+                "Parthasarathy, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "LU": [
+          "74416",
+          [
+            [
+              62,
+              "TR",
+              "1304 Siebel Center for Comp Sci",
+              7,
+              [
+                "Parthasarathy, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "An introduction to mathematical logic from the perspective of computer science, emphasizing both computable aspects of logic, especially automated reasoning, as well as applications of logic to computer science in artificial intelligence, databases, formal methods, and theoretical computer science. Prepares students to use logic as a formal tool to solve problems in computer science and AI. Topics include: syntax, semantics and proofs for propositional and first order logic, the decidable logics and efficient realizations in terms of SAT/SMT solvers, decision and semi-decision procedures for first order logic and several first order logic theories, finite model theory and descriptive complexity. Additional topics include: connections between logic and machine learning, higher order logics, applications of logic to program verification, applications of logic in knowledge representation, proof complexity, modal and temporal logic, Courcelle’s theorem and its applications in parameterized complexity, logic and its role in automatic program synthesis, connections between logic and database query languages.",
+      []
+    ],
+    "CS 476": [
+      "Program Verification",
+      {
+        "D3": [
+          "39586",
+          [
+            [
+              67,
+              "TR",
+              "162 Noyes Laboratory",
+              16,
+              [
+                "Meseguer, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "D4": [
+          "39587",
+          [
+            [
+              67,
+              "TR",
+              "162 Noyes Laboratory",
+              16,
+              [
+                "Meseguer, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Formal methods for demonstrating correctness and other properties of programs. Invariant assertions; Hoare axiomatics; well-founded orderings for proving termination; structural induction; computational induction; data structures; parallel programs; overview of predicate calculus.",
+      []
+    ],
+    "CS 463": [
+      "Computer Security II",
+      {
+        "DS3": [
+          "78275",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Liao, X"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ],
+        "DS4": [
+          "49056",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Liao, X"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ],
+        "P3": [
+          "49413",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Liao, X"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ],
+        "P4": [
+          "48206",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Liao, X"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ],
+        "PU": [
+          "48205",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Liao, X"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Program security, trusted base, privacy, anonymity, non-interference, information flow, confinement, advanced auditing, forensics, intrusion detection, key management and distribution, policy composition and analysis, formal approaches to specification and verification of secure systems and protocols, and topics in applied cryptography.",
+      []
+    ],
+    "CS 462": [
+      "Issues of Law and Policy in Computer Science",
+      {
+        "G": [
+          "77724",
+          [
+            [
+              64,
+              "TR",
+              "1214 Siebel Center for Comp Sci",
+              7,
+              [
+                "Cunningham, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "U": [
+          "77723",
+          [
+            [
+              64,
+              "TR",
+              "1214 Siebel Center for Comp Sci",
+              7,
+              [
+                "Cunningham, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Exploration of the intersection of public policy and computing technology: overview of the US legal system and government, how computing technology is regulated in areas such as privacy, crime, intellectual property, commerce, and national security. Students will complete technical projects related to legal issues, such as scrutinizing DRM, evaluating digital forensics reports, and critiquing software patents. Students will also scrutinize excerpts from legal opinions.",
+      []
+    ],
+    "CS 473": [
+      "Algorithms",
+      {
+        "AL2": [
+          "31552",
+          [
+            [
+              68,
+              "WF",
+              "1310 Digital Computer Laboratory",
+              11,
+              [
+                "Forbes, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "ALU": [
+          "31457",
+          [
+            [
+              68,
+              "WF",
+              "1310 Digital Computer Laboratory",
+              11,
+              [
+                "Forbes, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "CSP": [
+          "31548",
+          [
+            [
+              65,
+              "R",
+              "ARR Illini Center",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              3,
+              "R",
+              "ONLINE",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "MCS": [
+          "31558",
+          [
+            [
+              65,
+              "R",
+              "ARR Illini Center",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              3,
+              "R",
+              "ONLINE",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Design and analysis techniques, approximation algorithms, randomized algorithms and amortized analysis, and advanced topics such as network flow, linear programming, and dynamic data structures, among others.",
+      []
+    ],
+    "CS 464": [
+      "Topics in Societal and Ethical Impacts of Computer Technology",
+      {
+        "CAC": [
+          "73208",
+          [
+            [
+              67,
+              "TR",
+              "0218 Siebel Center for Comp Sci",
+              7,
+              [
+                "Cobb, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Topics selected from key current areas of impact of computer technology on aspects of society and ethics such as: freedom versus the rule of law in cyberspace; social discourse; privacy; livelihoods and automation; fairness; security; political change; business models; technology divide.",
+      []
+    ],
+    "CS 468": [
+      "Tech and Advertising Campaigns",
+      {
+        "U": [
+          "64124",
+          [
+            [
+              56,
+              "MW",
+              "31 Gregory Hall",
+              14,
+              [
+                "Maslowska, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      null,
+      []
+    ],
+    "CS 477": [
+      "Formal Software Development Methods",
+      {
+        "B3": [
+          "39588",
+          [
+            [
+              68,
+              "TR",
+              "1310 Digital Computer Laboratory",
+              11,
+              [
+                "Singh, G"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "B4": [
+          "39589",
+          [
+            [
+              68,
+              "TR",
+              "1310 Digital Computer Laboratory",
+              11,
+              [
+                "Singh, G"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "CSP": [
+          "55917",
+          [
+            [
+              68,
+              "R",
+              "Location Pending",
+              0,
+              [
+                "Singh, G"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              68,
+              "T",
+              "ONLINE",
+              0,
+              [
+                "Singh, G"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "MCS": [
+          "78161",
+          [
+            [
+              68,
+              "R",
+              "Location Pending",
+              0,
+              [
+                "Singh, G"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              68,
+              "T",
+              "ONLINE",
+              0,
+              [
+                "Singh, G"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Mathematical models, languages, and methods for software specification, development, and verification.",
+      []
+    ],
+    "CS 483": [
+      "Applied Parallel Programming",
+      {
+        "AB": [
+          "56564",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "AL": [
+          "56562",
+          [
+            [
+              7,
+              "TR",
+              "1002 Electrical & Computer Eng Bldg",
+              31,
+              [
+                "Kindratenko, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "CSP": [
+          "77523",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Kindratenko, V"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              7,
+              "TR",
+              "ONLINE",
+              0,
+              [
+                "Kindratenko, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          13,
+          0,
+          [],
+          -1
+        ],
+        "MCS": [
+          "77530",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Kindratenko, V"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              7,
+              "TR",
+              "ONLINE",
+              0,
+              [
+                "Kindratenko, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          13,
+          0,
+          [],
+          -1
+        ],
+        "OLB": [
+          "68235",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Kindratenko, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          13,
+          0,
+          [],
+          -1
+        ],
+        "OLC": [
+          "68236",
+          [
+            [
+              7,
+              "TR",
+              "ONLINE",
+              0,
+              [
+                "Kindratenko, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Same as CSE 408 and ECE 408. See ECE 408.",
+      []
+    ],
+    "CS 494": [
+      "Senior Project II",
+      {
+        "CS": [
+          "40242",
+          [
+            [
+              9,
+              "F",
+              "Location Pending",
+              0,
+              [
+                "Woodley, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "3 undergraduate hours. No graduate credit. Credit is not given for both CS 494 and a project course in another engineering department for the same project. Prerequisite: CS 492.",
+      []
+    ],
+    "CS 497": [
+      "CS Team Project",
+      {
+        "": [
+          "70878",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Student teams work with CS faculty to complete a significant project requiring advanced knowledge of CS principles. Project topics vary.",
+      []
+    ],
+    "CS 491": [
+      "Seminar",
+      {
+        "CAP": [
+          "31584",
+          [
+            [
+              27,
+              "MWF",
+              "2310 Everitt Laboratory",
+              20,
+              [
+                "Beckman, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "EIC": [
+          "47724",
+          [
+            [
+              103,
+              "F",
+              "ONLINE",
+              0,
+              [
+                "Gertner, Y",
+                "Williams, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ],
+        "EIT": [
+          "66228",
+          [
+            [
+              8,
+              "F",
+              "1214 Siebel Center for Comp Sci",
+              7,
+              [
+                "Lewis, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "IAT": [
+          "54144",
+          [
+            [
+              27,
+              "M",
+              "ARR Coordinated Science Lab",
+              43,
+              [
+                "Bashir, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "PD": [
+          "72343",
+          [
+            [
+              102,
+              "R",
+              "Location Pending",
+              0,
+              [
+                "Amato, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          7,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Seminar on topics of current interest as announced in the Class Schedule.",
+      []
+    ],
+    "CS 482": [
+      "Simulation",
+      {
+        "AB1": [
+          "53265",
+          [
+            [
+              29,
+              "W",
+              "1310 Digital Computer Laboratory",
+              11,
+              [
+                "Jacobson, S"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              29,
+              "M",
+              "1310 Digital Computer Laboratory",
+              11,
+              [
+                "Jacobson, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          2,
+          0,
+          [],
+          -1
+        ],
+        "AE3": [
+          "51398",
+          [
+            [
+              28,
+              "W",
+              "1310 Digital Computer Laboratory",
+              11,
+              [
+                "Jacobson, S"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              28,
+              "M",
+              "1310 Digital Computer Laboratory",
+              11,
+              [
+                "Jacobson, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AE4": [
+          "51399",
+          [
+            [
+              28,
+              "W",
+              "1310 Digital Computer Laboratory",
+              11,
+              [
+                "Jacobson, S"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              28,
+              "M",
+              "1310 Digital Computer Laboratory",
+              11,
+              [
+                "Jacobson, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      null,
+      []
+    ],
+    "CS 493": [
+      "Senior Project II, ACP",
+      {
+        "CS": [
+          "31260",
+          [
+            [
+              9,
+              "F",
+              "Location Pending",
+              0,
+              [
+                "Woodley, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Continuation of CS 492. Identical to CS 494 except for an additional writing component. See CS 494.",
+      []
+    ],
+    "CS 507": [
+      "Topics in Cryptography",
+      {
+        "C": [
+          "74418",
+          [
+            [
+              62,
+              "MW",
+              "3020 Electrical & Computer Eng Bldg",
+              31,
+              [
+                "Zhang, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Modern cryptography helps realize a variety of tasks: from computations on and proofs about secret data, to verifiably offloading computation to untrusted clients, to making programs unintelligible while preserving functionality, to testing untrusted quantum devices. Covers a selection of such cutting-edge topics in cryptography. We will understand how any adversary that counters the security of modern protocols can be transformed into an adversary that contradicts basic mathematical assumptions. We will understand key ideas in recent cryptography research and identify new directions and problems for the future.",
+      []
+    ],
+    "CS 498": [
+      "Special Topics",
+      {
+        "AE3": [
+          "43751",
+          [
+            [
+              64,
+              "TR",
+              "2200 Sidney Lu Mech Engr Bldg",
+              13,
+              [
+                "Chekuri, C",
+                "Harb, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AEG": [
+          "46303",
+          [
+            [
+              64,
+              "TR",
+              "2200 Sidney Lu Mech Engr Bldg",
+              13,
+              [
+                "Chekuri, C",
+                "Harb, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AEU": [
+          "50445",
+          [
+            [
+              64,
+              "TR",
+              "2200 Sidney Lu Mech Engr Bldg",
+              13,
+              [
+                "Chekuri, C",
+                "Harb, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "CC3": [
+          "61928",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Farivar, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ],
+        "CCG": [
+          "59276",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Farivar, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ],
+        "CCU": [
+          "69511",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Farivar, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ],
+        "CDS": [
+          "65868",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Farivar, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ],
+        "DC3": [
+          "61925",
+          [
+            [
+              14,
+              "MWF",
+              "ONLINE",
+              0,
+              [
+                "Alawini, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ],
+        "DCG": [
+          "61720",
+          [
+            [
+              14,
+              "MWF",
+              "ONLINE",
+              0,
+              [
+                "Alawini, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ],
+        "DCU": [
+          "61721",
+          [
+            [
+              14,
+              "MWF",
+              "ONLINE",
+              0,
+              [
+                "Alawini, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ],
+        "DK3": [
+          "69525",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Kang, D"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              5,
+              "TR",
+              "ONLINE",
+              0,
+              [
+                "Kang, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "DK4": [
+          "69526",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Kang, D"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              5,
+              "TR",
+              "ONLINE",
+              0,
+              [
+                "Kang, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "DKU": [
+          "46398",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              5,
+              "TR",
+              "ONLINE",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "DM3": [
+          "69512",
+          [
+            [
+              14,
+              "F",
+              "Location Pending",
+              0,
+              [
+                "Alawini, A"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              14,
+              "MW",
+              "ONLINE",
+              0,
+              [
+                "Alawini, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "DMG": [
+          "69515",
+          [
+            [
+              14,
+              "F",
+              "Location Pending",
+              0,
+              [
+                "Alawini, A"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              14,
+              "MW",
+              "ONLINE",
+              0,
+              [
+                "Alawini, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "DMU": [
+          "61924",
+          [
+            [
+              14,
+              "MW",
+              "ONLINE",
+              0,
+              [
+                "Alawini, A"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              14,
+              "F",
+              "Location Pending",
+              0,
+              [
+                "Alawini, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ],
+        "DS3": [
+          "67978",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Kang, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ],
+        "DS4": [
+          "67979",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Kang, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ],
+        "HL3": [
+          "61715",
+          [
+            [
+              67,
+              "TR",
+              "2039 Campus Instructional Facility",
+              6,
+              [
+                "August, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "HLG": [
+          "46400",
+          [
+            [
+              67,
+              "TR",
+              "2039 Campus Instructional Facility",
+              6,
+              [
+                "August, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "HLU": [
+          "69725",
+          [
+            [
+              67,
+              "TR",
+              "2039 Campus Instructional Facility",
+              6,
+              [
+                "August, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "KC3": [
+          "61919",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Kang, D"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Kang, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "KC4": [
+          "61920",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Kang, D"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Kang, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "LS3": [
+          "65904",
+          [
+            [
+              62,
+              "TR",
+              "2018 Campus Instructional Facility",
+              6,
+              [
+                "Zhang, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "LSG": [
+          "60162",
+          [
+            [
+              62,
+              "TR",
+              "2018 Campus Instructional Facility",
+              6,
+              [
+                "Zhang, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "LSU": [
+          "61698",
+          [
+            [
+              62,
+              "TR",
+              "2018 Campus Instructional Facility",
+              6,
+              [
+                "Zhang, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "NR3": [
+          "61930",
+          [
+            [
+              62,
+              "MW",
+              "1214 Siebel Center for Comp Sci",
+              7,
+              [
+                "Ritschel, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "NR4": [
+          "61931",
+          [
+            [
+              62,
+              "MW",
+              "1214 Siebel Center for Comp Sci",
+              7,
+              [
+                "Ritschel, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "NRU": [
+          "31598",
+          [
+            [
+              62,
+              "MW",
+              "1214 Siebel Center for Comp Sci",
+              7,
+              [
+                "Ritschel, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "QC3": [
+          "61923",
+          [
+            [
+              67,
+              "TR",
+              "1304 Siebel Center for Comp Sci",
+              7,
+              [
+                "Granha Jeronimo, F"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "QCG": [
+          "40484",
+          [
+            [
+              67,
+              "TR",
+              "1304 Siebel Center for Comp Sci",
+              7,
+              [
+                "Granha Jeronimo, F"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "QCU": [
+          "47231",
+          [
+            [
+              67,
+              "TR",
+              "1304 Siebel Center for Comp Sci",
+              7,
+              [
+                "Granha Jeronimo, F"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "RTG": [
+          "78467",
+          [
+            [
+              65,
+              "TR",
+              "0216 Siebel Center for Comp Sci",
+              7,
+              [
+                "Amato, N",
+                "Solis Vidana, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "RTU": [
+          "78466",
+          [
+            [
+              65,
+              "TR",
+              "0216 Siebel Center for Comp Sci",
+              7,
+              [
+                "Amato, N",
+                "Solis Vidana, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "TC3": [
+          "61927",
+          [
+            [
+              62,
+              "TR",
+              "106B3 Engineering Hall",
+              19,
+              [
+                "Erickson, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "TC4": [
+          "67785",
+          [
+            [
+              62,
+              "TR",
+              "106B3 Engineering Hall",
+              19,
+              [
+                "Erickson, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "TCU": [
+          "67775",
+          [
+            [
+              62,
+              "TR",
+              "106B3 Engineering Hall",
+              19,
+              [
+                "Erickson, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "TZ3": [
+          "63485",
+          [
+            [
+              67,
+              "MW",
+              "0216 Siebel Center for Comp Sci",
+              7,
+              [
+                "Zhang, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "TZ4": [
+          "63486",
+          [
+            [
+              67,
+              "MW",
+              "0216 Siebel Center for Comp Sci",
+              7,
+              [
+                "Zhang, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "TZU": [
+          "69364",
+          [
+            [
+              67,
+              "MW",
+              "0216 Siebel Center for Comp Sci",
+              7,
+              [
+                "Zhang, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "ZC3": [
+          "39547",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Zhang, T"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              67,
+              "MW",
+              "ONLINE",
+              0,
+              [
+                "Zhang, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "ZC4": [
+          "46307",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Zhang, T"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              67,
+              "MW",
+              "ONLINE",
+              0,
+              [
+                "Zhang, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Subject offerings of new and developing areas of knowledge in computer science intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites.",
+      []
+    ],
+    "CS 499": [
+      "Senior Thesis",
+      {
+        "": [
+          "10465",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          3,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Research and thesis development experience in computer science under guidance of a faculty member. Literature search, oral presentation, analysis and implementation, paper preparation, and completion of a written thesis.",
+      []
+    ],
+    "CS 510": [
+      "Advanced Information Retrieval",
+      {
+        "A1": [
+          "72449",
+          [
+            [
+              62,
+              "TR",
+              "1310 Digital Computer Laboratory",
+              11,
+              [
+                "Zhai, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Advanced concepts, models, and algorithms in information retrieval and major recent developments in the field, including historical milestones in information retrieval research, evaluation methodology, vector space retrieval model, probabilistic retrieval models, learning to rank algorithms, probabilistic topic models, information retrieval systems, text analytics, and topics of research frontiers in information retrieval.",
+      []
+    ],
+    "CS 521": [
+      "Advanced Topics in Programming Systems",
+      {
+        "BCC": [
+          "77349",
+          [
+            [
+              62,
+              "F",
+              "ARR Illini Center",
+              0,
+              [
+                "Rosu, G"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              62,
+              "W",
+              "ONLINE",
+              0,
+              [
+                "Rosu, G"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "BCU": [
+          "72385",
+          [
+            [
+              62,
+              "F",
+              "0220 Siebel Center for Comp Sci",
+              7,
+              [
+                "Rosu, G"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              62,
+              "W",
+              "0220 Siebel Center for Comp Sci",
+              7,
+              [
+                "Rosu, G"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "LCC": [
+          "77350",
+          [
+            [
+              63,
+              "R",
+              "ARR Illini Center",
+              0,
+              [
+                "Misailovic, S"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              63,
+              "T",
+              "ONLINE",
+              0,
+              [
+                "Misailovic, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "LCU": [
+          "76029",
+          [
+            [
+              63,
+              "TR",
+              "0220 Siebel Center for Comp Sci",
+              7,
+              [
+                "Misailovic, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Advanced topics in building and verifying software systems, selected from areas of current research such as: model checking and automated verification, testing and automated test generation, program synthesis, runtime verification, machine learning and its applications in the design of verified systems, formal analysis of machine learning algorithms, principles of programming languages and type systems.",
+      []
+    ],
+    "CS 525": [
+      "Advanced Distributed Systems",
+      {
+        "S": [
+          "46186",
+          [
+            [
+              63,
+              "WF",
+              "3025 Campus Instructional Facility",
+              6,
+              [
+                "Gupta, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Peer-to-peer systems, sensor networks, and fundamental theoretical distributed computing. Review of classical work in each area, and application of design methodologies to explore overlaps across them. Emphasis on protocol design, systems issues, and theory. Reading selections are roughly two-third classical to one-third contemporary. Students write critiques, make presentations, and create a conference paper in a systematic manner.",
+      []
+    ],
+    "CS 527": [
+      "Topics in Software Engineering",
+      {
+        "MCS": [
+          "76062",
+          [
+            [
+              68,
+              "R",
+              "Location Pending",
+              0,
+              [
+                "Jabbarvand Behrouz, R"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              68,
+              "T",
+              "ONLINE",
+              0,
+              [
+                "Jabbarvand Behrouz, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "S": [
+          "68988",
+          [
+            [
+              68,
+              "T",
+              "0216 Siebel Center for Comp Sci",
+              7,
+              [
+                "Jabbarvand Behrouz, R"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              68,
+              "R",
+              "ONLINE",
+              0,
+              [
+                "Jabbarvand Behrouz, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Fault-tolerant software, software architecture, software patterns, multi-media software, and knowledge-based approaches to software engineering. Case studies.",
+      []
+    ],
+    "CS 526": [
+      "Advanced Compiler Construction",
+      {
+        "D": [
+          "43634",
+          [
+            [
+              68,
+              "TR",
+              "106B6 Engineering Hall",
+              19,
+              [
+                "Mendis, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Incremental and interactive compiling, error correction, code optimization, models of code generators.",
+      []
+    ],
+    "CS 523": [
+      "Advanced Operating Systems",
+      {
+        "E": [
+          "31605",
+          [
+            [
+              68,
+              "WF",
+              "101 Transportation Building",
+              12,
+              [
+                "Xu, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Advanced concepts in operating system design and coverage of recent research directions. Resource management for parallel and distributed systems. Interaction between operating system design and computer architectures. Process management, virtual memory, interprocess communication, context switching, parallel and distributed file system designs, persistent objects, process and data migration, load balancing, security, protection. Term projects.",
+      []
+    ],
+    "CS 533": [
+      "Parallel Computer Architecture",
+      {
+        "S": [
+          "31610",
+          [
+            [
+              67,
+              "TR",
+              "1214 Siebel Center for Comp Sci",
+              7,
+              [
+                "Torrellas, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Theoretical aspects of parallel and pipeline computation; time and processor bounds on classes of computations; data alignment network speed and cost bounds; conflict-free access memories; overall computer system ideas.",
+      []
+    ],
+    "CS 534": [
+      "Advanced Topics in Computer Architecture",
+      {
+        "IC": [
+          "74420",
+          [
+            [
+              62,
+              "TR",
+              "1214 Siebel Center for Comp Sci",
+              7,
+              [
+                "Adve, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Current topics in computer architecture, selected from areas of current research such as: energy efficiency, processing in memory, cloud computing, 3-D architectures, security and privacy, hardware and software resiliency, cross-stack design, heterogeneous platforms, approximate computing, mobile computing, machine learning accelerators, and novel computing technologies.",
+      []
+    ],
+    "CS 537": [
+      "Advanced Topics in Internet of Things (IoT)",
+      {
+        "B": [
+          "78199",
+          [
+            [
+              64,
+              "TR",
+              "0216 Siebel Center for Comp Sci",
+              7,
+              [
+                "Abdelzaher, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "I": [
+          "74384",
+          [
+            [
+              67,
+              "F",
+              "0220 Siebel Center for Comp Sci",
+              7,
+              [
+                "Nahrstedt, K"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              67,
+              "W",
+              "ONLINE",
+              0,
+              [
+                "Nahrstedt, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "MCS": [
+          "78198",
+          [
+            [
+              67,
+              "W",
+              "ARR Illini Center",
+              0,
+              [
+                "Nahrstedt, K"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              67,
+              "F",
+              "ONLINE",
+              0,
+              [
+                "Nahrstedt, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Advanced topics in Internet of Things (IoT) algorithms, protocols, architectures, systems, and infrastructures, selected from areas of current research such as: IoT sensors representations and compression, streaming and caching of IoT data, IoT analytics and feature learning, IoT-edge-cloud computing infrastructures, resource optimization for multi-modal IoT systems, applications and human perception of IoT. Students will read and discuss recent research papers and conduct a semester-long research project.",
+      []
+    ],
+    "CS 543": [
+      "Computer Vision",
+      {
+        "ON2": [
+          "57686",
+          [
+            [
+              63,
+              "TR",
+              "ONLINE",
+              0,
+              [
+                "Forsyth, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ],
+        "R": [
+          "33995",
+          [
+            [
+              63,
+              "TR",
+              "1404 Siebel Center for Comp Sci",
+              7,
+              [
+                "Forsyth, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      null,
+      []
+    ],
+    "CS 554": [
+      "Parallel Numerical Algorithms",
+      {
+        "C": [
+          "31618",
+          [
+            [
+              64,
+              "TR",
+              "4101 Materials Science & Eng Bld",
+              42,
+              [
+                "Solomonik, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Numerical algorithms for parallel computers: parallel algorithms in numerical linear algebra (dense and sparse solvers for linear systems and the algebraic eigenvalue problem), numerical handling of ordinary and partial differential equations, and numerical optimization techniques.",
+      []
+    ],
+    "CS 562": [
+      "Advanced Topics in Security, Privacy, and Machine Learning",
+      {
+        "SP": [
+          "76051",
+          [
+            [
+              68,
+              "TR",
+              "0218 Siebel Center for Comp Sci",
+              7,
+              [
+                "Chandrasekaran, V"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Advanced topics in security and privacy problems in machine learning systems, selected from areas of current research such as: adversarial machine learning, differential privacy, game theory enabled defenses, robust learning methods, machine learning based cybercrime analysis, network intrusion detection, and malware analysis, and machine learning interpretation techniques.",
+      []
+    ],
+    "CS 555": [
+      "Numerical Methods for PDEs",
+      {
+        "N": [
+          "50117",
+          [
+            [
+              68,
+              "TR",
+              "1035 Campus Instructional Facility",
+              6,
+              [
+                "Fischer, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Numerical techniques for initial and boundary value problems in partial differential equations. Finite difference and finite element discretization techniques, direct and iterative solution methods for discrete problems, and programming techniques and usage of software packages.",
+      []
+    ],
+    "CS 565": [
+      "Human-Computer Interaction",
+      {
+        "SF": [
+          "46236",
+          [
+            [
+              68,
+              "TR",
+              "1304 Siebel Center for Comp Sci",
+              7,
+              [
+                "Sultana, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "In-depth coverage of advanced topics in human-computer interaction (HCI). Applied models of human performance and attention, design tools for creative design tasks, interruptions and peripheral displays, gestures, and bimanual input, and usability evaluation techniques. Students complete a research-oriented term project of their choosing.",
+      []
+    ],
+    "CS 563": [
+      "Advanced Computer Security",
+      {
+        "C": [
+          "56891",
+          [
+            [
+              68,
+              "TR",
+              "1214 Siebel Center for Comp Sci",
+              7,
+              [
+                "Borisov, N"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Current research trends in computer and network security. Privacy, tamper-resistance, unwanted traffic, monitoring and surveillance, and critical infrastructure protection. Subtopics will vary depending upon current research trends. Students work in teams in close coordination with the course instructor to develop one of the topics in depth by carrying out background research and an exploratory project.",
+      []
+    ],
+    "CS 576": [
+      "Topics in Automated Deduction",
+      {
+        "DSO": [
+          "57687",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Gunter, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ],
+        "MCS": [
+          "78312",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Gunter, E"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Gunter, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "N": [
+          "31622",
+          [
+            [
+              62,
+              "TR",
+              "0220 Siebel Center for Comp Sci",
+              7,
+              [
+                "Gunter, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Advanced topics in computer-aided methods for formal deduction, selected from areas of current research, such as: resolution theorem proving strategies, special relations, equational reasoning, unification theory, rewrite systems, mathematical induction, program derivation, hybrid inference systems, and programming with logic.",
+      []
+    ],
+    "CS 568": [
+      "User-Centered Machine Learning",
+      {
+        "C": [
+          "74383",
+          [
+            [
+              64,
+              "TR",
+              "3031 Campus Instructional Facility",
+              6,
+              [
+                "Kumar, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "CO": [
+          "77591",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Kumar, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ],
+        "MCS": [
+          "76028",
+          [
+            [
+              64,
+              "R",
+              "ARR Illini Center",
+              0,
+              [
+                "Kumar, R"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              64,
+              "T",
+              "ONLINE",
+              0,
+              [
+                "Kumar, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Introduces guidelines, processes, and systems for designing effective user experiences powered by machine learning models. Topics include design tradeoffs unique to data-driven products and services such as automation versus control, precision versus recall, and personalization versus privacy. Readings from human computer-interaction, product design, cognitive science, machine learning, computer vision, and natural language processing frame in-class design exercises. Students work in teams on a multi-week research project creating or auditing data-driven experiences.",
+      []
+    ],
+    "CS 588": [
+      "Autonomous Vehicle System Engineering",
+      {
+        "AV": [
+          "74386",
+          [
+            [
+              67,
+              "MW",
+              "101 Transportation Building",
+              12,
+              [
+                "Wang, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "MAV": [
+          "77375",
+          [
+            [
+              67,
+              "MW",
+              "101 Transportation Building",
+              12,
+              [
+                "Wang, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Will introduce students to the computational principles involved in autonomous vehicles, with practical labwork on an actual vehicle. Sensing topics will include vision, lidar and sonar sensing, including state-of-the-art methods for detection, classification, and segmentation. Bayesian filtering methods will be covered in the context of both SLAM and visual tracking. Planning and control topics will cover vehicle dynamics models, state-lattice planning, sampling-based kinodynamic planning, optimal control and trajectory optimization, and some reinforcement learning. Evaluation will involve ambitious challenge projects implemented on a physical vehicle.",
+      []
+    ],
+    "CS 591": [
+      "Advanced Seminar",
+      {
+        "ACT": [
+          "31625",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Adve, V",
+                "Mendis, C",
+                "Rauchwerger, L",
+                "Singh, G"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ],
+        "BA1": [
+          "31655",
+          [
+            [
+              101,
+              "M",
+              "0216 Siebel Center for Comp Sci",
+              7,
+              [
+                "Gillette, R",
+                "Gribkova, E",
+                "Zhai, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "BA2": [
+          "78443",
+          [
+            [
+              101,
+              "M",
+              "Location Pending",
+              0,
+              [
+                "Gillette, R",
+                "Gribkova, E",
+                "Zhai, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "CAP": [
+          "48788",
+          [
+            [
+              94,
+              "T",
+              "Location Pending",
+              0,
+              [
+                "Ghose, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "CS": [
+          "31631",
+          [
+            [
+              62,
+              "MW",
+              "ARR Siebel Center for Comp Sci",
+              29,
+              [
+                "Amato, N",
+                "Rauchwerger, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "CSC": [
+          "40245",
+          [
+            [
+              62,
+              "MW",
+              "ARR Illini Center",
+              0,
+              [
+                "Amato, N",
+                "Rauchwerger, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "CSO": [
+          "31628",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Amato, N",
+                "Rauchwerger, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ],
+        "FM": [
+          "53701",
+          [
+            [
+              15,
+              "F",
+              "Location Pending",
+              0,
+              [
+                "Parthasarathy, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "GSS": [
+          "31637",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Lewis, C",
+                "Wright, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "IC": [
+          "31646",
+          [
+            [
+              6,
+              "W",
+              "0216 Siebel Center for Comp Sci",
+              7,
+              [
+                "Cobb, C",
+                "Karahalios, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "IG": [
+          "40248",
+          [
+            [
+              29,
+              "W",
+              "214 Ceramics Building",
+              38,
+              [
+                "Gupta, I"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "MLR": [
+          "54211",
+          [
+            [
+              64,
+              "F",
+              "1214 Siebel Center for Comp Sci",
+              7,
+              [
+                "Banerjee, A",
+                "Zhao, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "SN": [
+          "44443",
+          [
+            [
+              29,
+              "F",
+              "1214 Siebel Center for Comp Sci",
+              7,
+              [
+                "Alagappan, R",
+                "Ganesan, A",
+                "Gupta, I",
+                "Xu, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "SP": [
+          "69942",
+          [
+            [
+              11,
+              "F",
+              "2013 Electrical & Computer Eng Bldg",
+              31,
+              [
+                "Xing, L",
+                "Zhang, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "TA": [
+          "54573",
+          [
+            [
+              9,
+              "F",
+              "3039 Campus Instructional Facility",
+              6,
+              [
+                "Beckman, M",
+                "Chen, Y",
+                "Johnson, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "TAO": [
+          "47351",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Beckman, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          6,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Seminar on topics of current interest as announced in the Class Schedule.",
+      []
+    ],
+    "CS 583": [
+      "Approximation Algorithms",
+      {
+        "AA": [
+          "59718",
+          [
+            [
+              68,
+              "TR",
+              "106B8 Engineering Hall",
+              19,
+              [
+                "Chekuri, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Approximation algorithms for NP-hard problems. Basic and advanced techniques in approximation algorithm design: combinatorial algorithms; mathematical programming methods including linear and semi-definite programming, local search methods, and others. Algorithms for graphs and networks, constraint satisfaction, packing and scheduling.",
+      []
+    ],
+    "CS 597": [
+      "Individual Study",
+      {
+        "": [
+          "73690",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Individual study or reading in a subject not covered in normal course offerings.",
+      []
+    ],
+    "CS 598": [
+      "Special Topics",
+      {
+        "CAG": [
+          "48248",
+          [
+            [
+              63,
+              "TR",
+              "1214 Siebel Center for Comp Sci",
+              7,
+              [
+                "Gunter, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "CCE": [
+          "65118",
+          [
+            [
+              64,
+              "R",
+              "Location Pending",
+              0,
+              [
+                "Bailey, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "DHO": [
+          "62819",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Sun, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ],
+        "DHT": [
+          "43771",
+          [
+            [
+              67,
+              "MW",
+              "1214 Siebel Center for Comp Sci",
+              7,
+              [
+                "Hakkani Tur, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "DLH": [
+          "43732",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Sun, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ],
+        "DSO": [
+          "65866",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Park, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ],
+        "ECP": [
+          "39663",
+          [
+            [
+              67,
+              "MW",
+              "0220 Siebel Center for Comp Sci",
+              7,
+              [
+                "Wang, G"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "FAL": [
+          "60197",
+          [
+            [
+              68,
+              "WF",
+              "0216 Siebel Center for Comp Sci",
+              7,
+              [
+                "Lai, F"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "FTS": [
+          "46428",
+          [
+            [
+              64,
+              "TR",
+              "106B8 Engineering Hall",
+              19,
+              [
+                "Ganesan, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "GA": [
+          "56940",
+          [
+            [
+              63,
+              "TR",
+              "0218 Siebel Center for Comp Sci",
+              7,
+              [
+                "Warnow, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "GAI": [
+          "43812",
+          [
+            [
+              63,
+              "TR",
+              "0216 Siebel Center for Comp Sci",
+              7,
+              [
+                "Banerjee, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "GBL": [
+          "59156",
+          [
+            [
+              62,
+              "WF",
+              "4039 Campus Instructional Facility",
+              6,
+              [
+                "Liu, G"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "HGE": [
+          "65116",
+          [
+            [
+              64,
+              "TR",
+              "0220 Siebel Center for Comp Sci",
+              7,
+              [
+                "Kao, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "HS": [
+          "65175",
+          [
+            [
+              68,
+              "WF",
+              "0220 Siebel Center for Comp Sci",
+              7,
+              [
+                "Sundaram, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "HSC": [
+          "78195",
+          [
+            [
+              68,
+              "WF",
+              "ARR Illini Center",
+              0,
+              [
+                "Sundaram, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "HT": [
+          "31666",
+          [
+            [
+              64,
+              "WF",
+              "0216 Siebel Center for Comp Sci",
+              7,
+              [
+                "Tong, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "JY2": [
+          "68136",
+          [
+            [
+              64,
+              "WF",
+              "1404 Siebel Center for Comp Sci",
+              7,
+              [
+                "You, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "LMZ": [
+          "40659",
+          [
+            [
+              67,
+              "TR",
+              "3025 Campus Instructional Facility",
+              6,
+              [
+                "Zhang, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "MR": [
+          "44818",
+          [
+            [
+              62,
+              "WF",
+              "2101 Everitt Laboratory",
+              20,
+              [
+                "Mashfiqui Rabbi Shuvo, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "PBR": [
+          "50225",
+          [
+            [
+              63,
+              "TR",
+              "1304 Siebel Center for Comp Sci",
+              7,
+              [
+                "Zhao, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "PPM": [
+          "56938",
+          [
+            [
+              68,
+              "TR",
+              "0220 Siebel Center for Comp Sci",
+              7,
+              [
+                "Rauchwerger, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "QC": [
+          "43806",
+          [
+            [
+              64,
+              "MW",
+              "1214 Siebel Center for Comp Sci",
+              7,
+              [
+                "Sinha, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "RAN": [
+          "61163",
+          [
+            [
+              64,
+              "WF",
+              "2101 Everitt Laboratory",
+              20,
+              [
+                "Alagappan, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "SC3": [
+          "68084",
+          [
+            [
+              62,
+              "TR",
+              "1302 Siebel Center for Comp Sci",
+              7,
+              [
+                "Saha, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "SEG": [
+          "77278",
+          [
+            [
+              67,
+              "MW",
+              "0218 Siebel Center for Comp Sci",
+              7,
+              [
+                "Lou, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "SML": [
+          "39669",
+          [
+            [
+              67,
+              "TR",
+              "2036 Campus Instructional Facility",
+              6,
+              [
+                "Olson, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "TCS": [
+          "50226",
+          [
+            [
+              63,
+              "MW",
+              "1214 Siebel Center for Comp Sci",
+              7,
+              [
+                "Herman, G"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "TLR": [
+          "40235",
+          [
+            [
+              63,
+              "MW",
+              "0218 Siebel Center for Comp Sci",
+              7,
+              [
+                "Ringer, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Subject offerings of new and developing areas of knowledge in computer science intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites.",
+      []
     ]
   },
   "caches": {
@@ -7283,7 +11810,8 @@
       "1000 - 1250",
       "1630 - 1745",
       "1630 - 1730",
-      "1700 - 1800"
+      "1700 - 1800",
+      "1300 - 1415"
     ],
     "dateRanges": [],
     "scheduleTypes": [
@@ -7484,6 +12012,10 @@
       {
         "lat": 40.11085653938169,
         "long": -88.22609810215927
+      },
+      {
+        "lat": 40.1149521,
+        "long": -88.2267561
       }
     ],
     "finalDates": [],
