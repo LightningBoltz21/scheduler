@@ -108,7 +108,7 @@ export const ClassSectionProxy = async (
     let restrictions = "";
     if (section.restricted) {
       const $restricted = cheerio.load(section.restricted);
-      restrictions = $restricted.text().trim();
+      restrictions = $restricted('body').text().trim();
     }
 
     // Normalize to standard status
