@@ -37,6 +37,7 @@
     "morgan": "^1.9.1"
   },
   "devDependencies": {
+    "@azure/functions": "^4.0.0",
     "@types/airtable": "^0.8.1",
     "@types/cheerio": "^1.0.0",
     "@types/cors": "^2.8.10",

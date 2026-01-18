@@ -27,7 +27,12 @@ function onError(error: Error & { syscall?: string; code?: string }) {
 function onListening() {
   // eslint-disable-next-line no-use-before-define
   const addr = server.address();
-  const bind = typeof addr === "string" ? `pipe ${addr}` : `port ${addr.port}`;
+  let bind = "unknown";
+  if (typeof addr === "string") {
+    bind = `pipe ${addr}`;
+  } else if (addr) {
+    bind = `port ${addr.port}`;
+  }
   console.log(`Listening on ${bind}`);
 }
 
