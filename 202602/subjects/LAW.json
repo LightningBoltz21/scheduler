@@ -1,7 +1,7 @@
 {
   "subject": "LAW",
-  "scrapedAt": 1768695936758,
-  "courseCount": 42,
+  "scrapedAt": 1768695956583,
+  "courseCount": 47,
   "courses": {
     "LAW 305": [
       "Art and Cultural Property Law",
@@ -5809,6 +5809,1088 @@
       [],
       "This is an umbrella course listing for specialty topics of current interest in litigation.",
       []
+    ],
+    "LAW 796": [
+      "Comparative Law Topics",
+      {
+        "AA": [
+          "62458",
+          [
+            [
+              217,
+              "F",
+              "Location Pending",
+              0,
+              [
+                "Biagi, F"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              218,
+              "F",
+              "Location Pending",
+              0,
+              [
+                "Biagi, F"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              219,
+              "WR",
+              "Location Pending",
+              0,
+              [
+                "Biagi, F"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "AAG": [
+          "59585",
+          [
+            [
+              217,
+              "F",
+              "Location Pending",
+              0,
+              [
+                "Biagi, F"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              218,
+              "F",
+              "Location Pending",
+              0,
+              [
+                "Biagi, F"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              219,
+              "WR",
+              "Location Pending",
+              0,
+              [
+                "Biagi, F"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "This is an umbrella course listing in comparative law for specialty topics of current interest.",
+      []
+    ],
+    "LAW 795": [
+      "Adv Topics in Criminal Law",
+      {
+        "D": [
+          "47042",
+          [
+            [
+              180,
+              "MT",
+              "Location Pending",
+              0,
+              [
+                "Keenan, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "DG": [
+          "47745",
+          [
+            [
+              180,
+              "MT",
+              "Location Pending",
+              0,
+              [
+                "Keenan, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          14,
+          0,
+          [],
+          -1
+        ],
+        "L": [
+          "62451",
+          [
+            [
+              220,
+              "W",
+              "Location Pending",
+              0,
+              [
+                "Miller, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "LG": [
+          "62554",
+          [
+            [
+              220,
+              "W",
+              "Location Pending",
+              0,
+              [
+                "Miller, E"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "This is an umbrella course listing in criminal law for specialty topics of current interest.",
+      []
+    ],
+    "LAW 794": [
+      "Adv Topics in Business Law",
+      {
+        "A1": [
+          "55623",
+          [
+            [
+              57,
+              "M",
+              "Location Pending",
+              0,
+              [
+                "Netznik, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "A1G": [
+          "56085",
+          [
+            [
+              57,
+              "M",
+              "Location Pending",
+              0,
+              [
+                "Netznik, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "B1": [
+          "55624",
+          [
+            [
+              221,
+              "T",
+              "ONLINE",
+              0,
+              [
+                "Koenig, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ],
+        "B1G": [
+          "56084",
+          [
+            [
+              221,
+              "T",
+              "ONLINE",
+              0,
+              [
+                "Koenig, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ],
+        "D": [
+          "45038",
+          [
+            [
+              188,
+              "F",
+              "Location Pending",
+              0,
+              [
+                "Markus, T"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              222,
+              "MTWR",
+              "Location Pending",
+              0,
+              [
+                "Markus, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "DG": [
+          "49371",
+          [
+            [
+              188,
+              "F",
+              "Location Pending",
+              0,
+              [
+                "Markus, T"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              222,
+              "MTWR",
+              "Location Pending",
+              0,
+              [
+                "Markus, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "E1": [
+          "59339",
+          [
+            [
+              205,
+              "T",
+              "Location Pending",
+              0,
+              [
+                "Winter, G"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "E1G": [
+          "59579",
+          [
+            [
+              205,
+              "T",
+              "Location Pending",
+              0,
+              [
+                "Winter, G"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "F": [
+          "47040",
+          [
+            [
+              187,
+              "M",
+              "Location Pending",
+              0,
+              [
+                "Lawless, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "F1": [
+          "64056",
+          [
+            [
+              81,
+              "W",
+              "Location Pending",
+              0,
+              [
+                "Sanderson, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "FG": [
+          "47740",
+          [
+            [
+              187,
+              "M",
+              "Location Pending",
+              0,
+              [
+                "Lawless, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "I1": [
+          "62482",
+          [
+            [
+              57,
+              "W",
+              "Location Pending",
+              0,
+              [
+                "Fessler, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "JC": [
+          "49170",
+          [
+            [
+              159,
+              "W",
+              "Location Pending",
+              0,
+              [
+                "Bruks, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "O": [
+          "51639",
+          [
+            [
+              144,
+              "WR",
+              "Location Pending",
+              0,
+              [
+                "Aviram, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "OG": [
+          "51811",
+          [
+            [
+              144,
+              "WR",
+              "Location Pending",
+              0,
+              [
+                "Aviram, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "Q": [
+          "53588",
+          [
+            [
+              78,
+              "W",
+              "Location Pending",
+              0,
+              [
+                "Wigfield, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "QG": [
+          "56092",
+          [
+            [
+              78,
+              "W",
+              "Location Pending",
+              0,
+              [
+                "Wigfield, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "TC": [
+          "53585",
+          [
+            [
+              104,
+              "T",
+              "Location Pending",
+              0,
+              [
+                "Rao, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "TCG": [
+          "53821",
+          [
+            [
+              104,
+              "T",
+              "Location Pending",
+              0,
+              [
+                "Rao, P"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "Z2": [
+          "58399",
+          [
+            [
+              223,
+              "F",
+              "Location Pending",
+              0,
+              [
+                "Bohm, J"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              202,
+              "M",
+              "Location Pending",
+              0,
+              [
+                "Bohm, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "Z2G": [
+          "53586",
+          [
+            [
+              223,
+              "F",
+              "Location Pending",
+              0,
+              [
+                "Bohm, J"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              202,
+              "M",
+              "Location Pending",
+              0,
+              [
+                "Bohm, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "This is an umbrella course listing in business law for specialty topics of current interest.",
+      []
+    ],
+    "LAW 797": [
+      "Intellectual Property Topics",
+      {
+        "B": [
+          "45042",
+          [
+            [
+              224,
+              "F",
+              "Location Pending",
+              0,
+              [
+                "Barich, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "BB": [
+          "69480",
+          [
+            [
+              225,
+              "M",
+              "Location Pending",
+              0,
+              [
+                "Augustine, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "BBG": [
+          "69568",
+          [
+            [
+              225,
+              "M",
+              "Location Pending",
+              0,
+              [
+                "Augustine, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "BG": [
+          "51962",
+          [
+            [
+              226,
+              "F",
+              "Location Pending",
+              0,
+              [
+                "Barich, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "F": [
+          "47045",
+          [
+            [
+              227,
+              "WR",
+              "ONLINE",
+              0,
+              [
+                "Brooks, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ],
+        "FG": [
+          "47408",
+          [
+            [
+              227,
+              "WR",
+              "ONLINE",
+              0,
+              [
+                "Brooks, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ],
+        "J": [
+          "51644",
+          [
+            [
+              228,
+              "M",
+              "Location Pending",
+              0,
+              [
+                "Augustine, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "JG": [
+          "52071",
+          [
+            [
+              228,
+              "M",
+              "Location Pending",
+              0,
+              [
+                "Augustine, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "R": [
+          "60818",
+          [
+            [
+              229,
+              "MWF",
+              "ONLINE",
+              0,
+              [
+                "Qiu, Z"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ],
+        "RG": [
+          "60893",
+          [
+            [
+              229,
+              "MWF",
+              "ONLINE",
+              0,
+              [
+                "Qiu, Z"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "This is an umbrella course listing in intellectual property law for specialty topics of current interest.",
+      []
+    ],
+    "LAW 798": [
+      "Seminars",
+      {
+        "AMA": [
+          "63002",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Augustine, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          3,
+          0,
+          [],
+          -1
+        ],
+        "CC": [
+          "60611",
+          [
+            [
+              187,
+              "T",
+              "ONLINE",
+              0,
+              [
+                "Moore, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ],
+        "CCG": [
+          "60901",
+          [
+            [
+              187,
+              "T",
+              "ONLINE",
+              0,
+              [
+                "Moore, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          8,
+          0,
+          [],
+          -1
+        ],
+        "M": [
+          "47054",
+          [
+            [
+              182,
+              "W",
+              "Location Pending",
+              0,
+              [
+                "Rowell, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ],
+        "P1G": [
+          "55793",
+          [
+            [
+              3,
+              "",
+              "ONLINE",
+              0,
+              [
+                "Bilz, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "Z": [
+          "51647",
+          [
+            [
+              182,
+              "R",
+              "Location Pending",
+              0,
+              [
+                "Thomas, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          5,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "This is an umbrella course listing for specialty topics of special interest.",
+      []
     ]
   },
   "caches": {
@@ -6029,7 +7111,20 @@
       "1630 - 1820",
       "0900 - 1700",
       "0900 - 1035",
-      "1325 - 1450"
+      "1325 - 1450",
+      "1000 - 1159",
+      "1030 - 1159",
+      "1700 - 1910",
+      "1730 - 1920",
+      "1740 - 2000",
+      "1700 - 1830",
+      "1330 - 1529",
+      "1500 - 1745",
+      "1500 - 1729",
+      "1501 - 1745",
+      "1330 - 1429",
+      "1745 - 1925",
+      "1800 - 2005"
     ],
     "dateRanges": [],
     "scheduleTypes": [
