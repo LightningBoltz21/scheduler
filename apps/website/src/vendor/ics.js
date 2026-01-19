@@ -22,21 +22,21 @@ const ics = (uidDomain, prodId) => {
 
   const SEPARATOR = navigator.appVersion.indexOf('Win') !== -1 ? '\r\n' : '\n';
 
-  // Specifies EDT/EST timezone logic
+  // Specifies CDT/CST timezone logic for UIUC (Central Time)
   const TZ_DEF = [
     'BEGIN:VTIMEZONE',
-    'TZID:America/New_York',
+    'TZID:America/Chicago',
     'BEGIN:DAYLIGHT',
-    'TZOFFSETFROM:-0500',
-    'TZOFFSETTO:-0400',
-    'TZNAME:EDT',
+    'TZOFFSETFROM:-0600',
+    'TZOFFSETTO:-0500',
+    'TZNAME:CDT',
     'DTSTART:19700308T020000',
     'RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU',
     'END:DAYLIGHT',
     'BEGIN:STANDARD',
-    'TZOFFSETFROM:-0400',
-    'TZOFFSETTO:-0500',
-    'TZNAME:EST',
+    'TZOFFSETFROM:-0500',
+    'TZOFFSETTO:-0600',
+    'TZNAME:CST',
     'DTSTART:19701101T020000',
     'RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU',
     'END:STANDARD',
@@ -228,8 +228,8 @@ const ics = (uidDomain, prodId) => {
         'CLASS:PUBLIC',
         `DESCRIPTION:${description}`,
         `DTSTAMP:${now}`,
-        `DTSTART;TZID=America/New_York:${start}`,
-        `DTEND;TZID=America/New_York:${end}`,
+        `DTSTART;TZID=America/Chicago:${start}`,
+        `DTEND;TZID=America/Chicago:${end}`,
         `LOCATION:${location}`,
         `SUMMARY;LANGUAGE=en-us:${subject}`,
         'TRANSP:TRANSPARENT',

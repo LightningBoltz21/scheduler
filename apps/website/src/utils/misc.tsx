@@ -340,7 +340,7 @@ export function exportCoursesToCalendar(
   events: Immutable<Event[]>,
   term: string
 ): void {
-  const cal = ics('gt-scheduler') as ICS | undefined;
+  const cal = ics('uiuc-scheduler') as ICS | undefined;
 
   if (cal == null) {
     window.alert('This browser does not support calendar export');
@@ -361,7 +361,7 @@ export function exportCoursesToCalendar(
     description = '',
     location = ''
   ): void => {
-    const { from, to } = dateRange;
+    const { from } = dateRange;
     const begin = new Date(from.getTime());
     while (
       !days.includes(['-', 'M', 'T', 'W', 'R', 'F', '-'][begin.getDay()] ?? '-')
@@ -375,7 +375,6 @@ export function exportCoursesToCalendar(
     end.setHours(endTime / 60, endTime % 60);
     const rrule = {
       freq: 'WEEKLY',
-      until: to,
       byday: days
         .map(
           (day) =>
@@ -415,7 +414,7 @@ export function exportCoursesToCalendar(
       event.name
     );
   });
-  cal.download('gt-scheduler');
+  cal.download('uiuc-scheduler');
 }
 
 /**
