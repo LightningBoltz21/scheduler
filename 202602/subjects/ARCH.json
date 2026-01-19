@@ -1,7 +1,7 @@
 {
   "subject": "ARCH",
-  "scrapedAt": 1768788306624,
-  "courseCount": 36,
+  "scrapedAt": 1768788339211,
+  "courseCount": 44,
   "courses": {
     "ARCH 314": [
       "History of World Landscapes",
@@ -2653,6 +2653,510 @@
       },
       [],
       "Addresses emerging issues and research focused on cities, regions and urbanism, with particular focus on issues pertinent to architecture. Topics may include urban theories, morphological studies, social, political and economic influences in cities, sustainable urbanism, comparative analysis or cities, and urbanism in global contexts.",
+      []
+    ],
+    "ARCH 597": [
+      "Special Problems in Architectural Design",
+      {
+        "": [
+          "30346",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Individual investigation of building types and systems, aesthetic theories, programming and other problems in architectural design.",
+      []
+    ],
+    "ARCH 591": [
+      "Special Problems in Architectural History and Theory",
+      {
+        "HG": [
+          "69099",
+          [
+            [
+              7,
+              "R",
+              "205 Architecture Building",
+              25,
+              [
+                "Grossman, H"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          11,
+          0,
+          [],
+          -1
+        ],
+        "WZ": [
+          "45150",
+          [
+            [
+              74,
+              "R",
+              "1134 Literatures, Cultures, & Ling",
+              0,
+              [
+                "Zhao, W"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          11,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Examines historical and/or theoretical problems in the history of architecture, the built environment, and related designed objects and arts in relation to emerging, interdisciplinary research. Topics can include thematic investigations of historical, conceptual, aesthetic, and theoretical problems; the work of particular architects and/or patrons; specific buildings or environments in a single or multiple geographic regions or periods.",
+      []
+    ],
+    "ARCH 593": [
+      "Special Problems in Detail and Fabrication",
+      {
+        "AN": [
+          "52986",
+          [
+            [
+              74,
+              "T",
+              "ARR Temple Hoyne Buell Hall",
+              41,
+              [
+                "Nazmeeva, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          11,
+          0,
+          [],
+          -1
+        ],
+        "SGL": [
+          "47481",
+          [
+            [
+              74,
+              "R",
+              "205 Architecture Building",
+              25,
+              [
+                "Altshuler, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          11,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "The investigation and study of the design and fabrication of architectural components and assemblies.",
+      []
+    ],
+    "ARCH 595": [
+      "Spec Prob Struct Theory & Des",
+      {
+        "": [
+          "51830",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Unassigned Instructor"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Individual or group investigation and study in architectural engineering application; research in economy and design in correlation with architectural, mechanical, and structural requirements.",
+      []
+    ],
+    "ARCH 598": [
+      "Specialized Architectural Practice",
+      {
+        "TJ": [
+          "78410",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Johnson, T"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          0,
+          4,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "This course adds an academic dimension to professionally supervised field experiences in which problems in architectural design and technology are defined, researched, and solved. Advanced doctoral students are introduced to applied research processes in any of architecture's sub-disciplines. Sites of applied research may include commercial firms, not-for-profit organizations, and government agencies. Students work in school-approved firms or agencies of their choice. Written accounts of work accomplished, documentation of research questions developed and pursued, and reflective experiential learning reports must be submitted for evaluation. Field experiences may be part time or full time.",
+      []
+    ],
+    "ARCH 594": [
+      "Special Problems in Building Performance",
+      {
+        "FF": [
+          "55595",
+          [
+            [
+              70,
+              "F",
+              "1065 Lincoln Hall",
+              1,
+              [
+                "Krishnan, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          11,
+          0,
+          [],
+          -1
+        ],
+        "LCC": [
+          "74719",
+          [
+            [
+              23,
+              "T",
+              "102B Architecture Building",
+              25,
+              [
+                "Boubekri, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          11,
+          0,
+          [],
+          -1
+        ],
+        "SIM": [
+          "46865",
+          [
+            [
+              74,
+              "R",
+              "6E Architecture Building",
+              25,
+              [
+                "Strand, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          11,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "In-depth investigation of emerging issues and specific areas of research interest beyond what is covered in graduate courses of regular offering in the area of building performance. Students, as individuals or in groups, are expected to propose a research plan and methods for a specific topic of research interest in consultation with the instructor, and execute it under the guidance of the instructor through consultation on a regular basis.",
+      []
+    ],
+    "ARCH 596": [
+      "Special Problems in Health and Wellbeing",
+      {
+        "AAA": [
+          "76193",
+          [
+            [
+              74,
+              "T",
+              "Location Pending",
+              7,
+              [
+                "Ekici, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          11,
+          0,
+          [],
+          -1
+        ],
+        "CHI": [
+          "49688",
+          [
+            [
+              7,
+              "R",
+              "Location Pending",
+              7,
+              [
+                "Brackeen, A"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          11,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "In-depth investigation of emerging issues and specific areas of research interest by individuals or groups. Topics are those beyond what is covered in graduate courses regularly offered in the area of health and wellbeing, including theories and knowledge of specific buildings or projects in diverse global contexts; comparative studies; and theoretical, conceptual, and health-focused problems.",
+      []
+    ],
+    "ARCH 599": [
+      "Thesis Research",
+      {
+        "DFR": [
+          "54174",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Ruggles, D"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          14,
+          0,
+          [],
+          -1
+        ],
+        "JS": [
+          "47508",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Stallmeyer, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          14,
+          0,
+          [],
+          -1
+        ],
+        "KEH": [
+          "69918",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Holliday, K"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "LD": [
+          "12190",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Dearborn, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          14,
+          0,
+          [],
+          -1
+        ],
+        "MB": [
+          "12269",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Boubekri, M"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          14,
+          0,
+          [],
+          -1
+        ],
+        "RS": [
+          "12156",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Strand, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          14,
+          0,
+          [],
+          -1
+        ],
+        "WHE": [
+          "12229",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Sullivan, W"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          4,
+          0,
+          [],
+          -1
+        ],
+        "YKY": [
+          "73738",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Yi, Y"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          16,
+          14,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "For doctoral students in Architecture who have completed their required coursework and are working on their dissertations or who are completing their dissertation proposals prior to their preliminary examinations. Consists of focused writing of the dissertation or proposal as directed by Dissertation Advisor. Arranged sessions provide time devoted to meeting writing goals; discussion of the writing process; advisor feedback on students' writing, and guidance on how to make progress on the writing. Reserved for use by Ph.D. students in the writing phase of their dissertation work or in the semester leading to their preliminary examinations. In extraordinary cases it may be approved for use by M.S. students submitting a written thesis.",
       []
     ]
   },
