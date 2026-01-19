@@ -7,7 +7,6 @@ type ComparisonContainerShareBack = {
   friendId: string;
   friendName: string;
   friendEmail: string;
-  setModalEmail: React.Dispatch<React.SetStateAction<string>>;
   setModalOpen: React.Dispatch<React.SetStateAction<boolean>>;
 };
 
@@ -15,7 +14,6 @@ export default function ComparisonContainerShareBack({
   friendName,
   friendEmail,
   friendId,
-  setModalEmail,
   setModalOpen,
 }: ComparisonContainerShareBack): React.ReactElement | null {
   const [{ allFriends, allVersionNames }] = useContext(ScheduleContext);
@@ -57,8 +55,9 @@ export default function ComparisonContainerShareBack({
     <div className="shareback-panel">
       <div>
         <p>
-          You have <strong>{friendName}&apos;s schedule</strong>. Would you like
-          to share yours back?
+          You have <strong>{friendName}&apos;s schedule</strong>{' '}
+          <span className="shareback-email">({friendEmail})</span>. Would you
+          like to share yours back?
         </p>
       </div>
       <div>
@@ -77,7 +76,6 @@ export default function ComparisonContainerShareBack({
           className="shareback-button"
           onClick={(): void => {
             setHasSeen(true);
-            setModalEmail(friendEmail);
             setModalOpen(true);
           }}
         >

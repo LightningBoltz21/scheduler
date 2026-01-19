@@ -1,11 +1,4 @@
-import React, {
-  KeyboardEvent,
-  useCallback,
-  useContext,
-  useState,
-  useRef,
-  useMemo,
-} from 'react';
+import React, { useCallback, useContext, useState, useMemo } from 'react';
 import { Tooltip as ReactTooltip } from 'react-tooltip';
 import {
   faAngleDown,
@@ -15,15 +8,14 @@ import {
   faClose,
   faLink,
   faXmark,
-  faPaperPlane,
   faXmarkCircle,
   faCircleCheck,
 } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import axios, { AxiosError, AxiosResponse } from 'axios';
+import axios, { AxiosResponse } from 'axios';
 import copy from 'copy-to-clipboard';
 
-import { ApiErrorResponse, FriendShareData } from '../../data/types';
+import { FriendShareData } from '../../data/types';
 import { ScheduleContext } from '../../contexts';
 import { DESKTOP_BREAKPOINT, CLOUD_FUNCTION_BASE_URL } from '../../constants';
 import useScreenWidth from '../../hooks/useScreenWidth';
@@ -41,13 +33,7 @@ import './stylesheet.scss';
 /**
  * Inner content of the invitation modal.
  */
-export type InvitationModalContentProps = {
-  inputEmail?: string;
-};
-
-export function InvitationModalContent({
-  inputEmail,
-}: InvitationModalContentProps): React.ReactElement {
+export function InvitationModalContent(): React.ReactElement {
   const [removeInvitationOpen, setRemoveInvitationOpen] = useState(false);
   const [toRemoveInfo, setToRemoveInfo] = useState({
     version: { id: '', name: '' },
@@ -74,128 +60,14 @@ export function InvitationModalContent({
   const accountContext = useContext(AccountContext);
   const mobile = !useScreenWidth(DESKTOP_BREAKPOINT);
 
-  const input = useRef<HTMLInputElement>(null);
-  const [validMessage, setValidMessage] = useState('');
-  const [validClassName, setValidClassName] = useState('');
-  const [emailIcon, setEmailIcon] = useState('send');
   const [linkButtonClassName, setLinkButtonClassName] = useState('');
   const [linkLoading, setLinkLoading] = useState(false);
   const [checkedSchedules, setCheckedSchedules] = useState([currentVersion]);
-  // const [invitationLink, setInvitationLink] = useState('');
-  const [emailInput, setEmailInput] = useState(inputEmail ?? '');
 
   const redirectURL = useMemo(
     () => window.location.href.split('/#')[0] ?? '/',
     []
   );
-
-  const handleChangeSearch = useCallback(
-    (e: React.ChangeEvent<HTMLInputElement>) => {
-      setEmailInput(e.target.value);
-      setValidMessage('');
-      setValidClassName('');
-      setEmailIcon('send');
-    },
-    [setEmailInput]
-  );
-
-  const sendInvitation = useCallback(async (): Promise<void> => {
-    const IdToken = await (accountContext as SignedIn).getToken();
-    const data = JSON.stringify({
-      IDToken: IdToken,
-      term,
-      versions: checkedSchedules,
-      redirectURL,
-      friendEmail: input.current?.value,
-    });
-
-    return axios.post(
-      `${CLOUD_FUNCTION_BASE_URL}/createFriendInvitation`,
-      `data=${data}`,
-      {
-        headers: {
-          'Content-Type': 'application/x-www-form-urlencoded',
-        },
-      }
-    );
-  }, [accountContext, term, redirectURL, checkedSchedules]);
-
-  // verify email with a regex and send invitation if valid
-  const verifyEmail = useCallback((): void => {
-    if (!input.current?.value) {
-      return;
-    }
-
-    setEmailIcon('spinner');
-    if (!/^\S+@\S+\.\S+$/.test(input.current.value)) {
-      setValidMessage('Invalid email, please try again!');
-      setEmailIcon('send');
-      return setValidClassName('invalid-email');
-    }
-    const numNotAccepted = Object.entries(allFriends).reduce(
-      (acc, [versionId]) => {
-        if (!checkedSchedules.includes(versionId)) {
-          return acc;
-        }
-        const versionFriends = allFriends[versionId] as Record<
-          string,
-          FriendShareData
-        >;
-
-        // if friend accepted, don't increment numNotAccepted
-        return Object.keys(versionFriends ?? {}).some((f) => {
-          return (
-            versionFriends[f]?.email === input.current?.value &&
-            (versionFriends[f]?.status === 'Accepted' ||
-              versionFriends[f]?.status === 'Pending')
-          );
-        })
-          ? acc
-          : acc + 1;
-      },
-      0
-    );
-
-    if (numNotAccepted === 0) {
-      setValidMessage('User has already been invited to selected schedules.');
-      setEmailIcon('send');
-      return setValidClassName('invalid-email');
-    }
-
-    sendInvitation()
-      .then(() => {
-        if (input.current) {
-          input.current.value = '';
-        }
-        setValidMessage('Invite successfully sent!');
-        setValidClassName('valid-email');
-        setEmailInput('');
-        setEmailIcon('checkmark');
-      })
-      .catch((err) => {
-        setValidClassName('invalid-email');
-        setEmailIcon('send');
-        const error = err as AxiosError;
-        if (error.response) {
-          const apiError = error.response.data as ApiErrorResponse;
-          setValidMessage(apiError.message);
-          return;
-        }
-        setValidMessage('Error sending invitation. Please try again later.');
-        softError(
-          new ErrorWithFields({
-            message: 'send email invitation failed',
-            source: err,
-            fields: {
-              user: (accountContext as SignedIn).id,
-              friendEmail: input.current?.value,
-              term,
-              versionIds: checkedSchedules,
-            },
-          })
-        );
-      });
-  }, [accountContext, sendInvitation, allFriends, checkedSchedules, term]);
 
   const getInvitationLink = useCallback(async (): Promise<
     AxiosResponse<{ link: string }>
@@ -256,20 +128,6 @@ export function InvitationModalContent({
     checkedSchedules,
     selectedExpiration,
   ]);
-
-  const handleKeyDown = useCallback(
-    (e: KeyboardEvent<HTMLInputElement>) => {
-      switch (e.key) {
-        case 'Enter':
-          verifyEmail();
-          break;
-        default:
-          return;
-      }
-      e.preventDefault();
-    },
-    [verifyEmail]
-  );
 
   // delete invitation or remove schedules from already accepted invitation
   const handleDelete = useCallback(
@@ -581,7 +439,6 @@ export function RemoveInvitationModalContent({
 export type InvitationModalProps = {
   show: boolean;
   onHide: () => void;
-  inputEmail?: string;
 };
 
 /**
@@ -590,7 +447,6 @@ export type InvitationModalProps = {
 export default function InvitationModal({
   show,
   onHide,
-  inputEmail,
 }: InvitationModalProps): React.ReactElement {
   return (
     <Modal
@@ -603,7 +459,7 @@ export default function InvitationModal({
       <Button className="remove-close-button" onClick={onHide}>
         <FontAwesomeIcon icon={faXmark} size="xl" />
       </Button>
-      <InvitationModalContent inputEmail={inputEmail} />
+      <InvitationModalContent />
     </Modal>
   );
 }

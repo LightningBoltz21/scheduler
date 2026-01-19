@@ -1,4 +1,3 @@
-import axios from 'axios';
 import { decode } from 'html-entities';
 
 import { Oscar, Section } from '.';
@@ -12,17 +11,8 @@ import {
   hasConflictBetween,
   isLab,
   isLecture,
-  isAxiosNetworkError,
 } from '../../utils/misc';
 import { ErrorWithFields, softError } from '../../log';
-import { CLOUD_FUNCTION_BASE_URL } from '../../constants';
-
-// This is actually a transparent read-through cache
-// in front of the Course Critique API's course data endpoint,
-// but it should behave the same as the real API.
-// See the implementation at:
-// https://github.com/gt-scheduler/firebase-conf/blob/main/functions/src/course_critique_cache.ts
-const COURSE_CRITIQUE_API_URL = `${CLOUD_FUNCTION_BASE_URL}/getCourseDataFromCourseCritique`;
 
 const GPA_CACHE_LOCAL_STORAGE_KEY = 'course-gpa-cache-2';
 const GPA_CACHE_EXPIRATION_DURATION_DAYS = 7;
@@ -376,143 +366,4 @@ export default class Course {
     return gpaMap;
   }
 
-  private decodeCourseCritiqueResponse(
-    responseData: CourseDetailsAPIResponse
-  ): CourseGpa | null {
-    // Calculate the overall course GPA and instructor-specific GPAs
-    // from the response.
-    // The API response does not actually include these values;
-    // instead, it provides GPA information on a per-historical-section-basis,
-    // so we have to aggregate this here.
-    // As of 2021-11-06, this is also what Course Critique does
-    // to determine overall course GPA and instructor-specific GPAs,
-    // so there doesn't seem to be a better way
-    // (this method is likely inaccurate).
-
-    type IntermediateWeightedAverage = {
-      count: number;
-      sum: number;
-    };
-
-    try {
-      const overall: IntermediateWeightedAverage = { count: 0, sum: 0 };
-      const instructors: Map<string, IntermediateWeightedAverage> = new Map();
-
-      responseData.raw.forEach((historicalSectionData) => {
-        const {
-          class_size_group: classSizeGroup,
-          instructor_name: rawInstructorName,
-          GPA: gpa,
-        } = historicalSectionData;
-
-        if (typeof classSizeGroup !== 'string') return;
-        if (typeof rawInstructorName !== 'string') return;
-        if (typeof gpa !== 'number') return;
-
-        // Map the class size group to an estimate
-        // of the number of actual students.
-        // This is used as the weight when the average GPA for this section
-        // is added to the overall course GPA and instructor-specific GPAs,
-        // but it's just a best-estimate and makes the GPAs inaccurate.
-        // As of 2021-11-06, these are the same estimates
-        // that Course Critique uses in their app
-        // (used here since ideally GT Scheduler should report the same GPAs).
-        let classSizeEstimate: number;
-        switch (classSizeGroup.toLowerCase()) {
-          case 'very small (fewer than 10 students)':
-            classSizeEstimate = 5;
-            break;
-          case 'small (10-20 students)':
-            classSizeEstimate = 15;
-            break;
-          case 'mid-size (21-30 students)':
-            classSizeEstimate = 25;
-            break;
-          case 'large (31-49 students)':
-            classSizeEstimate = 40;
-            break;
-          case 'very large (50 students or more)':
-            classSizeEstimate = 50;
-            break;
-          default:
-            // Unknown class size group; skip this section
-            return;
-        }
-
-        // Normalize the instructor name from "LN, FN" to "FN LN"
-        let instructorName = decode(rawInstructorName);
-        const nameSegments = instructorName.split(', ');
-        if (nameSegments.length === 2) {
-          const [lastName, firstName] = nameSegments as [string, string];
-          instructorName = `${firstName} ${lastName}`;
-        }
-
-        // Add the section GPA to the overall GPA
-        overall.count += classSizeEstimate;
-        overall.sum += gpa * classSizeEstimate;
-
-        // Add the section GPA to the instructor GPA
-        const instructorGpa = instructors.get(instructorName) ?? {
-          count: 0,
-          sum: 0,
-        };
-        instructorGpa.count += classSizeEstimate;
-        instructorGpa.sum += gpa * classSizeEstimate;
-        instructors.set(instructorName, instructorGpa);
-      });
-
-      // Now, finally compute the actual weighted averages
-      // and assemble the `CourseGpa` type:
-      const gpaMap: CourseGpa = {};
-      if (overall.count > 0) {
-        gpaMap.averageGpa = overall.sum / overall.count;
-      }
-      instructors.forEach((instructorGpa, instructorName) => {
-        if (instructorGpa.count > 0) {
-          gpaMap[instructorName] = instructorGpa.sum / instructorGpa.count;
-        }
-      });
-      return gpaMap;
-    } catch (err) {
-      softError(
-        new ErrorWithFields({
-          message:
-            'error extracting course GPA from Course Critique API response',
-          source: err,
-          fields: {
-            id: this.id,
-          },
-        })
-      );
-      return null;
-    }
-  }
-}
-
-// Based on response for CS 6035 on 2021-11-06
-// from the Course Critique API.
-// Each field has `| unknown` added to ensure
-// that we narrow the type before using them.
-interface CourseDetailsAPIResponse {
-  header: [
-    {
-      course_name: string | null | unknown;
-      credits: number | null | unknown;
-      description: string | null | unknown;
-      full_name: string | null | unknown;
-    }
-  ];
-  raw: Array<{
-    instructor_gt_username: string | unknown;
-    instructor_name: string | unknown;
-    link: string | unknown;
-    class_size_group: string | unknown;
-    GPA: number | unknown;
-    A: number | unknown;
-    B: number | unknown;
-    C: number | unknown;
-    D: number | unknown;
-    F: number | unknown;
-    W: number | unknown;
-  }>;
 }

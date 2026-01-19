@@ -25,6 +25,7 @@ npm run build
 ## Output
 
 Generated JSON files are stored in the `data/` directory:
+examples below:
 - `202502.json` - Course data for Spring 2025
 - `index.json` - List of available terms
 
@@ -41,12 +42,3 @@ CSV Format:
 - **Title**: Building name (must match course location strings for proper mapping)
 - **Latitude/Longitude**: Geographic coordinates
 - **Address**: Full street address
-
-## Development
-
-Currently hardcoded to scrape:
-- Term: Fall 2025 (202508)
-- Subject: CS
-- Course: 100
-
-Future enhancements will add multi-course/multi-department support.

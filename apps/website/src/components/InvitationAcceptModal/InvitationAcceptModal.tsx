@@ -31,7 +31,6 @@ export default function InvitationAcceptModal({
     useState<boolean>(false);
   const [loginModalOpen, setLoginModalOpen] = useState<boolean>(false);
   const [friendID, setFriendID] = useState<string>();
-  const [email, setEmail] = useState<string>();
 
   const [searchParams] = useSearchParams();
 
@@ -112,12 +111,6 @@ export default function InvitationAcceptModal({
     }
   }, [searchParams, friends, setTerm]);
 
-  useEffect(() => {
-    if (searchParams.get('email') !== null && searchParams.get('email')) {
-      setEmail(searchParams.get('email') ?? '');
-    }
-  }, [searchParams]);
-
   const onHide = (): void => {
     setModalOpen(!modalOpen);
     navigate('/');
@@ -131,7 +124,6 @@ export default function InvitationAcceptModal({
         onHide={(): void => {
           setInvitationModalOpen(false);
         }}
-        inputEmail={email}
       />
 
       <LoginModal

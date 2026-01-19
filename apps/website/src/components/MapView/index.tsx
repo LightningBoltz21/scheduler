@@ -1,11 +1,9 @@
-import React, { useContext, useState } from 'react';
+import React, { useState } from 'react';
 import ReactMapGL, { Marker, NavigationControl, ViewState } from 'react-map-gl';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faMapPin } from '@fortawesome/free-solid-svg-icons';
 
 import { Location } from '../../types';
-import { ThemeContext } from '../../contexts';
-
 import 'mapbox-gl/dist/mapbox-gl.css';
 import './stylesheet.scss';
 

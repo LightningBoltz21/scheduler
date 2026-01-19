@@ -24,7 +24,7 @@ export default function Attribution(): React.ReactElement {
       )}
 
       <p>
-        Copyright © 2026 Anish Malepati and Aneesh Kalla · Based on original
+        Copyright © {year} Anish Malepati and Aneesh Kalla · Based on original
         work by Jinseo Park, Bits of Good, and the GT Scheduler contributors.
       </p>
       <p>&nbsp;</p>

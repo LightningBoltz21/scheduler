@@ -82,7 +82,6 @@ export default function ComparisonContainer({
   const [editValue, setEditValue] = useState('');
   const [paletteInfo, setPaletteInfo] = useState<string>();
   const [invitationModalOpen, setInvitationModalOpen] = useState(false);
-  const [invitationModalEmail, setInvitationModalEmail] = useState('');
 
   const [
     { allVersionNames, currentVersion, colorMap, term },
@@ -282,7 +281,6 @@ export default function ComparisonContainer({
         onHide={(): void => {
           setInvitationModalOpen(false);
         }}
-        inputEmail={invitationModalEmail}
       />
       <div className="comparison-body">
         <div className="comparison-content">
@@ -391,7 +389,6 @@ export default function ComparisonContainer({
                       editInfo={editInfo}
                       setEditInfo={setEditInfo}
                       editValue={editValue}
-                      setInvitationModalEmail={setInvitationModalEmail}
                       setInvitationModalOpen={setInvitationModalOpen}
                       handleNameEditOnBlur={handleNameEditOnBlur}
                     />
@@ -467,7 +464,6 @@ export default function ComparisonContainer({
                       friendId={friendId}
                       friendName={friend.name}
                       friendEmail={friend.email}
-                      setModalEmail={setInvitationModalEmail}
                       setModalOpen={setInvitationModalOpen}
                       key={shareBackRemount}
                     />
@@ -511,7 +507,6 @@ type ScheduleRowProps = {
   handleEditSchedule: () => void;
   handleRemoveSchedule: () => void;
   setInvitationModalOpen?: React.Dispatch<React.SetStateAction<boolean>>;
-  setInvitationModalEmail?: React.Dispatch<React.SetStateAction<string>>;
   hasPalette?: boolean;
   hasEdit?: boolean;
   hasDelete?: boolean;
@@ -555,7 +550,6 @@ function ScheduleRow({
   setEditInfo,
   editValue,
   setInvitationModalOpen,
-  setInvitationModalEmail,
   hoverFriendSchedule,
   unhoverFriendSchedule,
   handleNameEditOnBlur,
@@ -684,7 +678,6 @@ function ScheduleRow({
         {(divHover || edit) &&
           hasEdit &&
           setInvitationModalOpen !== undefined &&
-          setInvitationModalEmail !== undefined &&
           email && (
             <div
               onMouseEnter={(): void => setShowShareTooltip(true)}
@@ -694,7 +687,6 @@ function ScheduleRow({
               <Button
                 className="icon"
                 onClick={(): void => {
-                  setInvitationModalEmail(email);
                   setInvitationModalOpen(true);
                 }}
                 key={`${id}-share`}

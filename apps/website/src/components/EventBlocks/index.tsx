@@ -95,6 +95,7 @@ export default function EventBlocks({
   ): void => {
     if (!ref.current) return;
     if (!deviceHasHover) return;
+    e.preventDefault();
     // Save style of the block
     savedStyleRef.current = ref.current.style.cssText;
     savedClassListRef.current = ref.current.className;
@@ -121,7 +122,6 @@ export default function EventBlocks({
     const mouseMoveHandler = (e_: MouseEvent): void => handleMouseMove(e_, ref);
 
     const handleMouseUp = (
-      e_: MouseEvent,
       ref_: React.RefObject<HTMLDivElement>
     ): void => {
       if (!ref_.current) return;
@@ -156,7 +156,7 @@ export default function EventBlocks({
     };
 
     // eslint-disable-next-line
-    const documentMouseUp = (e_: any): void => handleMouseUp(e_, ref);
+    const documentMouseUp = (): void => handleMouseUp(ref);
 
     // Add event listeners to enable dragging
     document.addEventListener('mousemove', mouseMoveHandler);
