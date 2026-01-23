@@ -61,17 +61,8 @@ const DELIVERY_MODES: Record<string, string> = {
 };
 
 const CAMPUSES: Record<string, string> = {
-  'Georgia Tech-Atlanta *': 'Atlanta',
-  'GT Lorraine-Undergrad Programs': 'Lorraine Undergrad',
-  'GT Lorraine-Graduate Programs': 'Lorraine Graduate',
-  'Georgia Tech - Shenzhen': 'Shenzhen',
-  Video: 'Video',
+  'Main Campus': 'Main Campus',
   Online: 'Online',
-  'MBA Evening Program': 'MBA Evening',
-  'GT, Peking University, & Emory': 'Peking & Emory',
-  'Georgia Tech-Savannah': 'Savannah',
-  'Georgia Tech - Korea': 'Korea',
-  'Georgia Tech - Shanghai': 'Shanghai',
 };
 
 const COURSE_TABS = ['Courses', 'Recurring Events'];
@@ -83,7 +74,7 @@ const AZURE_FUNCTION_BASE_URL =
   process.env['REACT_APP_AZURE_FUNCTION_URL'] ||
   'https://uiuc-scheduler-functions.azurewebsites.net/api';
 
-const FIREBASE_PROJECT_ID = firebaseConfig.projectId || `gt-scheduler-web-dev`;
+const FIREBASE_PROJECT_ID = firebaseConfig.projectId || ``;
 const CLOUD_FUNCTION_BASE_URL = `https://us-east1-${FIREBASE_PROJECT_ID}.cloudfunctions.net`;
 
 // Use with served url in env file if you want to run with a local crawler

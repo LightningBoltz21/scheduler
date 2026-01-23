@@ -17,20 +17,16 @@ export default function Maintenance(): React.ReactElement {
             <p>
               We appreciate your continued support and patience. For any
               inquiries, please{' '}
-              <a href="mailto: contact@gt-scheduler.org">contact us</a>.
+              <a href="mailto: uiucschedulerapp@gmail.com">contact us</a>.
             </p>
             <p>
-              —The UIUC Scheduler Team{' '}
-              <a href="https://bitsofgood.org/">@Bits of Good</a>
+              —The UIUC Scheduler Team
               <br />
               <br />
             </p>
           </div>
           <img alt="UIUC Scheduler Logo" src="/mascot.png" />
         </div>
-        <a className="footer" href="https://bitsofgood.org/">
-          <img alt="Bits of Good Logo" src="/bitsOfGood.png" />
-        </a>
       </div>
     </div>
   );

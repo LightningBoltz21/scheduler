@@ -6,7 +6,7 @@ const firestoreClient = new firestore.v1.FirestoreAdminClient();
 // Add collection IDs here to include them in backups.
 // Leave empty to export all collections.
 const backedUpCollections = ["schedules"];
-const bucket = "gs://gt-scheduler-web-prod-firestore-backup";
+const bucket = "gs://uiuc-scheduler-d3c8c-firestore-backup";
 
 /**
  * This function backs up all of the user data collections in Firestore,

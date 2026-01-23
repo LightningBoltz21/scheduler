@@ -33,12 +33,12 @@ export function MaintenanceModalContent(): React.ReactElement {
         </span>
         , to ensure our services are compatible with the new registration option
         of BuzzPort - Course Explorer. During this period, all services on
-        gt-scheduler.org will be unavailable.
+        uiucscheduler.org will be unavailable.
       </p>
       <p className="migration-content">
         We appreciate your continued support for UIUC Scheduler. <br />
         For any inquiries, please&nbsp;
-        <a href="mailto: contact@gt-scheduler.org">contact us</a>.
+        <a href="mailto: uiucschedulerapp@gmail.com">contact us</a>.
       </p>
     </>
   );

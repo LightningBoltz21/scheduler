@@ -30,7 +30,7 @@ export function DataNotPersistentNotification({
       <WarningHeader />
       <p>
         Your browser doesn&apos;t support storing data using local storage,
-        which gt-scheduler relies on to persist schedule data between sessions.
+        which UIUC Scheduler relies on to persist schedule data between sessions.
       </p>
       <p>Reasons this might be the case:</p>
       <ul>
@@ -43,7 +43,7 @@ export function DataNotPersistentNotification({
       </ul>
       <p>
         <strong>
-          Would you like to continue using gt-scheduler? Your schedules will not
+          Would you like to continue using UIUC Scheduler? Your schedules will not
           be saved once you close this tab.
         </strong>
       </p>

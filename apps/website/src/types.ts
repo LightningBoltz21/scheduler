@@ -101,7 +101,7 @@ export interface CourseGpa {
 }
 
 // Meeting type (imported as `CrawlerMeeting`):
-// Copied from https://github.com/gt-scheduler/crawler/blob/master/src/types.ts
+// Copied from https://github.com/lightningboltz21/uiuc-scheduler/blob/main/apps/crawler-v3/src/types.ts
 
 export type CrawlerMeeting = [
   /**
@@ -152,7 +152,7 @@ export type CrawlerMeeting = [
 ];
 
 // Section type (imported as `CrawlerSection`):
-// Copied from https://github.com/gt-scheduler/crawler/blob/master/src/types.ts
+// Copied from https://github.com/lightningboltz21/uiuc-scheduler/blob/main/apps/crawler-v3/src/types.ts
 
 /**
  * Contains  information about the course's section
@@ -195,7 +195,7 @@ export type CrawlerSection = [
 ];
 
 // Prerequisite types:
-// Copied from https://github.com/gt-scheduler/crawler/blob/master/src/types.ts
+// Copied from https://github.com/lightningboltz21/uiuc-scheduler/blob/main/apps/crawler-v3/src/types.ts
 
 export type MinimumGrade = 'A' | 'B' | 'C' | 'D' | 'T';
 export type PrerequisiteCourse = { id: string; grade?: MinimumGrade };
@@ -226,7 +226,7 @@ export type PrerequisiteSet = [
 export type CrawlerPrerequisites = PrerequisiteSet | [];
 
 // Caches type (imported as `CrawlerCaches`):
-// Copied from https://github.com/gt-scheduler/crawler/blob/master/src/types.ts
+// Copied from https://github.com/lightningboltz21/uiuc-scheduler/blob/main/apps/crawler-v3/src/types.ts
 
 /**
  * Contains data shared by multiple class descriptions
@@ -286,7 +286,7 @@ export interface CrawlerCaches {
 }
 
 // Course type (imported as `CrawlerCourse`):
-// Copied from https://github.com/gt-scheduler/crawler/blob/master/src/types.ts
+// Copied from https://github.com/lightningboltz21/uiuc-scheduler/blob/main/apps/crawler-v3/src/types.ts
 
 /**
  * Contains information about a single class
@@ -328,7 +328,7 @@ export type CrawlerCourse = [
 ];
 
 // TermData type (imported as `CrawlerTermData`):
-// Copied from https://github.com/gt-scheduler/crawler/blob/master/src/types.ts
+// Copied from https://github.com/lightningboltz21/uiuc-scheduler/blob/main/apps/crawler-v3/src/types.ts
 
 /**
  * Primary JSON object returned by the API.

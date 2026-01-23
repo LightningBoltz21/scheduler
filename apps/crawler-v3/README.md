@@ -31,7 +31,7 @@ examples below:
 
 ## Data Format
 
-The output follows the GT Scheduler crawler format with tuple-based structures and shared caches to minimize JSON size.
+The output follows the UIUC Scheduler crawler format with tuple-based structures and shared caches to minimize JSON size.
 
 ### Building Coordinates Data
 

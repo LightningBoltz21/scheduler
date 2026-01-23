@@ -1,8 +1,8 @@
 {
-  "name": "gt-scheduler",
+  "name": "uiuc-scheduler",
   "version": "0.2.0",
   "private": true,
-  "homepage": "https://gt-scheduler.org/",
+  "homepage": "https://uiucscheduler.org/",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.2.1",
     "@fortawesome/free-brands-svg-icons": "^6.2.1",
@@ -44,7 +44,6 @@
     "uuid": "^9.0.0"
   },
   "devDependencies": {
-    "@bitwarden/cli": "^2022.8.0",
     "@testing-library/react": "^13.4.0",
     "@types/cheerio": "^0.22.30",
     "@types/dom-to-image": "^2.6.2",
@@ -83,11 +82,7 @@
     "lint": "eslint \"**/*.{js,jsx,ts,tsx}\"",
     "lint:fix": "eslint \"**/*.{js,jsx,ts,tsx}\" --fix",
     "format": "prettier \"**/*.{js,jsx,ts,tsx,json}\" --write",
-    "format:check": "prettier \"**/*.{js,jsx,ts,tsx,json}\" -l",
-    "secrets:linux": "echo Enter Bitwarden Password: && read BW_PASSWORD && (bw logout || exit 0) && export BW_SESSION=`bw login product@bitsofgood.org $BW_PASSWORD --raw` && npm run secrets:get",
-    "secrets:windows": "set /p BW_PASSWORD=Enter Bitwarden Password:&& (bw logout || VER>NUL) && npm run secrets:login",
-    "secrets:login": "FOR /F %a IN ('bw login product@bitsofgood.org %BW_PASSWORD% --raw') DO SET BW_SESSION=%a && npm run secrets:get",
-    "secrets:get": "bw sync && bw get item gt-scheduler/website/.env.development.local | fx .notes > \".env\""
+    "format:check": "prettier \"**/*.{js,jsx,ts,tsx,json}\" -l"
   },
   "eslintConfig": {
     "extends": "react-app"

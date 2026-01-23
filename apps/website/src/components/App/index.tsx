@@ -33,7 +33,7 @@ export default function App(): React.ReactElement {
         <TooltipProvider>
           {/* To bring the website down for maintenance purposes, 
             insert <Maintenance /> here and disable everything below.
-            See https://github.com/gt-scheduler/website/pull/194 for reference. */}
+            See https://github.com/64json/gt-scheduler/pull/194 for reference. */}
           <ErrorBoundary
             fallback={(error, errorInfo): React.ReactElement => (
               <AppSkeleton>

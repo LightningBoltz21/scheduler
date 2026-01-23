@@ -5,7 +5,7 @@ import ExpandableCard from '../ExpandableCard';
 import './stylesheet.scss';
 
 export const GITHUB_ISSUE_URL =
-  'https://github.com/gt-scheduler/website/issues/new?assignees=&labels=bug&template=bug-report----.md&title=';
+  'https://github.com/lightningboltz21/uiuc-scheduler/issues/new?assignees=&labels=bug&template=bug-report----.md&title=';
 
 export type ErrorDisplayProps = {
   errorDetails: React.ReactNode;
@@ -27,7 +27,7 @@ export default function ErrorDisplay({
       <div>
         If the issue keeps happening, please consider filing{' '}
         <a href={GITHUB_ISSUE_URL} target="_blank" rel="noreferrer noopener">
-          a new issue on the gt-scheduler GitHub
+          a new issue on the UIUC Scheduler GitHub
         </a>
         , and include the information below under &ldquo;Error Details&rdquo; in
         addition to what you were doing when the error occurred.

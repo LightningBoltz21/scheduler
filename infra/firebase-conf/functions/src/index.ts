@@ -1,4 +1,3 @@
-export { getCourseDataFromCourseCritique } from "./course_critique_cache";
 export { backupFirestore } from "./backup_firestore";
 export { createFriendInvitation } from "./create_friend_invitation";
 export { createFriendInvitationLink } from "./create_friend_invitation_link";

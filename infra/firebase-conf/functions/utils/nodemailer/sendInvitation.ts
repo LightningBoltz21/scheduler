@@ -35,7 +35,7 @@ export default async function sendInvitation({
   const semester = termToString(term);
   const subject = "Friend Schedule Invite";
   const text = `
-  You have been invited to a GT schedule by ${senderEmail}
+  You have been invited to a UIUC Scheduler schedule by ${senderEmail}
   \tSemester: ${semester}
   \tVersion: ${versionNames.join(", ")}
   Accept the invite: ${inviteUrl}
@@ -54,7 +54,7 @@ export default async function sendInvitation({
         padding-top: 10px;
       "
     >
-      GT Scheduler
+      UIUC Scheduler
     </div>
     <div class="body-text" style="background-color: #222222; padding: 20px">
       <h1 style="color: white; font-size: 24px">Invitation to View Schedule</h1>
@@ -94,29 +94,12 @@ export default async function sendInvitation({
       <p style="color: white">
         For any inquiries, please contact us at
         <a
-          href="mailto:contact@gt-scheduler.org"
+          href="mailto:uiucschedulerapp@gmail.com"
           style="color: #fe5b53; text-decoration: none"
-          >contact@gt-scheduler.org</a
+          >uiucschedulerapp@gmail.com</a
         >
       </p>
-      <p style="color: white">The GT Scheduler Team @<b>Bits of Good</b></p>
-      <div
-        style="
-          display: flex;
-          flex-direction: row;
-          justify-content: center;
-          align-items: center;
-          color: white;
-          font-size: 24px;
-        "
-      >
-        <img
-          src="https://firebasestorage.googleapis.com/v0/b/gt-scheduler-web-prod.appspot.com/o/bogLogo.png?alt=media&token=cda9f3c3-8c90-460c-8a6a-36d02f542066"
-          alt="Bog Logo"
-          style="width: 28px; height: 30px"
-        />
-        <p>bits of good</p>
-      </div>
+      <p style="color: white">The UIUC Scheduler Team</p>
     </div>
   </div>
 
