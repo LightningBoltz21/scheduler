@@ -1,7 +1,7 @@
 {
   "subject": "MUSC",
-  "scrapedAt": 1769393288516,
-  "courseCount": 111,
+  "scrapedAt": 1769393313941,
+  "courseCount": 123,
   "courses": {
     "MUSC 110": [
       "Violin",
@@ -12309,6 +12309,518 @@
       [],
       "Study at the graduate level in saxophone; selected studies from the masterworks in saxophone literature. Graduate standing in music, or successful completion of a qualifying audition for the appropriate applied music faculty.",
       []
+    ],
+    "MUSC 535": [
+      "Graduate Jazz Piano",
+      {
+        "A": [
+          "73018",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Gray, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          18,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "73634",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Hickey, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          18,
+          0,
+          [],
+          -1
+        ],
+        "C": [
+          "76270",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Coleman, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          20,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Instruction at the graduate level in jazz piano normally associated with the jazz idiom.",
+      []
+    ],
+    "MUSC 536": [
+      "Graduate Jazz Bass",
+      {
+        "A": [
+          "73019",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Gray, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          18,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Instruction at the graduate level in jazz bass normally associated with the jazz idiom.",
+      []
+    ],
+    "MUSC 529": [
+      "Graduate Level Tuba",
+      {
+        "A": [
+          "72995",
+          [
+            [
+              110,
+              "M",
+              "1030 Music Building",
+              37,
+              [
+                "Tegge, S"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              8,
+              "M",
+              "ONLINE",
+              7,
+              [
+                "Tegge, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Study at the graduate level in tuba; selected studies from the masterworks in tuba literature. Graduate standing in music, or successful completion of a qualifying audition for the appropriate applied music faculty.",
+      []
+    ],
+    "MUSC 528": [
+      "Graduate Level Euphonium",
+      {
+        "A": [
+          "72993",
+          [
+            [
+              110,
+              "M",
+              "1030 Music Building",
+              37,
+              [
+                "Tegge, S"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              8,
+              "M",
+              "ONLINE",
+              7,
+              [
+                "Tegge, S"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Study at the graduate level in euphonium; selected studies from the masterworks in euphonium literature. Graduate standing in music, or successful completion of a qualifying audition for the appropriate applied music faculty.",
+      []
+    ],
+    "MUSC 537": [
+      "Graduate Jazz Guitar",
+      {
+        "A": [
+          "73020",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Gray, L"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          18,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Instruction at the graduate level in jazz guitar normally associated with the jazz idiom.",
+      []
+    ],
+    "MUSC 534": [
+      "Graduate Jazz Trombone",
+      {
+        "A": [
+          "73017",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Pugh, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          18,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Instruction at the graduate level in jazz trombone normally associated with the jazz idiom.",
+      []
+    ],
+    "MUSC 531": [
+      "Graduate Jazz Voice",
+      {
+        "A": [
+          "72999",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Coleman, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          18,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Instruction at the graduate level in jazz voice normally associated with the jazz idiom.",
+      []
+    ],
+    "MUSC 530": [
+      "Graduate Level Percussion",
+      {
+        "A": [
+          "72997",
+          [
+            [
+              2,
+              "TR",
+              "6 Smith Memorial Hall",
+              7,
+              [
+                "Flores, R",
+                "Graham, J"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              8,
+              "TR",
+              "ONLINE",
+              7,
+              [
+                "Flores, R",
+                "Graham, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          1,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "72998",
+          [
+            [
+              2,
+              "TR",
+              "6 Smith Memorial Hall",
+              7,
+              [
+                "Flores, R",
+                "Graham, J"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              8,
+              "TR",
+              "ONLINE",
+              7,
+              [
+                "Flores, R",
+                "Graham, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Study at the graduate level in percussion; selected studies from the masterworks in percussion literature. Graduate standing in music, or successful completion of a qualifying audition for the appropriate applied music faculty.",
+      []
+    ],
+    "MUSC 526": [
+      "Graduate Level Horn",
+      {
+        "A": [
+          "72988",
+          [
+            [
+              11,
+              "R",
+              "1030 Music Building",
+              37,
+              [
+                "Scully, B"
+              ],
+              -1,
+              -1,
+              -1
+            ],
+            [
+              8,
+              "R",
+              "ONLINE",
+              7,
+              [
+                "Scully, B"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          5,
+          1,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Study at the graduate level in horn; selected studies from the masterworks in horn literature. Graduate standing in music, or successful completion of a qualifying audition for the appropriate applied music faculty.",
+      []
+    ],
+    "MUSC 532": [
+      "Graduate Jazz Saxophone",
+      {
+        "A": [
+          "73000",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              7,
+              [
+                "McNeill, C"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          18,
+          0,
+          [],
+          -1
+        ],
+        "B": [
+          "73001",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Bridgewater, R"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          18,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Instruction at the graduate level in jazz saxophone normally associated with the jazz idiom.",
+      []
+    ],
+    "MUSC 538": [
+      "Graduate Jazz Percussion",
+      {
+        "A": [
+          "73021",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Spencer, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          18,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Instruction at the graduate level in jazz percussion normally associated with the jazz idiom.",
+      []
+    ],
+    "MUSC 541": [
+      "Graduate Jazz Brass",
+      {
+        "A": [
+          "77546",
+          [
+            [
+              8,
+              "",
+              "ONLINE",
+              7,
+              [
+                "Pugh, J"
+              ],
+              -1,
+              -1,
+              -1
+            ]
+          ],
+          4,
+          18,
+          0,
+          [],
+          -1
+        ]
+      },
+      [],
+      "Instruction at the graduate level in jazz brass instruments normally associated with the jazz idiom.",
+      []
     ]
   },
   "caches": {
@@ -12595,7 +13107,8 @@
       "Studio",
       "Online Lab",
       "Practice",
-      "Quiz"
+      "Quiz",
+      "Packaged Section"
     ],
     "campuses": [],
     "attributes": [],
